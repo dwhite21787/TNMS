@@ -1,0 +1,8 @@
+
+grep -aH 'From:' * > ../FROM-LIST
+grep -aH 'Subject:' * > ../SUBJECT-LIST
+
+cat SUBJECT-LIST | perl build-subj-index.pl > sub-test.html
+cat FROM-LIST | perl build-from-index.pl > auth-test.html
+
+
