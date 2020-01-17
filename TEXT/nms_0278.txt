@@ -1,0 +1,711 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 07/03/91 - The National Midnight Star #278
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 278
+
+                  Wednesday, 3 July 1991
+Today's Topics:
+                        CD tracks
+               stone bones and brown-stones
+                 Rush bootleg CD for sale
+                         Bye Bye.
+                Songs on E...SL different?
+            You know your a Rush fan when....
+                          (none)
+                     The Fountainhead
+              You know you are a RUSH fan...
+                Japanese P/G & Laser Show
+                          Primus
+                          primus
+                      Anthem Records
+                         later...
+                        Julian Lee
+                          albums
+       Fountainhead, Radio song, Geddmeister's 38th
+              Alex Lifeson:  Sense of Humor
+                    Rush Concert video
+         Pgh Party; TNMS question; Creem; Presto
+            "The Big Money" -- On Network TV!
+----------------------------------------------------------
+
+QUICK ADMINISTRIVIA:  For some reason, this didn't go out last night.
+I'm sending it out a bit late; hopefully better late than never.  There
+should be two other NMS's today; the regular Wednesday issue, and also
+a special edition (FAQL pt. 2).  Enjoy!
+
+rush-mgr
+
+----------------------------------------------------------
+
+Subject: CD tracks
+Date: Fri, 28 Jun 91 15:23:15 PDT
+From: Dan Dickerman GSY 1-447-4425 &lt;dickermn@hpcugsya.cup.hp.com&gt;
+
+&gt;                         ...   (I don't know about the rest of you, but my
+&gt; copy of Presto that I bought in late fall 1989 is slightly weird - when I
+&gt; program the tracks in a different order, the last half-second of the previous
+&gt; song will play before the next song.)
+
+Although my Presto CD doesn't have this problem now, I did notice that some
+of the tracks begin _exactly_ at the 0:00 tick of the track clock -- a problem
+that used to cause behavior similar to that which you're seeing.  In my case,
+the CD player itself wouldn't stop playing a track until the next track
+ticked to the 0:00 mark, so if the next track started immediately, it would
+play for half a second before moving to the next programed track.
+
+For the technically curious, I've got a Sony MDP-510, and the problem was
+fixed (after SEVERAL fruitless trips -- don't EVER buy a Sony video disc
+player unless you never plan to have any service) by replacing one of the
+controller chips (firmware?) -- although the 'techs' kept referring to it
+as a 'microprocessor.'
+
+The point is, it may not be the disc...
+--Dan
+
+----------------------------------------------------------
+
+Date: Fri, 28 Jun 91 19:41:07 EDT
+From: jaeger@buphy.bu.edu (Gregg Jaeger)
+Subject: stone bones and brown-stones
+
+After a few more listens to that great new VH album, I noticed another
+hint of Rush, though only perhaps a minor lyrical one. The lyrics to
+``Right Now'' seem quite similar to (to be a bastardization of?) those
+of ``Marathon,'' though the `message' of the two songs is different.
+I'm not too thrilled about ``Right Now'' relative to the other songs
+(``Judgement Day'' is my fave!) on _F.U.C. Knowledge_, though it is
+strangely reminiscent (to me anyway) of Saga (bass/guitar groove) and
+Kansas (keys!). Also Sammy Hagar seems to like to make a few classic
+rock allusions on other tunes: the James Brown `ow!' and the Rolling
+Stones ``I like it,'' the first at the very beginning of ``Round and
+Round'' and the second at the very end. What d'y'all think?
+
+Gregg
+
+-----------------------------------
+Gregg Jaeger    (jaeger@buphy.bu.edu)  ``Truth is after all a moving target''
+Dept(s). of Physics (and Philosophy)
+Boston University, Boston MA 02215     -&gt;&gt;READ DOS PASSOS!(his books, i.e.)&lt;&lt;-
+------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Subject: Rush bootleg CD for sale
+Date: Fri, 28 Jun 91 19:31:58 EDT
+From: Horst &lt;hrgovin@ATHENA.MIT.EDU&gt;
+
+Hi,
+
+Due to the amount of interest in this Rush bootleg CD, I am going to sell it to
+whomever makes the best offer.  The disc is a French release on X Rekords,
+recorded live in stereo at the Montreal Forum, May 1981.  It is 52:30 minutes
+long, it is in brand new condition, and the song list is as follows:
+
+     Limelight
+     Tom Sawyer
+     The Trees
+     Xanadu
+     Red Barchetta
+     Freewill
+     Closer To The Heart
+     By-Tor And The Snow Dog
+     In The End/In The Mood
+
+There are some voice-overs, notably in the first few measures of "Tom Sawyer."
+I'm not sure whom the voice belongs to.  I am selling it because I rarely
+listen to Rush anymore.  So far, I have had an offer of $45.
+
+If you are interested, please reply to me with your offer.
+
+Horst Govin
+ hrgovin@athena.mit.edu
+  Cambridge, MA
+
+----------------------------------------------------------
+
+From: Phil Kime &lt;pyubg@cu.warwick.ac.uk&gt;
+Subject: Bye Bye.
+Date: Thu, 27 Jun 91 1:12:52 BST
+
+Please unsubscribe me. This digest has always been a little too religeous
+anyway but whoever wrote the Ferrari crap in the FAQ wants killing. I know for
+a fact that there are many readers who gag when we get all these purile and
+unecessary 'lyrical interpretation' pieces and only stay because occasionally
+there are interesting and useful bits of information that aren't just teenage
+hero worship. I really like Rush, probably more than most people who read the
+digest. However, they are not gods, Neil is not the last word on the problems
+of the world etc. I get the feeling that this digest is doing a great job
+of trying to put artificial meat on the bones of an interesting but limited
+concept. Sure, why not give out scarce info on release dates, tour dates,
+concert tracks listings etc. but all this 'well I think The Trees means this'
+rubbish is gratuitous and very often infuriating (not just to me ---I know of
+a considerable number of subscribers who only stay for the useful stuff). Just
+keep all that crap to mail. Nobody really wants to hear a neo-romantic
+interpretation of 2112 etc.
+Please ignore all of this as it won't get allowed in the NMS anyway due to the
+vast numbers of people who would flood me with sub-juvenile replies.
+Unsubscribe me anyway.
+
+[ First of all, please learn to use the correct address; all necessery
+  addresses are posted at the end of EVERY digest.  Removal notices to
+  this address are ignored.  Secondly, this forum exists for just such 
+  things as you complain about above.  Among the reasons we're here is
+  to promote "album & concert reviews, song 'dissection', tour speculation,
+  and general discussions."  If you don't like the content of a person's
+  post, skip past it.                                            :rush-mgr ]
+
+WHO CARES WHAT THE LITTLE FIGURES ARE ON GEDDY'S KEYBOARDS FOR GODSSAKE.
+--
+=====================================*======================================
+|                   Phil Kime (pyubg@cu.warwick.ac.uk)                     |
+|             Dept. of Philosophy, University of Warwick, U.K.             |
+=====================================*======================================
+
+----------------------------------------------------------
+
+From: "Reidar Bjorhovde " &lt;bjorh1@unix.cis.pitt.edu&gt;
+Subject: Songs on E...SL different?
+Date: Sat, 29 Jun 91 8:09:11 EDT
+
+Marshall Robin posted in TNMS # 276 (?) for Friday 28.06.91 said that he
+bought _Chronicles_ because he wanted live versions of "A Passage to
+Bangkok" and "What You're Doing"
+
+	My copy of _Exit...Stage Left_  (Cassette) has "A Passage to
+Bangkok" on it-
+
+	Does the CD of ESL not have this song on it?
+
+&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;
+
+			Ian D. Bjorhovde
+			University of Pittsburgh
+			bjorh1@unix.cis.pitt.edu
+
+----------------------------------------------------------
+
+From: Patrick Quairoli &lt;quairoli@cs.widener.edu&gt;
+Subject: You know your a Rush fan when....
+Date: Sat, 29 Jun 91 9:03:18 EDT
+
+you know your a Rush fan when after you've had sex with your
+	girlfriend for the first time you quote
+	"we can move with savage motion to the rhythms of the night"
+	Force 10!
+
+[my sincere apologies to anyone offended but she got a kick out of it too!]
+______________________________________________________________________________
+quairoli@cs.widener.edu		|"If you ask me how do I feel inside;
+widener!quairoli		| I could honestly tell you.
+patrick j. quairoli		| We've been taken on a very long ride"
+
+----------------------------------------------------------
+
+Date:       Sat, 29 Jun 91 14:33:26 BST
+From: CP_PWM%CMS.BRISTOL.AC.UK@CUNYVM.CUNY.EDU
+
+Hi,
+
+   In a recent NMS, Gregg Jager asked whether the 3 red balls off HYF
+   were related to 'The Fountainhead' by Ayn Rand in any way. I read the
+   book a year ago, and there are numerous ideas & concepts in it that I
+   believe Peart has used in his lyrics over the years.I've lent my copy
+   of TF to a friend, so I can't quote exactly, but there is a section
+   where one of the characters states that the symbol for Mankind should be
+   the 3 balls of a pawnbroker - the idea being that Mankind has pawned its
+   integrity to the highest bidder, and is satifying its short-term,
+   primitive needs, rather than investing for the future & doing what is
+   right & proper.
+
+   There are other quotes in the book, which refer to Mankind's spirit of
+   adventure and curiosity. Ayn Rand calls the force which motivates these
+   impulses a 'Prime Mover'.
+
+   Another Ayn Rand book, 'Atlas Shrugged' also has a few possible
+   Rush influences. In this book, the whole world economy slowly collapses
+   as Collectivism gets a deeper & deeper grip on governments. The leading
+   character, Dagny Taggart, is the female controller of a railroad company.
+   Throughout the collapse, she is one of the only people who doesn't
+   despair, and continues to soldier-on regardless of the many difficulties
+   she faces. Compare that description to the cover of Permanent Waves.
+
+   Again in Atlas Shrugged, there's a section where one of the characters
+   describes man's eternal desire for progress and adventure. The analogy
+   given was that of a man searching for years through endless foreign
+   lands, to try & find the secret of eternal life. He eventually finds it
+   in the lost world of Atlantis, but instead of being happy, he is in
+   total despair, since he has completed his life's mission, and no longer
+   has a goal in life. Ayn Rand is making a point that we should never
+   be satisfied with what we have, and should always strive for progress.
+   Compare that to 'Xanadu' and 'The Fountain of Lamneth'.
+
+   And of course, there's always the book 'Anthem' which inspired the
+   song of the same name and 2112.
+
+   There are numerous other references, some of which are tenuous, some
+   blatant, in Ayn Rand's books. When I get The Fountainhead back from my
+   friends I'll mail the quotes directly.
+
+     "swimming against the stream"
+
+        Paul May, Bristol University, UK
+
+----------------------------------------------------------
+
+Date: Sat, 29 Jun 91 14:04:59 -0400 (EDT)
+From: "Philip M. Simon" &lt;ps3q+@andrew.cmu.edu&gt;
+Subject: The Fountainhead
+
+&lt;&lt;I'm really interested in knowing if there is anything in
+_The Fountainhead_ which mentions balls specifically. I understand
+that Objectivism is fundamentally individualistic and that the balls
+are _individual balls_ but is that really grounds for saying that the
+balls were inspired by _The Fountainhead_ or Ayn Rand in any direct
+way?&lt;&lt;
+
+This posting is in answer to Gregg Jaeger's dismissal of the correlation
+between the three balls on the HYF cover and Ayn Rand's The
+Fountainhead.  Anyone who has both read the book listens to Rush can not
+ignore the direct allusion to the three distinct spherical objects as a
+metaphor for individuality, independence, and egoism.  I seem to recall
+it being mentioned on about page 300.
+
+Gregg claims that the three balls signify the three members of Rush, and
+that is an ostensibly plausible theory.  However, after reading The
+Fountainhead, that theory was quickly dismissed in my mind.
+
+Phil
+
+"A rush is a good vibe."
+                    Geddy Lee
+
+----------------------------------------------------------
+
+From: atz@clmqt.marquette.MI.US (dweezilbub)
+Subject: You know you are a RUSH fan...
+Date: 29 Jun 91 21:13:11 EDT (Sat)
+
+Hello everyone!  Has anyone been compiling all the "you know you
+are a RUSH fan when" quotes from everyone?
+
+I regret I didn't start doing this earlier...  I didn't realize it
+would have such a great response over such a long period of time.
+
+If you have, could you send me mail with what you might already
+have?  Chanx!  oh and...  VOOBA!
+
+atz@clmqt.marquette.mi.us   -or-   ged@lopez.UUCP
+
+--
+      \_._____._____._____.    ====  ====  ===== .____._____.___.___/
+  \__The Enterprise BBS      ==  ==  ==   ,===~   This space for rent!__/
+       __-__________-__     ==~~==  ==   =====    ____-_____-___-__
+         \          \  \atz@clmqt.marquette.mi.us/    /     /   /
+
+----------------------------------------------------------
+
+Date: Sun, 30 Jun 91 00:56:43 -0400
+From: ah174@cleveland.Freenet.Edu (Greg Johns)
+Subject: Japanese P/G & Laser Show
+
+2 items of interest......
+
+1) I recently found a used Japanese version of P/G
+   ( 1/2 Japanese, 1/2 English printing) for 15$
+
+2) Saw 2 Rush tunes in the Paramount Laser Show, Temples of Syrinx and
+   Tom Sawyer if I remember right.
+
+You might want to check this out if it's in your area. Pretty interesting
+f/x for the 2 songs, especially TS.
+
+--
+ _Eagle_ / Greg Johns \ ah174@Cleveland.Freenet.Edu / ad322@yfn.ysu.edu
+     GJohns@Heartland.Bradley.Edu / eagle@NCoast.Org \ ac840 on MFN
+             _For_a_good_time_telnet_to_129.22.8.82(75,76)_
+
+----------------------------------------------------------
+
+From: chip%thumper.pcc.com@griffin.UVM.EDU (Chip Hart)
+Subject: Primus
+Date: Mon, 1 Jul 91 12:13:43 EDT
+
+&gt;   It reminded me
+&gt;   of a record I heard recently by a band called 'Primus'. It was
+&gt;   called "Suck on This". The record was recorded live and is an ok
+&gt;   record. Not like Rush at all though. Except the first song on the
+&gt;   record starts with the bass solo (sortof) of either Xanadu or Cygnus
+&gt;   X-1 (can't remember).
+	To clarify, they opened the album with the first dozen bars or
+	so of YYZ.  They ARE a three-piece and musically DO have a lot
+	in common with Rush.  In the drum solo from the same album,
+	"Herb" (the Ginseng drummer...), grabs a lot from Neil's solo.
+
+	And, now that I think about it, their song, "Frizzle Fry," is
+	VERY similar to By-Tor and the Snow Dog.  If you're rich and
+	can afford to buy disks from bands you've never heard, go try
+	Primus.  Les Claypool (the bassman) rocks.
+
+	Ok, pardon the non-Rushness.
+--
+         Chip Hart ------------------------- chip@pcc.com
+                   |-|-|-|-|-|-|-|-|-|-|-|-| People's Computer Co.
+                   ------------------------- Williston, Vermont
+         	So messed up, I need you here... - Iggy
+      There's no right or wrong, only pleasure and pain... - Jane's
+
+----------------------------------------------------------
+
+Date: Mon, 1 Jul 1991 11:38 MST
+From: Roo-Dog Rip &lt;D_DURRETT%KAOS@VAXF.Colorado.EDU&gt;
+Subject: primus
+
+Scott Storey points out that:
+
+ It reminded me of a record I heard recently by a band called 'Primus'. It was
+ called "Suck on This". The record was recorded live and is an ok record. Not
+ like Rush at all though. Except the first song on the record starts with the
+ bass solo (sortof) of either Xanadu or Cygnus X-1 (can't remember).
+ Wonderful!! Anybody here (probably everybody) that likes Ged's style, you
+ gotta hear this guy from Primus. Excellent.
+
+I have heard the Primus song in question. The parts being played are clearly
+from _YYZ_. IMHO the primus version is a little too raw, but then that is
+Primus's style.
+
+Roo-Dog Rip
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+\Roo-Dog Rip is:                  &lt;&gt; "O! What a rogue and peasant slave am I!"/
+\Derrell Durrett                  &lt;&gt;                 --- _Hamlet_ II. ii, 584 /
+\D_DURRETT@COLOPHYS.BITNET        &lt;&gt;                                          /
+\D_DURRETT%KAOS@VAXF.COLORADO.EDU &lt;&gt;   High Energy Physics: The New Religion! /
+\Voice:(303)492-8713              &lt;&gt;                Get Some Today!           /
+\Fax:(303)492-5119|Msg:492-1228   &lt;&gt;                                          /
+\-----------------------------------------------------------------------------/
+\ High Energy Physics Group | University of Colorado | Boulder, Colorado, USA /
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+----------------------------------------------------------
+
+Date: Mon,  1 Jul 1991 14:10:03 -0400 (EDT)
+From: Gregory C Best &lt;gbest@ATHENA.MIT.EDU&gt;
+Subject: Anthem Records
+
+Can anyone tell me, or point me in the direction of, the address and
+phone number of Anthem Records?  Personal or post, I want it ASAP.
+Thanks.
+
+-Greg
+
+"In this life, things are much harder than in the afterworld-
+  In this life, you're on your own"
+					-Prince
+
+----------------------------------------------------------
+
+Date: Mon, 1 Jul 91 10:56:49 PDT
+From: asardina@sdcc13.UCSD.EDU (Asbert Sardina)
+Subject: later...
+
+Can you please cancelled my subscription...
+...going on vacation for the summer....
+
+catch you on september
+
+Asbert
+(asardina)
+
+----------------------------------------------------------
+
+Subject: Julian Lee
+From: easy@darkside.com (Phil D. Croix)
+Date: Mon, 01 Jul 91 12:08:45 PDT
+
+How you guys doin' out ther anyway?(hands above eyes)
+
+This is my first ever post to this Rush netherworld. I LIKE IT!!
+Anyways, thinking back to when there was a big ole' list of Rush facts and
+answeres to frequently asked questions, is that really Geds son, Julian,
+riding the missle? Where's the nose eh? I'm glad that I found this out. Who
+knows, I might someday find myself walking the streets of Toronto and By
+pure coincidence, run into the Geddy-guy. Not knowing that his son played a
+part in one of the videos, I might have asked, "oh, by the way, who's that
+geek twerp loser little brat in the DEW video?"
+Geddy, Clearly upset: "That's my SON you ASS!" Followed by a swift right
+hook to my nose. Hey at least it would be my favourite(Canadian spelling, A
+la B man) bass player who punched me out, and it's starting tp flow, I think
+I might be sinkin'.
+What the hell is all this talk about the saying of the word"subdivisions" in
+the song of the same name. On ASOH it is CLEARLY Alex saying it! Are you
+guys partially deaf? It's not a digitized voice either. Geez! Get a wife.
+However, on the Presto Tor, they used THE digitized voice sample. How do I
+know this for sure? I bootlegged the Oakland, Ca show (the first performace)
+and the voice is loud and clear. almost too loud.
+
+Concerning the new album, I heard that they might do an instrumental. Of
+course, I heard it in TNMS a few weeks ago. Then someone said, and I quote"I
+hope they don't tack on lyrics like they did with Hand over Fist." Whadaya
+mean? That song is great! Great lyrics too. It became one of the themes for
+the whole album, as well as the Tourbook.
+Obligatory Shaggy Quote: ZOIKS Scoob! Let's ggget out of here!!
+Well I think I'm done for now. later.
+
+-------------"You've GOT, venom in your stomach, you've GOT poison in your
+head- When conscience whispered, the vein lines stiffened, you were walking
+with the DEAD!..."
+
+                      --Marillion- Fish-
+
+goodbye for now, Matt Van Horn, Easy access...
+
+----------------------------------------------------------
+
+Date: Mon, 1 Jul 91 17:29:42 -0400
+From: meg (******* Meg *******)
+Subject: albums
+
+Found a list of when the albums were released (finally one that has
+ALL up to HYF) so here you go...
+
+Rush - Aug 1974
+FBN - Feb 1975
+COS - Sept 1975
+2112 - April 1976
+ATWAS - Sept 1976
+AFTK - Sept 1977
+Archives - April 1978
+Hemi - Oct 1978
+PeW - Jan 1980
+MP - Feb 1981
+ESL - Nov 1981
+Signals - Sept 1982
+p/g - April 1984
+PoW - Oct 1985
+HYF - Oct 1987
+
+I got these from a book at B.Dalton that had several rock groups and
+their albums in it, with dates of release and comments about the individual
+songs; like which ones were the first to be made, various other stuff.
+Worth a look if you're in the bookstore - I don't remember any other bands
+in it except VanHalen.
+
+-Meg
+
+----------------------------------------------------------
+
+Date: Mon, 1 Jul 91 18:02:33 -0600
+From: habbinga@tramp.Colorado.EDU (erik habbinga)
+Subject: Fountainhead, Radio song, Geddmeister's 38th
+
+Well, I tried to find the reference to the three guilded balls in "The
+Fountainhead", but failed.  I just read the book for the 2nd time a month
+ago, and remember reading the passage, but after skimming through the book
+today I couldn't find it.  Hopefully someone else has found it, and can
+give us a chapter number for its location.  I think the passage is at
+the end of a chapter, but I am not entirely sure, and I don't want to reread
+the book so soon for that little passage.
+
+As for a Rush song I would play if I were a DJ with unlimited powers, I
+would choose "Emotion Detector".  That has to be one of my favorite Rush
+tunes, especially when the energy level kicks in going into the guitar solo.
+The Boyz use dynamics quite well in that song, and I wish they would
+have played it on the PW tour.
+
+I hope you all celebrated Geddy's 38th B-Day on Saturday.  I was thinking,
+maybe we should all send cards to the Boyz on their B-Days.  Can you imagine
+getting 800+ cards on your B-day?  It's just a thought, but let me know how
+you like it.
+
+----------------------------------------------------------------------
+Erik Habbinga
+habbinga@tramp.colorado.edu
+U-niversity of
+C-olorado between
+L-ongmont and
+A-rvada                        "Do not taunt Happy Fun Ball"
+----------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: 	Mon, 24 Jun 1991 10:10:14 -0500
+From: tmadson@pnet51.orb.mn.org (Todd Madson)
+Subject: Alex Lifeson:  Sense of Humor
+
+I thought I'd add my two bits to the Alex Lifeson sense of humor file.
+
+ During the Minneapolis show of the HYF tour, Alex did something rather weird
+during the traditional 2112/Temples of Syrinx frenzy towards the end of the
+show.  He was SINGING, on mic., during the overture.
+
+ As I best recall, it was somewhat like this:
+
+ "La la la la la la la la, hahahaha"
+
+ If that wasn't bad enough, during "..Syrinx", he was also doing things like
+"Ha ha ha!" and playing weird, fast little notes.
+
+ He also did (you can hear it on the album) the Billy Gibbons styled-"Ah haw
+haw haw haw" in Force Ten, but much louder.
+
+ I figured some of you might appreciate this.
+
+ I should also mention that a friend of mine played keyboards in a christian
+band at one time with a guitarist who had sold some of his equipment to Alex.
+If you look in the Show of Hands video, you can see some of this stuff.
+Interesting stuff.
+
+UUCP: {amdahl!bungia, crash}!orbit!pnet51!tmadson
+ARPA: crash!orbit!pnet51!tmadson@nosc.mil
+INET: tmadson@pnet51.orb.mn.org
+
+----------------------------------------------------------
+
+Date:         Mon, 01 Jul 91 21:17:01 EDT
+From: Srikant Jayaraman &lt;IDCJ@CORNELLA.cit.cornell.edu&gt;
+Subject:      Rush Concert video
+
+Hi everybody,
+
+In a recent GOLDMINE (29 June 91), I saw an advertisement for a pro-shot
+concert video recorded during the Presto tour (Auburn Hills, MI, 1990).
+The dealer says that the soundtrack is hi-fi stereo, with playing time
+of 120 minutes.
+
+Has anybody seen this video?  Is it worth buying?  I've been ripped off
+on 'bootlegs' before, and I thought I'd ask before coughing up money
+for this one.
+
+Srikant
+
+OBRQ: "His reserve a quiet defence/Riding out the day's events"
+
+----------------------------------------------------------
+
+Date: Mon, 1 Jul 91 23:25 EDT
+From: HAG2@vms.cis.pitt.edu
+Subject: Pgh Party; TNMS question; Creem; Presto
+
+A Pittsburgh Rush party sounds great to me!
+
+Several months ago in TNMS were the results to a poll of the readers' favorite
+songs from each Rush album.  Now that my Rush collection has increased, I'm
+interested in comparing favorites.  Which issue can I find those results in?
+
+About the Creem interview:  I am amazed.  This guy fell asleep listening to
+MP???  I just got it several days ago and think it's perfect;  every song is
+fantastic.  The two songs I didn't know before--The Camera Eye and Vital
+Signs--I hadn't had too-high expectation for (not sure why) but they are
+incredible songs.
+
+Presto:  I just got this album recently also.  In the last two issues of TNMS
+(or so) have been several readers' choices for best tracks.  No mention of
+"Red Tide," which I think may be the album's high point.  I also like "The
+Pass" and "Available Light" and, to a lesser extent, "Superconductor" and
+"Chain Lightning" and "Anagram".  "Show Don't Tell" and "Hand Over Fist" were
+chosen by some as their favorites, which I don't understand.  "Show Don't
+Tell" but has some lyrics that just don't sound refined or polished:
+"...It's hard to play it safe
+But apart from a few good friends
+We don't take anything on faith
+Until later."
+   "Hand Over Fist" just doesn't seem to fit together...  The paper, rock,
+scissors theme only has a little in common with the failed relationship theme,
+IMHO.
+
+On some other tracks, the music is just not distinctive enough.  Perhaps I
+haven't listened to it enough yet, but the non-chorus sections of a lot of
+the songs seem, to me, to be, well, just not distinctive enough.  Oh well...
+
+On the why Chronicles subject:  I just copied this from someone who bought it
+for $4.50 from someone who was sent it as some sort of incentive from the
+BMG Tape Club.  Anyways, since I have only a handful of Rush albums, I
+copied it just because there was a lot on there I hadn't heard before. Such
+as Lakeside Park, Bastille Day, New World Man, and (gasp) 2112 and Passage To
+Bangkok (don't worry, I plan on getting _2112_ very soon).  And, as someone
+else mentioned, it has Passage to Bangkok live, which those of us buying US
+CDs can't get...
+
+Ugh, it's a long post.  Sorry,but I like to ramble..
+
+Oh, one more thing:  As I read the interpretation of "Red Lenses", it just so
+happened that "Red Tide" was playing on my box.  Interesting correlations. I
+skipped over the interpretation, however, because I've never heard "Lenses"..
+
+That's all for now..
+
+Herschel Gelman
+hag2@vms.cis.pitt.edu
+
+----------------------------------------------------------
+
+Date: 02 Jul 91 00:05:21 EDT
+From: Dave Hamilton &lt;70244.322@CompuServe.COM&gt;
+Subject: "The Big Money" -- On Network TV!
+
+Wow!  I just heard the intro to "The Big Money" as the introduction song for
+ABC's "Sports Extra."  Just thought you might want to know.
+
+                                                -Dave
+
+ORQ:"I must confess, I'm an impatient cat."
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 278
+********************************************
+
+

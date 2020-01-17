@@ -1,0 +1,156 @@
+Received: from kiwi.icu.unizh.ch (root@kiwi.icu.unizh.ch [130.60.74.11])
+	by gremlin.studi.unizh.ch (8.8.5/8.8.8) with ESMTP id VAA22952
+	for <mtschann@studi.unizh.ch>; Wed, 7 Oct 1998 21:47:34 +0200
+Received: from mx2.gmx.net (qmailr@mx2.gmx.net [195.63.104.140])
+	by kiwi.icu.unizh.ch (8.8.8/8.8.8) with SMTP id VAA15918
+	for <mtschann@icu.unizh.ch>; Wed, 7 Oct 1998 21:47:32 +0200
+Received: (qmail 14388 invoked by alias); 7 Oct 1998 19:47:31 -0000
+Delivered-To: GMX delivery to mtschann@gmx.net
+Received: (qmail 14358 invoked by uid 0); 7 Oct 1998 19:47:30 -0000
+Received: from yyz.com (192.52.226.212)
+  by mx2.gmx.net with SMTP; 7 Oct 1998 19:47:30 -0000
+Received: (from temples@localhost)
+	by yyz.com (8.8.5/8.8.5) id LAA25992
+	for rush-list-5; Wed, 7 Oct 1998 11:31:26 -0700
+Date: Wed, 7 Oct 1998 11:31:26 -0700
+Message-Id: <199810071831.LAA25992@yyz.com>
+Errors-To: rush-request@yyz.com
+Reply-To: rush@yyz.com
+Sender: rush@yyz.com
+Precedence: bulk
+From: rush@yyz.com
+To: rush_mailing_list@yyz.com
+Subject: 10/06/98 - The National Midnight Star #2112  *** Special Edition ***
+X-Resent-By: Global Message Exchange <forwarder@gmx.net>
+X-Resent-For: mtschann@gmx.net
+X-Resent-To: mtschann@icu.unizh.ch
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@tnms.com
+Administrative matters:    rush-request@tnms.com
+                                       or
+                           rush-mgr@tnms.com
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+         The National Midnight Star, Number 2112
+
+
+                  Tuesday, 06 Oct 1998
+
+Today's Topics:
+                      Issue 2112
+----------------------------------------------------------
+
+From: rush-mgr@tnms.com (The RUSH Fans Digest Manager)
+Date: Tue Oct  6 10:59:00 PDT 1998
+Subject: Issue 2112
+
+It's taken us nearly 9 years to reach issue 2112, and at times I thought
+the digest was defunct for good! I wanted to say thanks to everyone who's
+stuck by us for so long, put up with a month-long hiatus (twice!), and
+those of you who have conspired to bring us up-to-date news from the Rush
+front. And a huge thanks to those of you who've been around since the very
+beginning, and put up with all our growing pains, lost mail, multiple copies
+of the digest, and an occasional meltdown and rebuild of our subscriber
+database.
+
+Although there were a lot of good ideas for issue 2112, most of you lost track
+of the fact that this issue is a *DIGEST* matter; this should be a tribute
+to the digest itself, the fact that we were able to plug away to even reach
+2112 issues, and not a tribute to the band. Even though the band is why we're
+all subscribed here, *WE* got ourselves to 2112!
+
+So in that vein, I thought I'd give a brief history of where The National
+Midnight Star came from. Some of you have seen this before, but you're gonna
+see it again! (it's very brief, trust me)
+
+Originally TNMS had no name. It started out as a mail reflector run by 
+Jimmy Lang (the infamous one) from his UCSD account. He started it because
+at the time there was no alt.music.rush. In fact, there were only TWO music
+news groups, rec.music.misc and alt.music.rock-n-roll. Many sites didn't get
+the alt.* groups, and r.m.m. was as anti-Rush as you could get. Jimmy contacted
+a few people he had seen post positive things about Rush, and the mailing
+list was born on November 10, 1989. A week later, David Arnold donated his
+time and his machine syrinx.umd.edu, and the mailing list turned into a digest.
+
+And so it ran, nameless, until the fall of 1990. Then a naming project
+was begun -- people submitted names, and votes were taken. The National
+Midnight Star won the poll, with Signals coming in a close second (TNMS won
+by *ONE* vote!). The digest was revamped, got a new look, and looked much 
+like the current digests today. The very first issue of TNMS was #83, which 
+you can find on the mail server (#82 will show you a list of the other
+contenders for names).
+
+So TNMS was born, and ran quietly until I took it over in the summer of '93
+(David had gotten too busy to handle the continuously growing number of
+subscribers). And thus it has been ever since, minus the slight move off
+of umd to tnms.com :-)
+
+We have seen the formation of alt.music.rush. We've been through 4 studio
+albums & tours, a compilation, and are coming up on our first live album.
+We've seen the number of music mailing lists grow from 20 to thousands.
+We've seen the triumph of the band, and the grief. And we've more than lived
+up to our name. Througout it all, we've always been here as a dedicated 
+outlet for fans.
+
+We were one of the first. We're one of the largest.
+And we're still one of the best.
+Congratulations on issue 2112!
+
+ - rush-mgr
+
+ps. If you'd like to receive a special 2112 gift, send me email privately!
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@tnms.com
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@tnms.com    or
+    rush-mgr@tnms.com
+
+There is a mail server available for back issues of the digest. For more 
+info, send email with the subject line of HELP to:
+
+    rush-srv@yyz.com
+
+These requests are processed immediately, and you should have back a response
+within a few minutes. Any problems please direct to the rush-mgr.  
+
+For those of you on the World Wide Web, there is now a Rush home page at:
+   
+    http://syrinx.yyz.com
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright (C) 1998 by The Rush Fans Mailing List
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+*********************************************
+End of The National Midnight Star Number 2112
+*********************************************
+
+

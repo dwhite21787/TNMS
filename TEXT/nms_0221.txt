@@ -1,0 +1,592 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 04/22/91 - The National Midnight Star #221
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 221
+
+                  Monday, 22 April 1991
+Today's Topics:
+                      Administrivia
+               Mystery Science Theater 3000
+                        Unsubcribe
+      Opening songs, beginning of "Time Stand Still"
+                        Tom Sawyer
+                     Mr Big with Rush
+               Guitar Synths + other stuff
+          Geddy's Steinberger + FM ( the band )
+                  Big Nick's Beer Binges
+                      T.C. Broonsey
+               LATEST NEWS ON NEW ALBUM!!!
+04/19/91 - The National Midnight Star #220 ** Special Edition **
+                        Marillion
+              Progressive Rock Mailing List
+                         Ayn Rand
+                       Eraser Head
+            the robert plant school of diction
+                          (none)
+        How to get Neil in your house real cheap!
+----------------------------------------------------------
+
+From: Editor, The National Midnight Star
+Subject: Administrivia
+
+This is just a reminder to all you considering uploading files to the 
+incoming ftp directory that Syrinx is a bit tight on disk space.  I am
+still in the process of getting rid of issues 1-100 (maybe 1-200), and
+moving them to another site with some availability.  (This means that
+there will be some sort of automatic retrieval method in place.)  I will
+also be moving them to another computer at my site, but they will not be
+as accessible there.  As always, they are on the mail server at Ingr
+until we hear otherwise.
+
+Still, until this is done, there is not much disk to play with.  PLEASE
+refrain from uploading any sound files, as they tend to be quite large.
+There is one sound file currently available, but it is too big to go out
+in mail from Ingr, and I can't make it available until I get more disk or
+clear some space on the current one.  If and when sound files are available,
+I'll post a big announcement here.
+
+In the images arena, there are soon going to be quite a few more coming in
+to the images directory, thanks to our co-founder, Jimmy.  There's about ten
+or so files I'm awaiting a description of which will be available soon.
+
+And, on a non-Rush note, the Yes show Friday night was *incredible*!  I
+swear Rick Wakeman has about 14 fingers...  A must see for any 70's pomp-
+rock fan.  High point:  "Heart of the Sunrise"; low point: No "Starship
+Trooper." :-(  
+
+It should hold me over until this fall sometime... :-)
+
+rush-mgr
+
+----------------------------------------------------------
+
+Date: Fri, 19 Apr 91 15:53:05 EST
+From: DT7RSANU%MIAMIU.BITNET@CUNYVM.CUNY.EDU
+Subject: Mystery Science Theater 3000
+
+ Speaking of Mystery Science Theater 3000... There is an allusion to Rush
+in every show. The gumball machine robot is named Tom Servo. (For those
+robot illiterates, a 'servo' is a type of feedback device used in closed loop
+robotic systems.) 'Servo' was substituted, quite obviously, to disguise a very
+clever allusion to Rush: Tom Sawyer. It fits the context exceptionally well...
+
+[ Umm, not to say I don't believe you, but what sort of proof/evidence do
+  you have to back this up?  I've seen many (~15) MST3K shows, and only
+  one Rush reference in them all.                               :rush-mgr ]
+
+--
+Miami is in Ohio, dammit!
+
+----------------------------------------------------------
+
+Date:    Fri, 19 Apr 1991 17:13:09 CDT
+From: IEB4826@SUMMA.TAMU.EDU
+Subject: Unsubcribe
+
+Powers That Be:
+
+Please unsubscribe me from rush_mailing_list.deal.
+
+				Off...
+				I.E.Bou-saada
+				(ieb4826@zeus.tamu.edu)
+
+----------------------------------------------------------
+
+Date: Fri, 19 Apr 91 19:48 CST
+From: Blue Steel &lt;UCSKRT@ucs.UWPLATT.EDU&gt;
+Subject: Opening songs, beginning of "Time Stand Still"
+
+&gt;Finally, about the Rush openers:  my brother and friends got
+&gt;this one.  Rush always opened the live shows with the first
+&gt;song off the _third_ album of the four that made up a live album.
+&gt;So, Bastille Day for ATWAS, Spirit of Radio for ESL, and finally,
+&gt;The Big Money for ASOH.   My brother predicted The Big Money
+&gt;would be the opener before it actually was.
+
+Yeah, but on the Presto tour, they opened up with "Force 10" at Alpine Valley,
+which is off the fourth album of the last live release. My guess is that they
+simply go with good, strong, opening songs, like every other band does.
+
+I posted this question a while back, with no response. At the very beginning of
+"Time Stand Still," with the first guitar notes, there appears to be a nasty
+droning sound underneath, like a bad taping or mixing job. Anybody else notice
+it? Any comments?
+
+One last question regarding the song "Distant Early Warning." Someone(s)
+analyzed the lyrics not too long ago here. My question: can you find parallels
+between Neil's lyrics and the video for that tune? My hunch is that they just
+decided to have fun with it, having aliens pick up Geddy's son Julian and send
+him off on a ride through the countryside on a missle. Doesn't seem nearly as
+serious as the song itself.
+
+Question for a friend: Anybody with info on a new U2 release? Mail me
+personally, please. Also, when I tried to send to the address posted for a
+Queensryche list, it bounced from their site. Anybody else with a lead on this,
+or was it all a myth to begin with?
+
+================================================================================
+Kevin Tipple, aka Blue Steel, By-tor       University of Wisconsin - Platteville
+Bitnet: ucskrt@uwplatt.bitnet              Platteville, Wisconsin  USA
+Internet: ucskrt@uwplatt.edu
+--------------------------------------------------------------------------------
+"Do you actually have any cheese in this shop? If you say no, I'll have to
+shoot you."  - Monty Python
+================================================================================
+
+----------------------------------------------------------
+
+Date: Fri, 19 Apr 91 21:31:06 EDT
+From: William_MacDonald@mts.rpi.edu
+Subject: Tom Sawyer
+
+Hello there!  Someone in the last posting (I can't remember who) asked if any
+hard core Rush fans actually have Tom Sawyer as their favorite song.  Let me
+just say that, since I started to really get into Rush about 2 1/2 years ago,
+I have obtained all of their albums on cassette, 4 on CD, 5 posters, the
+autobiography *Visions*, various pictures and tour books, two shirts, 4 of the
+5 videocassettes, 5 or 6 bootlegs, and waited in line overnight for Rush tix
+on their previous tour.  Is this hard core enough?  I'd like to add that my
+favorite song is Tom Sawyer...in fact, T.S. got me started into Rush.  Is it
+so wrong that a catchy song becomes one's favorite?  I don't think so.  And
+the song isn't *just* catchy...it has some really deep lyrics...it is a
+powerful song.  I guess what I am trying to say is that we all have different
+tastes....later all!
+
+   William MacDonald
+
+"...he knows changes aren't permanent...but change is..."
+   Rush, MP (1981)
+
+----------------------------------------------------------
+
+Subject: Mr Big with Rush
+Date: Fri, 19 Apr 91 11:31:23 WET
+From: Moschops &lt;M.ODonnell@computing-services.thames.ac.uk&gt;
+
+Hey gang,
+        Does anybody who saw the guy's on the Last tour ( Presto )
+remember the support group . Mr Big.
+        Well if you were there, did the guitarist from Mr big come ouy
+( sorry out ) to play the encore ( IN the Mood ) with Alex?
+
+I was reading an Interview with Paul Gilbert ( Mr Big ) in Guitar
+World, where he waqs saying that it was one of the hairiest moments in
+his life . as he walked on stage ( This was a surprise for the guy's
+as they were not expecting him to come on )
+
+        But It went well.
+
+[ This must have been in one of the first cities on the tour - they did
+  this at many of the shows on the Presto tour, with other Mr. Big members
+  also.                                                         :rush-mgr ]
+
+Mossy
+=====
+
+Anytime things appear to be going better, you have overlooked
+something.
+
+----------------------------------------------------------
+
+Subject: Guitar Synths + other stuff
+Date: Fri, 19 Apr 91 14:55:34 WET
+From: Moschops &lt;M.ODonnell@computing-services.thames.ac.uk&gt;
+
+Hey Dudes,
+        About the Guitar synth subject-
+To Quote Edward Van Halen - A synth is a synth, a guitar is something
+else - Why bast***ise the guitar  ( Well .. something like that )
+I have played a Guitar synth in the past and have found them awkward
+to play well due to the fact that the synth will convert any sound
+into a synthy noise.~S[]
+
+You cannot kill time without injuring eternity.
+
+----------------------------------------------------------
+
+Date: Fri, 19 Apr 91 15:55:34 WET
+From: Moschops &lt;M.ODonnell@computing-services.thames.ac.uk&gt;
+Subject: Geddy's Steinberger + FM ( the band )
+
+Hey,
+        As far as I know Geddy has the very first production
+Steinberger headless bass. Though what he is using now , I have no
+idea of.
+
+        AS for FM. There was a brit band called FM, but I believe that
+they have now spilt up
+
+  Find it hard to believe that Marillion were booed off the stagge
+when they supported Rush - The fans must have been in a bad mood that
+night.
+
+Also, Neil is *not* the best drummist in the world. His drumming suits
+Rush right down to the ground, but there are better drummers than him.
+If you want to listen to some try -
+        Dave Weckl - Chick Corea Band
+
+and     Mark Collins - ( Sorry for the plug - He plays in my band )
+
+Don't Flame me for this - I do like Neil's playing, but I think he
+should change the solo he does ( He has been playing it for years )
+
+As for the other guys. Geddy is one of the most awesome Bass players
+in the business.
+There are better soloists than Alex, but at chords and atmospheric
+stuff, he is one of the best.
+
+        Well thats my $0.02  for the day.
+
+BTW , Hi to Chris Marshall at Hatfield - When will we have this Jam?
+
+Later Dudes
+
+Mossy
+=====
+
+Quote From "Bill and Ted's Excellent Adventure"
+
+    "Ted...In time i am sure that Wyld Stallyns will be most triumphant."
+
+----------------------------------------------------------
+
+From: rotem@jhunix.hcf.jhu.edu (Rotem A Elgavish)
+Subject: Big Nick's Beer Binges
+Date: Sat, 20 Apr 91 1:36:40 EDT
+
+&gt; I am a bit trashed, and listening to Oingo-Boingo, so I felt that it
+&gt; would be a wonderful time to post to the Rush board...
+&gt;     Let's go for the stream of conciousness effect (Spelling optional...)
+&gt;
+&gt;     Rush is an awesome band.  "Singer/Screamer" Geddy Lee deserves far
+&gt; more credit from folks than he gets.  So his voice can be compared to
+&gt; the squeals of a toutured squirl.  Some of us LIKE tortured squirls.  In
+&gt; a metaphysical sense, of course.  Speaking of squirls, has anyone
+&gt; noticed how much geddy looks like one on the, um, Hold your Fire tape
+&gt; jacket?
+&gt;
+&gt; Alex rocks.
+&gt;
+&gt; Neil!  What the hell can you say about Neil?
+
+  You're a trip!  I think we should start a new tradition.. get really
+trashed and post to the NMS, that should make for some interesting
+interpretations of songs.
+
+  And yeah.. Geddy Lee is sort of a cross between a tortured squirrel and
+    Vincent on the show "Beauty and the Beast" !!"
+
+&gt;     By the way, those of you who listen to nothing but Rush are missing
+&gt; out on a lot of good music.  Take it from someone who did the same thing
+&gt; all the way through High School.  Beavercreek high school.  What a lousy
+&gt; name.  Anyway, there is a lot of music out there that is not the same as
+&gt; Rush that is JUST AS GOOD.  not the same.  not a replacement.  But GREAT
+&gt; STUFF.  Take Oingo Boingo  (i see the flames now)
+
+  Those of us who listen to Rush nonstop are the wisest of us all for Rush
+is the essence of musical purity in the universe. Ohhh... without Rush
+the universe would collapse, the planets would decay in their orbits..
+The universe would fall into utter chaos.. thou has't commithed heresy :-)
+
+BTW: And as for Oingo Boingo..oh..nevermind.. they don't deserve any flames..
+
+Later... (Vive Le RUSH!!)
+   Ro
+( and my drunken sidekick - Mark)
+A BTW: Its my birthday this week and my drunken sidekick's too!
+  oh.. you don't have to wish us happy birthday or anything.. just send
+    us some Rush CDs or something..
+
+Yabba Dabba BTW: Incase you do want to wish us happy birthday or get ouro
+  address so you can send packages, money, or your girlfriends.. We're
+  sick of ours.. (sorry, but Hopkins women just DON'T CUT IT - among other
+  things they don't do!)
+
+RO:                     Rotem@jhunix.hcf.jhu.edu
+Drunken Sidekick (Mark)  Tram@jhunix.hcf.jhu.edu
+
+Scooby Dooby BTW: Yo! Nick!... What beer were you drinking? I'm a beast
+	man myself although I lick, I mean like BUSH... The drunken butt
+	chunk likes Pabst Blue Ribbon! F*CK Heineken!
+
+VORQ: " So many things I think about
+	When I look far away
+	Things I know- Things I wonder
+	Things I'd like to say"
+
+----------------------------------------------------------
+
+Date: Sat, 20 Apr 91 03:03:51 -0500
+From: brian frank &lt;bdf43928@uxa.cso.uiuc.edu&gt;
+Subject: T.C. Broonsey
+
+This is my first posting, so pleez forgive any mistakes i make...
+What's the connection with T.C. Broonsey?  If I'm not mistakin' at the
+beginning of Trees (or maybe Broon's Bane) Geddy mentions T.C. Broonsey...
+This is on ESL.  What's the deal? Who is this guy?
+
+[ T.C Broonsey is Terry Brown.  This is in the FAQL.             :rush-mgr ]
+
+Until next time,
+Brian
+
+----------------------------------------------------------
+
+Date: Sat, 20 Apr 91 13:15:07 -0400
+From: Michael S Savett &lt;savvy@brahms.udel.edu&gt;
+Subject: LATEST NEWS ON NEW ALBUM!!!
+
+Thought that would get your attention! First, to set this up...a local
+rock station is planning a "Strawberry Field" in Fairmount Park in
+Philadelphia sponsord by listener contributions. Friday afternoon,
+one DJ was talking live to the Gedster (I didn't hear it, but I was told
+this story!), asking him about this park thing. Afterward, Ged was asked
+about the new album and he said they are winding it down and it should
+be released in August. So there!
+
+Hope I am the bearer of good tidings for y'all!!!
+
+Savvy
+savvy@chopin.udel.edu
+
+----------------------------------------------------------
+
+Date: 	Sat, 20 Apr 1991 20:42:00 -0230
+From: Patrick Ryan &lt;sauron@garfield.cs.mun.ca&gt;
+Subject: 04/19/91 - The National Midnight Star #220 ** Special Edition **
+
+Please remove me from this mailing list.
+
+----------------------------------------------------------
+
+Date: Sat, 20 Apr 91 18:19:16 PDT
+From: djabson@UCSD.EDU (The God of Balance)
+Subject: Marillion
+
+	I know this isn't Rush related but it's close.  I just bought my
+first Marillion album, Misplaced Childhood.  I like it a lot and I was
+wondering if any of you Marillion fans out there could give me a little
+info on the band such as when they started, how many albums they have,
+which albums are worth buying, etc.  Please send mail to me, not to the
+NMS. Send mail to
+			djabson@ucsd.edu
+Thanx a million (Marillion?).
+
+	Dave
+
+----------------------------------------------------------
+
+Date: Sat, 20 Apr 91 21:53:23 EDT
+From: Mike Borella &lt;borellms@clutx.clarkson.edu&gt;
+Subject: Progressive Rock Mailing List
+
+I must apologize for the misunderstandings that the recent posting of the
+formation of a Progressive Rock mailing list has caused.  George Grinch and
+I decided to direct all the people who wrote us to the existing list soon
+after we posted our notices.
+
+I sent the notice to many band lists.  For the Rush list I sent the notice to
+the administrative address so that the Rush-Mgr could decide if he wanted
+the notice in the newsletter.  When it didn't appear after a week, I decided
+that it probably got lost in the shuffle, so I didn't write to cancel its
+posting.  I was surprised to see it show up when it did, and unfortunately
+was out of town at that time, so I didn't have a chance to explain then.
+
+[ It's partially my fault for waiting so long to post it.  Things have a
+  way of getting backed up...                                   :rush-mgr ]
+
+As you probably know by now, the list "Gibraltar" is run my Michael Lamour
+from the: gibraltar-request@maestro.mitre.org  address.
+
+I've become an avid reader, and I highly recommend it to anyone who would
+like to learn more about progressive rock.
+
+-Mike Borella
+ borellms@clutx.clarkson.edu
+
+----------------------------------------------------------
+
+Date: Sun, 21 Apr 91 12:31:03 EDT
+From: tony%archsun@gatech.edu (Tony Mancill)
+Subject: Ayn Rand
+
+     Speaking of Objectivism, if you would really like to know
+more about what's going through Neil's head, read "ANTHEM" by
+Ayn Rand.  It's very short, only about 90 pages or so, and it is
+easy to see that the song clearly comes from the book.  (It's on
+Fly By Night for any of you younger Rush heads.)  Aside from the
+fact that Anthem has great lyrics, I think that it is one of the
+first really signature Rush tunes.  (Bytor and the Snow Dog
+might give exception to this...)  We're really talking about
+some teeth-gritting metal here, way back in the early 70's.
+
+[ Yes, Rand had a lot of influence on Neil in the early days, but that
+  was also over 15 years ago.  His musical direction is influenced by
+  much more over the years ... Road and Track for one!  :-)    :rush-mgr ]
+
+     For another interesting lyrical Rush allusion, read "Cry,
+The Beloved Country"  (I'm sorry, the author's name slips my
+mind right now.) for another idea about what "Absolom! Absolom!"
+means at the end of Distant Early Warning.  (Besides, of course,
+the obvious Biblical and Faulkner references.)
+
+"And those who push us down that they might climb...
+ Can any killer be worth more than his crime?" - Rush
+
+----------------------------------------------------------
+
+Date:    Mon, 22 Apr 91 00:56 EDT
+From: "Malzor" &lt;MXP122@PSUVM.PSU.EDU&gt;
+Subject: Eraser Head
+
+The day the list didn't make it out I mentioned something about Eraser Head.
+Anyone notice the poster in Chronicles during Limelight?  Pretty cool,
+especially considering the boys recognized the movie as being cool so soon
+after its release.  L8'r
+
+----------------------------------------------------------
+
+Date:    Mon, 22 Apr 1991 10:03:25 EDT
+From: RH2@JAGUAR.UCS.UOFS.EDU (Rebel, Runner, Restless young Romantic)
+Subject: the robert plant school of diction
+
+	halloo!!
+
+	rather than torment myself unnecessarily, does anyone know
+	what geddy is saying/chanting/singing during 'la villa'
+        on asoh??
+	or is this another enigma like the missing matter in the universe?
+
+[ I know on ESL it's transcribed as (something like) "Patty-cake patty-cake,
+  baby needs a new pair of shoes."  Seriously.                    :rush-mgr ]
+
+	oh, and i must agree with nick(#219) that alex's wardrobe is
+	cosmically cool...
+
+						r,r,ryr,
+                                                        rose
+
+----------------------------------------------------------
+
+From: MGOODWIN@maine.maine.edu (J. MICHAEL GOODWIN)
+Date:    Mon, 22 Apr 91 10:17:23 EDT
+
+&gt;written on keyboards.  After _Signals_ we realized that we had
+&gt;gotten so keyboard-heavy that Alex was getting frustrated as a
+&gt;guitarist.  His role had been relegated to fundamental parts a lot of
+&gt;times because the keyboards were so dominant.  So with our latest
+&gt;album, _Grace Under Pressure_, we transposed the parts I wrote on
+&gt;keyboards for the the guitar, and I went back to the bass.  As a
+
+The above, excerpted from Geddy's interview, is why I was
+frustrated with Signals (like Alex, I see).  Then they came back
+with Grace Under Pressure, which I love.  I recently rented
+the video to ASOH, to see if I would like the post P/G music.
+It seems that Rush went back to the heavy keyboard-oriented
+concept, as the songs selected for this video indicate.
+
+I'm looking to purchase some post P/G stuff.  Which ones would
+people recommend, from a guitarists point of view!  I don't
+want to pick up a Signals type release.  Thanks.
+
+Mike Goodwin
+
+----------------------------------------------------------
+
+Date:    Mon, 22 Apr 91 16:24 EDT
+From: &lt;JPJ103@PSUVM.PSU.EDU&gt;
+Subject: How to get Neil in your house real cheap!
+
+Well, not exactly.
+
+Ludwig, the drum company in Indiana, has two posters of Neil available for
+a ridiculously low price.
+
+One is from the Power Windows era, and the other has Neil with the Presto kit.
+
+Here's the ordering information:
+
+Order #   Poster         Cost
+AV 8066   Power Windows  $2.00
+AV 8070   Presto         $3.00
+
+Send check/money order to:
+Ludwig
+PO Box 310
+Elkhart IN 46516
+
+The posters should take 2 weeks or so to arrive. They also have a large number
+of posters of other drummers that the drummer-types out there might find in-
+teresting. Ask for an order form if you're interested.
+
+This might sound like a plug for Ludwig but I found it very interesting that
+these posters were so inexpensive (as well as of such a good quality).
+
+Bye for now...
+
+Michael Sensor &lt;JPJ103@psuvm.psu.edu&gt;
+Penn State University
+
+OBRQ: "Pleasure leaves a fingerprint as surely as mortal pain. In memory it
+       resonates and echoes back again."
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 221
+********************************************
+
+

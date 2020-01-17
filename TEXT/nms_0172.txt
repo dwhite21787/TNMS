@@ -1,0 +1,527 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 02/15/91 - The National Midnight Star #172
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 172
+
+                 Friday, 15 February 1991
+Today's Topics:
+                    Administrivia
+                        (none)
+              Redd Kross and other Monsters
+                   Women, Guts, Science
+                       ADD/DDD Rush
+                    Neil and Cycling?
+       Carl Stalling, Producers & some other stuff
+                 RE: geddy on metal shop
+                 The Pass (yet again!!!!)
+      Re: 02/14/91 - The National Midnight Star #171
+                   Keyboards & Guitars
+                       Kim Mitchell
+----------------------------------------------------------
+
+From: Editor, The National Midnight Star &lt;rush-mgr&gt;
+Subject: Administrivia
+
+First of all, I'd like to welcome all you new members to the list -
+it's growing my leaps and bounds.  We're now perilously close to 
+the 700 mark; within a dozen!  Also, I'd like to say 'Hi' to those
+of you who joined from alt.sex - apparently the snafu is turning out
+to be beneficial.
+
+We're still finding things wrong (and fixing them) with the new
+system software.  If you notice anything odd WRT the mailings, drop
+me a line at the administrative address.
+
+The 'images' subdirectory (anon. ftp) will soon be updated with a few
+new pictures.  These are from a new contributor, and are digitized from
+some of the band's videos.  Stay tuned to the CONTENTS file for more info.
+
+Lastly, because of the inadvertent posting of the NMS in alt.sex and
+some of the resulting mail I've received, I've modified the tail of the
+digest to add some quasi-legal lingo.  It's sad to think I have to do this
+to help insure it goes only where I want, but that's the way of the world,
+I guess.
+
+That's all for now, on with the show.
+
+rush-mgr
+
+----------------------------------------------------------
+
+Date: Thu, 14 Feb 91 11:00:38 PST
+From: donehoo@olivee.ATC.Olivetti.Com (Doyle W. Donehoo)
+
+I heard this rumor that Rush is holding off their LP
+for a Christmas release, and to insure a particular
+producer (hopefully Rupert Hine). Personally, I don't care
+who produces as long as it's not Peter (Vanilla Mix) Collins.
+I also hope the Boyz have shaken off their "back to basics"
+kick, though I wouldn't mind if they explored more along the 
+lines of "Available Light", and cut loose Peart more as in
+previous (before PRESTO) recent LPs.
+
+----------------------------------------------------------
+
+From: ccameron@sdcc13.UCSD.EDU (The Excellent Guy)
+Subject: Redd Kross and other Monsters
+Date: Thu, 14 Feb 91 13:02:09 PST
+
+First of all, why do we let the comment of an obscure 'modern rock'
+(ugh, I _hate_ that term) group get us all riled up?  I've heard
+Redd Kross, and, believe me, they're not that impressive.  Imagine
+Jane's Addiction on acid.  Let them say whatever they want about
+Rush.  Either way, nobody's going to buy their records, because
+they're not that good.
+Second, all this discussion about 'Monsters' is interesting, but I
+think people are reading more into it than there really is.  I don't
+think Rick Moranis or anyone was inspired by 'Strangiato' or
+anything; the 'Monsters' tune is really pretty common and you'll
+probably hear it again and again, on TV and in the movies.  Let's
+just say Alex first heard it on cartoons as a child, and identified
+it with monsters, and let's leave it at that.  Otherwise, we could
+be reading an infinite amount of posts saying, 'I heard the Monsters
+tune on an episode of 'The Brady Bunch'!  I heard it in a 1950's
+horror movie! etc...'
+Third, I was wondering as to why people thought Rush has never made
+it into the mainstream of rock music, why they don't get the airtime
+we all know they deserve.  Is it because of Geddy's high voice, or
+because the songs are, for the most part, impossible to dance to, or
+what?  Just curious...
+later
+
+Chris Cameron
+The Excellent Guy
+
+----------------------------------------------------------
+
+Date: Thu, 14 Feb 91 16:06:29 EST
+From: gordon@Stars.Reston.Unisys.COM
+Subject: Women, Guts, Science
+
+Hello,
+
+Kerry wrote:
+--|        1) "Natural Science" : The line "Science, like Nature, must
+--| also be tamed..." always bothered me.  WHY must Nature be tamed for
+--| it's preservation?  What does "taming Science" entail?  I just don't
+--| know....
+
+	Note that it's "with a view *toward* its preservation", not
+   "for" its preservation.  I think volumes could be written about the
+   meaning and implications of this stanza, but I'll spare you (this
+   time :).  We "tame nature" to create our comfortable, civilized
+   life style, but the price is that we may destroy that which we
+   intend to merely tame.  Science is a tool humans use to tame
+   nature, but the tools have the potential to become unwieldy and
+   dangerous.  For example, nuclear power, rocket engines, and genetic
+   engineering all have tremendous beneficial possibilities for
+   mankind, i.e., cheap energy, space exploration, and cures for
+   diseases.  However, at the same time they possess the potential for
+   enormous destruction when not used "with a view toward its [our]
+   preservation", e.g., atomic bombs, ICBMs, and chemical weapons, so
+   we must tame Science as we tame Nature.  Therefore, as Peart says:
+
+                     "Science, like nature
+                      Must also be tamed
+                      With a view toward its preservation.
+                      Given the same
+                      State of integrity,
+                      It will surely serve us well."
+
+--|        4) Who said that on the last tour some "Bunnies" came out to
+--| give the boys a drink and some bowels?  This is truly weird.....
+                                   ^^^^^^
+
+	Whoah!  Surely this is a typo!  ('b' := 't') Weird?  I'd say
+   that's some real kinkiness there!  Oh no, I can see the tabloid
+   headlines now:
+
+    SATANIC ROCK BAND IS FED HUMAN ENTRAILS ON STAGE BY HALF-NAKED WOMEN!
+
+[ Love it, Del!                                                 :rush-mgr ]
+
+(Film at 11.)
+   (Here's one more look...)
+      (And here's a different angle...)
+         (And here's the slo-mo...)
+            (To buy the video, call this number, operators are standing by...)
+
+                          Art as expression
+                           |&gt;, |_| _|` |-|
+
+ /\      /\      /\      1-0-0-1-0-0-1, S.O.S.  1-0-0-1-0-0-1, in distress.
+/  \  /\/  \  /\/  \  /-------------------------------------------------------
+    \/      \/      \/   Del Gordon    gordon@stars.reston.unisys.com     |&gt;&lt;-
+
+----------------------------------------------------------
+
+Date: Thu, 14 Feb 91 17:00:13 -0500 (EST)
+From: Gregory James Legowski &lt;gl11+@andrew.cmu.edu&gt;
+Subject: ADD/DDD Rush
+
+To the people who say they have DDD copies of Moving Pictures:
+
+Moving Pictures - ADD
+Signals - ADD
+Grace Under Pressure - AAD (!)
+Power Windows (and everything since but A Show of Hands) - DDD
+
+At least that's what my discs are marked as.  Anyone know why GUP is AAD
+and the discs BEFORE it are ADD?
+
+Greg Legowski  |  gl11+@andrew.cmu.edu  |  Whatever it was, I didn't do it...
+
+----------------------------------------------------------
+
+Date: Thu, 14 Feb 91 20:15 EDT
+From: IDBST@vms.cis.pitt.edu
+Subject: Neil and Cycling?
+
+	I was listening to an interview with the band broadcast on a local
+radio station, and something was said to the extent of "Neil is an avid
+cyclist, and will often go and ride up huge mountains."  Did anyone else
+hear this, and does anyone else know about Neil's cycling background?
+
+[ Neil is an avid cyclist, and has cycled (if I'm not mistaken) across
+  Eastern Europe, and also in China (or was that just touring and mountain
+  climbing?)                                                     :rush-mgr ]
+
+	Also, when the band plays live, how many pre-recorded tracks are
+they using to play some of the songs, like "Lock and Key"?  It sounds as
+though Alex has two guitar parts, but I _know_ he can only play one at a
+time.  Anyone in the know regarding this?
+
+Thanks in advance.
+
+Ian D. Bjorhovde				idbst@vms.cis.pitt.edu
+		    University of Pittsburgh
+
+----------------------------------------------------------
+
+Date: Thu, 14 Feb 91 20:25:54 EST
+From: ROBERT_SIMMON@mts.rpi.edu
+Subject: Carl Stalling, Producers & some other stuff
+
+Just checked out that Carl Stalling disc and sure 'nuff there was a little bit
+of La Villa ... embedded in it.  Pretty cool.  It's on the Warner Bros. label
+(obviously enough) if anyone's wondering.
+
+Would anyone like to see (hear?) Steve Lillywhite produce a Rush album?
+Apparently, he's one of the producers (along with (boo, hiss) Rupert Hine) that
+either "felt he wasn't the right man for the job" or had "other commitments"
+when he bagged doing production for P/G.  Mr. Lillywhite has produced
+both U2 and Peter Gabriel albums and I think he'd be awesome.
+
+My copy of Moving Pictures on CD says "digitally mastered" on it -
+which means the record company made a digital master of the music before
+pressing the CD - inherently obvious, right?  That would make it AAD, not ADD.
+I bought mine in '86 so it might've been remixed - but I doubt it.
+
+Unfortunately, I'd have to admit that Rush has occasionally bashed other bands.
+I think Geddy said (in "Heavy Metal Masters"(?)) Rush "didn't just play the
+same old shit album after album."  It was probably in reference to the Who,
+although  this is all pretty sketchy memories from quite awhile ago.
+
+One more question - did anybody else notice that the bass line to INXS'
+"Suicide Blonde" sounds suspiciously like a simplified version of that in
+"Scars" (presto) ?
+
+Rush Openers:
+P/G - Helix, Landover MD
+Power Windows - Steve Morse, Landover MD
+Power Windows - nobody (and they didn't add a second set, either) Baltimore MD
+Presto - Mr. Big (I liked the drill on the guitar but that's about it)  Baltimore MD
+
+Musicians on NMS - I play trombone!(God's Instrument)
+
+(oops, I lied - yet another question)  Can a translation be provided of what
+Geddy says at the end of "Red Lenses" (P/G)?  I thought it sounded like
+"everybody can suck my dick," but I hope not.
+
+"I see red
+(not blue)
+(not yellow)
+(not green)
+(not checkers)
+P/G tour Landover MD - the coinciding light show was pretty neat too.
+
+-rob simmon
+
+----------------------------------------------------------
+
+Date: Thu, 14 Feb 91 21:57:05 -0500
+From: atd@po.CWRU.Edu (Aron T. Drake)
+Subject: RE: geddy on metal shop
+
+HI Gang,
+
+      Well this is my first posting so here goes:
+Someone asked if anybody knew anything about the "Fly by Night" alblum, and
+yes I have heard a story (hopefully true). Well the boys were going to do
+a gig in Cleveland (YES Cleveland) and they were driving down from Toronto.
+Well, somehow they took the wrong exit and ended up in Minessota or something
+like that. 
+   They had to fly back to make the gig. They took a very late plane back to
+Cleveland with all there equipment. After they landed, they taxied in and
+taxing out was a Delta "Fly by Night" express. Hence the name of the album.
+      Now I have to say this is what I have heard, so if I'm wrong please don't
+beat on me too much. A good friend of mine who live in the Toledo area(I'm in
+Cleveland right now) heard this story somewhere just told it to me a few days
+ago so I'd pass it along.
+
+     Oh one other thing, there's a really good Rush cover band calle "Free
+Will" from Toronto. They are VERY good. If you get a chance go and see them
+(the drummer can keep up well and the vocalist/bassist even kinda sounds
+like Geddy)
+GO!!
+
+                      Take off, eh
+                       Aron Drake
+
+###]
+
+--
+I think, therefore I am.....Confused!
+
+"Well if we took the bones out,
+  it wouldn't be crunchy now would it?"--Monty Python
+
+----------------------------------------------------------
+
+Date: Thu, 14 Feb 91 17:32:24 hst
+From: Hinano Akaka &lt;bigtuna!hinano@uhccux.uhcc.Hawaii.Edu&gt;
+Subject: The Pass (yet again!!!!)
+
+Good Morning Rushans! --
+
+Well, Mike, you're not alone -- Grace Under Pressure is one of my
+favourite albums, as well (it's tied with Moving Pictures).
+
+In reference to The Pass -- I've read all the arguments, etc., but I
+just can't agree that Christ is meant as a noun.  As trivial as this
+may sound, it had occurred to me that no one has looked into the
+structure of the song itself along with the content.  First for the
+content:
+	Neil has mentioned himself that the song is about suicide (as
+we all know).  In the Rush Profiled! CD, he mentions that he wrote to a
+lot of people at universities, etc. about the subject of suicide -- but
+I think he was looking at a specific side of suicide.  He said that the
+choice of someone to commit suicide is theirs and it's their choice to
+make, but he was offended by people who commit suicide _for the sake of
+being a martyr_.  From the way he said it, and I realize this is
+subjective, it sounded like he understood why people commit suidice,
+but he couldn't understand why people commit suicide, again, _for the
+sake of being a martyr_.  There is a difference between committing
+suicide from ultimate depression, terminal illness (i.e., Alzheimer's
+disease -- though that could be interpreted as being a martyr, but that
+is not the reason why terminally ill patients commit suicide), etc. and
+suicide to 'save face'.  His own allusion to that type of mentality was
+the Japanese samurai -- commiting suicide for honor, and that whole
+bit.  He was offended by that type of mentality and mentioned that he
+couldn't relate to it at all.  And so he wanted to demythologize it, to
+emphasize that that was a tragedy and not something to be hemmed and
+hawed over and respected.  Hence, the song.
+	I can't see any evidence, either in the song or Neil's mention
+of it, that would point to an allusion to Christ.  Although Neil is a
+master of words, I don't think he would put more than one
+'interpretation' (I realize that's a bad word to use) in this
+particular song.  He did a lot of research (in the tradition of
+Manhattan Project) for the song, and he feels strongly about the
+subject, so I think he'd be pretty straightforward on this one.  This
+is rather reminiscent of the term "Lotus Land" he used in Freewill.
+It's another term for L.A., but he did not intend for it to mean L.A.
+in the song, so that's just one example of an "unintended-double-
+entendre".
+	Obviously, the only way to fully understand the song from
+Neil's view (which is what we're all arguing over) is to either discuss
+it with him, or look at all the notes, rough-drafts, letters, etc. he's
+written about the song.  With that in mind, one can then take a look at
+the structure of the song.  We don't know how many revisions or
+rough-drafts the song went through.  He may have had something like
+"For Pete's sake -- what have you done?"  or whatever.  When recording,
+it may have been discovered that what Neil had written down wouldn't
+fit into the song, structure-wise, and so he may have had to revise
+it.  Or he chose "Christ" intentionally in the beginning.  Aside from
+fitting into the song structure, it has an impact.  Think of how wimpy
+it would sound if it was "Geez -- what have you done?" or "Ah man --
+what have you done?"  The word (not necessarily the name) has an impact
+-- it has a sharp sound and gets attention and has the ability to
+shock, which was the effect Neil was after -- the shock of discovering
+someone who has just commited suicide.  Along with the music ending
+suddenly at that point creates an even more poignant effect.  Neil has
+mentioned that he must choose the words carefully because he's only got
+so much room to use them.  Using "Christ" as an interjection at that
+point seems to have been the only way to create the effect he wanted,
+etc.
+	I know that some people are going to disagree with either the
+subject and/or arguing about what Neil thinks, and that's fine.  I've
+got no qualms about that; we're all entitled to our opinions.  What I'm
+trying to do is to try and understand where Neil is coming from.  Along
+with my own interpretation of the song, Neil's view makes it even more
+interesting.  I mean, if we can't argue over opinions and
+interpretations, this would be a pretty boring digest!
+	And as I've mentioned before, the song-structure angle may be a
+bit weak, but we are looking at a song, and songs have certain
+limitations and we should be keeping that in mind (IMHO).
+
+Along that note, I'd like to ask everyone (humbly, humbly!), please,
+guys and gals, be nice to everyone else!  Sheesh!  Argue all you want,
+please, but don't attack your fellow Rushans!  I'd like to think we
+have Academic Freedom on this Digest (I mean most of us are in/at
+universities).  Maybe everyone's anxious about the War and a whole
+bunch of other stuff, but we're supposed to be on the "same side" (or
+am I being just a little too idealistic?).  This isn't aimed at anyone
+in particular, but I'm noticing that the posts are getting a little
+more 'edgy'.  So, take 'em easy, you guys!!
+
+Puanani Akaka    WORQ: "Handle with Kid Gloves, Handle with Kid
+				Gloves"
+
+----------------------------------------------------------
+
+Date:         Fri, 15 Feb 91 00:14:26 EST
+From: mike &lt;H97SI@CUNYVM.CUNY.EDU&gt;
+Subject:      Re: 02/14/91 - The National Midnight Star #171
+
+cheryl,
+      i guess i should reiterate what i meant to say...no one person voted for
+p/g as their top, best, favorite, numero uno album(a 20 point-er), but it is
+mine                               ...UNTIL LATER...
+                                            mike
+p.s. would you be my valentine?                 *****
+                                   * *   * *     * **
+                                 *     *     * * *  *
+                                *   mike      **
+                                *    -n-      *
+                                 *    cheryl *
+                                   *       *
+                                   * *   *
+                                  *** * *
+                              * * **   *
+                                  *
+
+----------------------------------------------------------
+
+Subject: Keyboards & Guitars
+Date: Fri, 15 Feb 91 02:18:39 EST
+From: mjkobb@media-lab.media.mit.edu
+
+Hiya,
+
+  A question on Rush's keyboards.  On the Show of Hands video, Geddy is
+playing four keyboards, all with the names covered with tape.  As far as I can
+tell, he's got a Yamaha KX-series on top on his left, a Roland (D50?) top
+front, an analog on the bottom, in the front, and some other keyboard on the
+bottom left.  It's the analog I'm most interested in.  It's got two rows of
+knobs on the left side of the panel, a display in the center and what looks
+like a keypad on the right.  What is it?  I'd also like to know what the one
+on the bottom left is.  Also, anybody know if they're still using Emu
+Emulators for their samplers?
+
+  Finally, a friend of mine (guitarist), was wondering what kind of guitar
+Alex uses for lead on Show of Hands.  (It looked like he's still using the
+same one for Presto).
+
+Thanks,
+--Mike
+
+----------------------------------------------------------
+
+From: wolf@xensoft.xenitec.on.ca (Dave Wolf)
+Date: Fri, 15 Feb 1991 00:22:57 EST
+Subject: Kim Mitchell
+
+I realize this isn't a Rush topic, but there seems to be a lot of interest in
+Kim Mitchell's music here lately, and besides, my opinion *was* called for.
+
+&gt; Any other Canadians care to voice opinions?  Robyn?  Ron?  Dave Wolf?  Mark
+&gt; Dykeman?  Martin?  Back me up here....                     ^^^^ ^^^^
+
+So, IMHO ....
+
+All the Max Webster/Kim Mitchell albums are excellent. I grew up listening to
+Max (and Rush) and I can't think of one song I don't like. It's hard to pick
+the best album, but I would say "Universal Juveniles" or "A Million Vacations"
+rank as my favorites. As far as Kim's solo stuff goes, his first EP was great
+and it just got better from there. Songs like "Diary for Rock 'n' Roll Men",
+"That's a Man", "Lager and Ale", "That's the Hold" and "City Girl" are all
+Canadian rock and roll classics.
+
+I feel sorry for everyone in the U.S. who can't find these albums, you are
+really missing out on some great music.
+
+I saw Kim last summer on the "I Am a Wild Party" tour and he put on a super
+show. I hear he's doing some local touring now and I'll be at every show I
+possibly can. I also heard he's working on a new album, ready for a summertime
+release. I can't wait!
+
+Kinda makes you glad to be Canadian.
+
+Dave Wolf
+wolf@xensoft.xenitec.on.ca
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The National Midnight Star, 1991.
+
+This message is subject to the restrictions of The Electronic
+Communications Privacy Act of 1986, Public Law 99-508, as amended.
+Unlawful interception and/or redistribution of this message is a
+Federal crime, punishable  by a maximium 10,000.00 dollar fine, and/or
+imprisonment for up to ten years.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 172
+********************************************
+
+

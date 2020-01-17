@@ -1,0 +1,553 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 04/30/91 - The National Midnight Star #228
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 228
+
+                  Tuesday, 30 April 1991
+Today's Topics:
+                      Administrivia
+                    Throwing the Stone
+                          (none)
+                     Festival Seating
+                    Rush in Canada...
+            The incredible shrinking postings
+                        New Topic?
+                       Meeting RUSH
+                    Obligatory Posting
+               Crew member close encounter
+                Rush Newsgroup vs. NMS...
+                       newsgroup??
+                       Poll Results
+               The three gilded spheres....
+                 Neil and Rush's Destiny
+             Kid Gloves & Emotion Dectector.
+----------------------------------------------------------
+
+Subject: Administrivia
+Date: Tue, 30 Apr 91 15:02:26 EDT
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+It's reaching the end of another semester, and many list members will be
+losing computer access soon, or will be taking a break for a while.  We've
+lost about 10 people in the last two days for this reason.  I'd like to
+make a request:  if you know you're going to be losing your account soon,
+or will be unable to log on and read your mail, please unsubscribe from
+the mailing list.  It's much easier for me to get a "please remove me"
+message than to figure out if yours is *really* an unknown  userid.  All
+you need to do is drop a line to the administrative address (where you
+subscribed) when you wish to discontinue your mailings, and you'll be off
+the list within 24 hours.  Syrinx is a permanent machine (well, as permanent
+as computers can be), and will be here when you come back.
+
+\begin{gripe-mode}
+Also, if you wish to be removed from the list, PLEASE send your mail to
+the apropriate address.  If you send an "unsubscribe" message to the list
+alias, it will go out as part of the digest, and you'll appear to the
+whole as unable to follow simple directions.  I see at least one per week;
+it's getting more common.  Remember, the addresses are at the end of EVERY
+digest - if you forget, just check there.
+\end{gripe-mode}
+
+New stuff available:  I've compiled the lyrics to Chronicles and placed them
+in the rush/lyrics directory at the ftp site.  I've also mailed them to the
+person in charge of the server at Ingr, so I assume they will be available
+there shortly (if not now).
+
+Lastly, I am in the process of formulating some sort of poll for the list.
+I'm interested in demographics of you people - general idea of age, position,
+location, how long you've been a fan, etc.  I'll be posting this formally
+in the near future, so please, no replies for now.  I'll probably set up a
+special address (poll@syrinx, or something like that) for this to make it
+smoother for me.  Keep your eyes open!
+
+rush-mgr
+
+----------------------------------------------------------
+
+Date: Mon, 29 Apr 91 15:09:24 PDT
+From: 6600clem%ucsbuxa@hub.ucsb.edu (James C. Harman)
+Subject: Throwing the Stone
+
+    I am startled at the response to the album title that I suggested in
+NMS 233(or 232?). PLEASE REMEMBER: "Throwing the Stones" is a "WORKING
+TITLE" which means it may be changed. The source of this info is KERRANG!
+magazine. Personally, I think that "Throwing the Stones" would be an
+interesting concept for an album. I guess all  will be revealed in August.
+Let's hope!!
+
+----------------------------------------------------------
+
+Date: Mon, 29 Apr 91 18:57:04 EDT
+From: faulkner@acsu.buffalo.edu (shane p faulkner)
+
+rush-mgr is right-- things are getting stale
+
+We need a song analysis or something to motivate the masses... how about one
+of my favorites, Grand Designs.  On a basic level, I feel it's about getting
+the most out of one's life, not just trudging along in a two-dimensional
+existence.
+
+In particular, I think the line "A to B - Different degrees" suggests that
+there are different degrees of quality in which you can exist (ie. move
+from A to B -- birth to death)....
+
+Comments???
+
+/////////////////////////////////////////////////////////////////////////
+/ Shane P. Faulkner         |   A to B - Different degrees...           /
+/ University At Buffalo     |                          - Rush           /
+/ V127L2QZ@UBVMS.BITNET     |                                           /
+/ faulkner@acsu.buffalo.edu |   Rush - Marillion - Kim Mitchell         /
+/////////////////////////////////////////////////////////////////////////
+
+----------------------------------------------------------
+
+From: hasan@ropes.Reston.ICL.COM (Hasan Wahdan)
+Subject: Festival Seating
+Date: Mon, 29 Apr 91 19:02:42 EDT
+
+If this question has no place on here then please let me know.
+I caught a segment of 60 minutes the other night on festival seating
+and was vaguely reminded that Rush abolished that idea awhile back.
+Does anyone know what caused them to stop performing with festival seating?
+I was under the impression that the Who tragedy in Cincinnati was the cause.
+Any ideas
+
+[ They will never play stadium shows because they feel it is too impersonal.
+  They see them as a ploy by a few to make a lot of money.        :rush-mgr ]
+
+--
+Hasan Wahdan	ICL North America, 11490 Commerce Park Drive, Reston, VA 22091
+Internet:	hasan@ropes.OPCR.ICL.COM
+
+----------------------------------------------------------
+
+Date: Mon, 29 Apr 1991 19:30 EST
+From: "All The World's A Stage..." 
+         &lt;WALP63%SNYBUFVA.BITNET@CORNELLC.cit.cornell.edu&gt;
+Subject: Rush in Canada...
+
+In response to cfynx@epsl's question about how popular Rush is in Canada...
+
+Well..... being conveniently located only and hour away from Rush's
+hometown of Toronto... I'd say by gauging the radio play and concert
+attendance.... I'll go out on a limb and say Rush is very popular in
+Canada... Presto tour... two sold out shows at Maple Leaf Gardens if
+i'm not mistaken.... question??? when's the last time anyone heard
+Lakeside Park on the radio.... anywhere....?? 97.7 FM from Hamilton,
+Ontario... south of Toronto.. plays it and other Rush tunes regularly..
+
+The answer to the Amie Mann question is obviously yes... didn't ya
+see the video... watch MTV at 3 or 4 a.m. and occassionally you'll
+catch a Rush video...
+
+To add my two cents to the Rush wouldn't be anything without Neil..
+I'd have to agree... but not taking anything away from Geddy and Alex..
+you have to admit.. Neil is the centerpiece and the engine of the band..
+Ask anyone... "You like Rush??" they immediately respond.. "Oh, yeah...
+Neil Peart's an awesome drummer."  All three work so well together..
+I doubt Rush would be Rush with John Rutsey behind the drum kit..
+
+Anyone care to comment..??
+
+Also.. one other thing... rush manager... how bout an age poll of
+list subscribers... i'm curious...how bout you??
+
+[ Funny you should ask - see the Administrivia section...        :rush-mgr ]
+
+I'm 24... been listening to Rush for 12 or 13 years... now...
+
+Signed...
+
+Toonces The Cat
+
+"I CAN drive!"
+
+----------------------------------------------------------
+
+Date:  Mon, 29 Apr 91 19:44:02 -0400
+From: danmcd@zip.eecs.umich.edu
+Subject: The incredible shrinking postings
+
+I noticed our illustrious manager's comments on the size of the list, and
+postings as of late.  I can bring up three things that would cause this:
+
+1.  Finals, etc.
+2.  People leaving school, hence their E-mail.
+3.  Nervous anticipation for any new material.
+
+I seem to recall the issue sizes getting smaller before Presto came out, and
+then when Rush started touring, etc. everybody had their $0.02 worth and more.
+Of course, if anyone DOES have any interesting anecdotes, etc. please, bring
+them on!
+
+On an entirely unrelated subject......
+
+I mentioned some time ago about moving to Arizona for next fall.  It turns out
+I WILL be attending the University of Arizona (Tuscon) for grad school.  My
+question relating to this and Rush is where do they play in Arizona?  Do they
+do show(s) in Tucson?  Or will I have to road trip to Phoenix or Tempe?
+
+That's all for now.  I've got finals to attend to!
+______________________________________________________________________
+|Daniel L. McDonald    | Internet: danmcd@eecs.umich.edu             |
+|University of Michigan| Bitnet:   danmcd%eecs.umich.edu@umich.BITNET|
+|Computer Science, '91 | USnail:   1705 Hill St.  Ann Arbor, MI 48104|
+|______________________|_____________________________________________|
+|"rising falling at force ten                    | ONE WEEK, I'M OUT |
+| we twist the world and ride the wind..." - Rush| OF HERE, FOLKS!   |
+----------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Mon, 29 Apr 91 20:03:36 -0400 (EDT)
+From: "Charles Edward Batey, Jr." &lt;cb2o+@andrew.cmu.edu&gt;
+Subject: New Topic?
+
+Hi everyone,
+In the last digest, after someone mentioned that they met Jack Secret and got
+to tour the mobile recording studio, the rush-mgr asked how these people
+manage to do these things...  In the past, there have been numerous other
+accounts of meeting people/getting to do cool things at Rush shows.  Perhaps
+we could open a new topic for discussion and you people who have done these
+things could describe how you pulled them off?
+
+Ted Batey
+
+----------------------------------------------------------
+
+Date: Mon, 29 Apr 1991 22:34 -0500
+From: BJENKINS@ecs.umass.edu
+Subject: Meeting RUSH
+
+After being prompted by our illustrious manager, I felt a little guilty since
+I almost never post to this list.  So I decided it was about time to speak
+up.  Here goes.:
+
+I'm curious to hear what people think they would do or say given the chance to
+meet RUSH.  I would guess most of us have had some pretty wild fantasies about
+meeting them at one point or another.  I know I used to think about it all the
+time.  The reason I ask is because two days ago my bassist got to go backstage
+to meet LIVING COLOUR (another band we both idolize).  He came back with some
+pretty nice autographs, but that's all.  There were no fireworks or sirens or
+anything magical.  After we talked about it for a while we both concluded that
+if we ever got the chance to meet RUSH we'd probably not say much at all
+(except maybe to offer to buy 'em a beer).
+
+Does anyone out there really think that meeting RUSH would be as magical as
+we might first surmise it would be?
+
+Brett
+
+"Do I have to take all this in just to get to Nebraska!"
+"...hum?!"
+            - King's X
+
+----------------------------------------------------------
+
+Date: Mon, 29 Apr 91 20:55:17 -0600
+From: habbinga@tramp.Colorado.EDU (erik habbinga)
+Subject: Obligatory Posting
+
+   Being one of the newer members, I am sorry if I haven't posting as much
+as I should.  I have been trying to catch up on the back issues of the
+Digest (I've read through #112) while also keeping up with the new issues,
+not to mention my studies.  Thanks for the info on Alex's new guitars.
+I went out and bought that issue of GFPM with Alex on the cover, and was
+surprised to learn of his sickness at the Denver PoW concert.  I was there,
+and didn't notice any problem with his playing.  However, I was quite a
+ways away from the stage.  I lost my copy of the boot we made of the show,
+so I can't listen for any mistakes.  I didn't go to the Signals show, where
+they had synth trouble, but I did go to the Presto show.  It wsa a great
+show, especially since it started exactly on time!  The main problem I saw
+was during "Time Stand Still",  with Aimee Mann's sampled vocals.  On the
+word "still", the sound was really bad and seemed to be overloading the
+speakers it was running through.  For the encores, we on the floor rushed
+(so to speak) the stage and crammed in the front.  Geddy immediately moved
+back from the front of the stage, and Alex ran up to look at our bodies
+all packed together.  I spent all of "La Villa
+about fifteen feet from Alex, and tried to follow him to the center for
+"Finding My Way"  Alas, I missed the pick he through in the crowd by about
+ten feet.  We didn't get a boot of this show, which is too bad.  If they
+tour for the new album, I hope they make it to Denver, and stop their
+"Let's-go-to-Denver-for-every-other-tour" cycle.  If not, I can see a
+road trip in my future (hopefully not during finals).
+   Before I get back to studying, does anyone have a transcription (or
+remember) a radio special on the Boyz that must of aired around fall '84.
+I'm pretty sure that the B-Man was one of the interviewers, and Alex had
+him up in a plane and let him take the controls!  Also, could someone tell
+me in which tour program the first crossword puzzle appeared?  I've got
+the Signals program with the 2nd puzzle, and would like to see the first.
+Also, was there a third in the HYF toorbook?
+
+   Once again, I must thank our great rush-mgr for the incredible service
+he is doing us.  Getting mail on Rush every day is great, and having all
+the lyrics and pictures available really blows my mind when I actually
+think about it.
+
+----------------------------------------------------------------------
+Erik Habbinga                      We feel the push and pull
+habbinga@tramp.colorado.edu        Of restless rhythms from afar.
+----------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Subject: Crew member close encounter
+Date: Mon, 29 Apr 91 21:09:10 CDT
+From: David Sandberg &lt;sialis!dts@cs.umn.edu&gt;
+
+I always thought this was a little bit too thin to merit posting
+to TNMS, but since we're seemingly strapped for material at the
+moment...
+
+During the HYF tour, myself and two other guys were walking
+through Met Center shortly before the concert.  A long-haired,
+slightly heavyset guy brushed past us, on his way somewhere, and
+we all immediately recognized him as Howard Ungerleider (who of
+course is the lighting director and tour manager).  One of us
+said "Howard" in pointing him out to the other two of us, at
+which Howard turned around and stood there waiting for us to say
+something.  (I think he mistook us as being with the local staff
+or something - we had that look, I'm sure.)  Anyway, we just
+stood there for a few seconds, not having anything to say, until
+Howard's face finally screwed up with confusion and he went on
+his way.
+
+Anyway, we were amused.  Anyone else have any close encounters
+with band or crew members to relate?
+
+Actually, one of the two guys that went along to that concert
+was the lighting director for the Jets at the time (I know the
+average TNMS reader probably isn't a huge Jets fan, but anyway).
+Sensing a pattern here?  B-)  Anyway, Steve was able to describe
+in detail pretty much the entirety of Rush's setup, both in
+lighting and sound equipment (which he was quite impressed with,
+as I recall, especially with regards to the placement of the
+power amps for the flown stacks).  However, he did so in enough
+technical detail so that I can't begin to remember, much less
+recount any of it.  Oh well.
+
+--
+ \*=-      David Sandberg, dts@quad.sialis.com    ,=,       ,=,        -=*\
+  \*=-       "It's so hard to stay together,      | |uadric `=,ystems   -=*\
+   \*=-     passing through revolving doors."     `=\       `='          -=*\
+
+----------------------------------------------------------
+
+From: Chris Marshall &lt;cs2ct@hatfield.ac.uk&gt;
+Date: Tue, 30 Apr 91 03:43:25 +0200
+Subject: Rush Newsgroup vs. NMS...
+
+Regarding the question about whether to become a news group....
+
+Noooooo, don't do it. There are some of us out here who have e-mail
+and nothing else. It seems to be the case over here that quite a lot of
+places don't consider news something that students should have access
+to. I tried to get our folks here to install an rrn feed to the student
+machine, big NO! They were worried about disc space on the student
+machine (rrn doesn't use any)...
+
+[ True, but the files you can save from, oh, comp.sources could fill up
+  quite a bit of space...                                        :rush-mgr ]
+
+As regards the contributary dry spell - I can't help there. My brain is
+now dead after a 6 hour programming session :-(
+
+Does anyone have any idea when Rush will tour the UK again? I only got
+into them last year and therefore haven't been to a concert yet... I
+suppose they'll tour once the new album is out (whenever that is).
+
+Cheerio,
+Chris.
+
+******************************************************************************
+*      This is a Vax 8650 Somethingorother running Berserkley 4.3 Unix       *
+******************************************************************************
+* Chris Marshall,         * JANET:                                           *
+* 2nd Year BSc CS Degree, *   cs2ct@unix1.hatfield.ac.uk        [use your    *
+* Hatfield Polytechnic,   *   cs2ct@vms3.hatfield.ac.uk (blech)  fave bounce *
+* Hatfield,               *   cs2ct@sol.hatfield.ac.uk           site for    *
+* Herts. UK.              * UUCP:                                the UK]     *
+* Phone    +44 727 810402 *   ...!ukc!hatfield!cs2ct                         *
+******************************************************************************
+
+----------------------------------------------------------
+
+From: stedmant@LONEX.RADC.AF.MIL (Terrance A. Stedman)
+Date: Tue, 30 Apr 91 09:18:46 EDT
+Subject: newsgroup??
+
+        Although I have access to news, I don't have access to any of
+the rec. newsgroups (they are considered bogus by my employer probably
+because they are not even remotely work related).  So if TNMS becomes
+a newsgroup, I am out of luck.  Also, making the digest a newsgroup
+invites anyone with access to news to stomp all over the band we all
+love so much, and then everyone would have to hit the 'n' key a hundred
+times to extinguish all the flaming posts.  IMO, the digest format
+works the best.  If you can receive email, you can participate.
+
+----------------------------------------------------------------------------
+  I_) I I &lt;~ I_I          Terry Stedman           ORQ: "if I could wave
+  I \ I_I _&gt; I I   (stedmant@lonex.radc.af.mil)         my magic wand..."
+----------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Tue, 30 Apr 91 10:10 EDT
+From: "Douglas G. Schwabe" &lt;DGSST4@vms.cis.pitt.edu&gt;
+Subject: Poll Results
+
+Hi Folks,
+
+   Bad news.   When I was compiling the results to the cassette poll I forgot
+a few lists.  due to this grave error as well as my discography being chewed 
+up the results will be posted tommorrow.  Honest Injun, dudes.  I am going 
+up to Toronto Thursday and I won't have time to post them then.  Speaking of
+Toronto, I am interested in buying some Kim Mitchell tapes when I am up there
+(Did you ever notice that no one has mentioned him in quite some time?)  To
+all of Kim's fans (Shane, Robyn, Dave W.), what record stores in Toronto 
+carry his material?
+
+Remember, Poll Results posted TOMORROW!!!!!  Make a mental note, mark it on
+your calendar  BE THERE!!!!!!!!!!!!
+
+Doug
+
+LET'S GO PENS!!!!!! PUT THOSE BRUINS TO RUINS!!!!!!!!!!!!
+
+LET'S GO STARS!!!!
+
+----------------------------------------------------------
+
+Date: Tue, 30 Apr 91 07:28:31 -0700
+From: wbarry@cory.Berkeley.EDU (Bill Barry)
+Subject: The three gilded spheres....
+
+A couple days ago someone mentioned a scene in The Fountainhead that mentioned
+three spheres. Well, I looked this up and found out that the character
+who said this was Kurt Lansing. He was telling the protagonist, Howard
+Roark, why he was fighting for him. At the end of his discussion Lansing
+said "If I were to choose a symbol for humanity, it would not be a lion
+or a unicorn, but three gilded spheres." Unfortunately he does not elaborate
+why he chose the three spheres. It is merely stated and the chappter basically
+ends.
+
+Here's an interesting question: On my copy of the Caress of Steel album, I
+cannot find the credits to the lyrics. Obviously Neil wrote most, if not
+all of them, but the liner notes does not mention who is responsible for
+the lyrics. Does anyone know the credits?
+
+Good day
+
+Bill
+Barry
+
+----------------------------------------------------------
+
+Date: Tue, 30 Apr 91 09:42:00 EST
+Subject: Neil and Rush's Destiny
+From: DSchmidt.311@postman.gsfc.nasa.gov!
+
+    I have to agree that Neil's lyrical and rythmic contributions are
+    probably most responsible for Rush's success.  But Alex and Geddy
+    really had something unique at the start.  It's hard to pin it down,
+    but their first album (although raw and somewhat simplistic)
+    exhibited something special.
+
+    The "energy" of the band was there from the start- and Neil's
+    creativity was exactly what they needed to acheive greatness.
+
+    Dave "Lerxst" Schmidt
+
+----------------------------------------------------------
+
+Date: Tue, 30 Apr 91 12:50:15 PDT
+From: degennar%bmsr3.usc.edu@usc.edu (Raymond Degennaro)
+Subject: Kid Gloves & Emotion Dectector.
+
+in the interview with Neil in TNMS #221, he says:
+&gt;I think you have to
+&gt;say that if a song doesn't connect with people then the fault of
+&gt;accessibility lies with communication.  `Emotion Detector' is an
+&gt;example off `Power Windows' and `Kid Gloves' on `Grace Under Pressure.'
+&gt;We did our best but didn't achieve what we wanted.
+
+i don't know, they're my favorite song from the albums. they aren't the best 
+ones, just my favorites.  both of these songs really relate to personal 
+experiences, almost as if Neil had me in mind when he wrote them (ditto for 
+"Scars" from _Presto_).
+
+to all of you that don't "connect" with either of these songs, why not?
+
+to those of you that do, why?
+
+ORQ's:
+
+  "Then you learn the lesson that it's cool to be so tough.
+   ...
+   When you learn the lesson that it's tough to be so cool."
+
+  "When we lift the covers from our feellings, we expose our insecure spots.
+	Trust is just as rare as devotion, forgive us our cynical thoughts."
+
+  "Pleasure leaves a fingerprint as sure as mortal pain."
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 228
+********************************************
+
+

@@ -1,0 +1,177 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 01/18/91 - The National Midnight Star #155
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 155
+
+                 Friday, 18 January 1991
+Today's Topics:
+               More on images, software bug
+                         aeolian
+       General RUSH appreciation/Terretories(Iraq)
+             The existence of "Broon's Bane"
+----------------------------------------------------------
+
+Subject: More on images, software bug
+Date: Fri, 18 Jan 91 09:53:24 EST
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+For those interested, the 'images' subdirectory of the anonymous ftp
+area on Syrinx has been updated.  I've put together a script to convert
+Sun raster images to GIF format, and have converted all the original
+rasters into GIFs.  If you consult the CONTENTS file you'll see what I
+mean.  Just a note: this directory is for *any* Rush-related image
+file, not exclusively pictures; individuals' artwork is also accepted.
+
+On the topic of the "From" bug in the digest software, I've received
+mail from the writer, and he says he can't figure out how to get rid
+of it.  Oh well.  If there's anyone out there that's an 'awk' wiz and
+feel like tackling a bug problem, drop me a line at the adminsitrative
+account.
+
+rush-mgr
+
+----------------------------------------------------------
+
+Date: Thu, 17 Jan 91 12:09 CDT
+From: MICHAELS@nuacc.acns.nwu.edu
+Subject: aeolian
+
+Just a few paraphrased lines from an old Guitar Player issue which relate
+to the discussion of modes at the intro to Freewill.  The quotes are from
+a letter written in response to an article which stated, among other things,
+that Steve Clark and Phil Collen of Def Leppard tend to play in a sort of
+Jeff "Beckian" mode!
+
+Zounds!
+"...that the boys are playing in a Beckian mode?  What the hell is a
+Beckian mode, would you mind telling me?  Oh, for the luvva Mike, can
+we expect to hear next that they also dabble in the assholian mode?
+Or let's not rule out the dreaded mix-a-few-of-'em mode."
+
+I laugh every time I remember that letter.  Enjoy it all!
+Carpe Diem,
+
+Steve "Big Money goes around Northwestern" Michaels
+
+----------------------------------------------------------
+
+From: chainsaw@jhunix.hcf.jhu.edu (David Laurenc Gordon)
+Subject: General RUSH appreciation/Terretories(Iraq)
+Date: Thu, 17 Jan 91 13:57:33 EST
+
+	Howdy! It's been awhile since I've written, but I just want to bring us back to basics here. I get almost daily criticism from my friends who dare to
+compare RUSH to bullcrap like Depeche Mode and Technotronic. Can you believe
+this??? So they ask me why I like RUSH so much. I say, for starters, that there isn't a more talented trio in the world. Then I go on to add that I just happen
+to like songs that actually mean something (as will be demonstrated in a sec).
+I then add something to the effect of "This is rock music the way it was meant
+to be, not the way it was warped so that people could dance to it." I continue
+to say that I like music that is made by human beings, instead of the soulless
+boxed sounds of most of today's top forty. Finally (because I'm short of time,
+not because it's the last reason), I get up the courage to say I actually like
+Geddy's voice. AAAAAAAAAaaaaaaaaaaaaaaaa!!!!!!! End of conversation.
+
+	Anyway, about Territories and Iraq. Those who have watched the info on
+our invasion last night cannot help but admit that it rises over the pettiness
+that Territories is about.
+
+	"...Can't really feel what international means"
+
+	The invasion was definitely international, involving four different
+countries in the air attack--U.S., Britain, Saudi Arabia, and Kuwait. (Notice
+how the French are sitting on their butts again?)
+
+[ I hate to nitpick, but the French had 4 aircraft sustain damage on the
+  first day of the attacks.                                     :rush-mgr ]
+
+	"...They shoot without shame
+	    In the name of a piece of dirt"
+
+	This, as does the rest of the song, applies to Iraq alone and not to
+any of the allied countries. I just want to set it straight that the song
+Territories is not anti-war, it is anti-pettiness. Go Team USA!
+
+	-Chainsaw
+	-The opinions expressed here are solely my own
+	 and do not reflect the opinions of my school,
+	 my mother, my roommate, or any of a variety
+	 of my other personalities.
+
+----------------------------------------------------------
+
+From: dana@csl36h.csl.ncsu.edu (Dana Borger)
+Subject: The existence of "Broon's Bane"
+Date: Thu, 17 Jan 91 17:47:00 EST
+
+Does anyone know if the song "Broon's Bane" on Exit...Stage Left"
+was actually supposed to be part of "The Trees" at one time (perhaps
+before the final recording of _A Farewell to Kings_)?
+
+[ Also, are there any other album/CD/single releases of it?     :rush-mgr ]
+
+To me, "Broon's Bane" would pass the test of "most-likely-to-be-
+an-intro-to-'The Trees'".  It just sounds so "Treesy".  Was there some
+dispute over this bit of music, perhaps between Rush and then-producer
+Terry Brown (Broon)?  Hence the name "Broons *Bane*".
+
+Dana
+
+Love and Life are deep
+Maybe as his eyes are wide  -np
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 155
+********************************************
+
+

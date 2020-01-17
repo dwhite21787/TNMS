@@ -1,0 +1,909 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 11/22/91 - The National Midnight Star #384
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+          The National Midnight Star, Number 384
+
+                 Friday, 22 November 1991
+Today's Topics:
+           those darn SPOILERS (not a spoiler)
+                Rush in the Ottawa Citizen
+                    Neil & Tom Robbins
+                          (none)
+                    My address (oops!)
+                 Hemispheres picture-disc
+                           GUP
+                       UNSUBSCRIBE
+                Seats - Don't pick yours!
+                          STICKS
+                  Dice/Rockline/Tickets
+                     Rand's influence
+                    Hemispheres poster
+                    The mystery rapper
+           Computer Equipment Used in the Show
+              Opener For The TO Show Dec. 16
+                   RTB VIDEO ON JUKEBOX
+          May be a little early to speculate...
+         EVERYBODY READ THIS!!!!!!!!!!!!!!!!!!!!
+                      Jacob's Ladder
+                          Sticks
+                  Son of Rush CD Prices
+                Late bloomer + Predator II
+          Alex's keyboard work in Superconductor
+                          Review
+                          neeto
+                       Eric Johnson
+                    A Bit of Hugh Syme
+                         LaVilla
+----------------------------------------------------------
+
+From: stedmant@LONEX.RL.AF.MIL (Terrance A. Stedman)
+Date: Thu, 21 Nov 91 16:40:13 EST
+Subject: those darn SPOILERS (not a spoiler)
+
+   I can sympathize with those who have had the show SPOILED for them already.
+Perhaps an idea would be to use the rot13 method to encrypt the posts.  Sure
+you can just put SPOILER in the subject line, but people might see something
+as the text they are trying to avoid reading is scrolling by.
+   On my Unix account, I have an executable script called trfile which contains
+the following:
+
+      tr '[a-m][n-z][A-M][N-Z]' '[n-z][a-m][N-Z][A-M]'
+
+   Doing an ls -l on said file produces:
+
+      -rwx------  1 stedman        49 Jul 29 14:03 trfile
+
+   Basically, all characters are rotated by 13 so an a becomes an n and so on.
+To encrypt the file you just execute the following command:
+
+      $ trfile &lt; spoiler &gt; spoiler.encrypted
+
+To unencrypt, you just do the reverse:
+
+      $ trfile &lt; spoiler.encrypted
+
+   This may be a good idea or it may totally suck depending on how difficult
+it would be for those who want to read spoilers to decrypt them.  I know
+that rot13 is a standard on many newsgroups like rec.humor.funny.  Just
+an idea...
+
+[ I though about doing things this way, but not all of the NMS readership
+  has access to a Unix system.  Now, if I could find the C code to do the
+  same thing, I might consider it.  I don't want to do something that's not
+  accessable to many list members.                                :rush-mgr ]
+
+    Terry Stedman    Internet: stedmant@lonex.rl.af.mil
+    ------------------------------------------------------------------------
+    I ) I I &lt;~ I_I   "It is my will which chooses, and the choice of my will
+    I \ I_I _&gt; I I   is the only edict I must respect." - Rand from _Anthem_
+    ------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Thu, 21 Nov 91 16:45:59 EST
+From: rkleiner@ccs.carleton.ca (Ron Kleiner)
+Subject: Rush in the Ottawa Citizen
+
+To kill time, I'm typing in the following article from today's (21/11/91)
+Ottawa Citizen (otherwise a sh*t-rag):
+
+     "Older, wiser and still rockin'.....R U S H"
+by Lynn Saxberg (Citizen Staff Writer)
+
+	When Rush is touring, drummer Neil Peart's peace of mind depends on
+giving a good performance.
+	"My whole life hinges on how well I played last night," he says.
+"It's so important and so critical that a show day is like nothing else.  I
+judge my whole reality based on how well that two hours on stage go."
+	That's the kind of uncompromising professionalism that has propelled
+the trio to become the most respected of Canadian rockers.
+	But 18 years ago, neither the band members - Peart, guitarist Alex
+Lifeson and singer-bassist Geddy Lee - nor the critics would have predicted
+that the band would become so firmly established.
+	They've released 14 studio albums worldwide.
+	They own their own record company, Anthem Records, and each band
+member makes a comfortable living.  They even have a health and dental plan
+for their roadies.
+	Not bad for a band that used to play every high school dance north
+of Toronto.
+	The band is three weeks into a world tour, backing the newly released
+"Roll the Bones" album.
+	They perform at the Civic Centre Tuesday.
+
+	To some, the enduring appeal of the music lies in its consistency -
+complex lyrics over intricate bass and drum work, with Lee's soaring vocals
+providing a distinctive hook.
+	But from Peart's perspective as a musician and songwriter, the playing
+and writing has changed enormously during the years.
+	"To me, early things are like your fridge paintings from Grade 2 that
+your mom used to hang on the fridge.  You grow out of them and you're either
+embarrassed or a bit nostalgic about them," he says.
+	"That's probably a good analysis with the early stuff for me.  For me,
+anything much before 1980, I don't honestly relate to in any direct way
+anymore.  As with anybody, you look back at your adolescence and it could be,
+maybe not embarrassing, but uncomfortable at least.
+	"I've become much better at communicating ideas and sensations and 
+responses to things," he says.
+	Although Peart sounds like a hard-to-please perfectionist when he
+talks about his work, he is happy with the new album.
+	The song "Ghost of a Chance", for instance, is a rare Rush love song.
+The band usually shies away from love songs because they tend to sound
+shallow, Peart says.
+	"falling in love, as everyone knows, is a pretty common occurrence.
+But beyond the falling in love, to create a real enduring love is an effort
+of will and discipline and sacrifice and all those other things that are
+work in a sense."
+	"I was able to address a nuance of love like that, just through
+having the technique of being able to think about it and then verbalize
+it with exactly the right words."
+	In the past few years, Rush has enjoyed a growing sense of respect
+from a wider audience.  Peart speculates that it may be because of renewed
+interest in heavy metal.  While Rush's music is more accurately termed
+progressive rock, it's often been lumped in with metal.
+	And that used to bother Peart.  "Three or fouryears ago, the
+definition of heavy metal was pretty lame," he says.
+	"Now it's actually a very respectable genre.  In fact, it's often
+attributed as the return to real music and real musicians.
+	"Before we were guilty by association and now we're kind of heroic
+by association.  We're still doing the same things and growing our own way
+but suddenly everything's changed around us."
+	Rush fans who discovered the band in the early days have grown up
+with the band.  Many are now in their 30s with careers and families.  Peart
+says he's beginning to see fans in the audience with their spouses and
+children.
+	And the fans are definitely a devoted bunch.
+	Rush has been bombarded with petitions from fans in certain
+Canadian cities, including Ottawa and Halifax, to bring the band to their
+town.
+	Peart received the Ottawa petition, started by a local radio
+station, when the band was in rehearsal.  After checking with the band's
+manager he faxed back a positive reply.
+	"At the time, we didn't know exactly when but those things do
+matter.  you hear about something like that and you want to respond to it."
+
+---
+
+Roll them bones, eh?
+Ron Kleiner
+rkleiner@alfred.carleton.ca
+
+----------------------------------------------------------
+
+Date: Thu, 21 Nov 91 16:24:07 EST
+From: rkleiner@ccs.carleton.ca (Ron Kleiner)
+Subject: Neil & Tom Robbins
+
+I'm currently reading the acclaimed novel "Skinny Legs and All" by Tom
+Robbins.  Among the dozen or so acclamations at the front (from sources
+such as "Publishers Weekly" and USAToday) is the following:
+
+"Writing that is funny, sexy, imaginative and playful, yet has an
+underlying texture both beautiful and profound."
+		-Neil Peart, lyricist, Rush
+
+Just a little tidbit, there.  Now permit some gloating:  I got Row A (sic)
+floors to see Rush here in Ottawa on Tuesday!!  Should out-rock all the
+previous Rush shows I've seen (since Signals).  BTW, the show is not sold
+out, despite it being in a small arena.  Every seat in the Ottawa Civic
+Centre is good, and the acoustics are much better there (saw Queensryche
+recently) than Maple Leaf Gardens, Montreal Forum, or Skydome.
+
+Roll them bones, eh?
+
+Ron Kleiner
+rkleiner@alfred.carleton.ca
+
+----------------------------------------------------------
+
+Date: Thu, 21 Nov 1991 16:56:41 -0700
+From: colesa@spot.Colorado.EDU
+
+My favorite bands, in order because they're supposed to be:
+1)RUSH
+2)Pink Floyd
+3)YES
+4)Led Zeppelin
+
+There are four, because you may be interested in my three fav bands OTHER
+than A#1.  These are subject to change, of course, according to mood and
+amount of illegal substances consumed.
+Adam Coles                           { "How do you fight such a savage?"
+Tired and Broke                      {
+College of Aerospace                 { "With Heart, Faith, and Skill.  In
+Engineering Sciences                 { the end, there can be only one."
+
+----------------------------------------------------------
+
+Date: Thu, 21 Nov 91 18:58 EDT
+From: DELBUSSO@vms.cis.pitt.edu
+Subject: My address (oops!)
+
+Fellow Rushians,
+   Oops!  I sent you the wrong address for my poll.
+   I sent you: delbusso@vms.pitt.cis.edu,
+It should be:  delbusso@vms.cis.pitt.edu.
+Sorry 'bout that, although some people figured it out.  I've got about ten
+or fifteen votes so far.  I'll put out the results in a week or two (some-
+time after Thanksgiving).  L8r.
+
+           Tony DelBusso
+
+-------------------------------------------------------------------------------
+*******************************************************************************
+*          _                                                                  *
+*         |_| |\ | ~|~ |_| /\ |\ | \/   |   |\ |~ |  |&gt; | | &lt;  &lt;  /\          *
+*         | | | \|  |  | | \/ | \| |   _|.  |/ |~ |_ |&gt; |_|  &gt;  &gt; \/          *
+*                                               ~                             *
+*******************************************************************************
+************************** delbusso@vms.cis.pitt.edu **************************
+*******************************************************************************
+-------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Thu, 21 Nov 91 19:19 EDT
+From: DELBUSSO@vms.cis.pitt.edu
+Subject: Hemispheres picture-disc
+
+Fellow Rushians,
+   Anybody out there know how much a picture disc (you know, records with
+pictures on them instead of plain black {what's a record?}) of Hemispheres
+is worth?  Somebody I know has one that's in excellent condition (not to
+mention it's never been played before).  Also, does anybody know if there
+were any other Rush picture-discs and/or where you could get and/or how
+much they'd cost?  Thanx.
+
+[ I think I paid about $15 for mine back in the early 80's.  I've heard they
+  still go for around that, but I think you have to find them in specialty
+  record stores (not Kemp Mill/Waxie Maxies/Musicland/etc types), or at 
+  record conventions.  I've seen one advertised at $75 here, but I wouldn't
+  touch it unless I failed all other options...                     :rush-mgr ]
+
+-------------------------------------------------------------------------------
+*******************************************************************************
+*          _                                                                  *
+*         |_| |\ | ~|~ |_| /\ |\ | \/   |   |\ |~ |  |&gt; | | &lt;  &lt;  /\          *
+*         | | | \|  |  | | \/ | \| |   _|.  |/ |~ |_ |&gt; |_|  &gt;  &gt; \/          *
+*                                               ~                             *
+*******************************************************************************
+************************** delbusso@vms.cis.pitt.edu **************************
+*******************************************************************************
+-------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Thu, 21 Nov 91 19:44:51 -0500
+From: supriya (Lyricist)
+Subject: GUP
+
+Just wanted to know is someone could explain the cover of GUP
+to me..
+
+--Supriya
+
+----------------------------------------------------------
+
+From: "Rahul G. Patwari" &lt;rgp39716@uxa.cso.uiuc.edu&gt;
+Subject: UNSUBSCRIBE
+Date: Thu, 21 Nov 91 18:46:58 CST
+
+Please un-subscribe me to the Rush Mail Service.  This is too much information
+for me to take.
+
+But, if I have questions about Rush, I'm sure that you'll be able to answer 
+for me.
+
+--
+Rahul G. Patwari
+rgp39716@uxa.cso.uiuc.edu
+University Of Illinois
+At Urbana-Champaign
+
+----------------------------------------------------------
+
+Date: Thu, 21 Nov 91 20:12:18 EST
+From: sjuphil!jr040923@uu.psi.com (Joseph Roberts)
+Subject: Seats - Don't pick yours!
+
+Yo People,
+Someone out there in Rush land wanted to know (rightfully so, I think)
+how the more fortunate among us got good seats.  Well, I myself slept
+out with a Large # of people - at least 8.  We had a blast, but we got there
+EARLY - like, 11:30 p.m. the night before.  Other guys in my group got
+there at 9:00 p.m. (no lie, 9 o'clock!)!!!  Needless to say, we got there
+first and as a result got the best seats.  My advice to any ticket buyers
+is to go to a distributer that has a computer access to print up tix.
+This way, the distributer's computer automatically prints up the best
+seats available - period.  These types of distributers don't buy a
+section of tickets that they have to sell, giving you the best of their
+particular bunch - they can punch up the best tix available in the
+whole stadium.  Anyway, that's how it works (I think).
+Hope this is remotely helpful!
+Later........................
+
+The Fuzzy Navel
+
+p.s. - Don't go for lottery!!!!!!!!!!!  You will get screwed.
+
+"Fate is just the weight of circumstances..."
+
+[ Nine o'clock?  Geez, by then we had 20 people at our location!  I was
+  third in line at 4:30...                                       :rush-mgr ]
+
+----------------------------------------------------------
+
+Date: Thu, 21 Nov 91 20:25:53 -0600
+From: toronto@ccwf.cc.utexas.edu (James Moseley)
+Subject: STICKS
+
+Yes, those are the sticks!  The reason I know is because I am in possession
+of one!  Got it, well my sister got it, after the HYF concert in Austin, TX.
+It's a Promark 747 alright!  Also, he breaks all his sticks when they're
+about to break, and then gets fresh ones.  So the only way you'll get a
+whole stick is if it was one of the last pair he used.  BTW, met someone
+who knew a rodie, that
+that's how!
+
+----------------------------------------------------------
+
+Date: Thu, 21 Nov 91 17:35:17 HST
+From: hinano@ahi.pbrc.Hawaii.Edu (Hinano Akaka)
+Subject: Dice/Rockline/Tickets
+
+Yo!
+
+First things first:
+
+1) Dice -- I always thought of the Dice, at least the bottom 1/2, as
+being RANDOM like FATE.  Y'know, combining the ROLL THE BONES concepts
+with RANDOMness and FATE.  Well, you get the idea... Jst my .02 cents
+
+2) Neil on Rockline -- I KNOW those of you who will get it will tape
+it.  And yes, this is a request for anyone who might be kind enough to
+make a copy for someone out in the middle of the ocean.  I'm still
+tryinng to find out if Z-Rock will at least broadcast it.   BUt I
+suppose this can be discussed a little later...
+
+3) Please, I beg you, don't ever complain about your seating.  Most of
+you folks will be that much closer to the Boyz THAN THE REST OF US who
+will be moping around the hhouse pathetically fantasizing about being
+at a Rush concert because they didn't come to OUR TOWN.  I mean
+really.  How rude.  Sorry, I'm just indulging in depression and
+Rush-concert withhdrawal.  sigh...      :-)
+
+puanani Ho-hoo!
+
+----------------------------------------------------------
+
+Date: Thu, 21 Nov 91 23:27:02 EST
+From: vanth!jms@cbmvax.cbm.commodore.com (Jim Shaffer)
+Subject: Rand's influence
+
+I just read a newspaper article about a poll done by the Book Of The Month
+Club to see what books people claimed had influenced their lives.  After
+the Bible, the most-cited book was Ayn Rand's "Atlas Shrugged".
+
+--
+ *  From the disk of: | jms@vanth.uucp		       | I'm in a groove now
+ Jim Shaffer, Jr.     | uunet!cbmvax!vanth!jms	       | -- or is it a rut?
+ 37 Brook Street      | jms%vanth@cbmvax.commodore.com |
+ Montgomery, PA 17752 | 72750.2335@compuserve.com      | (Rush, "Face Up")
+
+----------------------------------------------------------
+
+Date: Fri, 22 Nov 91 00:30:30 EST
+From: pmadden@dopey.helios.nd.edu (patrick madden)
+Subject: Hemispheres poster
+
+Terry Stedman says that he got an original Hemispheres poster at a local 
+record shop.  I got this poster a while back, but I was wondering if there 
+are any more goodies inside the original pressings of any other albums.  I 
+know that Fly By Night had the lyrics printed on the sleeve, and I'm still 
+looking for that (my friend got it for $4!).  So... any other cool stuff?
+
+Also, about Alex's photos, I got all of them except the one where he is 
+dressed up like a little German boy.  I think one is him as Jack Ruby, 
+shooting Lee Harvey Oswald.  Is that what everyone else thinks?  There's 
+also of course, the Pope, George Bush, Queen Elizabeth, Liz Taylor, Prince 
+Charles, any more?  I hope no one thinks this is a spoiler, but Alex has 
+those pictures lined up on his amplifiers for the RTB tour.  They're quite 
+large, and easily seen from the fifth row, Geddy's side.
+
+Brought to you by the letter M.  From Power Windows.  I think this one 
+refers to the large number of M's in the song titles, especially as the 
+first letter (Marathon, Big Money, Manhattan Project, Mystic Rhythms, 
+Middletown Dreams, Emotion Detector).  I'm not sure about the ones on 
+Presto and RTB.
+
+Pat                        pmadden@cslewis.helios.nd.edu
+
+----------------------------------------------------------
+
+From: jwu@nike.calpoly.edu (John Shih Jen Wu)
+Subject: The mystery rapper
+Date: Thu, 21 Nov 91 21:34:40 PST
+
+In regards to the mystery rapper:
+
+About two months ago, I was flipping through the channels and caught
+a small piece on MTV regarding the new RUSH album.  They had mentioned
+a rap artist had helped the gang out on a song.  I would assume this
+would be RTB.  The name of the rapper was stated. But since I was not
+familiar with the person, I immediately forgot his name.
+
+Perhaps, someone can call MTV's rock news program and obtain the name
+of the rapper.
+
+----------------------------------------------------------
+
+Date: Fri, 22 Nov 91 01:24:43 -0500
+From: Victor Grund &lt;grund@pyrite.SOM.CWRU.Edu&gt;
+Subject: Computer Equipment Used in the Show
+
+Hopefully, this hasn't come up already; I am sometimes forced to hit
+"delete" on the NMS when the workload gets to high!
+
+I was lucky enough to have a loge ticket at the Richfield Coliseum for
+the November 17th show.  This lofty perch provided a non-standard view
+in the Coliseum, and (with the help of field glasses) I noticed a
+computer screen up near the back wall on Neil's right.  There were
+plenty of colors on the screen, but I was too high to read what was
+being displayed.  Anybody notice what was on the screen?  I'm
+wondering what it's purpose was.
+
+For what it's worth, I thought the show was way too short.
+
+---
+Victor D. Grund 		| grund@pyrite.som.cwru.edu [129.22.48.4]
+IBM Cleveland                   | uunet!cwjcc!pyrite!grund
+Opinions expressed are my own,  | AIX ~ Catch the Wave!
+of course.                      | Home of the Cleveland Orchestra!
+
+----------------------------------------------------------
+
+Date:         Fri, 22 Nov 91 01:45:39 EST
+From: Chris McKinnon &lt;UOG11014@vm.uoguelph.ca&gt;
+Subject:      Opener For The TO Show Dec. 16
+
+Well, I just heard a little tidbit of information that many of you
+readers out there might be interested in knowing.  The opener for the
+December 16th show in Toronto is none other than The Tragically Hip.
+
+Unfortunately, I can't make it to the show, but to those who will be
+attending, I hope you enjoy...
+
+Chris.
+
+ORQ:  I believe there's a ghost of a chance that we can find someone to
+      love, and make it last...
+
+----------------------------------------------------------
+
+Date: Fri, 22 Nov 1991 02:00 EST
+From: MORETT44%SNYBUFVA.bitnet@VTVM2.CC.VT.EDU
+Subject: RTB VIDEO ON JUKEBOX
+
+   Howdy all again,
+
+      Well after standing in line for only 1 1/2 hrs last Sat. I was able
+to get decent seats for the Dec 15th show here in the Buff.  I'm on
+Alex's side, a section over from center ice in the Aud. (Closer to stage).
+There were about 30 ppl ahead of me and the first guy out was only able
+to get row L on the floor!!!  Man I thought I was gonna sit with the pigeons!!
+But all worked out well.
+      I finally saw RTB on eMpTyV and as usual it was around 12:30 am est.
+But what I found out this week was that the Jukebox Network just added RTB to
+it's play list.  What the hell is the Jukebox Network you may ask??
+Well we just started to get it here in Buffalo back when Presto came out
+(thats where I saw Show Don't Tell for the first time).  Anyway what it has
+is a 900 number you can call and enter a 3-digit code for a video you want to
+see...the price $2.50.  (Or 3 vids for $6...what a deal!)  They have ALL
+different vids to chose from and while they play a vid they flash other
+artists-songs-and code numbers across the bottom of the screen.  RTB is number
+315 if you get the station, but from what I have seen lately on NMS, no one has
+mentioned the Jukebox so it looks like I'm the only lucky(?) one.---Just some
+useless trivia!!!
+
+      Before I go... hey JOHN TALBOT if there was a award for best grapic on
+NMS you got my vote!!!   That is just too cool!!!!  (Anybody who hasn't seen
+it...it's the bunny in the hat).
+
+Later y'all
+
+   ####################################################################
+          "Folks are basically decent
+           Conventional wisdom would say
+           Well, we read about the exceptions
+           In the papers every day."            --- SECOND NATURE
+                                                    ~~~~~~~~~~~~~
+          "I hear their passionate music
+           Read the words that touch my heart"  --- MISSION
+                                                    ~~~~~~~
+    TONY MORETTA--STATE UNIVERSITY COLLEGE AT BUFFALO--GO BILLS!!!!!!!
+   ####################################################################
+
+----------------------------------------------------------
+
+From: wcsvic@ccs.carleton.ca (Victor Kamutzki)
+Subject: May be a little early to speculate...
+Date: Fri, 22 Nov 91 2:42:37 EST
+
+I don't even know if Rush has thought much about the next album (I
+know I have), but I know that they have been in the habit lately of
+switching producers every few albums.  With this in mind, perhaps
+somebody out there can shed some light for me.
+
+I heard (from a source that shall remain nameless on the grounds that
+my inquiries might tend to inciminate them) that there is a
+possibility that Bob Rock might be producing the next album.  Anyone
+care to offer any thoughts?  I _really_ gotta know.
+
+Victor Kamutzki
+
+----------------------------------------------------------
+
+Date: Fri, 22 Nov 91 03:23:07 EST
+From: jcook@eddie.ee.vt.edu (Jay Cook)
+Subject: EVERYBODY READ THIS!!!!!!!!!!!!!!!!!!!!
+
+  Lately, we all know that the video for RTB has been playing on MTV,
+  but if you're like me...you haven't been aroudnnd to see it/tape it.
+
+  What I propose is this:  MTV has this daily "Most Wanted" when people
+  call in and request their favorite videos.  I'd like to get as
+  many people from the NMS to call in and request RTB!!!  Now, I don't
+  know how many people would be interested in this, so if you are,...
+  mail me at the address below and give a date to when you want to do
+  this and I'll post the date 2 days bvefore the actual day.
+
+  IF YOU WANT TO SEE THIS VIDEO....SPEAK NOW OR DON'T COMPLAIN ABOUT NOT
+  SEEING! IT!!!  *(steps off his soapbox*
+
+                                           Jay Cook (jcook@eddie.ee.vt.edu)
+
+----------------------------------------------------------
+
+Date: Fri, 22 Nov 91 09:16:27 EST
+From: Doug White &lt;dwhite@dsys.ncsl.nist.gov&gt;
+Subject: Jacob's Ladder
+
+To the person interested in Rocinante, books, etc. :
+I always thought the title "Jacob's Ladder" referred to the passage in the
+Bible where Paul the apostle dozes off and sees a vision of angels climbing
+a ladder to Heaven. "..Follow men's eyes as they reach toward the skies ...
+The shifting shafts of shining weave the fabric of their dreams..."
+(please excuse misquotes) That has always been my thought on the subject,
+anybody else?     Doug
+
+----------------------------------------------------------
+
+Date:    Fri, 22 Nov 1991 10:09:41 -0600 (CST)
+From: MTS0028@ZEUS.TAMU.EDU (Presto!)
+Subject: Sticks
+
+To the person asking about Neil's sticks (sorry, forgot who it was)...
+
+In the tour books P/G - Presto, Neil states that he uses ' Promark 747
+sticks with the varnish filed off the shoulder' They may have changed
+the name of the line when he began autographing them
+                 Signature &lt;==&gt; Autograph
+
+As for the Mystery Rapper...
+
+     If you know who it is...GIVE IT UP...WE WANT TO KNOW NOW!!!
+     No keeping secrets, that is not nice ;-)
+
+Mark 'Presto!' Snedecor
+mts0028@zeus.tamu.edu
+Texas A&M University
+
+----------------------------------------------------------
+
+Subject: Son of Rush CD Prices
+Date: Fri, 22 Nov 91 10:24:05 CST
+From: bob@medrcw.b17a.ingr.com (Robert Whitehead)
+
+Pursuant to my previous posting about Noteworthy Music and their
+prices for Rush CDs, I have received some excited queries about how
+to contact Noteworthy Music.  I apologize for wasting bandwidth, but
+I have been unable to reply to those who have asked due to mail
+problems.
+
+Here is how to contact Noteworthy Music:
+
+Call toll free 1-800-648-7972 (US and Canada)
+
+24 hours a day
+
+Call and ask for a catalog, they will assign you an account number
+and send you a catalog in the mail.
+--
+---------------------------------------------------------------------------
+| Robert C. Whitehead       |
+| Intergraph Corporation    |Disclaimer:  The preceding message does not
+| Mapping Sciences Division |necessarily reflect the opinion of Intergraph,
+| Technical Documentation   |the United Federation of Planets, Starfleet
+| Mailpath: b17a!medrcw!bob |Command, or the crew of the USS Enterprise.
+| Phone: (205) 730-1923     |
+---------------------------------------------------------------------------
+&gt;From the Real World: bob@medrcw.b17a.ingr.COM
+
+"The Captain has been altered by the Borg."
+"He IS a Borg."
+    -- Data & Worf, "The Best of Both Worlds," Stardate 43989.1
+
+----------------------------------------------------------
+
+From: bold%astroatc.UUCP@cs.wisc.edu (Jeff Beck)
+Subject: Late bloomer + Predator II
+Date: Fri, 22 Nov 91 10:53:16 CST
+
+OK,
+
+I'll probably invoke massive flames for this, but...
+
+Well, I just bought the RTB CD. (ouch, sorry, I know it's late...)
+Lots of good tunes.  I have heard them all on the radio.  Where's my thing?
+is a pretty good tune.  Rush seems to have made their music much more melodic
+and easy to listen to.  Not easy listening, but some of the songs on their
+especially "Where's my thing?" have an effect similar to the one I experience
+when I hear Jon Anderson sing the very end of "The Gates of Delerium".
+You know, the part that goes "soon...oh, soon the light..."  Or something
+like the second song on the first side of "Going for the One".
+Really beautiful melodies.  Rush has done something here they really haven't
+done on the other albums, but I can't quite put my finger on it.  Maybe not
+being able to quantify/qualify/examine it (ie. put my finger on it)
+is what makes it interesting.
+
+Secondly, about the phrase "Roll the Bones".  Has anyone seen Predator II?
+For some background, Predator II is about a predator like Predator I that
+comes to LA during gang wars in around 1996.  Apparently, they are attracted
+to intense fire and heat.  Anyway, one of the gangs is a Colombian gang,
+and their leader is someone named "King Willy".  During the movie, the hero,
+a cop, goes to talk to him about what (the predator) is killing all of his
+people AND the cops.  Willie is 100% rastafarian (sp?) and talks like, "
+Yaaa maaaan, they saaayyy you want to talk to me maaahn".  The interesting
+thing is that the whole time he is talking, he is *rolling bones* onto the
+top of a 50-gallon drum.  I think it is related to voodoo magic because
+the columbian gangs used voodoo magic.  Does anyone know for sure?
+I don't know if that is what the boyz intended, but I think it is the most
+likely possibility.  Comments?
+
+--
+******************************************************************************
+* Jason Bold - Madison,WI: [(rutgers||ames)!uwvax||att!nicmad]!astroatc!bold *
+* "Learning that we're only immortal... for a limited time" - Rush - RTB     *
+******************************************************************************
+
+----------------------------------------------------------
+
+Date: Fri, 22 Nov 91 12:36:21 EST
+From: faulkner@acsu.buffalo.edu (shane p faulkner)
+Subject: Alex's keyboard work in Superconductor
+
+Many people have been mentioning Alex's playing of his keyboard part in
+Superconductor with various body parts, including fingers, noses, foreheads,
+and most recently a guitar stand with a glove attached to the end.
+
+Well, none of this is as impressive as it might seem, since Alex isn't really
+playing the notes you hear, he just triggers the whole line.  In other words,
+he presses a key exactly when the part should start, and holds it till the
+end.
+
+It kinda depresses me actually.  In the old days, Alex would have taken the
+time to learn to play this part, which is far from difficult.  I guess MIDI
+has made everyone lazier.
+
+It's even more depressing to see Geddy omitting the Midi-pedal triggered
+background keyboards in such songs as Tom Sawyer and The Spirit of Radio.
+These parts are mega-simple, Geddy has been putting them in for years, and
+I feel the songs really suffer without them.
+
+Ahhh... the old days... anyone ever try to play the Taurus Pedal synth
+line in Cygnus X-1 while playing the background guitar chords.  Talk about
+choreography....
+
+///////////////////////// The Gangster of Boats /////////////////////////
+//////////////////  Rush - Marillion - Kim Mitchell  ////////////////////
+/////////////////////////////////////////////////////////////////////////
+/ Shane P. Faulkner         |  Boys and Girls together                  /
+/ University At Buffalo     |  Mistake conceit for pride                /
+/ V127L2QZ@UBVMS.BITNET     |  Ambition for illusion                    /
+/ faulkner@acsu.buffalo.edu |  Dreams for self-delusion   - Neil Peart  /
+/////////////////////////////////////////////////////////////////////////
+
+----------------------------------------------------------
+
+Date: Fri, 22 Nov 91 12:30:34 EST
+From: sjuphil!jr040923@uu.psi.com (Joseph Roberts)
+Subject: Review
+
+Yo people,
+I thought that you all might be interested in this, so,
+here it is in all of its reprinted w/out permission glory -
+
+&gt;From "The Hawk" Vol. LXI, #11
+
+RUSH AT THE SPECTRUM
+
+by Allison Campbell
+
+Seventeen years and 18 albums ago, three young bots out of Canada got
+together to do the one thing they knew best - play guitar soaring
+rock'n'roll.  Since 1974, Rush has had the same line-up consisting of
+lead vocalist, bass guitarist, keyboardist Geddy Lee, guitarist Alex
+Lifeson, and drummer Neil Peart.  This trio, with their latest
+release, _Roll The Bones_, which peaked at number three on the
+Billboard Top 200 Album Chart has proven that time has not changed
+their immense audience appeal.  The two singles "Dreamline" and "Roll
+The Bones" are also rising on the album-oriented rock charts.
+Rush, well noted for their strong depth and dexterity, show that music
+can possess a certain level of intelligence along with a strong sound
+and still reach enormous success on the rock'n'roll charts.  This
+intelligence has kept Rush on top of the rock'n'roll scene today.
+While intelligence may keep them on top, Geddy Lee's musical expertise
+gets them there.  Lee's unique ability to switch from keeboards to bass
+makes their music flow with ease.  Backed with Lifeson's textured guitar
+work and Peart's avant-garde drumming, Rush's latest album is as fresh as
+their first one.  Well, after 17 years and 18 albums these three "young
+boys" had to learn something.
+
+[Geez! How about that!  A favorable-type review.  What's the world
+coming to? - its SENSES, maybe? :^)
+Later.....................................................]
+
+The Fuzzy Navel
+
+----------------------------------------------------------
+
+Date: Fri, 22 Nov 91 13:17:38 -0500
+From: cfynx@eng.umd.edu (Sridhar P. Rao)
+Subject: neeto
+
+Ho..
+To all those UMd. rush fans out there..check out today's diamondback.
+ON the front page, lower left (whats inside column) - the headlines are
+Big Money, Time Stand Still, Countdown, and Limelight..someone at
+the diamondback has some taste!!
+
+may the force be with you.
+cfynx..the analog kid.
+"We still feel that elation.."
+
+----------------------------------------------------------
+
+Date: Fri, 22 Nov 1991 13:16:44 -0500 (EST)
+From: "Philip M. Simon" &lt;ps3q+@andrew.cmu.edu&gt;
+Subject: Eric Johnson
+
+THIS IS NOT A A SPOILER
+
+People have asked for confirmation regarding Eric Johnson's
+status as opener for Rush.  While at the November 17 Show
+in Cleveland, Johnson said himself that that particular night
+was his last opening for the boyz.  A shame, too, if I might
+add.  I did, however, gain an appreciation for his talent.
+
+Incidentally, I enjoy EJ's work more on his studio album
+(Ah Via Musicom) more than the concert.  At both shows I
+had the privelege of attending, the guitar seemed overbearing.
+It was nearly impossible, at least from my vantage point, to
+hear anything but his booming guitar.  On his album, though,
+there is more of a balance between the bass and the guitar.
+This makes the music more enjoyable to listen to, in my most
+humble opinion.
+
+Phil Simon (ps3q+andrew.cmu.edu)
+
+"Hello Pittsburgh...."
+            Geddy from October 28
+
+----------------------------------------------------------
+
+Date: Fri, 22 Nov 91 14:21:34 EST
+From: "Let's be as descriptive about Nature as we can, shall we?" 
+        &lt;mailrus!iuvax!bsu-ucs!00acearl@uunet.UU.NET&gt;
+Subject: A Bit of Hugh Syme
+
+Hello, again, guys and gals...
+
+In the 'Star no. 381, Kevin Ryan Kirwan asked whether or not anyone knows of
+other artwork/direction by Hugh Syme and whether or not Rush was his first ef-
+fort.  I can't answer the second question but I do know of a Whitesnake album
+cover which he did.  I think that it's the "Slip of a Tongue" album...  the one
+with the round, cracked-ceramic-looking band logo against the lighter
+background.
+
+About the "Hold Your Fire" cover...  is this the only album cover not
+containing photographs of the Boyz?  I have a mixed collection...  CD's, tapes
+and LP's, so it's hard for me to know what's on what.
+
+Aaron.
+
+"See...  this is an egg.  THIS is a vice.  Get the picture?"
+                                  --Janet Johnson, about
+                                      "Grace Under Pressure"
+
+----------------------------------------------------------
+
+Date: Fri, 22 Nov 1991 15:38:10 -0500 (EST)
+From: Matthew Joseph Desantis &lt;md4l+@andrew.cmu.edu&gt;
+Subject: LaVilla
+
+In La Villa, at the part where all you hear is the drums "in seven"
+right before the guitar solo. I Hear someone saying something in the
+background when the CD player is cranked at this part. I am sure that it
+is there, but what could it be?? You LP owners are going to have to have
+a great LP and mega turntable to hear this one... It's like a yell way
+back in the studio, or something ....
+			M.DeSantis
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 384
+********************************************
+
+

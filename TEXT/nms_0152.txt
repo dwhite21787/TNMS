@@ -1,0 +1,269 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list@syrinx.umd.edu
+Subject: 01/16/91 - The National Midnight Star #152
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 152
+
+                Wednesday, 16 January 1991
+Today's Topics:
+                     Administrivia
+                Cheryl Renshaw's "In Awe"
+                   Re: Laser Rush, etc.
+                           GIFs
+                    Moving Pictures CD
+----------------------------------------------------------
+
+From: The National Midnight Star Editor &lt;rush-mgr&gt;
+Subject: Administrivia
+
+I've just received the latest Frequently Asked Questions List from 
+Dan Delany (thanks Dan!), and should get it out to you either this
+afternoon or tomorrow.  Check it out; it's got new additions.
+
+Also, I've created a new directory in the anonymous ftp area called
+"incoming".  This is writable by all, so if you have an image you'd
+like to send (GIF, SUN raster, etc), feel free to drop it in there.
+All I ask is that you 1) send mail to the management account letting
+me know what you're sending (please try to give the source of the 
+picture and date, if you know), and 2) *please* don't go gonzo sending
+stuff.  There's a few M of space, but it's not unlimited.
+
+In a similar vein, if you have an idea of a new directory to add to
+the anon. ftp stuff, feel free to send mail and ask about it.  There
+may be a new one soon, but I still have to talk to the people about
+it.  Stay tuned...
+
+Lastly, at the risk of harping on a subject, PLEASE send your mail
+to the apropriate places:  if you want to unsubscribe, don't just
+reply to the digest - it comes back here to a totally different
+place.  If I miss it somehow (almost did today), it goes out in the
+digest, and nobody wants that.  Also, it's just plain extra work 
+for me.  Also, remember Syrinx is the ftp site, Ingr is the mail
+server site.  Try not to confuse them.  All the addresses are at the
+end of every digest.
+
+Thank you for your support!
+
+rush-mgr
+
+----------------------------------------------------------
+
+From: medrcw!bob@uunet.UU.NET
+Subject: Cheryl Renshaw's "In Awe"
+Date: Tue, 15 Jan 91 8:37:34 CST
+
+After reading Cheryl Renshaw's poem "In Awe", I had some questions about
+the interpretation of certain devices used in the poem.  I've sent
+Cheryl a letter about it; I'm reposting it here for others to add their
+observations.
+
+&gt;  In Awe
+&gt;
+&gt;What friends they are
+&gt;I long to meet
+&gt;Yet fear the meeting
+&gt;When awe loses its filter
+&gt;And humanity reigns again
+
+That's an interesting device, there in the last two lines - the idea of
+a sense of awe as a filter.  Does awe protect us from embarrassing
+ourselves when we are in the presence of someone we admire, or does it
+inhibit our inhibitions and allow us to make fools of ourselves?
+
+"And humanity reigns again" - in ourselves, or in the admired person?
+When the filter of awe goes away, do we see the object of our admiration
+as themselves again (that is human, and therefore like us?), or do we
+return to a sense of *our* humanity (read inferiority) and become shy and
+retiring again?
+
+Either interpretation could be valid; what did you intend?
+
+&gt;Admiration--
+&gt;The ultimate optimism
+&gt;Mists my senses
+&gt;As I read and listen from afar
+&gt;Analysis reveals ever deeper meaning
+&gt;Ever increasing talent
+&gt;How much is imagined?
+
+Why would admiration make one optimistic?  Hopes that you would meet the
+object of your admiration (as is suggested in the first verse), or that
+you would be seen as "worthy" of their companionship/respect?
+
+In the last three lines, does the question "How much is imagined?" refer
+to how much talent?  How much meaning?  Both?  Neither?  Could it refer
+to fantasy, where the infatuated teeny-bopper dreams of wedding bells?
+
+(That last is a pretty far-out possibility, since the whole tone of the
+poem suggests that the admirer is too sophisticated for that sort of thing.)
+
+&gt;Where is the thinning line
+&gt;Between admiration
+&gt;And fanaticism?
+&gt;Between mere pedestal
+&gt;And Mount Olympus?
+&gt;
+&gt;There is lies--
+&gt;In ability to criticize
+
+Here I think a very telling point is made about the difference
+between being an infatuated fan and being a serious devotee of a genre
+of expression.  A fan can see no wrong or flaw in the admired party; a
+devotee recognizes flaws and faults and accepts them.
+
+That's important, because without recognition of flaw our heroes become
+Gods, and on that path lies danger.  The people we admire have struggled
+to overcome obstacles to their expression; if we perceive no flaw in
+them, we become caught up in worship.  It is better, I think, to respect
+and admire someone who has encountered some obstruction and prevailed,
+because then we have their example to follow.  Perhaps we, too, can
+overcome.
+
+(One picky question:  shouldn't it be "There *it* lies" instead of "There
+is lies"?)
+
+On the whole I enjoyed this piece; perhaps it takes on a different
+meaning to someone who is well-acquainted with the band, but I believe
+it transcends the realm of Rush devotees and applies to any form of
+admiration.
+
+Comments, anyone?
+--
+---------------------------------------------------------------------------
+| Robert C. Whitehead       | The preceding message is the opinion of
+| Intergraph Corporation    | the author, and in no way reflects the
+| Mapping & Energy Division | opinions (past, present, or future) of
+| Technical Documentation   | any other Time Lord or the High Council
+| Mailpath: b17a!rw1923!bob | of Gallifrey.
+| Phone: (205)730-1923      |
+---------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: 	Tue, 15 Jan 1991 09:40:50 PST
+From: crenshaw.osbu_north@xerox.com
+Subject: Re: Laser Rush, etc.
+
+&gt;Did the group from the bay area NMS contingent go?
+
+Well, I went to the 7:30 show last Saturday, but I have no idea if
+anyone else there reads NMS.  I didn't hear anyone mention it, but I
+didn't mention it either (ok, so I'm a little shy when it comes to
+things like this...).
+
+[ Aww, c'mon ... we don't bite!         Much.  :-)               :rush-mgr ]
+
+I liked "The Body Electric", too...though the android was too fat for
+my tastes :-)  I always imagined C3PO lost in the desert, so learning
+the song was based on George Lucas' first film (sorry, can't remember
+the combination of letters and numbers that make up the name of it...
+T-something) made lots of sense!  I wish they'd done Fly By Night or
+A Farewell to Kings (the title songs, not the whole albums...well, okay,
+I wouldn't have complained if they'd done the whole albums...).
+
+Cheryl
+
+Most appropriate ORQ of the day &lt;sigh&gt;:
+
+Better the pride that resides in a citizen of the world
+Than the pride that divides when a colourful rag is unfurled
+
+Thanks for sharing the Piet Hein (grooks, aren't they?  Something like
+that) poems, Corrie...I really liked the Losing Face one.  It's a
+rather depressing day...hope Rush on the tape player will keep the
+spirits up...
+
+----------------------------------------------------------
+
+Subject: GIFs
+Date: Tue, 15 Jan 91 14:52:59 CST
+From: dragon!keith@uunet.UU.NET (Keith Ford)
+
+On the mail server, server@ingr.com, the following GIF files
+are available by email request.  See the trailer of this issue.
+These are uuencoded gif files, for instructions, see ugif_how.
+ugif_index is a collage of all the images for quick reference.
+The others are album covers and pictures of the boyz.
+
+   ugif_how        ugif_sigls      ugif_neil1    ugif_ang3
+   ugif_index      ugif_aftk       ugif_ged1     ugif_2112
+   ugif_fbn        ugif_hemi       ugif_ag1      ugif_alex2
+   ugif_rush       ugif_alex1      ugif_ang1     ugif_ang2
+
+----------------------------------------------------------
+
+Date: Tue, 15 Jan 91 17:58:31 -0500 (EST)
+From: "Charles Edward Batey, Jr." &lt;cb2o+@andrew.cmu.edu&gt;
+Subject: Moving Pictures CD
+
+I also have an older MP disc, but it doesn't sound as though anything is
+wrong with it.  Does anyone know which disc revision numbers are "good"
+recordings of the album?  The revision number is printed on the data side
+of the CD near the center hole.  For example, my disc has the following
+numbers:
+
+800 048-2 03
+
+The catalog number is 800 048-2 and it is the third revision.
+
+If anyone knows which revisions are defective it would be helpful...
+
+Thanks,
+Ted Batey
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 152
+********************************************
+
+

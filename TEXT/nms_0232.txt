@@ -1,0 +1,589 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 05/03/91 - The National Midnight Star #232
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 232
+
+                    Friday, 3 May 1991
+Today's Topics:
+                      Administrivia
+                       Rush Bashing
+                    NMS Summer Access
+                 Revised 2nd chord to FBN
+                 Rush missing members...
+                         Hopkins
+                   Fly By Night chords
+                  Comments and questions
+                         1984????
+                        Big Money
+                      Geddy's Shirt.
+                        FBN Chords
+                   How old is the NMS?
+                   Mr Big + other stuff
+        The National Midnight Star as a Newsgroup
+----------------------------------------------------------
+
+From: Editor, The National Midnight Star &lt;rush-mgr&gt;
+Subject: Administrivia
+
+Just a quick note: If you're interested in finding other people in your
+area, copies of list membership (as far as *I* know) are available at the
+administrative address.
+
+Also, for those of you losing access for the summer (or any other time),
+check out Jimmy Lang's posting about public Unix access for continued
+subscription.
+
+rush-mgr
+
+----------------------------------------------------------
+
+Date: Thu, 2 May 91 16:22:00 EST
+Subject: Rush Bashing
+From: DSchmidt.311@postman.gsfc.nasa.gov!
+
+    I just read the Rolling Stone reviews of about 5 Rush albums that
+    are posted on the FTP server.  They really p*ssed me off.  It seems
+    like the critics are just out to stomp all over Rush.  Almost every
+    review referred to Geddy's "shrill" voice and how he should
+    "control" it.  The critics also seemed SCARED of Neil's powerful
+    lyrics- it seems that they would enjoy the lyrics off Rush's first
+    album better.
+
+    I just don't get it.  How could Rush be so popular with reviews like
+    those?  One of them even said "One Rush album should be enough for
+    anybody (preferably Moving Pictures)."  Are we (the readers of NMS)
+    just weird mutants?
+
+    I think the critics just have their heads up their a**.
+
+    -Dave Schmidt
+
+----------------------------------------------------------
+
+Date: Thu, 2 May 91 17:31:31 -0400
+From: jlang (~ Rush Fanatic ~)
+Subject: NMS Summer Access
+
+Hello again fellow list members.  With the summer approaching us and the
+school year for many of the members coming to a close, a lot of us will
+lose Internet access and our accounts over the summer months.  For some
+it might be a needed break, for others, I guess you could find yourself
+craving for some NMS and Rush news over the summer with the new album
+on the horizon.  Here's some help for those of you who still wish to get
+the NMS over the  summer months but have no means to do so.
+
+The alternative is to find a public access Unix system in your area,
+apply for an account and re-subscribe to the list.  Briefly, public
+access Unix systems exists in many states and are generally connected to
+the Internet in some way (usually they are fed via uucp by bigger hosts
+actually on the Internet), and its users can send and receive email from
+the Internet as well as read some USENET news.  A majority of these
+sites are free! (some do charge small fees - a few bucks a month)  Many
+have smart mailers on them so you can send email just like you regularly
+do : mail rush-request@syrinx.umd.edu  to resubscribe for example.
+
+If some of you are interested in finding out more about this, please
+feel free to drop me a line (jlang@syrinx.umd.edu) and I will help you
+locate a Public Access Unix site near you.  For those of you familar
+with ftp, you can get a copy of the public access Unix machines from
+mars.ee.msstate.edu in the ~ftp/files/Tex.techie/nixpub file.
+
+Hopefully, some of you won't "really lose" your access to NMS if you
+choose to go this route.  If you are going to mail me about it, please
+be sure to include your area code (IMPORTANT!) so I can locate a system
+near you.
+
+Thanks.
+-Jimmy
+
+[ Thanks, Jimmy!                                             :rush-mgr ]
+
+----------------------------------------------------------
+
+Date: Thu, 2 May 91 18:52:41 EDT
+From: faulkner@acsu.buffalo.edu (shane p faulkner)
+Subject: Revised 2nd chord to FBN
+
+I have no idea how it happened, but yesterday I posted the 2nd chord to Fly
+by Night (as per a request) and a few lines got lost, making me look like
+a total idiot because I was showing a guitar neck with 3 strings...
+
+Let's try this again...  2ND CHORD TO FLY BY NIGHT:
+
+----3----
+----0----
+----2----
+----0----
+---------
+
+/////////////////////////////////////////////////////////////////////////
+/ Shane P. Faulkner         |   A to B - Different degrees...           /
+/ University At Buffalo     |                          - Rush           /
+/ V127L2QZ@UBVMS.BITNET     |                                           /
+/ faulkner@acsu.buffalo.edu |   Rush - Marillion - Kim Mitchell         /
+/////////////////////////////////////////////////////////////////////////
+
+----------------------------------------------------------
+
+From: Roger Swanson &lt;rswanson@ux1.cso.uiuc.edu&gt;
+Subject: Rush missing members...
+Date: Thu, 2 May 91 18:04:27 CDT
+
+To take this discussion to the extreme, what would Rush sound like without
+any of them? Just think... the band breaks up, but they're still under contract
+for another album. Neil sends them a blank tape, and says that the silence
+represents the new minimalistic philosophy of the band. He tells them that
+the fans will understand his meaning, and will love the album, especially
+since it will contain over 70 minutes of "music" on it. Hey, anything's
+possible!
+
+(Sorry, my brain's sort of in that fried finals mode.)
+
+[ Yeah, Roger, it's pretty obvious...  :                          :rush-mgr ]
+
+----------------------------------------------------------
+
+Date:     Thu, 2 May 91 20:16 EST
+From: &lt;NIDSTER%JHUVMS.BITNET@CUNYVM.CUNY.EDU&gt;
+Subject:  Hopkins
+
+Hey there!  I'm a new subscriber and wouldn't have posted so soon if I
+hadn't understood that there's an apparent lack of material on TNMS
+lately.  Anyway I'm glad I'm on the list now and really wish I was
+earlier.  But what can you do.
+
+Actually what I'd really like to know is if there are any more of you guys on
+the list who go to Johns Hopkins (like I do) that I don't already know of.  It's
+always good to meet more fans of the Big Three.
+
+[ See my note in the administrivia section.                       :rush-mgr ]
+
+Hopefully, I'll have more interesting topics to discuss on TNMS later if my
+mind doesn't dry up after finals.  So until then, Adios!
+
+Nidhip "Punjabi" Mehta
+Johns Hopkins Univ.
+Baltimore, MD
+
+************A quantum leap forward....in time and space*************
+
+----------------------------------------------------------
+
+Subject: Fly By Night chords
+Date: Thu, 2 May 91 19:45:52 CDT
+From: David Sandberg &lt;sialis!dts@cs.umn.edu&gt;
+
+First, a bit of business.  I feel reasonably confident that the
+following is an accurate transcription of the intro/verse guitar
+part of Fly By Night:
+
+      --2-2----3-3------------3------3-------3----------
+      --3-3----3-3------------3------3-------3-----0-2--
+      --2-2----0-0---------------------------------0-2--
+      --0-0----2-2----------2------0-------0-------0-2--
+      ----------------0-2-3-----2------0-1-----0--------
+      --------------------------------------------------
+
+Now for some chit-chat.  Mark Caufman writes:
+
+&gt; I would like to ask everyone out there what their opinions
+&gt; are concerning Alex Lifeson's soloing.
+
+Now _here's_ a subject I can get into.
+
+&gt; .......... when RUSH was a Zeppelin clone band, his solos
+&gt; were burning, bluesy, and scale riffs. As time moved on, they
+&gt; became more melodic/thematic (ala La Villa and the concept
+&gt; albums like Hemispheres etc). In Moving Pictures, we begin
+&gt; to see a different style (ala "Tom Sawyer")-- a squeaky kind of
+&gt; harmonic thing with abrupt stops and starts....  Now, on Presto,
+&gt; the solos on the first three songs, "Show Don't Tell" "Chain
+&gt; Lightning" and "The Pass" are all that quirky combination of
+&gt; harmonics and volume control with a twist...
+
+I think you've summarized Alex's stylistic progress pretty well.
+
+For myself, I was never an enormous fan of his Jimmy Page-esque
+solos from the early albums.  I first started to really like his
+solo work on parts of the AFTK album: specifically, the solo to
+ATFK itself is like an early precursor to the 'quirky' stuff he
+would start doing much later, and the solo near the end of Xanadu
+(which never fails to put me on the floor) shows the first signs
+of melodic control which he exhibited more of on the following
+albums.
+
+I guess I like his slow, extremely melodic work the best.  But
+the quirky (great description) solos are close behind, especially
+really odd solos like that in "Chain Lightning".  It takes real
+courage to branch out and try stuff that different in a solo, and
+somewhere along the line Alex has apparently gained a level of
+courage that most rock guitarists never approach.  In fact, I
+think that's what makes Alex a guitarist to be reckoned with.
+Technically he's not the world's most skilled guitarist (though
+don't get me wrong; he's still in the upper strata, particularly
+with his rhythm work).  But he's trying things that no one else
+in the field is.  He's pushing the edges of the envelope.
+
+&gt; Where is he going, musically?
+
+I guess only Alex knows.  B-)
+
+&gt; What can we expect on the next album?
+
+Something good, I'll warrant.  B-)
+
+--
+ \*=-      David Sandberg, dts@quad.sialis.com    ,=,       ,=,        -=*\
+  \*=-       "it's time i was king, and not       | |uadric `=,ystems   -=*\
+   \*=-            just one more pawn"            `=\       `='          -=*\
+
+----------------------------------------------------------
+
+Date:     Thu, 2 May 91 20:21 EST
+From: &lt;GBEAR%IUBACS.BITNET@UICVM.uic.edu&gt;
+Subject:  Comments and questions
+
+A couple of questions for you all:
+
+        Has anyone noticed Neils repeated use of the color red in several
+songs?  Any idea why Neil seems to be partial to that color?
+
+        I have heard several rumors about the education of the members of
+Rush, everything from high school dropouts to Phd's from MIT.  Can anyone
+fill me in on the education of the Boyz?
+
+[ With sources, if possible; we can get it in the FAQL then.      :rush-mgr ]
+
+        The suggested album title "Throwing the Stones"  would certainly
+be a title that could be jumped on by the bible thumping Rush-is-the-
+anti-christ group.  But then I suspect that Neil recognized this double
+meaning also. . .  his penchant for doulble meanings in lyrics is well
+documented.
+
+To Terry Stedman: Neat Logo!
+
+In response to Brett's question about meeting Neil:
+        I have a great deal of respect for Neil and RUSH.  I also respect
+Neil's desire not to be worshipped.  I suppose that if I ever meet him I
+will say something like "I really respect your work.  Keep it up."  I do
+not think it would be proper for me to voice any feelings, even positive
+feelings, about the guys personally because I don't know them at all. All
+I know is their work and I would choose only to comment on that.  I view such
+things as autographs as rather pointless.  People who collect autographs
+have bought into the packaged bigger-than-life persona that record companies
+and movie makers try to sell to the public.  It isn't reality, as Neil
+commented in his interview a couple of years ago.  (see TNMS about 5 issues
+back).
+
+Strong disagreements are always welcome.  Flames are discouraged.
+
+To TNMS mgr:  Good work and a tip of the hat!
+
+                                                Glenn
+
+----------------------------------------------------------
+
+Date: Fri, 3 May 91 00:33 EDT
+From: Lewis A Bernstein &lt;V087N562@ubvmsc.cc.buffalo.edu&gt;
+Subject: 1984????
+
+I really seem to remeber the show in question was 1986, not 1984.
+It would have been really tough for Territories to have been the
+lead in to that show (Territories, mind you, not Mystic Rhythms)
+if it were 1984, considering the two above mentioned songs weren't
+released until late 1985..... Anyone????    Just a little time
+inconsistencies.
+
+As far as other Rush blurbs, I hear working man, at the 'noon time
+blocks' on  a Buffalo radio station.  I also heard the last chord of
+Chain Lightning as a part of a station blurb and really get a little
+ticked, because I actually think that they are going to play it, and
+then don't do it.
+
+I have seen at least four different Max Webster CD's here at the
+Record Theater here on UB's campus.  They are about normal Cd price.
+
+I certainly can't wait for the next album/tour.  I'll probably get to
+three or four shows again.  (Toronto,Buffalo,Rochester, and maybe one
+more)  It is cool being here within 80 miles of three concert sites.
+
+(Bruins in 6)
+                                   Later,
+                                      Lew
+
+ORQ: ...when super science mingles with the bright stuff of dreams....
+
+----------------------------------------------------------
+
+From: Phil Kime &lt;pyubg@cu.warwick.ac.uk&gt;
+Subject: Big Money
+Date: Fri, 3 May 91 13:43:58 BST
+
+I honestly didn't know that it was common knowledge that Big Money is
+played tuned to F#. I've always played it in straight E and have never had any
+problems. Are we talking about a live version by any chance? The harmonics are
+still possible in E and E matches the tape version perfectly. My brother plays
+bass really well and never has any problems playing it in E. Maybe you have a
+fast CD/tape/record player!!
+
+--
+=====================================*======================================
+|                   Phil Kime (pyubg@cu.warwick.ac.uk)                     |
+|             Dept. of Philosophy, University of Warwick, U.K.             |
+=====================================*======================================
+
+----------------------------------------------------------
+
+Date: 3 May 91 08:35:00 CDT
+From: "KESHAV UTHURUSAMY" &lt;keshav@zeus.unomaha.edu&gt;
+Subject: Geddy's Shirt.
+
+Hello all!
+
+Just a quick question.  On the inner sleeve of the Presto CD; Geddy has
+some writing on his shirt...anyone know what it is?
+
+Daredevil
+
+P.S. Any of you fellow RUSH nuts in Austin, TX; contact me as I am returning
+     to UT soon.... :)
+
+[ See my note in administrivia.                                  :rush-mgr ]
+
+ORQ:  "Hold your Fire; Keep it burning bright...."
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+DAREDEVIL - THE MAN WITHOUT FEAR
+
+Internet : keshav@zeus.unomaha.edu  (VAX/VMS)    Bitnet: keshav@unoma1
+           keshav@alf.unomaha.edu   (Ultrix)     ICBMnet: 41' 35", 67' 34"
+           kasey@gnu.ai.mit.edu     (BSD UNIX)   MaBellnet: 402.384.3620
+
+UUnet    : uunet!zeus.unomaha.edu!keshav@uunet.uu.net
+
+                         "INVICTUS MANEO"
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+----------------------------------------------------------
+
+From: "Ian D Bjorhovde" &lt;idbst@unix.cis.pitt.edu&gt;
+Subject: FBN Chords
+Date: Fri, 3 May 91 9:43:32 EDT
+
+It's been a while since I last posted....
+
+	To the person who was asking about the second chord in Fly By
+Night, I think I have the answer- but see if you agree that this is the
+first chord:
+
+	E   A   D   G   B   E
+
+	X   X   O   -   -   -       (1 fr.) )
+                    *   _   *       (2 fr.)
+         (3 fr.)
+
+X = Do not play string;  O = Open string  * = Fingering
+
+This chord is a simple D chord.  OK?
+
+Here's how I play the second chord, (it *sounds* right, when listening)
+
+	E   A   D   G   B   E
+
+	X   X   X   -   -   -       (1 fr.)
+		    *   -   -       (2 fr.)
+		        *   *       (3 fr.)
+
+So really, all you are doing is moving (or adding) a finger on the high
+E string to the 3rd fret.  Does this help?
+
+	And one other thing:   If   *I*    could meet the band, I would
+ask Neil/Ged/Alex:
+
+	1)  What the hell is the time signature for Superconductor?
+
+	2)  How the hell do you play it??
+
+(Memories of discussions long since buried, remembert, rush-mgr?)
+(hahahahahahaha!)
+
+Later
+
+Ian Bjorhovde
+idbst@unix.cis.pitt.edu
+
+----------------------------------------------------------
+
+Date: Sat, 4 May 91 01:35:51 NST
+From: carl%fivegl@mercury.gen.nz
+Subject: How old is the NMS?
+
+Hey rush-mgr, according to my brief extrapolation the NMS has been out for
+about 2 years now - is this about right? I've been reading the NMS since
+issue 170, and I have this sudden burning urge to ask questions like,
+
+ - when did the NMS start?
+ - what gave you the idea to start the NMS in the first place?
+   (other mailing lists, or all your own idea? Did anyone encourage/
+   attempt to discourage you from starting it?)
+ - how many (do you know?) members are still reading the NMS that have been
+   reading it since it started?
+
+Many new (or relatively new) members on this list might like to hear a story
+of how it all began. I would anyway. Any chance? You might wish to put some
+notes in the FAQL, come to that.
+
+BTW, who is the oldest member on our list (age)? And how long have you been
+listening to RUSH? Come on, own up!:)! Is there anyone on the list who
+saw their first concert? Where was it, and what did they play?
+
+More! More! More!! And Details!! I want Details!! 8]
+
+&lt;The All Seeing I&gt;
+Iieee! The NMS! The dark goat of the woods with a thousand rush quotes!
+
+[ Ok, I'll try to keep this short.  The NMS came into embryonic being in
+  the fall of '89.  It evolved through various (sometimes painful) in-
+  carnations to reach it's current place.  If you check out the back issues
+  of the NMS #98 & #99, you'll find the two-part first anniversary issue.
+  This contains a history of the list, and some info on the original members.
+  This also answers your second question, and the third question will be
+  (eventually) answered by the poll I'm currently considering.  As for age
+  of members, the survey will hopefully answer this; I can tell you that
+  we have at least one or two members who have crossed that big 3-0 mark,
+  and I'm hot on their heels.  :-)  Lastly, a list member did post some-
+  thing about seeing an old show from one of the first couple of tours,
+  but I'll let them tell the story (if they want).
+
+----------------------------------------------------------
+
+Subject: Mr Big + other stuff
+Date: Fri, 3 May 91 16:05:34 WET
+From: Moschops &lt;M.ODonnell@computing-services.thames.ac.uk&gt;
+
+Yo dudes and dudettes,
+        Somebody said something about Mr Big being Brits.
+Well there aren't.
+
+As for Rush working with Mr Big years ago. As far as I know
+(And don't quote me on this ) Mr Big have only been around for a few
+years.
+
+Does anyone read the Books of William Gibson?
+        Don't know why but last night whilst listening to Signals
+I thought that I could see a relationship between the song
+Digital Man and Gibson's Book "Neuromancer"
+references to 'Zion and Babylon' etc
+Both are places in the Neuromancer book.
+
+Then again this could be the deranged ramblings of my mind.
+Then again it could be a new topic _ Shock Horror _
+
+Any way Chew that one over for a while
+
+Mossy
+
+--
+-----------------------------------------||---------------------------------
+   ------- Mike O'Donnell -------        || Thats " Moschops " to my friends
+        At Thames Poly - London          || I love Rush,Queensryche and most
+Janet :    om1ey1@uk.ac.thames.csc       || Rock/Metal bands
+   (or)    M.ODonnell@uk.ac.thames.csc   || London Monarchs lead the WLAF
+-----------------------------------------||---------------------------------
+Purity Test Result(400 quest version)-%63||  "Anything Can Happen" - ORQ
+-----------------------------------------||---------------------------------
+
+Lowery's Law:
+	If it jams -- force it.  If it breaks, it needed replacing
+	anyway.
+
+----------------------------------------------------------
+
+Date: Fri, 3 May 91 15:46:50 GMT
+From: trice@vttcf.cc.vt.edu (Tony R. Rice)
+Subject: The National Midnight Star as a Newsgroup
+
+I don't know how serious of a consideration this is but let me get my
+$.02 in right away.  The NMS is a special newsletter in that it is read
+by and contributed to only by
+
+a) die-hard fans
+b) people who are VERY interested in learning more about the band
+c) people who already know a lot about the band
+d) all of the above
+
+If the NMS "goes public" as a newsgroup, there will be flames about what a
+great band Bon Jovi is and how Neil couldn't play his way out of a wet paper
+bag compared to ______.  You get the picture.
+
+We true RUSH fans don't need this kind of noise interferring with our e
+electronic adorations.  The list remains open to anyone with an internet
+account (back me up on this mgr.)  This means only folks who are real
+RUSH fans with something of substance to say are part of discussions.
+
+I've babbled on long enough
+Long Live the Trio,
+Tony R. Rice
+
+"Thats the semester and I am outahere" - D. Miller (well kinda)
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 232
+********************************************
+
+

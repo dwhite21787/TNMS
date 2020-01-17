@@ -1,0 +1,765 @@
+Errors-To: rush@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush-list-all
+Subject: RUSH Fans Digest of 10/04/90 (#59)
+
+
+               RUSH Fans Digest, Number 59
+
+                 Thursday, 4 October 1990
+Today's Topics:
+                    List status update
+                          Stuff
+                    The Omega Concern
+                 The Conversion of By-Tor
+                          Stuff
+                 Info re: Digest of 10/3
+                     Omega Concern..
+                     More FAQL fodder
+                     Lyrics@UMASS.edu
+               Rush File Archives are Back!
+                        Rush Fans
+                1978 Article/Story on Rush
+----------------------------------------------------------
+
+Subject: List status update
+Date: Wed, 03 Oct 90 14:37:26 EDT
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+As some of you may have noticed, there have been some strange happenings
+with the RUSH Fans Digest mailing list these past couple of days.  For
+some reason when I returned from vacation Monday (10/1) and tried to send
+the Digest out, it died an ignominous death.  I'm not sure why this 
+happened, but my first guess that the sheer length of names on the list
+(over 400 at this point!) caused my poor Syrinx to choke.  This is why
+there was a manual re-send of Monday's Digest on Tuesday.  The 'real'
+Digest for Tuesday (10/2) was nothing more than a note from me trying to
+explain what had happened, and to see if things were working correctly
+again.  They weren't, adn Digest #57 never got off of Syrinx.  So, in
+reality, there was NO DIGEST # 57.  Please don't send me mail asking for
+a re-send of it; it doesn't exist.
+
+Well, the list is still alive, but I'm not sure how well.  I think
+I've gotten the problem ironed out, but as a little less than half
+of you found out, things are not going as smoothly as I intended.
+
+What I've done is split the list into two lists by userid, A-M, and
+N-Z (plus numbers).  Due to my own impatience and lack of Unix
+finese, I think the N-Z people got the mailing twice.  Let's hope
+this doesn't mean 4 times!  I had checked the running processes, and
+only saw the mail for List 1, so I manually sent mail to List 2,
+assuming that the auto process had not done it.  Upon checking the
+outgoing queue, I saw that the N-Z folks were listed with two items.
+
+*sigh*
+
+Maybe tomorrow will go better - I've set it up so the mail runs in
+the background immediately (for those Unix types out there, I left
+off the trailing '&' previously) for both lists, instead of one after
+the other, as it seemed to do today.
+
+Maybe I can get things fixed by the anniversary date?  I dunno, it's
+just a month away...  :-)
+
+Wanted:  UNIX Guru who loves to hack with Ultrix 4.0, sendmail, Internet/
+Bitnet/UUCP networks.  Moderate hours, no pay.  Inquire within...
+
+Manager,
+RUSH Fans Digest
+
+P.S.  In cleaning up this issue I noticed that some of you (who shall remain
+      nameless *this time* are still sending things with long record lengths
+      (from 82 to &gt;200!).  I have chopped these up for easier reading, but 
+      it's a real pain for me to do this.  PLEASE, PLEASE keep your postings
+      to around 75 characters/line - this makes it easier for everyone to
+      deal with.  Starting next issue, I'll put a note in each offending 
+      posting asking the individual to please refrain.  I hope I don't have
+      to actually do this, tho...  
+ 
+      Also, when you submit something, please make it single spaced, and
+      with only a single space between words.  DO NOT use a formatter to
+      'tidy up' your text; studies have shown that it's easier to read 
+      something with a ragged-right margin.  Thank you!
+
+----------------------------------------------------------
+
+From: robin_m@apollo.com
+Date: Wed, 3 Oct 90 12:38:00 EDT
+Subject: Stuff
+
+&gt;From: Joe Ammond &lt;MUTANT%MTUS5.BITNET@CUNYVM.CUNY.EDU&gt;
+&gt;
+&gt;On several of the boyz' last albums, they list in the credits lines such
+&gt;as 'thanks to The Omega Concern'..  Does anyone know who/what this is?
+
+The Omega Concern is the company that made Alex's stand for the acoustic that 
+he uses during "Closer to the Heart".  In fact, I believe it is Alex's 
+company (company may be too large a word here...). 
+
+&gt;From: Hinano Akaka &lt;bigtuna!hinano@uhccux.uhcc.Hawaii.Edu&gt;
+&gt;
+&gt;About the real names of Geddy and Alex, I don't know myself what they
+&gt;are.  But, 'Zvednvinck' (Lifeson) and 'Gary Lee Weinrib' (Geddy Lee) sound
+&gt;right.  Sorry I couldn't be of any more help.
+
+I think Alex's real name is Zinovinojivic, meaning "Lifeson" (Wow! What a 
+coincidence! :) )
+
+-------------------------------------------------------------------------------
+Work:			 |Better the pride that resides
+   robin_m@apollo.hp.com |In a citizen of the world
+School: 		 |Than the pride that divides
+   cygnus@wpi.wpi.edu	 |When a colorful rag is unfurled       -Rush
+-------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Wed, 3 Oct 90 13:01:21 EDT
+From: pakman@eniac.seas.upenn.edu (David Pakman )
+Subject: The Omega Concern
+
+As Alex realized that he had to play acoustic guitar for some Rush tunes
+and then quickly switch to his electric (Closer to the Heart, etc.), he
+crafted a stand (actually an attatchment to a Tama Titan Cymbal stand)
+that holds his acoustic in an adjustable playing position.
+
+He soon began to sell this as a product (1st to Music Emporium) under the
+company label "The Omega Concern."  Apparently, Alex's "company" also
+made Geddy a light-up lyric stand and Neil got a newspaper/book holder
+so he could read while he eats breakfast.
+
+David Pakman
+
+----------------------------------------------------------
+
+Date: Wed, 3 Oct 90 13:19 EDT
+From: CRANMER@MPS.OHIO-STATE.EDU
+Subject: The Conversion of By-Tor
+
+  I may have some more light to shed on the issue of By-Tor's "conversion"
+ from a villian (on Fly By Night) to a hero (on Caress of Steel) that was
+ mentioned in the 'frequently-asked-questions' posting.
+  An old buddy of mine was once in the Backstage Club, and I recall that in
+ a question-and-answer column in one of the old newsletters, Neil makes
+ some comments - something to the effect of "Well, in life, all of us are
+ sometimes the hero and sometimes the villian."
+
+  A nice philosophy - and perhaps a little reminder that one shouldn't
+ "pigeon-hole" people based on first impressions???
+
+				Steve Cranmer
+				(cranmer@ohstpy.mps.ohio-state.edu)
+
+                                " _ . _ _   _ . _ _   _ _ . . "
+                                                               - YYZ
+
+----------------------------------------------------------
+
+Date: Wed, 3 Oct 90 13:50:37 -0400
+From: cs021045@cs.brown.edu (Jason Rosenberg)
+Subject: Stuff
+
+Hi,
+   Well, I'm new here, but I'll jump right in.
+   Just a note that no one will probably care about:  Michael Savett mentioned
+ Alex working on an album with Tony Levin.  I took Tony's neice to my Prom.  
+No kidding.  I know that doesn't impress any more than 3 people who will read 
+this, but I jsut got a kick out of seeing his name.
+
+[ Consider me impressed.  Have you met him?  He's one of *my* favs.  
+                                                                  :rush-mgr ]
+
+   Re.  The questions of who does what deep voice where:  Alex did the 
+"Subdivisions" thing in concert and it sounded perfect, so I assume that is 
+him on the album.  I also know that Neil does the speech at the start of 
+"Witch Hunt".  The song was mixed so the words can't be heard, but Neil does 
+a pretty awesome job of getting a point across with just tone.  I think, 
+anyway.
+
+   Well, for a first mailing, that seems to be rather irrelevant and redundant
+(1 of each), but oh well.  I think it should get better from here.
+
+Jason Rosenberg
+
+----------------------------------------------------------
+
+Date: Wed, 3 Oct 90 13:59:12 -0400
+From: Michael S Savett &lt;savvy@brahms.udel.edu&gt;
+Subject: Info re: Digest of 10/3
+
+&gt;From 10/3:
+
+1) The Omega Concern is a non-profit company created by Alex that makes 
+products such as Neil's lyric-writing lamp and the Song-Order-Album Sampler, 
+among other things.  Basically, it's some creative stuff that Alex puts 
+together for the band.  I doubt if it's available to the public.
+
+2) I recall in some music magazine a long time ago seeing Geddy's given name 
+as  Gary Leibovitz.  I know the Gary part is correct (from Rockline), and I 
+know he shortened his last name to Lee. (I don't think Weinrib is right...)
+
+3) Any word on a new album?  And what's this about a video for _Chronicles_?
+
+That's all for now...
+
+Michael Savett
+savvy@brahms.udel.edu
+
+----------------------------------------------------------
+
+Date: Wed, 3 Oct 90 12:06 EST
+From: Broonsey &lt;ORION%WSU.BITNET@pucc.PRINCETON.EDU&gt;
+
+Rush-mgr-
+        A little lovely that I ran across in my travels.  It's an article from
+a Cincinnatti newspaper (dunno which one) that a friend cut out for me.  Since
+it's so long, I'm mailing it to you to post at your leisure.
+
+[ Here it is, folks!                                   :rush-mgr ]
+
+- -------------------------------- (cut here)-----------------------------------
+
+Greetings RUSHans-
+
+        An article that I found one day, that I though might interest the 
+list!  Neil fans, here you go!!
+
+                        "KEEPING TIME FOR RUSH"
+
+                           by:  Cliff Radel
+                   (reproduced without permission)
+
+        Neil Peart doesn't bleed.  Cut him, and he drips irony.
+        As Rush's drummer and lyricist, Peart supplies the tempos and the words
+to the melodies of band mates Alex Lifeson and Geddy Lee.  His rhythms are like
+his rhymes -- with a cutting tone that always rings true.
+        "I'm an irony addict, " Peart confesses.  "On this album, from a
+lyrical point of view, I'm seriously addicted to irony."
+        This album, _Presto_, has Peart blasting his favorite targets:
+pretense, self-importance and making a big deal out of nothing.  He even takes
+aim at Rush's line of work on "Superconductor."
+
+                  "Packaged like a rebel or a hero
+                   Target mass appeal
+                   To make an audience feel
+                   He really means it...
+                   ... SUPERCONDUCTOR"
+
+        "I love pure pop music," Peart declares, "when it doesn't pretend to be
+anything else.  But, there is a certain lunacy about pop music when people
+adopt the image of pretense.  That's why there's that line in the song about
+packaging the image of the rebel.
+        "When people like Bon Jovi, Richard Marx, and George Michael pretend to
+be rebels and outlaws with their leather jackets, they pretend to symbolize the
+rebellion young people naturally feel.  At the same time, they are not fighting
+or protesting anything.  They're just these big money-making factories bowing
+to the common denominator."
+        As if he were anticipating the question.  "So what if these bogus bad
+boys are in it for the money?"  Peart adds:
+        "A business man being devoted to making money doesn't bother me.
+There's nothing immoral in turning a profit.  It's the illusion, the pretense,
+and that young people are being fooled by it."
+        Following this line of reasoning, Peart is not disturbed by the
+financial successes of New Kids on the Block.  Nor is he troubled by their
+efforts to imitate the Beatles on the "Tonight" cut from their recently
+released album, _Step by Step_.
+        "They don't offend me whatsoever," he sayd of the New Kids.  "Their
+stuff is pure pop music.  It doesn't pretend to be anything else.  They're just
+five young white guys being five young white guys.  The kids listening to their
+music aren't being hoodwinked.  They're being given music that's made by people
+who basically are their peers."
+        It's a good thing Peart doesn't think the New Kids' pure pop is pure
+poop.  He has "a 12-year-old daughter.  So, I'm well indoctrinated into New
+Kids mania."
+        He's also well versed in the intracacies of what Joni Mitchell once
+coined "the star-maker machinery."  He he decires packaged rebellion and
+freeze-dried images, he is not speaking from the persective of being a
+much-decorated veteran (with a chest-full of gold and platinum albums) of the
+rock 'n' roll wars.
+        Sure, Rush has sold 30 million albums since it's first release in 1974.
+Nevertheless, the Canadian trio, which originally had John Rutsey as it's
+drummer, has been a bunch ornery cusses ever since Peart signed on just after
+the release of the band's first album, _Rush_.
+        "In our early days, overtures were made where the record company tried
+to pass along what they thought we should be doing.
+        "When we were discussing doing a side-long piece on our fourth album,
+_2112_, our manager said, 'That's not what the record company wants.'  Even
+though our first three albums sold the same 'modest,' (to be generous), amounts
+- -- around 100,000 copies each -- and young bands are supposed to be susceptible
+to thinking that they have to please the record company, his comment just hit
+me like a rock.  I replied:  'Who cares what they want?' "
+        That question has guided Rush ever since.  "We're concerned first about
+exciting ourselves," Peart notes.  "Then, by extention, the audience."
+        What excites Rush most is its new material.  Long before David Bowie
+made such things fashionable as headline-grabbers, Rush was retiring old
+numbers from its concert repitoire.
+        "All of our work prior to 1980 has no emotional attachment to me,"
+Peart says.  "It's like an essay you wrote in grade nine or the pictures your
+mom used to stick up on the fridge.  You grow out of such things."
+        Well, some people do.  Peart recently read an interview withg Paul
+McCartney and found it "very ironic.  He said, when you go on tour, don't try
+to present your new material.  People don't want to hear that.
+        "He was patently acknowledging he was expecting to draw hundreds of
+thousands of people and make all that money from VISA on the basis of a
+nostalgia tour.
+        "That's the antithesis of what I would say," Peart adds.  "If your new
+material isn't the focus of what your'e doing and you don't consider it to be
+the best thing you've ever done, you better just become an oldies act and send
+yourself to Vegas.  The dream is dead."
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Adam Dickson            |               "Some will sell their dreams
+Wright State University |                   for small desires!"
+Dayton, Ohio            |
+  orion@wsu.bitnet      |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+----------------------------------------------------------
+
+Date: Wed, 3 Oct 90 14:08:12 PDT
+From: jlang%sdcc13@ucsd.edu (~ Rush Fanatic ~)
+Subject: Omega Concern..
+
+If memory serves, The Omega Concern, as thanked by the band in many
+of their album credits, is actually a company.  I believe it is a music
+store owned by none other - Alex Lifeson - himself!!
+
+It specializes in guitar paraphenia, including stands and special
+guitar holders and straps, etc..etc..  Alex himself uses some of the
+stuff, like on _Closer_To_The_Heart_  the guitar stand he has is from
+The Omega Concern.  I also think they make pedals and stuff but I'm
+not too sure on this one.  Supposedly Alex puts a lot of effort into
+it and a lot of their stuff as well as other guitarists.  Anyone else
+have anything else on this??
+
+A couple of questions I have in mind.  Does anyone know if an ADD
+version of Exit...Stage Left exists out there?  I believe it is supposed
+to be a Canadian import that they did in ADD, though I've never seen it
+or heard about it.  Someone on USENET posted about it a few years back,
+and I would love to get my hands on it if anyone knows more details.
+
+Someone was wondering about Digital Man.  I believe I heard once in an
+interview it was about one of the band's technician working with them
+prior-Signals, and he was something of a workaholic? and never slept
+so they started calling him Digital Man and working on the lyrics, sort
+of as an "aside-joke".  The interview I think was in Jim Ladd's
+Innerview series featuring Rush.  Perhaps Dave, or someone could be a
+bit more specific, I think I got the interview from you.
+
+Also, keep sending me those tour dates - and thanks to those that posted
+suggestions..I'll try and make it as complete as I can.
+
+-Jimmy
+
+----------------------------------------------------------
+
+Subject: More FAQL fodder
+Date: Wed, 3 Oct 90 16:35:35 CDT
+From: T.J. Higgins &lt;a106d!tj@uunet.UU.NET&gt;
+
+In the Frequently Asked Questions List, it is written (btw, kudos to
+the originator):
+
+&gt; Who says &lt;phrase&gt; in &lt;song&gt;?
+&gt; ----------------------------------------------------------
+&gt; From: a!
+&gt;
+&gt;     Alex says "That's nice" at the end of "Chain Lightning".
+&gt;     Alex says "Subdivisions" in the song of the same name.
+&gt;     The deep voice at the beginning of "Cygnus X-1" is none other than
+&gt;       Terry Brown.
+&gt;     Neil does the "Attention all planets of the Solar Federation - We have
+&gt;       assumed control" bit at the end of "2112".
+&gt;     Neil does the narrative during "The Necromancer".
+
+Something else you may want to add is the spoken/sung/shouted/screamed
+(choose one) word "listen" at the end of "Didacts and Narpets."
+
+MHO is that it is Geddy and Alex who are vocalizing here.  Anyone know
+fer sher?
+--------------------------------------------------------------------
+T.J. Higgins		 	uunet!ingr!higgins (UUCP)
+Intergraph Corp.  M/S IW17A3	higgins@ingr.com   (Internet)
+One Madison Industrial Park
+Huntsville, AL  35894-0001	"Jack of many opinions, master of none"
+(205) 730-7922
+
+----------------------------------------------------------
+
+Date:    Wed, 3 Oct 90 19:17 EDT
+From: &lt;Jonathan%Schon@PSUVM.PSU.EDU&gt;
+Subject: Lyrics@UMASS.edu
+
+The Lyrics server is down for now because of legal problems(maybe copyright).
+If the server resumes, I will be certain to post to the Digest ASAP.
+
+                       Jonathan C. Schon
+                       JCS130@PSUVM
+
+       P.S. In the future, I will post a review, my own, of RUSH-CHRONICLES.
+
+----------------------------------------------------------
+
+Date: Thu, 4 Oct 90 04:15:17 -0700
+From: Steven Owen &lt;dunadan@u.washington.edu&gt;
+Subject: Rush File Archives are Back!
+
+I'm back after switching accounts, and am ready to continue with the Rush file
+requests.  I was formerly on this list as livia@blake.u.washington.edu, but
+have since switched to an account I can call more "my own" (though not quite).
+It's my brothers, but that's good enough.
+
+One comment before I send a couple files across:
+
+&gt; From: Joe Ammond &lt;MUTANT%MTUS5.BITNET@CUNYVM.CUNY.EDU&gt;
+&gt; Subject:      The Omega Concern....
+&gt;
+&gt; On several of the boyz' last albums, they list in the credits lines such
+&gt; as 'thanks to The Omega Concern'..  Does anyone know who/what this is?
+
+This may be something to add to the "Frequently Asked Questions" list.  The
+Omega Concern is a company started by Alex that produces and markets his
+inventions; for example, he created the stand he uses on stage to hold up
+his classical guitar during the intro to "Closer to the Heart".  He also
+made a book stand that holds a book open on a table so you can read it
+without using your hands (Alex created this for Neil, so he could read his
+books during meals!).
+
+My next two messages will contain files from my Rush Archives.
+
+--Mike Owen
+
+----------------------------------------------------------
+
+Date: Thu, 4 Oct 90 04:17:29 -0700
+From: Steven Owen &lt;dunadan@u.washington.edu&gt;
+Subject: Rush Fans
+
+pohl@cs.swarthmore.edu (Walt Pohl) writes:
+&gt; Let's face it.  Rush is great, Tiffany is great, everyone else is great,
+&gt; but Rush sucks, Tiffany sucks, and everyone else sucks.  I like Rush, but my
+&gt; god, they're not perfect.  It's not my religion.
+
+then you're not a true RUSH fan.  i don't you think you understand the point
+of view of the RUSH fan.  we are born into a world of irrational, emotionally-
+swayed, crazy people.  little by little, we begin to come to the realization
+that we are different from others.  we can think logically, and we can ap-
+preciate things for their true aesthetic value.  we realize that the world
+is not with us.  so, we band together, and focus our minds on RUSH, who repre-
+sent the only proper ideal form of creativity, for their creativity is focused
+rationally.  rather than writing songs about such silly, irrational things
+such as love and partying as the teenybopper idols do, RUSH uses their lyrics
+as a forum to discuss the important issues, and to be the sole voice to rail
+against the mindless irrationality which controls our world.  rather than
+writing songs designed solely to appeal to primitive urges (such as mating
+or dancing) in the listeners, RUSH's songs are structured to appeal to the
+mind.  any teenybopper can say that they "like" a particular song, but a
+true RUSH fan does not listen to RUSH because he "likes" their songs. "like"
+is a word which implies some sort of emotionally-controlled subjectivity on
+the part of the agent.  a true RUSH fan makes the choice of his own free
+will to listen to RUSH out of a carefully researched appreciation of their
+rational message.
+
+[ Ummm, excuse me??  I hope you just forgot to leave off the smileys?
+  *This* should generate some discussion!                        :rush-mgr ]
+
+----------------------------------------------------------
+
+Date: Thu, 4 Oct 90 04:23:12 -0700
+From: Steven Owen &lt;dunadan@u.washington.edu&gt;
+Subject: 1978 Article/Story on Rush
+
+[ This went out in the Digest a few months ago, but since I happen
+  to be a bit fond of the story, I'll re-run it.  Moderator's perogative!
+                                                                :rush-mgr ]
+
+THIS ARTICLE WAS TAKEN FROM AN UNKNOWN 1978 CANADIAN MAGAZINE
+
+  Across from the dressing-roam door she stands, a single red rose
+keeping time against her plum-blushed cheek. Lips of Iced Espresso,
+rippled hair, soft silk winking down to tight jeans and high-lace
+boots- she stands apart from all others gathered this night for the
+Rush concert in Detroit's Cobo Hall. She has nothing in common with
+the actual crowd, mostly pimpled, totally ruffled with a solid month's
+anxiety that began when the Detroit police-as familiar with the rumors
+of riot as with the crack of wood on skullbone-forced the ticket
+offices to open early or else. There is no air of abandonment about
+this girl. She will not be like the one with the kung fu grip in
+San Diego who stormed the stage and tried to tear out the lead singer's
+throat. Nor will she be like the top-heavy girl in Atlanta who come up onto
+the stage to show the band her instruments. No: this one will wait. And see.
+
+ Behind the door opposite the girl is a table weighted down by caviar,
+shrimp, Courvoisier and Dom Perigion. And around the table sit the
+three members of Rush: Neil Peart, the cat-eyed drummer with the
+musketeer's mustache. Alex Lifeson, the blond guitarist with the prince
+valiant features, and Geddy Lee, the bass player and singer who is
+composed to a great extent of nose tissue and thick black hair.
+They neither eat nor drink. They read a history of the Russian
+Revolution, a philosophy primer, the autobiography of Agatha Christie.
+Time measures faintly in turning  pages.
+
+ But the silence is broken by a girl out-flanking the security guards
+and pushing through the door. She is not the one with the twirling
+rose, much younger, but is herself in full bloom, as evidenced by
+some careless buttoning. She  must,absolutely must, speak to Neil Peart
+about the song he has written on black holes in outer space. "I
+read all about then in Reader's Digest, Neil," she says in a
+cranked-up cadence. "I saved the article for you they're so weird, I
+mean, aren't they?   like  there's nothing out there.  Nor up
+there, judging from Peart's total disinterest. He knows that this
+walking-talking blow-up doll who got lost in Reader's Digest could never
+comprehend, say, scientist Carl Sagan's theory on Cygnus X-1-the black
+hole of Peart's song that what is really out there is a binary star,
+two stars revolving about one another with only one being visible.
+The other, the black hole, exerts no light but because it does
+have gravity it possesses a tremendous amount of pull.
+
+ If she could understand that, then perhaps she could also understand the odd
+phenomenon of Rush. All that light, all that is visible in Rush comes
+from the three members of the group. The pull, however comes from a
+yellow spaniel of a man named Ray Danniels. Not so many months ago
+Danniels sat in his North Toronto office surrounded by depressing
+dry-walling, tile floors and two $14 chairs, all of which have been
+replaced these days with huge plants, plush carpeting, brown corduroy
+chesterfields and pecan paneling. Over his expensive desk is nailed
+a wood-carved sign of on word: RESULTS! Back then, however, hanging over
+his head was a minus sign in front of the $325,000 his company has sunk
+into Rush, a heavy third mortgage on his home and a lawsuit demanding
+a minimum of $1.3 million in damages. Below all that an ulcer
+hissed.
+
+ But these days the stomach purrs. Six gold albums in Canada and
+three in the United States in less than two years, sales of roughly
+4.5 million record albums worldwide, perhaps the best recording contract
+in the business (a $250,000 advance on each new album and a remarkably
+high 16% royalty rate)... Today no one drives rusted-out Camaros. Counting
+Danniels and his business partner, Vic Wilson, Rush now travels by
+Rolls Royce, several Mercedes, a Jaguar, a Porsche and a Dinky display
+full of other play cars. And there are brand-new luxury homes to park
+them in front of. As for the big lawsuit brought against them by an
+American for breach of contract, (he was supposed to be a full partner,
+but the deal went sour) -it has been erased efficiently by a $250,000 out of
+court settlement.
+
+ A single red rose costs only a half dollar and in some ways seems a
+proper symbol for a far more exquisite time, a time long lost and kidded
+these days by lyrics such as the ones Rush has written: "Once we loved
+the flowers/Now we ask the price of land." But in the world of pop
+music the rose's message persists: do with me what you will. Unfortunately
+for the girl with the rippled hair, the band doesn't even see it as
+they charge out of the dressing room and up onto the stage, hurrying to
+deliver their own word.
+
+  The first chard from Alex Lifeson's guitar bull-dozes up through $100,000 of
+electrical connections and Geddy Lee's high falsetto cuts like a dentists
+drill through what any well be the loudest sound in rock music.  He stands
+front stage left without his glasses, and his vision ends where the sheer
+nighty of smoke begins, meaning he can see into the heavy slugging and pushing
+of the front few rows, where the hall security guards are taking out life's
+small disappointments on 16-year-old heads but he cannot see the Frisbee that
+darts out of the dark into his shin, or the marijuana roach that sparks
+against his face.  "You can't", he has said just before the show, "tell
+whether they do it because they like you or hate you."  About performing he
+has also said: "You stand there and you shut your eyes, you lean back and
+vhhooooshht there's this great roar, this wave of applause.  And it grows and
+grows, and you feel it wash all over you, and you say "Wow! I did that!..."
+
+  And the cheering grows.  Lee launches into the title song to their latest
+album A Farewell To Kings, the words rising out of the smoke like steam under
+pressure:
+  "When they turn the pages of history When these days have passed long ago
+Will they read of us with sadness for the seeds that we let grow?..."
+
+  Ah, but rock music used to be so simple concerned as it was with hand-held
+fantasies.  Rush will have none of that; the group even has its own literary
+mentor, Ayn Rand, the aging American author (Atlas Shrugged) and philosopher
+(The Virtue Of Selfishness) who has vehemently argued for decades that
+capitalism is "the only system geared to the life of a rational being." Rush
+reads her passionately and passes her philosophy on to a massive, young
+audience that otherwise would never hear of her.  For Rand, who was sometimes
+seen as the Enemy Incarnate by the campus radicals of the Sixties, it is a
+surprising and triumphant comeback.
+
+  The Band philosophy came to the group through 25-year-old Neil Peart, who
+writes most of the band's lyrics and who read The Fountainhead when he was
+growing up in St.Catharines, Ontario, and decided "For me it was a
+confirmation of all the things I'd felt as a teen-ager.  I had thought I was a
+socialist like everyone else seemed to- you know, why should anyone have more
+than than else? -but now I think socialism is entirely wrong by virtue of man
+himself.  It cannot work.  It is simply impossible to say all men are brothers
+or that all men are created equal-they are not.  Your basic responsibility is
+to yourself."
+
+  "For us, capitalism is a way of life," adds Lee.  "It's an economic system
+built on those who can , do, and succeed at it.  For us it is a very material
+way out of life.  Your material things should give you pleasure."
+
+  Alex Lifeson, of the three easily the least concerned with the Rand ideas,
+possibly puts the group's thinking in its best context when he talks about
+their sudden surge of spending money.  "It feels good, " he says.  "It is our
+just reward for all the hard work."
+
+  Ten years ago Lee and Lifeson were 14-year-olds trying to find a meaning to
+their lives in Willowdale, Ont., shopping plazas.  Lee was, In the words of a
+close friend at the time, "the ugliest-looking kid I ever saw," courtesy of a
+merciless brushcut that only accentuated his large ears.  Lifeson had his own
+troubles: too much weight and a 12-letter last name no one could pronounce.
+They were a perfect contrast to their close friend, Steve Shutt, who was then
+a promising young hockey player with a cash-register future and fame obviously
+waiting for him.  Trouble was, they wanted the same things out of life.
+
+  "You could tell even then," says Shutt now the star left-winger with the
+Montreal Canadiens, "even before they were doing anything, that they were
+looking for something to pour their energies into.  Then they started their
+band and nothing else mattered after that."
+
+  They began in their parents' suburban basement, with another Willowdale
+friend John Rutsey, as drummer.  The name "Rush" they took from a Sixties drug
+term referring to the small piledriver that races up stoned spines and hammers
+out hair an inch or so at a time.  And they were terrible: one of their big
+numbers in the early days was Jailhouse Rock sung Yugoslavian, the language of
+Lifeson's parents.  Yet they had something so many other basement bands did
+not have: un-dying, relentless ambition.
+
+  Rush's first job was in The Coffin, a youth centre in the basement of the
+local Anglican church, and it was here that they met Ray Danniels who was then
+16, a school dropout since 15-  The son of a dyecasting executive who'd worked
+his way up from the bottom, Danniels possessed ambition that went even beyond
+the others'.  He hustled then into the competing United Church youth centre
+with a better deal and from there into any high-school gym that would take
+them. It was a hard sell-Rush was already writing its own material and
+refusing to cover the Rolling Stones and Beatles hits of the day but
+Danniels thanks to a friendly and charming manner that masks his
+obsessive drive, soon had then piling into rented trucks to drive to such
+places as Sudbury for a $35 concert (a far, far cry from the roughly
+$100,000 they picked up far filling Maple Leaf Gardens two nights straight in
+late December). And soon they, had quit school.
+
+  In some ways that turned out to be an essential element in their
+success. Their hockey-playing friend, Steve Shutt, had already seen the
+darkness at the far end of the entertainment tunnel, and they often
+talked about it. "You soon realize you can't bale out because there's
+nothing else you can do" says Shutt. "You've got to hang in."
+
+ "I always knew if I didn't succeed with this I didn't even have the
+education to be a postman," says Ray Danniels. The key to our success is
+very simple: the number of hours we put in."
+
+  At the first it was most fortunate for Danniels that he also booked the
+likes of Lighthouse mid Edward Bear-and, at 22, had an income of $60,000 a
+year-for Rush couldn't be given away. "Without a doubt they were the hardest
+act I had to sell," says Danniels, "sometimes nobody came to see them,
+sometimes the gyms were packed. And that's what convinced me they were
+the ones who could happen if anybody could."
+
+  It was a conviction he had no one to share with. The critics laughed
+aloud at the group. They once went nearly four months with only three
+engagements, and all on the same weekend. A girl friend was pregnant.
+Alex Lifeson was, in his own words "pretty screwed up." There was little
+money and no record company interest. But it was then that Danniels
+and his partner Wilson took their big gamble: they booked a Toronto
+studio and cut their own record, and $9,OOO later they had an album,
+something to take with them while they went knocking on the doors to the
+rock'n'roll dream.
+
+  "Every record company in Canada turned us down, every last one of
+them," says Danniels, so he created his own label and discovered held been
+right, the sullen-faced kids hanging around the gyms wanted to buy Rush.
+Sales in Canada were somewhat promising, and the early response in the
+States prompted the Chicago-based Mercury Records offer Rush a $ 100,000
+recording contract and backing for a tour of America.  Danniels could
+barely believe his luck. He moved quickly. The drummer, apparently ill
+and not as overtly ambitious as the other two, was replaced with Neil
+Peart, the son of a mechanic who had risen to own his own farm machinery
+business. Peart was every bit as ambitious as Danniels, Lifeson and Lee,
+and Rush soon became probably the hardest-working band in North America,
+performing in excess of 200 days a year. But there was no hit record
+and few kind reviews, and after the band released their third album,
+Caress Of Steel, to savage reviews they came close to packing it all in.
+Lifeson hadn't been paid in five weeks, had a wife and child, and was
+getting by only on the money from his wedding. Peart's car was sitting in
+a garage, waiting for him to raise enough to cover the repair bill. To
+make matters worse, the record company was exerting great pressure on
+them to become more commercial. But they decided to stick with it, to
+not give in. After all, as Danniels says: "They couldn't quit any more
+than I could. What would we do-get a job." He was now $325,000 in the hole
+with Rush and had only an ulcer to show for it.
+
+  But then suddenly, and seemingly with out explanation, the tide turned
+dramatically. Their next album, 2112, came out "with acknowledgment to the
+genius of Ayn Rand," as the jacket claimed.
+
+  What had happened was the times were simply catching up to Rush, rather
+than being trapped in the past-by paying mediocre and unnecessary homage
+to the louder British bands of the late Sixties (Cream, Led Zeppelin), Rush
+was, in fact, a whole new generation of rock music. Unlike their
+British predecessors, Rush had no musical roots in the blues traditions,
+and hence had little empathy for the common folk. And their ages alone meant
+that they held no kindred love for the social conscience of a Bob Dylan
+or Phil Ochs, for that matter not even the street justice of a Mick
+Jagger. Rush was, on the average, a full decade younger than the ruling
+class of modern pop music. They found themselves speaking for a large
+group of young rockers without spokesmen - a group who, despite their love
+of loud, violent music, were themselves non-revolutionary, highly
+conservative and certainly self-centred. It was precisely as Ray Danniels
+had always known: "Rush isn't meant for people our age."
+
+ In fact, the members are a total enigma to those used to the hard-won
+traditions of rock and roll. Their music may be punishing to some ears but
+the members themselves are quiet-spoken, polite and considerate. Two years
+ago Lee had a traditional Jewish wedding; he and his wife honeymooned in
+Hawaii. Peart invests money in his father's business. Lifeson listens to
+classical music, not rock in his spare time and dreams one day of performing
+with the Toronto Symphony. As their own manager says about the band's
+life-style, "These guys are pure boring to most music people."
+
+  Why they survived and became so successful has little to do with instantly
+obvious talent and a lot to do with hard, hard work.  "It's like when I phone
+up an electrician and he comes and gives me good service," says Neil Peart.
+"I'll  call  him back again and maybe recommend him to someone else."  The
+road show is superb in visual terms and two hours in length, and their vast
+audience is ample evidence  that there are many who love their music.  Nobody
+can ignore them anymore.
+
+  It is a satisfaction that translates into such things as the full house at
+Detroit's Cobo Hall, where on this cold December night the halls still echo
+with the broken fanbelt sound of Geddy Lee's voice in Rush's encore,
+Cinderella Man.
+
+  In the hotel room back from the hall Neil Peart sits along the window ledge,
+a late freighter moving down St.Clair River and into his left shoulder.  On
+the  desk  beside him his briefcase sits open, a hand-printed sign asking WHO
+IS JOHN GALT? in bright red lettering.  Galt was Ayn Band's main character in
+Atlas Shrugged and it  is  worth noting that at the end of the book John Galt
+raised his hand over the earth and traced out the sign of the dollar.
+
+  Peart smiles, turns, and looks dawn over the hall, the river, the Windsor
+waterfront, looks down on Canada where they used to laugh at him.  Below, out
+of sight behind the hall, a rose lies wilting in the snow.
+
+----------------------------------------------------------
+
+To submit material to the Rush mailing list, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions & changes), send
+mail to:
+
+    rush-request@syrinx.umd.edu
+
+The contents of the Rush Fans Digest are solely the opinions and comments
+of the individual authors, and do not necessarily reflect the opinions of
+the management.
+
+List Management
+
+********************************
+End of RUSH Fans Digest
+********************************
+
+

@@ -1,0 +1,120 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 06/16/92 - The National Midnight Star #485 ** Announcement **
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+          The National Midnight Star, Number 485
+
+                   Tuesday, 16 June 1992
+Today's Topics:
+                       Administrivia
+  (or, "The reports of my death are greatly exaggerated")
+----------------------------------------------------------
+
+Hello all,
+
+    This is more or less a non-issue of the NMS, but I wanted to get
+something out to explain the disappearance of the digest.
+
+    If you haven't noticed (ha), the NMS has not been distributed
+regularly for about a month now (geez, has it been *that* long?).
+This is due to an unusually heavy work load I've been experiencing
+for the last two months or so.  We are phasing out one of our two
+mainframes, and being one of the few consultants who spoke both
+operating systems fairly fluently I was tapped to assist several
+users in the change-over from one to another machine.  I was also
+lucky enough to get to transition several in-house reporting/billing
+programs for the same reason.  (Can you say COBOL?)
+
+    Right now, the list stands as it did at the beginning of May; I
+have added and removed few people since about May 10th or so.  If you
+have asked to be removed and still get this mail, this explains why.
+In that case, I hope this will be the last mail you receive from this
+list until you request to be re-added.  I'll plow through all the 
+administrative requests (removals at least) before sending out a full-
+blown issue.
+
+    My load is still heavy, but now that the old mainframe is essentially
+dead, things will hopefully begin to settle down for me again.  I've
+gotten other duties since then, but they are not as time-critical as
+the transition project, so I will be able to wedge the NMS in among my
+other duties.
+
+    I'm sorry this happened during the summer leg of the band's tour,
+but it was unavoidable, more or less.  I can only hope you forgive me
+and I'll make an extra effort to get the NMS back up and running soon.
+It may be a bit jerky at first, but before too long I hope to get it
+back close to it's old regular schedule.  Of course, I still have to
+plow through 500+ mail items, so it will take a bit of work.  Hang in
+there folks, we will return!!
+
+Until later,
+David, rush-mgr
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1992.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+********************************************
+End of The National Midnight Star Number 485
+********************************************
+
+

@@ -1,0 +1,686 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 03/06/92 - The National Midnight Star #442
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+          The National Midnight Star, Number 442
+
+                   Friday, 6 March 1992
+Today's Topics:
+                      Administrivia
+                    Rush and the radio
+        Other musical lists; Canadian opening acts
+                          (none)
+                   CoS 'til ya puke...
+                t-shirts and outdoor shows
+                        cd singles
+                     Album artwork...
+                     Rushian Roulette
+                Gangster of Boats Trilogy
+                  Lyric search Challenge
+                  First time (be gentle)
+                       Worshipping
+                       Boston Radio
+                         Good Tix
+                      CoS ramblings
+                 Miscellaneous ramblings.
+         First time Posting & other happy ho-hos
+----------------------------------------------------------
+
+From: Editor, The National Midnight Star &lt;rush-mgr@syrinx.umd.edu&gt;
+Subject: Administrivia
+
+In case anyone cares, I've fixed the problem with the funky double ending
+of the last few digests.  I don't know how/why, but the file that contains
+the last bit of each digest (the 'tail') which normally doesn't have the
+last three lines in it got them added somehow.  This meant that when the
+software put together the NMS and added those lines as it always does, they
+got added to the end of the file that already had something like that at
+the end, hence the duplication.  (If you're not lost by the above description,
+you are in worse shape than I am!)  Anyway, the thing should be fixed now.
+
+I shall be off work next week Mon-Wed due to the University being closed for
+spring break.  I shall attempt to log on and put out a few NMSs over that
+time, although there will probably not be one for Tuesday, as I'm attending
+the Richmond show.  I will also try to get the FAQL out this weekend or early
+next week.
+
+rush-mgr
+
+----------------------------------------------------------
+
+Date: Thu, 5 Mar 92 20:36:39 EST
+From: jalhart@skidmore.EDU (Lerxst)
+Subject: Rush and the radio
+
+Well I'm following up my post from last week regarding GOAC and Top 40 radio
+with some specific information.  I think it is really interesting to note
+that according to the March 6 edition of Radio and Records GOAC is now on
+13 Top 40 radio stations across the country.  The stations range from the east
+coast to the west coast.  I have heard that more should be adding next week.
+Although it is still a bit early to tell, GOAC is making a strong showing
+onTop 40 radio.  As far as rock stations go, GOAC is doing great!  In fact
+believe it or not (as Lisa from Suny Buffalo notes) Bravado has just been
+released from Atlantic to stations officially.  So now stations will start
+playing Bravado.  And guess what, according to my friend at the record
+company soon Bravado will be released to Top 40 radio.  Double Yikes!!
+So Rush now has the spirit of radio.
+
+&gt;From the rumour mill regarding outdoor shows this summer, I have heard two
+rumours:  A) Mr. Big will again be supporting and B) Rush will be doing
+two nights at Jones Beach here in the New York area!!!!  More rumours
+and hopefully some confirmations to follow.
+
+Later.
+
+Ken F.
+
+----------------------------------------------------------
+
+Date: Thu, 5 Mar 92 20:49:22 -0500
+From: Greg WARD &lt;narpet@binkley.cs.mcgill.ca&gt;
+Subject: Other musical lists; Canadian opening acts
+
+Someone asked recently about a Yes mailing list -- yep, it exists, and it's
+called Notes from the Edge.  The address to subscribe is... (quick shell here)
+borella@snowball.cs.ucdavis.edu.
+
+I have a suggestion for the FAQ -- although it's supposed to be a *Rush* FAQL,
+it seems like THE most frequently asked question is "Does anyone know the
+address for the --- mailing list", where --- is usually Yes, Led Zeppelin,
+Marillion, Genesis or King Crimson.  (Obviously *excellent* taste hereabouts,
+eh?)  What I suggest is that at least SOME mention of the Musical List of
+Lists go in the FAQL -- such as that it's available via anan FTP at
+cs.uwp.edu in the directory pub/music/something.  (Can't remember the exact
+directory, but it's not too tough to find.)  Reasonable idea, no?
+
+Next, someone asked if Voivod opened in Toronto -- I believe that was on the
+Presto tour.  I remember hearing about that and wishing fervently that I could
+have been there... Voivod's a most excellent group, and their latest CD is
+really top notch.  Think I may go to see them later this month here in
+Montreal; probably be better acoustics than at Maple Leaf Gardens anyway.
+
+On the RTB tour, some *extremely* crappy metal band from Toronto opened in
+TO, Ottawa, Montreal, and Quebec.  It was incredibly boring.  I was quite
+disappointed at not getting to see Eric Johnson.  (And yes, all I've heard of
+his was `Cliffs of Dover'.  Bodacious song, and while I generally profess
+to not giving a flying you-know-what to such obviously contrived and
+artificial crap as the Grammies, I would have been quite glad to see either
+EJ or Rush get it.  Or Steve Howe, too bad *he* wasn't nominated for
+`Masquerade' instead of all of Yes.  Or better yet for something off
+Turbulence!)
+
+Oh, one more thing -- gee, I had no idea Caress of Steel was supposed to
+be a "bad" album!  Personally, I like it much more than *2112* as an album...
+CoS seems to be much more coherent and together as a 35-minute unit than
+does 2112.  (Same reason I prefer AFTK and PeW to Hemispheres, even though
+the actual Book II Hemispheres and Strangiato make me go quite ga-ga.  So, for
+that matter, do The Trees and Circumstances... it just seems like the
+whole album is dominated too much by `Hemispheres', and that there just
+aren't enough different songs on it.)
+
+'Nuff rambling.
+
+		Greg Ward (narpet@binkley.cs.mcgill.ca)
+
+----------------------------------------------------------
+
+Date: Thu, 5 Mar 92 20:48:37 -0500
+From: Terry Gardner &lt;thdhub!tjg01@uunet.UU.NET&gt;
+
+	The `Greek God' description of the 2d side of `Caress Of Steel'
+was a pretty good description. It is the overall sound of that album
+that I liked, and like. The differences between CoS and FBN are so
+tremendous, it is apparent that the trio did an enormous amount of
+growing during the time between the albums. There is a certain solidity
+in the `sound' of CoS that they did not approach again, IMHO, until
+`Hemispheres'. Probably due to filtering some highs.
+	How many readers of this have been or are in a band that plays
+music of RUSH? I used to be in one (bass, Geddy Lee has the most
+difficult bass parts with the single exception of Stanley Clarke that
+I've ever tried to copy), and we chose to play the ones that you NEVER
+hear, such as `Tears', `Hemispheres' in it's entirety, `Beneath, Between,
+and Behind', `Bastille Day', `Anthem', etc.
+	The clarity of Rush, and the single mindedness of the best stuff
+are what makes the band's music so classical, so intellectual. I hope
+trhat they never stray from that. New musical styles, sure, just retain
+the approach that makes the music so enjoyable, the straight-forward
+musical interpretation of a thought, without all the cheap garbage that
+doomed bands like Guns'n'Roses, which I simply will not listen to, and
+Van Halen, which makes me want to vomit (with the exception of `Dance
+the Night Away', which conjures up memories of a particularly good
+sexual outing on a Florida beach in the moonlight!
+
+Terry Gardner
+Senior Network Systems Programmer, The Home Depot, Inc.
+terry@thdhub
+
+----------------------------------------------------------
+
+From: jewright@mtu.edu (JASON WRIGHT)
+Subject: CoS 'til ya puke...
+Date: Thu, 5 Mar 92 21:25:43 EST
+
+Howdy again fellow Rush freaks...
+
+Well, I have this to say about CoS:  It sure isn't the boyz best album, but I
+like it.  I seem to be in the minority here...But I'm listening to it right 
+now.
+The entire album, in its entirety, does not gel with me for some reason.
+However, specific songs like "Lakeside Park" or "The Necromancer" are greatly
+underrated.  I'd even vote for bringing "Lakeside Park" back on the tours.
+Then again maybe I'm just insane...
+
+                                          -PeeWee
+
+ -----------------------------------------------------------------------
+| "I hear the sound of gunfire at the prison gates, | jewright@mtu.edu  |
+|  Are the liberators here?                         | Insane undergrad, |
+|  Do I hope or do I fear?"                         | Math department,  |
+|            -from "Red Sector A"                   | Michigan Tech     |
+|-----------------------------------------------------------------------|
+|   Yes, they really do call me PeeWee...Try looking for Pwe on IRC...  |
+ -----------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Thu,  5 Mar 92 10:31:33 EST
+From: stu890151@gcc.edu
+Subject: t-shirts and outdoor shows
+
+    First, what IS going on with the TNMS t-shirts??  I really do want one or
+two or three shirts, and I have not seen any of the people who were supposed
+to do this email any updates.  Whoever should do this stands to make some cash-
+what are ya waiting for?
+
+    Second, has anyone heard if RUSH (or VH) is coming to Pittsburgh or
+Cleveland for an outdoor show??  I wrote 102.5 WDVE in Pittsburgh, and I have
+not gotten my SASE back yet, when I do I'll share any news.  The dj
+(7 pm to midnight), Jack Malloy, did say that the promoter and the radio 
+station
+were tryiu
+g to get another RUSH show....who knows?  If anybody has any inside
+scoop on the outdoor dates, send it to "syrinx" or to me at "stu890151@gcc.edu"
+
+                                                --Jason Packovich
+
+----------------------------------------------------------
+
+Date: 5 Mar 92 23:48:00 CST
+From: ZA002@zeus.unomaha.edu
+Subject: cd singles
+
+Date sent:  5-MAR-1992 23:47:58
+Does anyone know where in the midwest i can get these CD singles? everywhere
+i have tried in Omaha doesn't carry them and i would really like to get
+the 2 new ones.
+
+Amigas and bowling,2 great things!
+
+DigDug-Greg Dugger
+
+----------------------------------------------------------
+
+Date: Fri, 6 Mar 92 00:18:13 -0700
+From: cs102106%vixen.dnet@terra.oscs.montana.edu (Ryche-r)
+Subject: Album artwork...
+
+Does anybody know if any of Rush's album artwork is available commercially?
+(i.e., some sort of poster-sized print).  I am specifically referring to the
+inside of Roll the Bones (3 wishbones suspended over the water).  That has got
+to be one of the coolest pictures I've ever seen.
+
+Also, I remember somebody mentioning the Vital Signs live thing... I also
+found it on a King Biscuit 'best of' kinda thing when I rummaged around at a
+radio station last summer.
+
+(By the way, KRKX in Billings, MT plays quite a bit of RUSH, as does KSUA in
+Fairbanks, AK...)
+
+Ryche & Roll!
+
+----------------------------------------------------------
+
+From: vt107356@ee.tut.fi (Toukomies Veikko)
+Subject: Rushian Roulette
+Date: Fri, 6 Mar 92 10:56:48 EET
+
+  I bought a bootleg called 'Rushian Roulette' (CD) and were quite disappointed
+to La villa strangiato's sound quality. There have been some serious damage
+on the master tape, i suppose, because in the middle of the La villa (i don't
+remember section's name) it begins to sound like a C-cassette which has been
+too close to a magnet. And also in the beginning of La villa, the left (or
+right?) channel fades out for a minute. It really bothers me. Anyboby else
+have the same bootleg?
+  I have also bootleg called 'Currently in vogue' and it sounds quite good.
+
+--
+
+    *  Veikko Toukomies       *                                     *
+    *  Suvantokatu 1 E 15     *   e-mail: vt107356@uikku.ee.tut.fi  *
+    *  33100 Tampere FINLAND  *           vt107356@kaarne.cs.tut.fi *
+    *  phone: 931-239027      *                                     *
+
+----------------------------------------------------------
+
+Date: Fri, 6 Mar 1992 07:59:12 -0600
+From: wadew@DUCVAX.AUBURN.EDU (Wade Williams)
+Subject: Gangster of Boats Trilogy
+
+&gt;I was wondering if anyone has any ideas as to the relationship between
+&gt;the "Part IV" and "Trilogy" in the sub-title
+&gt;
+&gt;   (Part IV, "Gangster of Boats" Trilogy)
+
+It's a joke between the boys.  More than likely, we'll never see parts 1, 2
+and 3.
+
+-------------------------------------------------------------------------
+Wade Williams   	       	       	"Any escape might help to smooth the
+User Services Specialist        	unattractive truth, but the suburbs
+Academic Computing      	       	have no charms to soothe the restless
+Auburn University       	       	dreams of youth." (N. Peart)
+wadew@ducvax.auburn.edu
+-------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Fri, 6 Mar 92 09:40:42
+From: dwhite@wake.ncsl.nist.gov
+Subject: Lyric search Challenge
+
+	The Rush Lyric Scavenger Hunt!
+Can you match these objects/phrases to the song they are from?
+For clues (album name) or answers email dwhite@wake.ncsl.nist.gov.
+1  Russian roulette
+2  Serengeti night
+3  a God, a king, a head of state
+4  a sunday noon
+5  a beacon in the darkness
+6  a brilliant shooting star
+7  a firefly
+8  a brief eclipse
+9  a midnight rendezvous
+10 an english rain
+11 fields of dew
+12 golden light of coming dawn
+13 the acid rain
+14 island in a hurricane
+15 ripples in the pool
+16 sea to shining sea
+17 black wind falling to the ocean floor
+18 six stars of the northern cross
+19 the frozen mountain tops
+20 the rainbow's end
+21 the rhythms of the night
+22 the sound of the rain
+23 the wet summer lawn
+24 twilight premature
+25 wolves and cold starvation
+26 the open road
+27 the charger in the garage
+28 the castles in the distance
+29 tickets sold out in advance
+30 Hold Your Fire
+31 a change of synergy
+32 a gypsy caravan
+33 a mountain river bleeding
+34 a pair of dancing shoes
+35 a spiral stair
+36 a wind tunnel
+37 a world of cold reality
+38 begging hands and bleeding hearts
+39 iron tears
+40 a nice, cold beer
+41 better people, better food, and better beer
+42 the cask of forty-three
+43 computerized clinic
+44 radio and radiation
+45 reverse polarity
+46 the energy you trade
+47 the fireworks display
+48 earth's melting pot
+49 fawn-eyed girl with sun-browned legs
+50 glittering prizes and endless compromises
+51 hatchet, axe, and saw
+52 bare knuckles
+53 iron fist in a velvet glove
+54 lunar gravitation
+55 magnetic north
+56 the back door
+57 marble fountains
+58 old-time religion
+59 one-lane bridge
+60 security under pressure
+61 smoke rings
+62 the atmospheric domes of the outer planets
+63 the camera eye
+64 time is a spiral
+65 take heart from the harvest
+66 you know I've hated that song for so long
+
+Ya know, for all this there oughtta be a prize. Anybody want to fax the
+winner an exrox of the Boyz signatures?   :)
+
+EXTRA CREDIT: Name these lyrics -&gt; " "  (50-50 chance!)
+
+First one with all the answers to me by 21:12 EST Tuesday March 10 wins!
+No grep/egrep/fgrep allowed!  Void where prohibited by your boss! Made in USA!
+
+Have fun! dwhite@wake.ncsl.nist.gov
+
+----------------------------------------------------------
+
+Date: 06 Mar 92 10:13:54 -0500 (EST)
+From: UN041014@WVNVAXA.WVNET.EDU
+Subject: First time (be gentle)
+
+	As my subject says this is my first time posting (I've only been
+a reader for about a week).  But I wanted to make a few comments.
+
+1)  In reply to Alex(Jealous Knight)'s question about The Necromancer and
+J.R.R. Tolkien's works.  I am and Avid fan of his Middle Earth works and
+have practically memorized half of them (I'm working on the other half).
+There are one or two similarities between the song and the stories but
+not enough to say that it's based on the stories.  Maybe losely inspired
+by.
+
+2)  In reply to however's initial coment on CoS.  I also feel it's a great-
+ly underrated album.  It was coherent but also had a wonderful veriety of
+styles (compare 'Bastille Day' and 'Panecea' sp?).
+
+3)  In reply to Larry Salomon's question about childhood-RUSH memories.
+Unfortunately I led an underprivelegded childhood (aka I didn't discover
+RUSH until late in life).  But I do have some good RUSH memories.  But
+this leads into my next topic.
+
+4)  I've noticed, in this area at least, a big corolation between RUSH fans
+and sci-fi/fantasy and GPR's(e.g. AD&D).  Is this true in most areas?  Is
+it a coincedence that many of the old songs seem to be written for that
+audience?  Quite often when our group gets together to play AD&D (or others)
+we have RUSH playing in the backround as 'mood music'.  Weird?
+
+5)  As I mentioned earlier,  I discovered RUSH late in life.  Unfortunately
+, as a result, I have yet to see them live!  Due to a small arguement with
+my credit card company I missed the Pennsylvania date.  I've downloaded
+the remaining tour dates from the ftp site but I've heard talk about addi-
+tional dates (summer) that aren't on the list.  I would be really grateful
+to get notice of any, especially if they are near north-central West Virginia.
+Especially if the rumors of this being their last tour are true (unlikely).
+
+Thank you for your time.  Responces are welcomed, flames will probably be
+ignored.  P-]
+
+Kevin L. Stewart
+  aka (Pac-Rat),(Grimaldon),(Sparky),(Dice),and a few more I can't type in
+        mixed company.
+
+----------------------------------------------------------
+
+From: Atro Tossavainen &lt;d37690r@kaira.hut.fi&gt;
+Subject: Worshipping
+Date: Fri, 6 Mar 92 17:59:14 EET
+
+&gt; From: jaeger@buphy.bu.edu (Gregg Jaeger)
+&gt; Subject: the ABSOLUTE best
+
+Someone:
+&gt;&gt;&gt; Regardless, as a band, I still think RUSH is the best collection
+&gt;&gt;&gt; of musicians overall.
+Me:
+&gt;&gt;   Which proves that you should listen to something else for a change.
+&gt;&gt; Rush are very good musicians and function extremely well as a unit,
+&gt;&gt; but by no means are they the absolute best in anything. And I seem to
+&gt;&gt; forget everything presented here are just opinions.. ;-&gt;
+Gregg:
+&gt; I hope this is some sort of twisted joke. Rush quite arguably _is_
+&gt; the band with the absolutely best lyrics in the history of rock and
+&gt; roll music, not to mention the fitting of lyrics to music.
+
+   Gregg, we all know already that you worship Rush as gods, but perhaps
+ you should be reminded like this every once in a while that they are just
+ human beings like everyone else. And the fact that you think their lyrics
+ are the best in rock history doesn't make your opinion the gospel truth.
+
+atthe
+
+[ Ok, 'nuff said.  If you wish to continue this, do it in email.  Thank
+  you...                                                          rush-mgr ]
+
+----------------------------------------------------------
+
+Date: Fri, 6 Mar 92 11:18:51 -0500
+From: hearn1@husc.harvard.edu
+Subject: Boston Radio
+
+   Could somebody tell me if any Boston radio station plays Rush? The most
+I've ever heard was Dreamline and Fly by Night each once and on different
+stations. (Oh, and an interview with Alex before the concert.)
+                                                    Taryn
+
+----------------------------------------------------------
+
+From: Dan Dickerman &lt;dickermn@hpcugsya.cup.hp.com&gt;
+Subject: Good Tix
+Date: Fri, 6 Mar 92 7:58:56 PST
+
+&gt; Where else does one get tickets?  I wanted to get in the first 5 rows for
+&gt; the Nassau concert and didn't (obviously), even thought my tickets aren't
+&gt; bad in the least (1st tier, 4th row, at 7:30 - assuming the stage faces
+&gt; 6:00).
+
+Well, there are three ways that I know of:
+ 1) Get a spot first in line to get tickets the day they go on sale
+    at a reputable ticket outlet (if you can call TM reputable).
+    Hints on details here were given seveal issues back... December,
+    I think.  And there's my own personal victory here: get tickets
+    from an outlet 200 miles from the show (stood in line at a Tower
+    Records near San Jose for a show in Sacramento, CA, and ended up
+    in the third row -- Thanks for the tip, Doug).
+ 2) Sometimes, tickets held back for the band or promoters are left
+    over up to the show's date.  Pester TM starting a week before
+    the show and see if new seats are available.  Example: called TM
+    while in Atlanta (for business... yeah, sure), and when I asked
+    if seats were available for Rush that night, the guy on the phone
+    said: "Oh, I thought you were going to ask about U2" (sold out for
+    months)... Some spare seats in the back of the floor had just become
+    available (who could resist).  Of course he had nothing for Rush then,
+    but some went on sale that day at 11:00 (only 40 seats, but it was
+    unadvertized, so there was not much of a demand).
+ 3) Look in the Yellow Pages (no pun intended for you Sun employees) under
+    "Ticket Sales" or something like that.  Every major metro area has
+    some scalper who is willing to buy and sell tickets for a premium,
+    and they usually hire people to stand first in line to get the good seats.
+    Many of these places advertize that they can get tickets for shows all
+    over the country or even around the world -- probably through some
+    international organized crime ring.  Anyway, it's worth a call if you're
+    headed out of town.
+
+Just being supportive,
+--Dan
+
+----------------------------------------------------------
+
+Date: Fri, 6 Mar 92 11:29:00 -0800
+From: David Conley &lt;dmc@u.washington.edu&gt;
+Subject: CoS ramblings
+
+Hello all! I have read the latest chatter about lack of CoS
+material on the current tour playlist (like none!) with great
+interest, being that CoS ranks as one of my top three fav
+Rush recordings.
+
+Those of you who heard the last Rockline interview with Neil might
+recall that a caller asked that very question! Neil's response went
+something like " it's nothing intentional" then went on to say
+something to the effect of "we don't really feel comfortable
+playing any material from that record now". To me that sounds
+like a bit of a contradiction. Maybe the painful memories of the
+"Down the Tubes Tour" have something to do with it? If memory
+serves me, it was mentioned in Visions that the Boyz were super
+excited and pleased with what they had accomplished on that
+record, only to be shot down in flames by poor albums sales, negative
+feedback from the record company, and the following tour from hell.
+
+"Scars of pleasure, scars of pain, atmospheric changes make them
+sensitive again".
+
+Cheers,
+
+----Dave
+
+----------------------------------------------------------
+
+Date: Fri, 6 Mar 92 12:11:16 -0800
+From: Randall Haskin &lt;strega@u.washington.edu&gt;
+Subject: Miscellaneous ramblings.
+
+	Well, I'd just like to mention that this is my first posting here, and
+I've been reading the
+I've been reading the NMS for about a month, and I really like it.  Anyhow,
+doen to business:
+	First of all, about these rumors of Neil having cancer, I first heard
+about it from a CD store clerk one day when I was trying to uncover the release
+date of RTB ( this was back about July of '91).  Well, I always wondered if
+there was any credence to this rumor, and seeing Neil with a bandana on when
+I saw the Roll the Bones video just added to my suspicions.  However, I went
+to the show on February 2 in Vancouver B.C., and during the sound check, Neil
+emerged without his bandana, and we could all see that he just had a really sh
+short crewcut, and was not bald.  IMO, there's no cancer.  I just think
+Neil is wearing the bandana because he WANTS to...
+	Second, in response to whoever was wondering in NMS 440 why Where's
+My Thing? was part 4 of a trilogy, it's all a joke.  Geddy and Alex pretty
+much explained it during the North American CD launch of RTB on August 29th
+of '91.  For the benefit of those who did not hear it, here's a partial 
+transcri
+transcription;
+
+Alex: Well, normally most people don't write the fourth part of a trilogy,
+      so we though we would.
+Geddy:And because most people don't realize that you CAN have a fourth part!
+
+Alex: Yeah, it goes to fourth!
+
+	So there you have it!
+
+	On another note, DID ANYONE get the ABC interview on tape?  PLEASE
+email me if you did!  I am dying to see it!
+	And finally, does anyone know how to get ahold of UK CD singles herere
+  in
+the United States?
+
+ORQ: "A spirit with a vision is a drea with a mission."
+
+Randy H. (strega@washington.umd.edu)
+
+----------------------------------------------------------
+
+Date: Fri, 6 Mar 1992 16:09 EST
+From: REN & STIMPY &lt;S11689BC@umassd.edu&gt;
+Subject: First time Posting & other happy ho-hos
+
+This is my first time posting for TNMS, and I'd like to give
+a few opinions on the most important things happening with
+Rush.
+
+1) The great Eric Johnson Controversy.  He's a good
+guitarist, but to me Alex Lifeson is highly underrated.
+He's not god, but Snow Dog gets my thumbs up.
+
+2) In Concert '92.  Thd very first time I've heard Ged, Neil
+and Alex talk.  Does MTV avoid putting Rush on 'cause their
+too deep?  Or is it they actually have more talent, and
+would be repulsed by their talent?  Maybe they're nearing 40
+and have the sexiness of a baboon in terms of MTV?
+
+3) The Neil Peart cancer controversy.  You know something, I
+get PISSED when someone tells these non-contestable rumors.
+Why is Neil still on tour?  He looks pale and tired, but not
+walking-dead.  To those who like to tell rumors,
+if you know, show, don't tell. (pun intended)  Otherwise
+keep quiet.
+
+4) Top 5 Songs:  1) The Pass	2) Freewill	3) 2112
+	4) Subdivisions		5) Natural Science
+
+5) Top 5 Albums  1) Permanent Waves	2) Moving Pictures
+3) Roll The Bones	4) Signals	5) Chronicles
+
+	_____________________________________________________
+			    Brian J Colby
+
+	Sophomore Mathematics Major & "Ren & Stimpy" fan
+
+	BJCOLBY@cis.umassd.edu		S11689BC@UMASSD.EDU
+
+	U N I V E R S I T Y  O F  M A S S A C H U S E T T S
+		       A T  D A R T M O U T H
+	_____________________________________________________
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1992.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+********************************************
+End of The National Midnight Star Number 442
+********************************************
+
+

@@ -1,0 +1,587 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 02/27/91 - The National Midnight Star #180
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 180
+
+               Wednesday, 27 February 1991
+Today's Topics:
+                      Administrivia
+                      MP, Tom Sawyer
+                       Vox 'N' Bass
+                      crossword gif
+                     New World Order!
+                  Peart -- Slowing Down?
+                 Re: New World Man, etc.
+                     Signals program
+              Wal, Rickenbacker, Steinberger
+                  Re:  2112 Ending etc.
+                     Re: 2112 ending
+                      Warm-up bands
+            The Weapon and Fear in general...
+                   Singles and oddities
+               Superconductor/Accessability
+----------------------------------------------------------
+
+Subject: Administrivia
+Date: Tue, 26 Feb 91 12:01:29 EST
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+Yes, I'm aware that the tail of the NMS has been funky for the
+issues #178 & #179.  I've corrected the problem.  Sorry for any
+inconvenience.
+
+Editor,
+The National Midnight Star
+(RUSH fans mailing list)
+
+----------------------------------------------------------
+
+Date: Tue, 26 Feb 91 13:11:58 -0500
+From: koldll@expert.cc.purdue.edu (Laura)
+Subject: MP, Tom Sawyer
+
+Hi everyone, I am a fairly new Rush fan (PRESTO tour) and have been trying to
+catch up on their older works.  I recently bought MP, and can not decipher all
+of the lyrics on the albulm.  If anyone has them online, especially the lyrics
+to Tom Sawyer, I would truly appreciate a copy.  Any interpretations would also
+be welcome.  I really enjoy this group - keep up the good work everyone.  Many
+thanks.
+
+[ Lyrics are available via both anonymous ftp and mail; see the tail of
+  any NMS for details on each.                                  :rush-mgr ]
+
+Laura
+koldll@expert.cc.purdue.edu
+
+----------------------------------------------------------
+
+Date: Tue, 26 Feb 91 13:17:10 EST
+From: warsaw@ncbi.nlm.nih.gov (Barry A. Warsaw)
+Subject: Vox 'N' Bass
+
+&gt;&gt;&gt;&gt;&gt; "Chris" ==  Chris Schiller &lt;chris@cdc.hp.com&gt; writes:
+
+	Chris&gt; Does Geddy have an incredible voice?
+
+Personally, I think so (at least nowadays). Maybe it was a bit
+"immature" (:-) in the early years -- but it certainly did not lack
+enthusiasm!  Now, I think Geddy's voice has matured immensely as a
+song such as Available Light proves. I think Ged's voice is richly
+textured and he seems to have much more control over it. He is very
+adept at evoking emotion and passion with his voice, and at least he
+consistently hits the notes both in the studio and live (which can't
+be said of every professional rock vocalist :-). As their later music
+is less demanding for me personally to play, I find myself
+concentrating much more on the vocal message and the song composition
+as a whole, than on any specific instrumental performance.
+
+&gt;&gt;&gt;&gt;&gt; "Rob" ==  neely@antares.mcs.anl.gov writes:
+
+	Rob&gt; [...] am I the only one that wishes that Geddy would pull out
+	Rob&gt; his old Rickenbacker Bass once in a while?  [...] The sound
+	Rob&gt; he gets on Moving Pictures, in particular during the guitar
+	Rob&gt; solo in _The_Camera_Eye, makes me weep.
+
+Yeah, that Rick has a great sound -- I know I'm not the only bassist
+who absolutely *had* to have a Rick after hearing the intro section to
+Cygnus X-I!  As for MP, I know that Geddy played his Fender Jazz quite a
+bit on the album, judging from the Vital Signs video, at least on that
+song, but I'm sure there were others (YYZ also?)...
+
+&gt;&gt;&gt;&gt;&gt; "Fred" ==  &lt;fpeabody@isis.cs.du.edu&gt; writes:
+
+	Fred&gt; As for the Chain Lightning 'Hey's, I always thought they
+	Fred&gt; were keyboards pushing soft chords: 'Wa Wa Wa'.
+
+I've always heard those 4 "Heys" on the little turnaround between the
+verses. To me it sounds like they sampled Geddy's voice.  There are
+other instance where they've done that before (to my ears). A couple
+of times on HYF -- but right now, I can't think of what songs...
+
+&gt;&gt;&gt;&gt;&gt; "jason" ==  &lt;mofo@bucsf.bu.edu&gt; writes:
+
+	jason&gt; but can Paul McCartney actually play a good bass?
+
+Why not?  If for no other reason that at the time the Beatles were
+really happening, McCartney provided enormous inspiration and
+creativity in his lines.  He showed people what could be done with the
+bass in a rock setting, just as Geddy did years later, and other folks
+continue to do today.  And contrary to what some (certainly not all)
+of today's technocrats would have you believe, playing bass ain't
+about chops -- its about *attitude*.
+
+-Barry
+
+----------------------------------------------------------
+
+Subject: crossword gif
+Date: Tue, 26 Feb 91 9:33:55 CST
+From: ingr!dragon!keith@uunet.UU.NET (Keith Ford)
+
+neely@antares.mcs.anl.gov asked about getting a crossword puzzle
+in the Signals tour program converted into a GIF format.  If any
+one has a hard copy of this, you can send it to the email server
+and I will convert it and make it available.  (I'll also send a
+copy to Rush Mgr for ftp)  Send to server@ingr.com with a subject
+line of NOTE.
+
+[ You could also just mail it to both of us at the same time!  :-)
+  (Sorry Keith, couldn't resist.)  Remember, if you wish to send
+  any GIFs, or any other large or special files, use the admin.
+  address when sending to Syrinx, please.               :rush-mgr ]
+
+--
+| fordke@ingr.com
+
+----------------------------------------------------------
+
+Date: Tue, 26 Feb 91 14:02:16 -0500
+From: Michael S Savett &lt;savvy@chopin.udel.edu&gt;
+Subject: New World Order!
+
+Greetings - does anyone think George Bush might have been listening
+to 'New World Man' when he envisioned his policy of a 'new world
+order'? :)  Or maybe HE is the new world man...just curious...:)
+
+Savvy
+
+----------------------------------------------------------
+
+From: tribe!kenney@uunet.uu.net
+Subject: Peart -- Slowing Down?
+Date: Tue, 26 Feb 91 12:56:28 CST
+
+There seems to be a lot of discussion of Neil's drumming as of late, and
+whether or not he is as good as ever.  I know little technically about
+drumming, but would like to make a few observations.  Neil is what, about
+38 years old?  By about that age most professional athletes have "hung up
+their spikes" because they can no longer compete at the level they were
+once able to.  I'd say that drumming is also a very demanding physical
+activity.  While Neil can still be learning new things, and still may be the
+best drummer in the world, there's no reason to expect him to physically
+be able to do some things at age 38 that he could at age 27.
+
+--  Ohio State Basketball -- All The Way in '91! --
+ ME:				COMPUTER:
+   David Kenney                   tribe
+   M/S IW1511                     34b2.08-00-36-cc-dc-00
+   Intergraph Corporation         129.135.217.108
+   Huntsville, AL 35894 USA       uunet!ingr!b15!tribe!kenney
+   205 730 7029                   kenney@tribe.b15.ingr.com
+
+----------------------------------------------------------
+
+Date: 	Tue, 26 Feb 1991 11:30:04 PST
+From: crenshaw.osbu_north@xerox.com
+Subject: Re: New World Man, etc.
+
+Ted Peterson remarks:
+&gt;...viewing the "New World Man" as the United States yields a very
+&gt;interesting reading of the lyrics IMO.  Any comments on this idea?
+
+That's how I've always seen it.  I never thought of the New World Man
+as an individual, but as a symbol for the countries of the New World,
+especially the U.S., maybe Canada, too?  I enjoy hearing other people's
+interpretations, though...I certainly don't have a line into Neil's
+head telling me what The Correct Interpretation is!
+
+One quick note regarding Sinead O'Connor and Rush (darnit, I told
+myself I wasn't going to get involved in this!):  I think her talents
+lie especially in singing and interpreting songs, but I think her
+songwriting talents aren't too shabby, either (for those who don't
+like her music and don't listen to it, she wrote 90% of the songs on
+both her albums).  I think she has gotten caught up in "being famous"
+and the euphoria and pain that comes with that, and isn't mature enough
+yet to deal with it, whereas in Rush's case (you knew I had to get to
+them eventually, didn't you?), fame didn't leap on them overnight, it
+crept up slowly, so by the time it caught up, they were old enough to
+deal with it maturely (and I think it's probably a difference in culture
+and personality, too).  I don't listen to Sinead O'Connor because of
+her politics, but I don't listen to Rush because of their's, either.
+Sinead puts her life in her songs and sings about very personal things,
+and puts her philosophy into her life; Rush keeps their personal lives
+very separate from their music and works from a much more objective
+view (ok, maybe excluding _The Pass_ ;-).
+
+hmm...maybe that wasn't as short as I meant it to be...
+
+Cheryl
+crenshaw.osbu_north@xerox.com
+
+(just curious...how many people on this list listen to Sinead, too?
+Send me a note and I'll reply with the total if you're interested. I
+won't post it to the list unless people want me to.)
+
+----------------------------------------------------------
+
+From: Jonathan Sturges &lt;sturges@xanth.cs.odu.edu&gt;
+Date: Tue, 26 Feb 91 16:01:47 EST
+Subject: Signals program
+
+Hi...
+I have access to both color and B&W hand scanners, and could turn the
+Signals program into a GIF or other format if someone sent me a copy (or
+something) of it.  Mail me...
+
+         -Jon
+          sturges@xanth.cs.odu.edu
+
+----------------------------------------------------------
+
+Subject: Wal, Rickenbacker, Steinberger
+Date: Tue, 26 Feb 91 16:29:36 EST
+From: mjkobb@media-lab.media.mit.edu
+
+I tend to agree with Rob Neely's sentiments on Geddy's basses.  His Wal has
+great tone, and sounds super for the newer songs.  It has a very crisp attack
+which really lets him do some nice fast runs (see his brief solo in Closer to
+the Heart on ASOH).
+
+However, I, too, miss the sound of the old Rick through overdriven tube amps.
+Especially for songs like Tom Sawyer and YYZ.  The old pickups really
+contribute a growl that you can't get out of most of the modern pickups
+around these days.
+
+Finally, regarding the Steinberger.  I'd say that the Steinberger is probably
+my least favorite bass sound Geddy has had to date.  Don't get me wrong -- I
+like Steinbergers.  I PLAY a Steinberger.  However, I just really don't like
+the tone that Geddy was using from his.  It sounds, for lack of a better word,
+almost "nasal".  I play mine with a tube preamp, and with a little tone
+control and apropriate boost and gain, you can get a nice rumble out of it
+which is probably as close to the Rickenbacker as you can get with active
+pickups.  Whenever I play Rush stuff, that's how I play it.
+
+I can only assume that Geddy's tastes have changed, and he likes the crisper
+sound from the Steinberger and Wal active pickups.  Still, the older songs
+were written with the Rick, and we all heard them that way first, so it sounds
+a bit more natural for those songs to be played with one.  Oh, well.
+
+--Mike
+
+----------------------------------------------------------
+
+Date: Tue, 26 Feb 91 17:42 CST
+From: jws3@engr.uark.edu (6079 Smith J)
+Subject: Re:  2112 Ending etc.
+
+Greetings to the group.  This is my first post, so pardon
+any seeming naivete vis-a-vis Rushfandom.
+
+I always thought that 2112 ended on a terribly depressing
+note, commenting on the usual triumph of power-hungry tyrants
+over thinking, feeling, individual humans.  I've been hearing
+the metallic voice, which says "Attention all planets of the
+Solar Federation -- We Have Assumed Control", as the voice of
+the Elder Race returning to its birthplace.  But that voice is
+so unquestionably EVIL!  "Control."  No hero of Peart's would
+"assume control" over the planets.  The Elder Race has come
+back -- and is no different from the priests.  The guitar-
+playing protagonist of 2112 was misled by beautiful architecture
+and flowing robes, just as he was before by hallowed halls and
+priestly vestments.  He's Joe Average, who's been railroaded
+all his life and is eventually driven to suicide by it.
+
+Bleah.  Even more depressing than Rand's books; at least her
+rebels often triumph.  But the music is great.
+
+I'm anxiously awaiting my copies of Presto, Signals, PoW, GuP,
+ASOH etc....sure is a pain being a poor student!  I want my
+Rush records!  Donations are welcome.  *grin*
+
+Oh yeah, for the person who's counting musicians:  I'm primarily
+a bassist and secondarily a keyboardist.  And I worship fretless
+Rickenbackers.  Personally, I play a fretless P-bass, but the Rick
+is the Goddess of Basses....
+
+6079 Smith J
+jws3@engr.uark.edu
+
+Quote for the Day:  "Its surface splintered into sorry hemispheres."
+
+----------------------------------------------------------
+
+Date: Wed, 27 Feb 91 02:12:52 EST
+From: corrie@fiu.edu (vaalpens)
+Subject: Re: 2112 ending
+
+&gt; From: djabson@UCSD.EDU (The God of Balance)
+&gt; Subject: 2112 ending
+&gt;
+&gt; I had always pictured this huge battle taking
+&gt; place (during the "Grand FInale") and the "lost brotherhood of man" reclaiming
+&gt; "the home where they belong".
+&gt; ----------------------------------------------------------
+&gt; From: David Arnold &lt;davida@umd5.UMD.EDU&gt;
+&gt;
+&gt; Well, I've interpreted it to be the Elder Race returning, as foreshadowed
+&gt; in "Oracle: The Dream":
+-------------------------------------------------------------------------------
+
+  Greetings & Salutations:
+
+[from the syrinx lyrics archives]
+--------
+"...My last hope is that with my death I may pass into the world of my dream..."
+---
+Just think of what my life might be
+In a world like I have seen
+...
+My spirits are low in the depths of despair
+My lifeblood spills over..
+--------
+
+  I myself also see the Announcer at the end of 2112 as that of The Elder Race,
+  but what I find interesting & difficult to determine is:
+
+  Is the voice REAL, or in the protagonist's DREAM as he slips
+  "into the world of [his] dream," and eternal sleep.
+
+  Corrie
+
+  RQ: "All this machinery making modern music can still be open-hearted"
+
+----------------------------------------------------------
+
+Date: Tue, 26 Feb 91 23:23:07 -0800
+From: Ted Ives &lt;tedi@apple.com&gt;
+Subject: Warm-up bands
+
+Hi,
+  I recently came across this old posting which lists all the Rush dates in
+the California Bay Area.  I believe it came from a list of Bill Grahm's 24
+years of concert promotions in the area.  Of course, credit must go to Jake
+for originalling posting it!  By the way, I remember seeing "The Jon
+Butcher Axis" warm up for Rush in Hartford, CT on the Signals Tour.  Also,
+someone I know say "Nazareth" warm up for the boys on that tour.
+"Wishbone Ash" opened for them in Germany, 1988.
+
+Date: Mon, 2 Jul 90 19:21:08 PDT
+From: essl@sim.Berkeley.EDU (Jake Essl)
+Subject: Opening Bands
+
+Ok after a little research here come the information I was able to find.
+
+This is a list of all of the shows that Rush played in that Bill Grahm
+produced. Limited of course especially considering the Signals and
+Hold Your Fire shows weren't even put on in the Bay Area due to personal
+conflicts between the band and Grahm.
+
+6/1/75 at the Winterland : Kiss, The Tubes, & Rush
+11/24/76 at Sacramento Memorial Auditoruim : Ted Nugent, Be-Bop Deluxe, & Rush
+11/26/76 at the Winterland                 : Same Show
+11/27/76 at the Winterland                 : Same Show
+ 9/24/77 at the Winterland                 : Rush, Ufo, Hush, & Max Webster
+11/16/78 at the Oakland Colisuem           : Rush & Pat Travers
+ 3/13/80 Sacramento (Cancelled :-( )       : Rush
+ 3/14/80 at the Cow Palace                 : Rush & .38 Special
+ 3/15/80 at the Cow Palace                 : Same Show
+ 6/ 5/81 at the Oakland Coliseum           : Rush & FM
+ 6/ 7/81 in Fresno                         : Rush
+ 5/12/84 at Lawler Events Center, Reno     : Rush & Gary Moore
+ 5/25/84 at the Cow Palace                 : Same Show
+ 5/26/84 at the Cow Palace                 : Same Show
+ 1/30/86 at the Cow Palace                 : Rush & Steve Morse
+ 1/31/86 at the Cow Palace                 : Same Show
+ 5/24/86 at Cal Expo                       : Rush & The Fabulous Thunderbirds
+ 3/28/90 at Arco Arena                     : Rush & Mr. Big
+ 3/30/90 at the Oakland Colisuem           : Same Show
+ 3/31/90 at the Oakalnd Coliseum           : Same Show
+
+Plus the recent dates that I'm not so sure of.
+
+Anyone interested in trying to throw together a list of all the shows they
+have\ever played.  Just for Curiosity's sake.  I can add the following:
+
+ 8/20/77 The Music Hall Houston
+ 3/16/80 St. Louis (?)
+
+and
+ 5/21/83 Wembeley Arena, London
+
+                        Jake
+---------------------------------------------------------------
+
+Well, take care all!
+
+- Chris Michael
+
+PS:  Any word on that mysterious "new Rush song"?  C'mon, don't be bashful
+if you made a silly mistake!  We's just gots to know!
+
+----------------------------------------------------------
+
+Date:         Tue, 26 Feb 91 20:25:52 EST
+From: UK01778@ukpr.uky.edu
+Subject:      The Weapon and Fear in general...
+
+   Someone once explained Fear to me (his HO only of course!) and I liked
+ the way it all came out...
+     The Enemy Within -- The Fear of yourself. The gnawing feeling in your
+                      gut that makes you afraid. Insecurities, inner problems
+                      that grow to build fear within you.
+     The Weapon -- The Fear of Fear. The song itself says that. But I believe
+                   it goes a little deeper. Fear IS a weapon. Think about it
+                   If someone wants to get the better of someone else, finding
+                   that person's weaknesses (ie. Fears) is a quick way to
+                   accomplish it, right?
+      Witch Hunt -- The Fear of Society. Rather, the fear Society has of
+                   something foreign or "non-traditional" anything that
+                   deviates from the norm (but that's the next song :)  )
+
+   I was pretty satisfied with the person's definition. It makes sense to
+ me. However, I'm sure scads of alternate views exist. Bring em' on!
+
+   Also, to the guy that didn't like the Fountainhead. I'm starting her
+ first book "We the Living" (I'm one of these guys that likes to start at
+ the beginning of things  :)  ). So far, I've enjoyed it. It involves a
+ young Russian girl, right after the Revolution, who longs to be an engineer
+ but not for the State, for herself. I've heard different views on The Founta
+ inhead...I guess I'llo to believe. Somehow I don't think
+ Neil's going to condemn you for not liking Ayn Rand. Then again, he might!
+  (joke!)
+
+                                  Al
+
+ORQ: "You know how that rabbit feels...running under your speeding wheels"
+
+----------------------------------------------------------
+
+Date: Tue, 26 Feb 91 16:29:54 EST
+From: Master of Calculus &lt;porochnE%moravian.edu@RELAY.CS.NET&gt;
+Subject: Singles and oddities
+
+	I was wondering if there were any Rush imports or other specialty
+items available (such as "Rush: Profiled) on CD.  I know bands such as
+the Rolling Stones and Aerosmith have legitimate imports out there with
+plenty of unreleased tracks and alternative versions (the Stones'
+"Another Side of Steel Wheels" and Aerosmith's "Make It" and "Vacation
+Club" are just examples that come to mind).  Also, are any of the Rush
+12" singles available on CD for purchase?
+
+					   Gene Porochniak
+					   Moravian College
+				           Bethlehem, PA
+
+----------------------------------------------------------
+
+Date: 26 Feb 91 23:39:51 EST
+From: Brad Armstrong &lt;71161.1313@CompuServe.COM&gt;
+Subject: Superconductor/Accessability
+
+Ed Federmeyer comments that Superconductor is his fav. off of Presto, 
+due to its accessability, and then dives for cover.  He needn't dive
+for cover from me.  I don't think accessability is a valid argument for
+the value of a song, but it is certainly true that the ultimate aim of
+any art is communication.  Much of what I listen to is so inaccessable
+that most humans wouldn't describe it as music, but that doesn't make
+it the best artwork.  The best art is clearly that which is
+uncompromising and yet universal in its communication.
+
+Also he asks about the lines and pushpins on the Signals blueprint.  I
+think that they simply delineate the preliminary survey of the proposed
+site for the subdivision.  The lines connect survey points and are
+marked in the key as the K-9 survey  (K-9 was a dog, not a date, btw).
+
+His third comment is about the ending to 2112.  That is the Elder Race
+returning, making his death ironic.  It's a tragedy after all.
+
+medrcw!bob@uunet.uu.net writes:
+&gt; Belief in Christ does not doom one to an ignoble fate, and
+&gt; Christianity does not damn its own communicants.  Rather,
+&gt; Christianity holds the promise of personal salvation, eternal life
+&gt; in the Presence of God, and peace.
+
+Stating this kind of OPINION as a fact is immoral, in my view.  It's
+also exactly the sort statement that gives me a bad impression of
+organized religions the world over.
+
+He also writes:
+&gt; It is obvious that "Prime Mover" is not conversant with the tenets
+&gt; of Christianity; may I politely suggest that Ayn Rand is perhaps not
+&gt; the best source of information about that particular faith, since
+&gt; she was an atheist.  I might also suggest that until "Prime Mover"
+&gt; rises from his/her ignorance, that he/she might follow the old
+&gt; adage:  "It is better to remain silent and be thought a fool than to
+&gt; speak and remove all doubt."
+
+I think bob ought to follow his own advice about remaining silent and
+at least give Prime Mover the courtesy of reading his response more
+carefully.  It seems obvious that Prime Mover's interpretion (clearly
+marked as opinion, by the way) was simply that Neil was trying to say
+that religious belief dooms one to an ignoble fate.  Notice the use of
+the word 'seems' in my sentence which marks my statement as opinion, 
+something bob _seems_ want to do.  I find bob's 'suggestion' anything
+but polite.  That's putting it politely, to say the least.  (I speak, 
+removing all doubt as to my foolishness. :) )
+
+Magician.
+
+ /Nondisclaimer: The opinions expressed above necessarily represent\
+ \  the opinions of the management of the Lion's Den, as I am it.  /
+
+----------------------------------------------------------------------
+Brad Armstrong                               71161.1313@compuserve.COM
+The Lion's Den                      ...uunet!compuserve.com!71161.1313
+Rochester, NY                           THIS SPACE FOR OFFICE USE ONLY
+       "... everybody got to elevate from the norm." - N. Peart
+---------------------------------------------------------------------$
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 180
+********************************************
+
+

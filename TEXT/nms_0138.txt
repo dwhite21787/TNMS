@@ -1,0 +1,965 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 12/20/90 - The National Midnight Star #138  ** Special Edition **
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 138
+
+                Thursday, 20 December 1990
+Today's Topics:
+     Frequently Asked Question List (FAQL) of 12/19/90
+---------------------------------------------------------
+
+[ Thanks again to Dan, the Keeper of the List - good job!  This is being
+  posted now, since I don't know what my schedule will be like for the 
+  next week or so...                                            :rush-mgr ]
+
+Date: Wed, 19 Dec 90 11:01:15 -0800
+From: ddelany@polyslo.CalPoly.EDU (Dan Delany)
+
+The RUSH Fans Digest Frequently Asked Questions List:  Updated Dec. 19, 1990
+
+   This file contains questions that seem to crop up frequently in the Rush
+Fans Digest.  It will be posted on or around the first of each month, or
+whenever too many of these questions start to pop up in the Digest.  If
+you received a copy of this file in email, other than as a part of a
+Digest, it is probably because you asked one of these questions.
+
+   If you want a copy of the current version of this file, email me and
+I'll send you the most recent version.  (Polyslo users: look in
+
+   If you have any suggestions for additions to the list or corrections,
+please send them to me at ddelany@polyslo.calpoly.edu and I'll add them in.
+I'd appreciate it if people who submit questions submit anything they know
+about possible answers, since I don't have all of the answers myself!
+
+DISCLAIMER: The information in this file is accurate to the best of my
+knowledge, but I'm not perfect.  If you have an answer to one of these
+questions that doesn't match the one given here that you can verify, let me
+know, and I'll put it in!
+
+   Anyway, on to the questions...
+
+What albums has the band released?
+
+   A more complete version of this discography is available for FTP at
+   vacs.uwp.wisc.edu.  (131.210.1.1)
+   {according to datta@vacs.uwp.wisc.edu, at least.  I haven't looked.}
+
+   Mercury  822-541-2 (1974) Rush
+   Mercury  822-542-2 (1975) Fly By Night
+   Mercury  822-543-2 (1975) Caress Of Steel
+   Mercury  822-545-2 (1976) 2112
+   Mercury  822-552-2 (1976) All The World's A Stage
+   Mercury  822-546-2 (1977) A Farewell To Kings
+   Mercury  822-547-2 (1978) Hemispheres
+   Mercury  822-548-2 (1980) Permanent Waves
+   Mercury  800-048-2 (1981) Moving Pictures
+   Mercury  822-551-2 (1981) Exit...Stage Left
+   Mercury  810-002-2 (1982) Signals
+   Mercury  818-476-2 (1984) Grace Under Pressure
+   Mercury  826-098-2 (1985) Power Windows
+   Mercury  832-464-2 (1987) Hold Your Fire
+   Mercury  836-346-2 (1989) A Show Of Hands
+   Atlantic 7 82040-2 (1989) Presto
+
+   Mercury 838 936-2 (1990) Chronicles
+
+   Additionally, several collections are available: {sorry - no catalog
+                                        numbers, as I don't have these.}
+
+   Archives (includes _Rush_,_Fly By Night_, and _Caress Of Steel_)
+   _RUSH_ Through Time
+   _Everything Your Listeners Ever Wanted To Hear By Rush But You Were
+   Afraid To Play_ - this collection was targeted at radio stations.
+   It was never officially released, and is extremely rare. It's a
+   selection taken from FBN, CoS and 2112.
+
+Are any videotapes of the band available?
+
+   Polygram Music Video 60285 (1981) Exit...Stage Left
+   PMV 60607 (1986) Grace Under Pressure Tour
+                    (includes the video for _The Big Money_)
+   PMV 0741 760-3 (1989) A Show Of Hands
+                         (The laserdisc version includes _Lock And Key_, which
+                          isn't on the videotape version.)
+
+   PMV 60466 (1985) Through The Camera Eye (video compilation)
+   includes: Vital Signs
+             Tom Sawyer [live, from Exit...Stage Left]
+             Subdivisions
+             Countdown
+             Distant Early Warning
+             Afterimage
+             The Enemy Within
+             The Body Electric
+   PMV 082 765-3 (1990) Chronicles (video compilation)
+   includes: Closer To The Heart [live]
+             The Trees [live]
+             Limelight [studio]
+             Tom Sawyer [live, from ESL with some minor changes]
+             Red Barchetta [live, from ESL]
+             Subdivisions [from _Through The Camera Eye_]
+             Distant Early Warning [from _Through The Camera Eye_]
+             Red Sector A [live, from the p/g tour video]
+             The Big Money [the shortened MTV version, not the complete one
+                            from the p/g tour video]
+             Mystic Rhythms
+             Time Stand Still
+             Lock And Key
+
+Are these tapes available on laserdisc?
+
+   I don't know about Chronicles, but the other 4 of them are.
+
+What songs has the band made videos for?
+
+   A Farewell To Kings
+   Closer To The Heart %
+   Xanadu
+   Circumstances
+   The Trees %
+   Tom Sawyer
+   Tom Sawyer [live, from ESL] %#
+   Red Barchetta [live, from ESL] %
+   Limelight %
+   Limelight [live, from ESL]
+   Vital Signs #
+   Subdivisions %#
+   Countdown #
+   Distant Early Warning %#
+   Afterimage #
+   The Enemy Within #
+   The Body Electric #
+   The Big Money %&
+   Mystic Rhythms %
+   Marathon [live, from ASoH]
+   Time Stand Still %
+   Lock And Key %
+   Show Don't Tell
+   The Pass
+   Superconductor
+
+    % These videos appear on the _Chronicles_ videotape.
+    # These videos appear on the _Through The Camera Eye_ videotape.
+    & This video appears in it's complete form on the end of the
+      _Grace Under Pressure Tour_ videotape.  The shortened MTV version
+      appears on the _Chronicles_ videotape.
+
+Can anyone list everything else that the members of Rush have ever appeared
+on?
+
+   This is not a complete list.  Please send me your additions!
+
+   "Universal Juveniles" by Max Webster (Rush in "Battlescar")
+   1980 (ANR-1-1027 Anthem)
+
+   &lt;Lifeson-produced for "Wireless" around 1981.  Can anyone I.D.?&gt;
+
+   "Great White North" by Bob and Doug McKenzie (Geddy singing "Take Off")
+   1981 (ANR-1-1036 Anthem)
+
+   "Vignettes" by Marie Lynn Hammond (Lee on 2 tracks)
+   1983 (BTR 1002 Black Tie Records)
+
+   "Boys Brigade" by Boys Brigade (Lee produced)
+   1983 (ST 12278 Capitol)
+
+   "We Are the World" by USA for Africa with Lee in Northern Lights singing
+   "Tears are Not Enough"
+   1985 (40043 Columbia)
+
+   "Alien Shores" by Platinum Blonde (Alex on 2 tracks)
+   1985 (PCC-80105 Columbia)
+
+   "Champion" by Jeff Berlin (Peart on 2 tracks)
+   1985 (Passport Jazz PJ 88004 A)
+
+   "Beyond Borders" by Canadian Guitar Summit (with Alex)
+   July 1987 Guitar Player Magazine (flexidisc)
+
+   "Pieces of Eight" (Peart percussion complilation)
+   May 1987 Modern Drummer Magazine (flexidisc)
+
+   "Serious Business" by Greenway (Alex doing solo in "In the Danger Zone")
+   1988 (81827-1 Atlantic)
+
+   "Clean Slate" by Clean Slate  (Alex produced)
+   1988 (ANM-1 5002 Anthem) (5 song EP)
+
+   "Dream on the Horizon: A Tribute to the Olympic Spirit" by The Big Picture
+   1988 (WSC-331 Chartwell Records)  (Alex on 2 tracks)
+
+   "Smoke on the Water" (Mega-Rock Re-Mix)/Paranoid, by Rock Aid Armenia and
+   Black Sabbath, (Alex on guitar)
+   1989 UK ARMENT 001, ARMENTR 002, ARMENT 002
+
+   "Lost Brotherhood" by Larry Gowan (Alex on all tracks)
+   1990 (80160 Anthem)
+
+   CASSETTES:
+
+   "Star Jam Series: Neil Peart Style"
+
+   "Starlicks Guitar Lesson: Alex Lifeson Style"
+
+   In the January 1986 issue of _Modern Drummer_ magazine, while discussing
+    his appearance on the Jeff Berlin album, Neil says that he "...did a
+    similar thing with a musician named Ken Ramm in Toronto.  That record
+    was released in Canada."
+
+What was the first single released by the band?
+
+   The A side was a cover of a Buddy Holly song called "Not Fade Away."
+   The B side was a Lee/Rutsey song called "You Can't Fight It."
+   These songs are not on any Rush albums.
+
+I just bought the CD of &lt;Exit...Stage Left | All The World's A Stage&gt; and
+it's missing a track!  Is a complete version of this CD available?
+
+   No.  But if you absolutely have to have everything on CD, the 2 missing
+   tracks are on _Chronicles_.
+
+What is Battlescar/Max Webster, who plays on it, what is the label/catalogue
+number for the Universal Juveniles CD?  Where can I write to get it?
+
+   Max Webster is a Canadian band that used to open for Rush.  Battlescar
+   is a song from their _Universal Juveniles_ CD that was done as a duet
+   of the 2 bands.
+
+    Max Webster - Universal Juveniles  1980
+                  Mercury SRM-1-3855 [6337 144]
+                  Distributed by Polygram Distribution, Inc.
+                    Polygram
+                    810 Seventh Avenue
+                    New York, NY 10019
+
+                  Write:  Anthem Records
+                          Oak Manor  P.O. 1000
+                          Oak Ridges, Ontario
+                          Canada  L0G 1P0
+
+   One more note:  "Battlescar" has a subscript:  "recorded live July 28th,
+   1980 Phase One Studios -Toronto-".
+
+Have any books been written about the band?
+
+   Rush-Visions:The Official Biography (c) 1988
+   By Bill Banasiewicz (The B-Man)
+   ISBN: 0-7119-1162-2    94 pages
+   From: Omnibus Press
+   Distributor: Music Sales Corporation
+                24 East 22nd Street
+                New York, NY 10010
+
+   Success Under Pressure (c) 1984
+   By Steve Gett
+   ISBN: 0-89524-230-3    48 pages
+   From: Cherry Lane Books
+         110 Midland Avenue
+         Port Chester, NY 10573
+
+   Rush  (c)1982
+   By Brian Harrigan
+   ISBN: 0-86001-934-9    80 pages
+        The Putnam Publishing Group
+        200 Madison Avenue
+        New York, NY 10016
+
+Somebody posted &lt;item&gt; in the Digest.  I missed it - could somebody
+please send me a copy?  Does anybody have the lyrics to &lt;song&gt;?
+
+   An archive server is running at server@ingr.com.
+
+   The address of this archive file server is:
+
+      UUCP'ish:  ...!uunet!ingr!server
+      ARPA'ish:  server@ingr.com
+
+   This archive file server currently supports the following commands:
+
+      GET     - request a specific file listed in the index
+      SEND    - (same as GET)
+      HELP    - request the help file (this file)
+      INDEX   - request list of requestable files
+      MESSAGE - this is a message to server keeper (do not process)
+      NOTE    - (same as MESSAGE)
+
+   Commands and file names are not case sensitive.  The body of the
+   email is _ignored_ unless the command is MESSAGE (or NOTE), then
+   it is passed on to the keeper of the server, currently me.
+
+   To make something available on the archive server, send it with
+   the MESSAGE command so the server keeper can respond appropriately.
+
+   The server is limited to sending one megabyte of text a day.  If
+   your request is processed after this limit is exceeded, you will
+   be notified that your request failed.  You will also be notified
+   if your request contains an invalid command, unknown file name,
+   or other problem.
+
+   Use the MESSAGE command for questions.  Do not contact anyone at site
+   INGR.  This might cause problems and will put the existence of the
+   server at risk.
+
+   *
+
+   Additionally, an FTP site has been established.  This is a read-only ftp
+   site; you will not be able to place items there yourself, only download
+   from here to you (more on this later).
+
+    The address to ftp to is (of course):
+
+    syrinx.umd.edu
+
+       or
+
+    128.8.2.114
+
+   for those of you who don't have name resolution.  Once here, you will be
+   prompted for a name (userid) and password.  Use "anonymous" for the userid
+   and your userid for the password.
+
+    Once you're logged in, 'cd' into the "rush" subdirectory.  Once there,
+   you can list the files in the directory.  There is actually only one file
+   (README) currently, the others being subdirectories.
+
+    The directories available now are:
+
+    "digest" - Contains back issues of the current incarnation of the
+                digest from issue # 1 to the current issue;
+
+    "lyrics" - Contains the lyrics for all the albums up through _Presto_;
+
+    "names"  - Contains a recent (thought not always the latest-and-
+                greatest) version of the subscription list; and
+
+    "special" - (currently empty) which will contain the longer items -
+                interviews, articles, tour lists, etc.
+
+   The files in the "digest" and "lyrics" (and eventually "special") sub-
+   directories are compressed; you'll have to uncompress them on your end.
+   The names list is not compressed.
+
+    If you wish to submit something to be put into any of these directories,
+   send it to the 'rush-request' address; if it's of general interest,
+   it'll be a special edition, and then placed in the "special" dir.  (Lyrics
+   won't be posted to the list.)
+
+   Remember, if you don't have ftp capabilities at your site, there is still
+   the mail server at "server@ingr.com".
+
+What issue of the Digest is &lt;item&gt; in?
+
+   This list isn't complete, and it probably contains errors.  Let me
+   know, so I can fix them!
+
+      Item                                                 Issue
+      ----                                                 -----
+   Neil's reaction to the Digest                              5
+   Analysis of "The Pass"                                    21
+   Neil's editorial on Satanism                              28
+   A Nice Morning Drive                                      34
+   Grace Under Pressure tour book                            42
+   Permanent Waves tour book                                 48
+   1978 Article/Story on Rush                                59
+   Alex interview: Music Express #132, 1989                  62
+   "Kubla Khan"                                              64
+   Modern Drummer interview with Neil (Dec 89)               68
+   HYF tour book                                             69
+   Rockline interview 4/30/90                                72
+   Peart Q & A                                               74
+   Definition of "peart"                                     80
+   Chronicles essay                                          81
+   "Kubla Khan"                                              88
+   Rush special from "The Source"                            91
+   _Success Under Pressure_ (Part 1 of 4)                    93
+   _Success Under Pressure_ (Part 2 of 4)                    94
+   _Success Under Pressure_ (Part 3 of 4)                    96
+   Anniversary issue (Part 1 of 2)                           98
+   Anniversary issue (Part 2 of 2)                           99
+   Lyrics to "Anthem"                                       100
+   Lyrics to "Beneath, Between, And Behind"                 100
+   _Success Under Pressure_ (Part 4 of 4)                   101
+   Interview with Alex 11/20/90                             107
+   Updated Rush tour dates listing                          108
+   "In The Studio" interviews/MP era                        110
+   _Rolling Stone_ interviews: 5/15,80,6/26/80,5/28/81      114
+   Guitar World, March 1990                                 118
+   1978 _Sounds_ article                                    121
+   Rolling Stone album reviews
+    (Hemispheres,PeW,ESL,Signals,p/g,PoW,ASoH,Presto)       123
+   Dec 18, 1983 _Sounds_ article                            125
+   "The Source" interview: 2/27/83                          131
+   Modern Drummer interview with Neil (April 84)            134
+
+I've heard about the "Rush Backstage Club."  What is it, and how do I
+join?
+
+   It's an outfit that sells Rush souvenirs (t-shirts, posters, etc) and
+   occasionally releases a newsletter.  (I'm not a member, so I don't
+   really know.  Could a member send me some details?)  To join the
+   backstage club, just send $11.95 ($9 to join plus $2.95 shipping and
+   handling) to:
+
+   Rush Backstage Club
+   1055 E. Tropicana Avenue, #580
+   Las Vegas, Nevada  89119
+
+   Membership obligation is to purchase 1 item of merchandise each year to
+   stay on the mailing list.  Also, they will answer any inquiries if you
+   include a self addressed stamped envelope.  For those international
+   people, pay in U.S. money (NO CASH!!!) and include postage coupons with
+   information requests.
+
+What are the birthdays of the band members?
+
+   Geddy Lee          July 29,1953
+   Neil Peart         September 12, 1952
+   Alex Lifeson       August 27, 1953
+
+What are the real names of the band members?
+
+   Geddy Lee          Gary Leibovitz {This continues to be debated in the
+                                      Digest, but there seems to be more
+                                      written evidence for "Leibovitz" than
+                                      "Weinrib."  I don't want to seem rude,
+                                      but this will only get changed if
+                                      somebody can quote a written source
+                                      or an interview of some kind.  Sending
+                                      me email saying that "My friend told me
+                                      that his name was..." doesn't cut it as
+                                      proof.  Looks like a good Rockline
+                                      question to me!}
+   Neil Peart         Neil Peart
+   Alex Lifeson       Alex Zinovinojivic
+
+How is "Peart" pronounced?
+
+   It rhymes with "near."
+
+Does anybody have an address I can use to write to the band?
+
+   This address was posted to the Digest, but I can't vouch for the
+   correctness of it.
+
+                RUSH
+                41 Britan St. (#200)
+                Toronto, ON
+                M5C 1R7, CANADA
+
+   The Backstage Club will probably forward mail as well.
+
+Who says &lt;phrase&gt; in &lt;song&gt;?
+
+    Alex says "That's nice" at the end of "Chain Lightning".
+    Neil says "Subdivisions" in the song of the same name,
+      even though Alex is shown in the video and does it live.
+    The deep voice at the beginning of "Cygnus X-1" is none other than
+      Terry Brown.
+    Neil does the "Attention all planets of the Solar Federation - We have
+      assumed control" bit at the end of "2112".
+    Neil does the narrative during "The Necromancer".
+
+What is a Lerxt?
+
+   A Lerxt is an Alex Lifeson.
+
+Whatever happened to John Rutsey?
+
+   "John's still around.  I see John quite often.  He gave up playing
+   shortly after he left the band and went into bodybuilding.  He
+   competed on an amateur level for a while, doing that for a few years,
+   and has sort of been in and out of that, but he still works out, and I
+   work out with him a few times a week at a local gym - at a Gold's,
+   here in Toronto." -- Alex Lifeson, in the 2/6/89 Rockline interview
+
+In "By-Tor And The Snow Dog" By-Tor is the bad guy, but he's a hero in "The
+Necromancer."  What happened?
+
+   When asked about this on Rockline, Geddy said something along the lines
+   of, "He saw the light."  Neil once commented, "I guess he's like
+   all of us - sometimes good, and sometimes he's bad!"
+
+Where did the story of _2112_ come from?
+
+   2112 is _very_ loosely based on _Anthem_, by Ayn Rand.  Much of
+   Neil's early work was influenced by Rand.
+
+I read that "Xanadu" was based on a famous poem.  Does anybody have a copy?
+
+   The poem is "Kubla Khan" by Samuel Taylor Coleridge.  Your local
+   library probably has a copy.  It appeared in the Digest issue #88.
+
+Where does the name 'Rocinante' come from?
+
+   It was the name of Steinbeck's motor home in _Travels With Charlie_.
+   It was also the name of Don Quixote's horse.
+
+What does "La Villa Strangiato" mean?
+
+   'Weird City' is a rough translation of the title.  The song itself is
+   based on several of Alex's nightmares and some cartoon themes.
+
+Why was the headline on the newspaper on the cover of _Permanent Waves_
+blocked out?
+
+   "There are always the inevitable last minute crises, such as the Chicago
+   Daily Tribune being still so embarrassed about their 'Dewey defeats Truman'
+   error of more than thirty years ago, that they actually refused to let us
+   use it on the cover!"  -- Neil Peart, in the _Permanent Waves_ tourbook
+
+   To clarify this:  When Truman ran against Dewey for President, Truman
+   lost in most of the states with early returns.  So, it looked like
+   Dewey was going to win.  The Tribune released an early morning paper
+   the next day with a 'Dewey defeats Truman' headline.
+
+What is "Free Will" about?
+
+   "The song is about freedom of choice and free will, and you
+   believing in what you decide you believe in." -- Geddy Lee, in the
+                                              12/4/89 Rockline interview
+
+Where is "Lotus-Land?"
+
+   "Lotus-land as it appears in 'Free Will' is simply a metaphor for an
+   idealized background, a 'land of milk and honey'.  It is sometimes
+   also used as a pejorative name for Los Angeles, though that was not
+   in my mind when I wrote it." -- Neil Peart
+
+What building is on the cover of _Moving Pictures_?
+
+   The building pictured is the old Parliament building in downtown
+   Toronto.  It is several blocks south of the Toronto Planetarium
+   surrounded by a park.  There is a multilane road that splits into two
+   multilane roads to run around both sides of it and joins up again on
+   the south side.  The entrance on the cover is on the south of the
+   building.
+
+Who is Pye Dubois?
+
+   Pye Dubois was the lyricist for Max Webster.  "Tom Sawyer" began life
+   as a Max Webster song called "Louis The Warrior," but Pye gave the
+   lyrics to Neil after "Battlescar" was recorded.  Pye also helped
+   Neil write "Force Ten."
+
+What is a Barchetta?
+
+   Barchetta is Italian for little boat.
+
+   The history of the Ferrari barchetta:
+   (note the lower case b, it designates a body style like coupe, spyder,
+   cabriolet or berlinetta, not an actual model name)
+
+   Ferrari 166MM -
+
+   V-12, 1995cc, 60x58.8mm, 140 bhp @ 6600 rpm, CR 10:1, single ohc per bank,
+   Weber carbs, 5-speed gearbox integral with engine, double wishbone front
+   suspension, rigid axle rear suspension.
+
+   First shown at the Turin Salon in November of 1948. It's simple but
+   effective barchetta styling became greatly admired and many times
+   copied. The MM designation was added to the 166 model number to
+   designate the 1948 victory of a 166 in the Mille Miglia. A total of
+   46 166MMs were built in Series I & II between 1948 and 1953. 25 of the
+   series I cars (1948-1951) carried the barchetta designation, none of
+   the Series II cars were barchettas.
+
+   Ferrari 195 Sport -
+
+   V-12, 2431cc, 65x58.8mm, 180 bhp @ 7000 rpm, CR 7.5:1, rest same as above
+
+   This car had essentially the same engine as the 166MM bored out to 65mm.
+   The body was very similar to the 275S discussed below. As a hybrid
+   prototype, it is not known exactly how many of these cars were made.
+   Probably at least one barchetta (certainly no more than three) were
+   made in 1950. The one known barchetta finished second in the 1950
+   Mille Miglia.
+
+   Ferrari 275S -
+
+   V-12, 3322cc, 72x68mm, 270 bhp @ 7200 rpm, CR 8:1, rest same as above
+
+   A prototype of the type 340 America series of cars, only two were made
+   in 1950.  Both cars, in barchetta configuration, entered the Mille
+   Miglia in April but retired the race with clutch problems.
+
+   Ferrari 340 America -
+
+   V-12, 4101 cc, 70X68mm (?), 220 bhp @ 6000 rpm, CR 8:1, rest same as above
+
+   This car was a downsized formula 1 racer with a smaller displacement than
+   it's 4.5 liter F1 counterpart. These cars evolved into the 342 America as
+   the GT version and the 340MM as the sport. Of the 25 340s produced in
+   1951, 7 were touring barchettas.
+
+   Ferrari 225S -
+
+   V-12, 2715 cc, 70X58.8mm, 210 bhp @ 7200 rpm, CR 8.5:1, rest same as above
+
+   Considered as the final link to the extremely successful 3-liter 250
+   series of cars, 20 225Ss were built in 1952, but only 1 in the barchetta
+   configuration.
+
+   Since only 35-37 barchettas were built between 1948 and 1953 under various
+   model numbers it's not surprising that few people were even aware
+   they existed.
+
+   Source: "The Complete Ferrari" by Godfrey Eaton 1986 by Cadogan Books Ltd.
+
+What does "YYZ" mean?
+
+   YYZ is the transmitter code for Toronto International Airport.  Every
+   airport is assigned a unique 3 letter code, and that code is always
+   being transmitted so that pilots can tell,roughly, where they are and
+   verify that their navigational radios are tuned properly.  These
+   codes are also written on your luggage tags when you fly.  The intro
+   to the song is Morse code for "YYZ".
+
+How does Neil play plywood?
+
+   "Well you wear gloves so as not to get splinters, you take a piece of
+   1/4" plywood, and smack it down HARD on the top of a wooden stool.
+   Very demanding, technically - took years of practice." -Neil Peart
+
+Near the end of "The Camera Eye," there are some mumblings that I can't
+quite make out.  Does anybody know for sure what is being said?
+
+   No.  {The first time I posted this FAQL, I received no fewer than 8
+   emails from people who claimed to know exactly what is being said
+   there.  Unfortunately, none of them agreed with each other, which
+   tells me that at least 7 of them were wrong, so I'm only going to
+   change this answer if somebody can come up with proof that they are
+   right, such as an interview or magazine article.}
+
+Who is T.C. Broonsie?
+
+   Terry Brown.
+
+Who is the writer in "Losing It" about?
+
+   Neil discusses this song in _Modern Drummer_ magazine, in the April 1984
+   issue.  The writer represents Ernest Hemingway.  The dancer "...drew
+   a bit from that film with Shirley MacLaine called _The Turning
+   Point_..."
+
+Who is Count Floyd?
+
+   He was a character on the Canadian TV show SCTV.  {similar to "WKRP
+   in Cincinatti", but a TV station.}  The Count Floyd character had a
+   show that featured really bad movies.  {movies so bad that even
+   Elvira wouldn't show them.}
+
+Is that crackling noise about 10-20 seconds into "Distant Early Warning" on
+the _Grace Under Pressure_ CD supposed to be there, or is my copy
+defective?
+
+   It's supposed to be there.  There is a rumbling at that point on the
+   _A Show Of Hands_ CD and on the _Grace Under Pressure Tour_ video,
+   but people without subwoofers may be unable to detect it.
+
+Who was Absalom?
+
+   He was King David's favorite son, who rebelled against his father,
+   and was killed by Joab, according to my trusty Websters.  There is
+   also a Faulkner novel called _Absalom, Absalom!_
+
+   To quote Neil:
+   "Before I ever knew who or what Absalom was, I always loved the sound
+   of it.  I had thought perhaps it was an ancient prayer or something.
+   There is a book by William Faulkner called _Absalom, Absalom_, which,
+   again, I loved the sound of.  I wanted to put it in the song, as a play
+   on words with "absolute" and "obsolete", but I thought I'd better find
+   out for sure what it meant.  So I called my wife and asked her to look
+   it up in the encyclopedia.  When I learned the real story, and its
+   Biblical roots, I decided that it was still appropriate, as it was the
+   ultimate expression of compassion, which is what the song was really
+   about.  "Absalom, Absalom.  My son, my son.  Would God I had died for
+   thee." (Now don't anyone go reading any religion into that!)"
+
+Who is the boy in the "Distant Early Warning" video?
+
+   He is Geddy's son, Julian.
+
+What songs make up the "Fear" trilogy?
+
+   The "Fear" trilogy consists of:
+      Part 1: The Enemy Within (Grace Under Pressure)
+      Part 2: The Weapon (Signals)
+      Part 3: Witch Hunt (Moving Pictures)
+
+Has this trilogy ever been performed live?
+
+   Yes.  It's on the _Grace Under Pressure Tour_ video.
+
+Why do the songs appear in reverse order?
+
+   "It's really kind of strange how it turned out, and it's not meant to be
+   as mysterious and clever as it looks.  It was more accidental.  At the
+   time of _Moving Pictures_, I had actually sketched out each of the three
+   songs in my notebook and talked to the other guys about them and what I
+   was going to go for, but the easiest one for me to clarify in my mind
+   and in words was 'Witch Hunt,' because it was the simplest concept to
+   deal with, and then 'The Weapon' came next because my thinking led up to
+   that point, but in fact a couple snatches of lyrics and even both of the
+   verses for 'The Enemy Within' were written as long ago as that, and all
+   of the titles and everything were fixed on, and what I wanted to write
+   about, but 'The Enemy Within' was the most difficult one to deal with,
+   so it ended up being the last one done, so they happened to go in the
+   order 3-2-1." -- Neil Peart, in an interview on KGB 101 FM, San
+                                Diego: 10/2/84
+
+What is the Omega Concern?
+
+   As Alex realized that he had to play acoustic guitar for some Rush tunes
+   and then quickly switch to his electric (Closer to the Heart, etc.), he
+   crafted a stand (actually an attachment to a Tama Titan cymbal stand)
+   that holds his acoustic in an adjustable playing position.
+
+   He soon began to sell this as a product (1st to Music Emporium) under the
+   company label "The Omega Concern."  Apparently, Alex's "company" also made
+   Geddy a light-up lyric stand and Neil got a newspaper/book holder so he
+   could read while he eats breakfast.
+
+What do the three spheres on the _Hold Your Fire_ cover represent?
+
+   "It's so difficult to describe the album cover because you want to
+   leave a little bit of mystery, and you want it to be interpreted by
+   the person who is holding the thing in front of them.  So I'm really
+   not going to say too much about what the cover says to me, but it's
+   nothing extremely mystical or anything.  It has nothing to do with
+   brown rice."  -- Geddy Lee, on Rockline 10/5/87
+
+How many Rush symbols are there in the _Hold Your Fire_ inside photo?
+
+   the fire hydrant from "Signals"
+
+   the TV from "Power Windows"
+
+   the clock indicating 9:12 (21:12 military time)
+
+   the number 15 on the main building... in the "Hold Your Fire"
+   tour book, they mentioned that this was their 15th album to
+   date.
+
+   the juggler is clearly holding his fire.
+
+   at the very far left, underneath the chains is a trunk with
+   the logo from their first album.  This was spotted on a 12
+   inch picture disk from the album.  It cannot be seen in many
+   other versions of the picture.
+
+   The Chinese neon sign above the restaurant reads "Tai-Shan".
+
+   A friend told me that the car is a Mercury, but I don't know this
+   for sure.
+
+   Look right off of the juggler's right shoulder in the open window.
+   There is someone's hand shown holding a pistol.
+
+   In one of the upper right hand windows of the right hand most apartment
+   building you can see part of the head and crown of the Statue of Liberty
+   who we all know holds a burning torch in her right hand.
+
+How did Pye Dubois come to be involved with "Force Ten"?  What does
+the title of that song mean?
+
+   "It was more or less an afterthought in the writing stage.  We took
+   two months to do all of our writing and preproduction, you know,
+   preparation for the making of the record, and we had nine songs, and
+   we had about a day and a half left of time booked before we were
+   supposed to leave and get ready to make the record.  And our producer
+   and all of us were pushing for ten tracks on the album, and some
+   lyrics had been submitted to us by a friend of ours, Pye Dubois, who
+   co-wrote 'Tom Sawyer' with us in years gone by.  And Neil was able to
+   put some of his own thoughts to one of the songs that he had an
+   present it to us in the morning of the last day that we were there,
+   and we loved the results, so we got together and brainstormed for
+   about 2 or 3 hours, and we had Force Ten."  -- Geddy Lee, on Rockline
+                                                                10/5/87
+
+What film are the clips in the "Lock And Key" video and the _A Show Of
+Hands_ laserdisc, just before "Lock And Key," from?
+
+   It's called _The Last Mile_.
+
+What is Tai Shan about?
+
+   Tai' Shan (from Hold Your Fire) is the name of an actual "holy mountain"
+   in China.  The mythical (?) emperor Huang Ti had so much power that he
+   was able to summon all the spirits of the world to him on top of
+   Tai' Shan to proclaim his power.
+
+   Legend has it that if you climb to the top of this mountain and
+   "raise your hands to heaven," you _will_ live to be at least 100
+   years old.  Neil wrote these lyrics while sitting at the top of
+   the mountain.
+
+What is happening during the "censored" section of the Show Of Hands
+video?
+
+   "That's kind of a joke, but it doesn't seem like many people are
+   getting that joke.  Actually, Alex, at certain parts of that song,
+   would just start rambling into the microphone -- all kinds of various
+   nonsense, and it actually never got recorded anywhere.  So no one had
+   any idea, including him, what he had actually said.  But we loved the
+   shot of him just ranting into this microphone, so we decided we would
+   put up this bogus 'radioactive' warning about the fact that we had
+   'censored' what he had said, and we thought we did it in kind of an
+   obvious way -- it looked like it was phony, because we put the
+   radioactivity symbols right on the screen, but nobody seems to be
+   getting that." -- Geddy Lee, in the 12/4/89 Rockline interview
+
+In the _A Show Of Hands_ video, does Geddy really say "Catch a Fish?"
+
+   Yes, he does.  Nobody knows why.
+
+In the _A Show Of Hands_ video, has anybody noticed that Alex's guitar
+keeps changing?
+
+   Yes.  This has been discussed several times in the Digest.  The _A
+   Show Of Hands_ video was filmed during a 3-night concert series at the
+   National Exhibition Centre in Birmingham, England.  Test footage was
+   shot the first night.  The majority of the video comes from the second
+   night, but several shots were used from the third night's performance.
+   In some cases, this was because the shots taken on the second night
+   weren't quite right, but in a few places, like the beginning of _2112_,
+   it was Geddy having fun in the editing stage.
+
+What is "Chain Lightning" about?
+
+   "I'm a weather fanatic - I really love weather, and I watch the
+   weather and look for a good weatherman.  And, one night I was watching
+   it, and there are two incidents in that song that are synchronicity to
+   one weather report, where the weatherman showed a picture of sun-dogs,
+   and described them, and they are just two little points of light that
+   appear at sunset, often in the winter when the sky is clear and
+   crystalline, and they are like little prisms, and they sit about ten
+   degrees north and south of the setting sun, and they are just
+   beautiful little diamonds of light, and often-times there's a circle
+   of light -- one line, that connects them.  So they are a really
+   beautiful natural phenomenon, and I love the name too.  'Sun-dogs'
+   just has a great sound to it.  And in that same weather forecast, the
+   weatherman announced a meteor shower that night, and so my daughter
+   and I went out on the lake in the middle of the night and watched this
+   meteor shower.  So the whole idea of the song was response and how
+   people respond to things, and it's a thing I've found a lot in
+   travelling around the world, too.  It's not enough just to travel and
+   see things.  You have to respond to them -- you have to feel them, and
+   a lot of the thrust of that song is how things are transferred, like
+   chain lightning or enthusiasm or energy or love are things that are
+   contagious, and if someone feels them, they are easily transferrable
+   to another person, or in the case of watching a meteor shower, it's
+   made more special if there is someone else there.  'Reflected in
+   another pair of eyes' is the idea that it's a wonderful thing already,
+   just you and the meteor shower, but if there's someone else there
+   with you to share it, then it multiplies, you know, it becomes
+   exponentially a bigger experience, so response is a theme that recurs
+   in several of the songs and was one of my probably dominant sub-themes
+   in the writing." -- Neil Peart, on the _Rush - Profiled!_ CD
+
+What is the song, "Anagram (for Mongo)" about?
+
+   "It doesn't really say one thing; it says a bunch of little things, and
+   I think that's OK as long as it sounds good.  You know, as long as it
+   rolls off the tongue kind of thing?  So I think different songs are
+   different exercises, to a degree, and I think that if they feel like
+   exercises, then there's something wrong with the song.  But if they
+   can slip by in a kind of cohesive and fluid way, or if the effect is
+   to be disjoint, and sometimes that's what you're after.  Sometimes you
+   want it to be jarring and disjointed and nonsensical.  I think it
+   depends on what you're trying to do, and whether you've achieved it in
+   your mind, and whether it actually worked, and 'Anagram,' I think,
+   did work, even though it's a game - the whole song is a game.  The
+   choruses are quite smooth and quite interesting, and they have a nice
+   sound to them and they kind of mock the whole song itself, so I think
+   it was effective there."  -- Geddy Lee, on the _Rush - Profiled!_ CD
+
+What does (for Mongo) after "Anagram" on the PRESTO album mean?
+
+   It's a joke from the movie _Blazing Saddles_, referring to the
+   "Candygram for Mongo" scene, according to Geddy on Rockline 12/4/89.
+
+When is the next album coming out?
+
+   "We've been working for about two weeks now, we're working on the new
+   record, we'll be working until probably the middle of December and take
+   a break then, get back into it in the new year, start recording the end
+   of February and hopefully finish by the end of June, take a few weeks
+   off in the summer, and then possibly start touring some time in the
+   fall next year." -- Alex Lifeson, November 20, 1990 at the Sheraton
+                                     Centre in Toronto
+
+ ##############################################################################
+
+        Please send me your suggestions for additions or corrections.
+
+"All the world's a stage                      |   ddelany@polyslo.calpoly.edu
+ And all the men and women merely players:    |       Daniel Alan Delany
+ They have their exits and their entrances;  -- Wm. Shakespeare  (1564-1616)
+ And one man in his time plays many parts."    _As You Like It_  II,vii,39
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions & changes), send
+mail to:
+
+    rush-request@syrinx.umd.edu
+
+There is ftp access available on Syrinx now.  The network address to ftp
+to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+There is a README file giving brief information on what is contained in
+the directories.  Currently available: previous issues of the NMS, lyrics,
+and a relatively current subscriber's list.  Future avaiability will include
+articles, interviews, etc.
+
+There is also a mail server available (for those unable or unwilling to ftp).
+Previous issues of The National Midnight Star (in it's current incarnation),
+lyrics, individual articles, and more are now available at an archive file
+server.  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+[ NOTE: the address "htodd@gmuvax2.gmu.edu" is no longer available for
+  back issues of the NMS, due to disk space problems at their site.  This
+  address may or may not become active again for this purpose; stay tuned
+  here for details.                                                       ]
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the management.
+
+List Management
+
+*********************************
+End of The National Midnight Star
+*********************************
+
+

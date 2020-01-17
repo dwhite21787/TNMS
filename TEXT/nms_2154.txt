@@ -1,0 +1,1079 @@
+Received: from kiwi.icu.unizh.ch (root@kiwi.icu.unizh.ch [130.60.74.11])
+	by gremlin.studi.unizh.ch (8.8.5/8.8.8) with ESMTP id XAA84312
+	for <mtschann@studi.unizh.ch>; Wed, 9 Dec 1998 23:50:38 +0100
+Received: from mx4.gmx.net (qmailr@mx4.gmx.net [195.63.104.84])
+	by kiwi.icu.unizh.ch (8.8.8/8.8.8) with SMTP id XAA17120
+	for <mtschann@icu.unizh.ch>; Wed, 9 Dec 1998 23:50:04 +0100
+Received: (qmail 24468 invoked by alias); 9 Dec 1998 22:50:29 -0000
+Delivered-To: GMX delivery to mtschann@gmx.net
+Received: (qmail 24363 invoked by uid 0); 9 Dec 1998 22:50:20 -0000
+Received: from yyz.com (192.52.226.212)
+  by mx4.gmx.net with SMTP; 9 Dec 1998 22:50:20 -0000
+Received: (from temples@localhost)
+	by yyz.com (8.8.5/8.8.5) id MAA32740
+	for rush-list-5; Wed, 9 Dec 1998 12:55:00 -0800
+Date: Wed, 9 Dec 1998 12:55:00 -0800
+Message-Id: <199812092055.MAA32740@yyz.com>
+Errors-To: rush-request@yyz.com
+Reply-To: rush@yyz.com
+Sender: rush@yyz.com
+Precedence: bulk
+From: rush@yyz.com
+To: rush_mailing_list@yyz.com
+Subject: 12/09/98 - The National Midnight Star #2154
+X-Resent-By: Global Message Exchange <forwarder@gmx.net>
+X-Resent-For: mtschann@gmx.net
+X-Resent-To: mtschann@icu.unizh.ch
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@tnms.com
+Administrative matters:    rush-request@tnms.com
+                                       or
+                           rush-mgr@tnms.com
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+         The National Midnight Star, Number 2154
+
+
+                 Wednesday, 09 Dec 1998
+
+Today's Topics:
+                      Administrivia
+                        EW Speaks!
+   Re: I finally HAVE to comment on all this ... stuff
+   Re: I finally HAVE to comment on all this ... stuff
+                       Rush Fancast
+                   Entertainment Weekly
+                        Orbit Room
+                      buried in rush
+                           CX1
+                           cd's
+              Rush audio/video on the net..?
+                        NO SUBJECT
+                       Rush at Xmas
+                    Electric Ladyland
+                           P/G
+               things I like most about DS
+       !!! Different Stages - $1 at www.800.com !!!
+        Re: 'You don't get something for nothing'
+                   Geddy on Hit Parader
+                          Video
+                   free salad tossings!
+                     Rush Web Ring???
+            The Analog Kid v/s The Digital Man
+                       2 Questions
+                        re: chicks
+                The Grateful Rush????????
+                  RE: Here's what "fits"
+                       Geddy Powers
+                    Rush on the Radio
+                    Jolly Teabag, etc
+                       (Real) sales
+                         Roxette?
+          Minneapolis/Bloomington, 1978 (Again!)
+                     Kings X new tour
+                    A Work in Progress
+         NBC show with Mystic Rhythms theme song
+----------------------------------------------------------
+
+From: rush-mgr@tnms.com (The RUSH Fans Digest Manager)
+Date: Wed Dec  9 12:22:38 PST 1998
+Subject: Administrivia
+
+With the holidays I've been lax in updating the web page, so I am working
+on that this week. Thanks to Will Holt, I now have up a QT and RV version
+of one of the DS commercials. I'll be redoing the QT tonight to make it much
+much smaller, I used the wrong compression last night (the RV encoder I have
+will only accept videos with a certain compression, but the QT vids I do
+use a better one and I forgot to redo it after I made the RV file! such is
+life)
+
+The studio RV files are down again, not because of any threatening mail but
+because the machine they were on got moved. I haven't changed the link yet
+because I'm not sure if the machine'll be moved again soon or not. Hopefully
+I'll be able to bring them back up late next week.
+
+I also got my Japanese version of DS yesterday in the mail. A COMPLETE 
+surprise, since I ordered it way back in October. I never actually expected
+to see it :-)
+
+I will make an MP3 of Force Ten tonight and upload that as well. The packaging
+on the Japanese version I think is nicer than the US one I have -- all the
+cd's were put inside little cloth envelopes, THEN in the cardboard holder.
+They also included mini versions of the AFTK tourbook (UK version) and the
+TFE tourbook, plus a huge booklet of all the lyrics to every song on the CDs
+in both English and Japanese. I wish the other verions would've included
+the mini tourbooks, they're really neat to see and a bonus for folks who 
+don't have them...
+
+And with the Showbiz Today interview, I have someone insisting that it did
+happen, and someone telling me they asked the program director and they don't
+know of any interview with Rush. So I dunno if it really happened, was 
+supposed to happen and didn't, was just someone's imagination or what...
+
+ - rush-mgr
+
+----------------------------------------------------------
+
+From: "David Ayers" <lerxst@voicenet.com>
+Date: Fri, 4 Dec 1998 23:56:42 -0500
+Subject: EW Speaks!
+
+hey Folks!
+
+Get this!
+I received this today:
+
+"Dear Reader,
+
+    If you are receiving this email, your letter is being considered for
+publication in Entertainment Weekly magazine. In order to print your
+letter, we need to verify the following information BY PHONE:
+
+ - the spelling of your name, first and last
+ - where you're from, city and state
+ - whether or not you'd like your email address to appear with your =
+letter
+**AND, if the answer to the above question is YES:
+ - the spelling of your email address
+
+    Please call me at XXX-XXX-XXXX so I can verify this information. If =
+you
+reach my voicemail, please leave the above information on the recording. =
+My
+deadline is this (Friday) evening at 6pm; however, if you miss the
+deadline, please reply anyway--we might be able to pull off an
+eleventh-hour miracle.
+
+    Thank you so much for your time, cooperation, and interest in
+Entertainment Weekly!
+
+    Sincerely,
+
+    Scott Brown
+    ENTERTAINMENT WEEKLY, ed. staff"
+
+I guess they really do read the mail.  Unfortunately, the deadline was =
+about 5 hours ago, but I'll try calling.   Maybe they're in CA and it's =
+only 3 hours past deadline.  I'll call, so look for my written gripe in =
+EW!  (The two of you still reading the rag, that is!)
+
+BTW...Finally got my copy of DS.  Still digesting the CD's...need to =
+tape for perusal in my car.  To this point, I keep trying to listen =
+around 10-11pm and between a 2 1/2 year old and working with acute =
+mental health patients all day, I keep dozing.  It's real weird to one =
+minute hear Geddy singing about being driven to the edge and then a next =
+line is "but he's nobody's hero."
+
+DA
+
+"It depends on what your definition of 'is' is."  - Bubba Bill=20
+
+----------------------------------------------------------
+
+From: "Imanaz Holl" <imanaz.holl@deathsdoor.com>
+Date: Sat, 5 Dec 1998 07:06:54 +0100 (MET)
+Subject: Re: I finally HAVE to comment on all this ... stuff
+
+If you responded to my last posting about the boring philospher, the drunk,
+the horrible thread, mr. "grammer" and the B.O.W.E.L. movement, I didn't get
+it.  My @outgay.com email seems to be defunct, ... too bad because as far as
+email addresses go, that one was a hoot.  You can e-mail me at this
+functioning address:
+imanaz.holl@deathsdoor.com
+
+I do want to read your thoughts and/or flames.
+
+Imanaz
+
+----------------------------------------------------------
+
+From: Ashim <sash@bdonline.com>
+Date: Sat, 05 Dec 1998 15:54:52 +0600
+Subject: Re: I finally HAVE to comment on all this ... stuff
+
+I was going to chide the Rushmgr for leaving Imanaz Holl's tirade
+unsnipped, but on second thoughts, thank you - I suppose it takes strength
+of character. 
+Imanaz Holl said:
+<<I'm sorry but it's time that I break my silence on a few subjects. I have
+been sitting and reading for some time now and I finally have to break on a
+few subject matters that are really getting to me at this point.>>
+I'm curious, which post exactly was the last straw? Since you didn't
+mention Adam's CD scam post, that definitely wasn't the one. But you've
+been very comprehensive, you've gone through them one by one. Did you by
+some chance, find it acceptable? Things like this really tick me off.
+nickb@teleport.com is bogus, we all know that. Here's a guy trying to get
+other people to not pray for Neil Peart!!! <LOL> I'm an atheist too, and I
+couldn't be less bothered with trying to change other people's faith. All I
+care about is that no conflict should arise between their faith and mine.
+No conflict whatsoever at this end. Life is bloody elsewhere, goddammit!
+Take a break. 
+But *small penis*, mediocre education, shrink - is this all necessary?
+Don't get me wrong, this is sterling material - I had the biggest spit-take
+in history (I was drinking tea). But I wonder where it's really coming
+from. Let me ask you this - is the TNMS all you have to take your
+frustration out on?
+It was your nomination of worst thread that really struck me. I thought the
+magic note thread was the best thread in years! It was very informative -
+I'm sorry if you didn't get it, but the marvel of that trick shouldn't be
+completely beyond the grasp of a lay person (in terms of guitar playing
+that is). I always like to read insights into Alex's genius. It's the main
+reason I subscribe - I sure don't want to hear people go on and on about
+non-belief, un-belief, centrism, egotism, etc. For once, I felt proud and
+glad that there are so many knowledgeable guitarists who are also Rush
+fans. It shows that our heroes are indeed going to leave behind a
+formidable legacy. Bravo to all who participated in the thread - had I
+known shit from shinola before I read it, I might have participated too.
+Yes! Instrumental virtuosity *is* one of their main legacies - and like it
+or not, it's going to be discussed here on the TNMS. And people like me are
+going to keep looking forward to every edition. Who was it that said rush
+fans are essentially geeks - I think he/she maybe on to something. The term
+geek extends itself to serious guitarists who pursue their craft with the
+blind fanatical devotion - these people get things done, they know things.
+You should be envious of them.
+I'm also wondering, what would you rather talk about? Any attempts to delve
+into Neil's rather tortuous philosophy comes up with 'un-belief and
+non-belief'. Personally, I think these people are missing the point to some
+of these songs, what he's really trying to say. Hence the tired, jaded crap.
+And 'techno-babble' doesn't seem to work for you either. 
+Penis-envy, masturbation, alcohol, shrinks, maybe? 
+Cure: Take it somewhere else.
+
+Rgrds,
+Ashim.
+
+----------------------------------------------------------
+
+From: rodney beeson <rodbeeson@yahoo.com>
+Date: Sat, 5 Dec 1998 07:52:35 -0800 (PST)
+Subject: Rush Fancast
+
+>From Atlantic Records:
+
+   '*RUSH FANCAST AVAILABLE IN DIGITALARENA*
+On November 15th, in conjunction with the release of their multi-disc
+live set,"DIFFERENT STAGES," Rush members Geddy Lee and Alex Lifeson
+stopped by the newly opened Atlantic DigitalArena Studio in New York
+City for a special, direct-to-web "FANCAST."  The event featured a
+question-and-answer session moderated by renowned music journalist
+Lisa Robinson and a look back at the band's extensive video archive.
+If you missed this unique oppurtunity to participate in an interview with two
+living legends....well, what else can we say except for "You what?!
+You missed it?!?! &*!@%!!  For the love of !@#$, how could you?? 
+#$?%*!?!?"  Tee-hee, just kidding.  The event was pretty amazing,
+though.  But don't take our word for it, the good news is that you can
+still check it out, through the next two weeks, by clicking on the
+DigitalArena icon on the Atlantic website.  
+
+http://www.atlantic-records.com/rush 
+
+Enjoy!
+Mary Jo Plews
+
+   [ They have the entire interview up in RV format. If anyone can download
+     the entire thing I'd be more than happy to put on the NMS web site..
+     (and yes, I would even make it streaming for all your streaming 
+     fanatics :-)                                                : rush-mgr ]
+
+----------------------------------------------------------
+
+From: mike <pkta@tnaccess.com>
+Date: Sat, 05 Dec 1998 14:26:15 -0600
+Subject: Entertainment Weekly
+
+I am not a musician or remotely connected to the music industry, so if I
+am missing the point  go easy on me.
+
+Someone posted that the entertainment industry uses the term
+"masturbatory" to desrcibe music with excessive notes/lyrics...
+
+I was wondering what the EW reviewer who described DS as "masturbatory"
+thought of Meat Loaf?????   Personally, I am a fan of Meat Loaf.  Using
+this definition Meat Loaf  seems almost ejaculatory!!!!
+
+mike
+
+----------------------------------------------------------
+
+From: kwf22@webtv.net (Keith Filling)
+Date: Sat, 5 Dec 1998 19:09:54 -0500 (EST)
+Subject: Orbit Room
+
+Hi guys...
+
+Heading to Toronto next week for the last Flyers/Leafs meeting at Maple
+Leaf Gardens and would love to visit the Orbit Room.  Unfortunately I
+have no clue where it is...if anyone can help with directions (we're
+staying at the Marriott down the street from MLG) please send private
+email.
+
+Mucho appreciado,
+Keith
+(directions to: two_4_roughing@webtv.net)  
+
+----------------------------------------------------------
+
+From: TJiatcoo@aol.com
+Date: Sat, 5 Dec 1998 23:32:17 EST
+Subject: buried in rush
+
+Hello all.  This is my first post since i've subscribed to TNMS.  Its a Rush
+sighting so here goes.  I have a game called Buried in Time, Journeyman
+Project 2  (anybody know that game?)  well it's set in the 22nd century or so
+and in it there's a part where there are some dossiers on some characters and
+one of the characters is Neil Geddy and his interests are Baseball, The Three
+Stooges, and 20th Century Rock.  coincidence?  maybe somebody on the
+production team likes Rush, ya think?
+
+   [ The guys who made this are Rush fans (and friends of mine). Their name
+     is Presto Studios, named after Presto the album (it was the latest 
+     Rush album at the time they came up with the name). Also one of the
+     years in that game is 2112 :-)                             : rush-mgr ]
+
+----------------------------------------------------------
+
+From: "Michael Z. Williamson" <daggers@indy.net>
+Date: Sat, 05 Dec 1998 15:38:06 -0800
+Subject: CX1
+
+Cyg7@aol.com said:
+>During the final chords of CYGNUS on my copy, an audible bump very like 
+>vinyl player 'wobble' is evident 'til fade-out. Can you tell me whether 
+>this occurs on the 'proper' recording?
+
+That is the sound of a heartbeat, fading out, indicating CX-1 book 2
+will follow.  It is audible on my non-remaster, and on cassette.  And on
+my old LP.  You just have to turn it up LOUDER.
+Sorry if this has been said before.
+
+ - 
+mike
+http://cloak-dagger.com  Edged weaponry, from the stone age to the space
+age.
+
+Mathematically, I'm certain there are gun-control proponents who are not
+paranoid, phobic, or irrational.  I just haven't met any yet.
+
+----------------------------------------------------------
+
+From: "Michael Z. Williamson" <daggers@indy.net>
+Date: Sat, 05 Dec 1998 15:50:51 -0800
+Subject: cd's
+
+Rather than ripping off a store by trying to exchange a non-remaster
+that has a different cover, which can get you nailed for fraud, or
+trying to claim your cd's never arrived from BMG here in Indpls, which
+can get you nailed for fraud (US law says if it was mailed, you received
+it, unless you can prove otherwise--this is why you can't skip a court
+date by saying you didn't receive notice), I suggest a much easier
+method:  Just walk into your local CD store with a fucking gun, point it
+at the owner's head, and demand the CD.
+
+If you are the kind of trash who thinks fraud or shoplifting is cool,
+you are invited to come to MY store--I'll teargas you and cuff your ass
+myself and hand you over to the cops personally--after I tattoo "LOSER"
+on your chest 2112 times, so I can call in a Rush sighting (and whoever
+had the 2112 Rush sighting idea, thanks, I love you.)
+
+The stores, regardless of what you think of their service, are owned by
+stockholders (PEOPLE) of all classes.  And by defrauding them, you are
+taking money out of their mouths, and forcing the store (in order to
+stay in business) to raise its prices and have invasive security like
+cameras and goons. 
+
+So do honest Rush fans a favor, and unsubscribe.
+
+besides which, BMG products have their licensing stamp on them, and the
+band gets less of a take, and the sound quality is inferior to standard
+run disks. 
+ - 
+mike
+http://cloak-dagger.com  Edged weaponry, from the stone age to the space
+age.
+
+Mathematically, I'm certain there are gun-control proponents who are not
+paranoid, phobic, or irrational.  I just haven't met any yet.
+
+----------------------------------------------------------
+
+From: Travis.L.Hayden@ucm.com
+Date: Sun, 6 Dec 1998 16:54:13 -0600 
+Subject: Rush audio/video on the net..?
+
+Are there any other freely downloadable rush videos, audio, 
+interviews, etc on the net besides the media that is on
+TNMS?   Also, if anyone has converted rush videos to the
+G2 standard (better audio/video quality), can you let me know?
+Email me directly in addition to the list...thanx  I'd like to make
+a CD with all of the stuff on the net.
+
+----------------------------------------------------------
+
+From: Neil Bonfield <nbonfiel@ford.com>
+Date: 07 Dec 1998 04:58:56 -0500
+Subject: NO SUBJECT
+
+Rushindy@aol.com writ:
+
+>Subject: Japanese DS
+>
+>Does anyone know where I can get the Japanese release of DS?  And also how
+>much I could expect to pay (in American dollars please)?  I was at the
+>Cincinatti show, and want to have Force Ten.
+
+How about...Japan?
+
+Neil Bonfield
+<nbonfiel@ford.com>
+
+----------------------------------------------------------
+
+From: Iain Fisher <IainF@nayrshire.scot.nhs.uk>
+Date: Mon, 7 Dec 1998 11:50:14 -0000
+Subject: Rush at Xmas
+
+With all this talk of Different Stages i'm wondering if there is anybody
+else out there holding out til Xmas before they get it.  ? Just to make
+Xmas 98 even more appealing my wife will be asking Santa to deliver for
+the 25th Dec.
+
+Other Rush Xmas  - 1989 Presto
+                              1985 Power Windows
+                               1980 Hemispsheres and ATWAS
+
+Merry Xmas
+
+----------------------------------------------------------
+
+From: "=?ISO-8859-1?Q?Marco_Andr=E9_Rodrigues?=" <rush@cpovo.net>
+Date: Mon, 7 Dec 1998 07:50:29 -0200
+Subject: Electric Ladyland
+
+I do know everybody (including me) is very excited about DS. But it is very
+crucial if some of you may help me with my doubt: Does someboy know where I
+could find Electric Ladyland in a CD version? It is very hard to find it
+over here in Brazil. Could you please help me?
+
+Marco André Rodrigues
+             "Rush Rules!!!"
+              ICQ 9504581
+
+----------------------------------------------------------
+
+From: "matthew alexander majewski" <majewski@mailcity.com>
+Date: Mon, 07 Dec 1998 08:03:58 -0700
+Subject: P/G
+
+Thanks to all the kind souls that e-mailed me concerning the Grace Under 
+Pressure Tour.
+It was very much appreciated.
+Happy Holidays!
+Matt
+
+Get your FREE Email at http://mailcity.lycos.com
+Get your PERSONALIZED START PAGE at http://personal.lycos.com
+
+----------------------------------------------------------
+
+From: anthym@webtv.net
+Date: Mon, 7 Dec 1998 13:49:09 -0500 (EST)
+Subject: things I like most about DS
+
+Delurking for a brief moment, I'd like to provide my 2.34 cents on DS.
+Here are the finer points:
+
+1. Cygnus X-1- This goes without saying. Alone it made the CD worth
+buying.
+2. The Rhythm Method- Not only a lousy means of birth control, but it's
+also an awesome drum performance by our favorite percussionist. Drum
+Also Waltzes rendition as good as Bruford's.
+3.Animate- Very good cut of this Jungian anthem.
+4.Anthem- Animated performance of the Randian manifesto.
+5.Natural Science- Ahhhhhh...
+
+The CD is great overall, but these 5 songs make it special. I like the
+cardboard packaging. Now my Pearl Jam CD's don't stand out alone in a
+swath of plastic cases anymore. 
+
+                                      Scott CttC
+
+----------------------------------------------------------
+
+From: "Dan Gehred" <dgehred@hollywood.com>
+Date: Mon, 7 Dec 1998 10:26:22 -0800
+Subject: !!! Different Stages - $1 at www.800.com !!!
+
+Hi rush-mgr,
+
+Thought this should be thrown at the top of the next digest:
+
+I just went to http://www.800.com and found a special on CDs - 3 for $1!
+Included in the list of about 200 titles is Different Stages!!! YEAH!!!
+
+The best part is there is NO TAX and THE SHIPPING IS FREE (I'm not sure
+about overseas - this may be limited to the U.S. only)! This is not a club
+you join. How do they do it???
+
+Quantities are limited, only one deal per household, they say, so hurry and
+take a look!
+
+ Dan
+
+P.S. If you already have Different Stages, get another copy as a Christmas
+gift! They also are running a special on 3 DVDs for $1!!!
+
+----------------------------------------------------------
+
+From: "Thomas Oderwald" <toderwald@hotmail.com>
+Date: Mon, 07 Dec 1998 15:17:11 EST
+Subject: Re: 'You don't get something for nothing'
+
+Sorry to clog up TNMS with this, but somebody who doesn't know better 
+has opened his mouth...
+
+Paul Ashley wrote...
+
+" 1. One post suggested a way to "take advantage" of a music store chain 
+by taking your old CD in and lie about it being 'broken' or 'skipping' 
+to exchange it for a copy of the enhanced CD!  This little "upgrade" 
+scheme is out right theft!"
+
+>...to which I reply...
+
+It is most definitely NOT theft. Theft is when somebody leaves the store 
+without paying for the CD. What I described is merely using the policy 
+of the store to your advantage. It in NO WAY harms the business. The 
+Wall Music stores in the NorthEast U.S. offer this service as a way of 
+getting people to pay insanely marked-up prices for the CD's. I should 
+know because I worked for them for 4 years, from lowly clerk to Store 
+Manager. The only harm this does is that it tends to annoy some of the 
+store employees, but even they know that it does no harm to their 
+business. The store experiences no 'shrink' in the inventory. All one 
+has to do is say the magic words, "My CD skips".
+
+My apologies to you, Paul. I do not mean any offense, I just wanted to 
+plead my case. I do agree that the BMG scheme is totally stupid and most 
+likely will destroy your credit rating somewhere down the line. Don't do 
+it, boys and girls!
+
+----------------------------------------------------------
+
+From: John Lupoli <jglupoli@snet.net>
+Date: Mon, 07 Dec 1998 16:56:17 -0500
+Subject: Geddy on Hit Parader
+
+Hi fellow Rushians,
+	Yesterday, I saw an issue of Hit Parader and it had an interview with
+Geddy Lee. It said that Rush is getting ready for a world tour. This is
+just what we have been waiting for. The magazine also had a cool
+advertisement for DS.
+	By the way, somebody was talking about that they saw a guy on Comedy
+Central (who was talking about South Park) who was also waering a
+Starman T-shirt. I never saw it, but a friend of mine did and he told me
+about it.
+
+Matt Lupoli
+Age: 14
+North Haven, Ct
+http://www.geocities.com/SunsetStrip/Amphitheatre/2740
+
+----------------------------------------------------------
+
+From: AZ743@aol.com
+Date: Mon, 7 Dec 1998 16:47:18 EST
+Subject: Video
+
+I may be way behind here but, when is the DS video coming out??
+
+----------------------------------------------------------
+
+From: Sarah Bettinger <sarahb@www.students.rhodes.edu>
+Date: Mon, 7 Dec 1998 16:04:06 -0600 (EST)
+Subject: free salad tossings!
+
+"Mark L. Hayes" <mhayes@rmi.net> said:
+
+>Tendancy for public performers to the think that a they are above an
+>laws of the grammar is quite sad commentary on their profession. A
+>article is not the something to be the trifled an with.  
+
+Shouldn't it be "an article"? Also, how about not ending a sentence with a
+preposition?
+
+Or were you trying to be funny?
+
+Sarah
+sarahb@elvis.rhodes.edu
+
+----------------------------------------------------------
+
+From: Rob Pagano <pagano@intac.com>
+Date: Mon, 07 Dec 1998 17:18:39 -0500
+Subject: Rush Web Ring???
+
+Hey, anyone know of any Rush Web Rings going on out there?  I just spent
+all weekend FINALLY giving the boys their due on a tribute page (well,
+actually a SET of pages) and of course it would be cool if I could get
+linked into a webring.
+
+Any info?  Let me know,
+Thanks,
+ Rob
+ - 
+pagano@intac.com          http://www.intac.com/~pagano
+
+ Each of us, a cell of awareness, imperfect and incomplete, genetic
+ blends with uncertain ends, on a fortune hunt that's far too fleet.
+
+----------------------------------------------------------
+
+From: Alvaro Graves <agraves@cec.uchile.cl>
+Date: Mon, 07 Dec 1998 19:29:49 -0200
+Subject: The Analog Kid v/s The Digital Man
+
+Hi Rushians,
+
+        This is my first post and english is not my native tongue, so I'm
+sorry if I make any mistake.
+
+        I don't know if this has been posted before, but there are some
+relation between The Digital Man and The Analog Kid? I mean, you can think
+in this way:
+
+        People           Kid                   Man
+                  were           and now are 
+       Machines          Analog                Digital
+
+Anybody has a theory?A proposal? Anything?
+
+Thanx
+Salu2
+
+----------------------------------------------------------
+
+From: JVCarbon@aol.com
+Date: Mon, 7 Dec 1998 17:40:14 EST
+Subject: 2 Questions
+
+Did everyone read this post by Imanaz Holl (TNMS Critic)
+<Imanaz.Holl@outgay.com>?
+
+<<<You know what's working here don't you?  A college education from an
+average to above average university.  Either a minor or a major in
+Philosophy ... and nowhere to dispense this 4 years of knowledge than upon
+us.  His last sentence above ... I THINK ... is straight from John Locke,
+but I could be wrong.  
+
+Bottom line: big ego, small penis, so he needs to sit around and bore us to
+death with his infinite wisdom.  Feeds on people responding to him.  If his
+e-mail program says "Sorry, You Have No New Mail", he will be calling his
+shrink for an appointment. Cure: Sex, ... with anyone but himself.>>>
+
+Definitely one of the funniest things I've read on this list in 3 years!  Way
+to skewer some egos....
+
+Anyway, on to my 2 questions:
+
+1)  How long has Rush been using intro music at the start of the concert?  ie,
+3 Stooges on Signals, P/G tours, Cartoon guys on HYF, Presto tours, RTB?, 2001
+on CP/T4E tours.  When did this start and what was it?  On ATWAS, you get the
+"Alright, will you please welcome home....RUSH!" intro, then on DS Disc 3 from
+the AFTK tour, a similar announcement.  What did they do on Hem tour?  PeW?
+MP?  
+
+2)  When did the rear projection screen start?  My first concert was Signals
+and it was in full force then.  Anybody know or remember when and how this
+started, ie, what kinds of stuff did they show during which songs?
+
+See ya!
+
+JV
+
+----------------------------------------------------------
+
+From: Kevin Haines <khaines@asc.corp.mot.com>
+Date: Tue,  8 Dec 1998 09:17:08 +1030 (CST)
+Subject: re: chicks
+
+Alex Smith <bacchus@azstarnet.com> writes:
+> Anyone know anything about a band called Sky???
+
+Yep - They were an all-instrumental, classical/rock 5-piece band,
+including the legendary classical guitarist John Williams. Other
+members were Francis Monkman (Drums) Herbie Flowers (Bass), Kevin Peek 
+(Guitars), Tristan Fry(1st 2 albums)/Steve Gray (Keyboards). I think I 
+got this right - I'm going from memory & it's been a while since I
+read any of the album liner notes... I know the bass player was
+featured on Jeff Wayne's "The War of the Worlds" album, and the
+drummer is apparently very highly respected.
+
+They released their first self-titled album back around 1980, and also 
+released "Sky 2" (2 record set), "Sky 3", "Sky 4 - Forthcoming", "Sky
+5 - Live" (2 record set), "Cadmium", and "The Great Balloon Race". I
+think there may have been one more album as well. There's also a
+couple of best of compilations around as well. I think my personal
+favourite would be "Sky 2" - very representative of their work, plus
+it features possibly their best known track - that being a
+rock/guitar-based rendition of J.S. Bach's "Toccata". WooHoo! :)
+
+Sorry to deviate from the norm...you can assume control now...:)
+Kev
+ ----------------------------------------------------------------------
+| Kevin Haines      (A12409@email.mot.com)    | Phone +61-8-8203-3601 |
+| Motorola Australia Software Centre          | Fax   +61-8-8203-3501 |
+| 2 Second Avenue, Tech. Park 5095  AUSTRALIA | Time  GMT+9:30        |
+ ----------------------------------------------------------------------
+
+it takes a little more persistence to get up and go the distance...
+                                                       - Neil Peart
+
+----------------------------------------------------------
+
+From: "Michael Z. Williamson" <daggers@indy.net>
+Date: Sun, 06 Dec 1998 18:47:20 -0800
+Subject: The Grateful Rush????????
+
+>Pete said:
+>I've harped on this before, but I'll say it one more time.  Would it be 
+>so impossible for Rush to take one (at least) nice soundboard show from 
+>each tour, press that sucker up on CD and issue it?  Is that too much to 
+>ask?
+
+And while their at it, we could follow them around in microbuses, and
+sell drugs and tie-dyed shirts, and grow beards, and become like,
+y'know, rilly into their music, and trade old reel-to-reel tapes of
+special shows...
+
+>It would take no work at all. 
+
+It would be one hell of a lot of work.  Obviously you've never worked a
+soundboard.  And they are not the Grateful Freakin Dead.  Thank God.
+(Nothing wrong with the Dead.  They ain't Rush, either.)
+
+And there would be no damn market for the disks, and they would lose the
+integrity they have about perfection in their sound (even if it means
+overproducing and overdubbing sometimes).
+ - 
+mike
+http://cloak-dagger.com  Edged weaponry, from the stone age to the space
+age.
+
+Mathematically, I'm certain there are gun-control proponents who are not
+paranoid, phobic, or irrational.  I just haven't met any yet.
+
+----------------------------------------------------------
+
+From: Jim Questa <jamesq@mail.one.net>
+Date: 	Tue, 8 Dec 1998 19:08:12 +0100
+Subject: RE: Here's what "fits"
+
+In THMS, Pete <trigeek@mindspring.com> wrote:
+
+"I've harped on this before, but I'll say it one more time.  Would it be so
+impossible for Rush to take one (at least) nice soundboard show from each
+tour, press that sucker up on CD and issue it?  Is that too much to ask?
+It would take no work at all.  Then all you non-bootleggers would have a
+chance to hear the songs that didn't make the cut on the first live
+offering in NINE years."
+
+That's all fine and dandy in a utopian world, but it's not as easy as you
+make it out to be, even with todays technology.  Pluging a DAT machine into
+the headphone jack of the sound board wouldn't give you a great sounding
+recording, considering the fact that hall acustics and other various
+factors wouldn't allow you to get a good, round sounding recording.  The DS
+CD's were recorded by a bank of ADAT-XT's recording every (well, nearly
+every) microphone on and around stage.  Only then could it be EQ'd and
+mixed properly into a decient recording.
+
+In addition, don't forget that RUSH is under a contractual obligation to
+Atlantic.  I'm reasonably sure that they cannot just release an album
+whenever and wherever they wish.
+
+Pete goes on to say:
+
+"Oh, I forgot.  If Rush did that, then the recordings wouldn't be
+absolutely, positively perfect and free of errors."
+
+If you believe that DS is "positively perfect and free of errors" as you
+suggest, perhaps you should go back and take a careful listen.  I
+distinctly remember Neil flubbing a riff during his solo.  That and other
+various minor errors were included in this release.  But let's take
+something else into accout - what about the pride of the performers???  If
+it were me recording a live album (and I've done my share of recording), I
+would want to present my very best.  Sure they're human, and human's make
+mistakes, and those mistakes are funny and humorous at times, but if I'm
+plunking down $20.00+ on a recording, I would like it to be their best work.
+
+Personally, I think they succeeded.
+
+   Jim  -
+
+____________________________
+|      jamesq@one.net       |  |___    Jim Questa / Questa Songworks
+| http://w3.one.net/~jamesq |  | |_\   4237 Redwood Terrace
+|___________________________|__|____|  Cincinnati, OH  45217
+ (_)(_)               (_)(_)    (_)   "Here comes the Rock & Roll Express!"
+
+----------------------------------------------------------
+
+From: cwelton@ix3.ix.netcom.com
+Date: Mon, 7 Dec 1998 19:02:34 -0500
+Subject: Geddy Powers
+
+OK, I'm an Austin Powers fan.  Yeah I know it's dumb but hell, it sure
+makes me laugh baby, yeah!
+
+Anyway, I caught the boys at Jones Beach this summer, awesome show yada
+yada yada.  Before Resist, Ged says "this next one is shagadelic" - for
+those who don't know,  it's an Austin Powers quote.  I commented to my
+friend how Ged must dig that movie.
+
+NOW listed to DS, right before Driven.  Somebody posted about thinking Ged
+sounds high (on drugs) when he speaks here.  I believe he says "helloooo,
+baby" and obviously "beautiful" in an English accent (though not as good as
+his Scottish accent before Resist).  I'm SURE it's Ged immitating Austin.
+
+Anyone????
+
+Look out for Mr. Powers in his new film: The Spy Who Shagged Me.
+
+Craig
+
+----------------------------------------------------------
+
+From: superconductor2@excite.com
+Date: Mon, 07 Dec 1998 16:17:41 PST
+Subject: Rush on the Radio
+
+Hi Fellow Rushians,
+I was listening to the one radio station that i get where I live, (in the
+middle of nowhere), and I got Rush in on the radio, and it was the king
+biscuit promotional thing. this is probably old news, but they were on for
+an hour, (you know, king biscuit flower hour). They played alot of songs. It
+was the second time that I have ever heard Rush just casually on the radio
+in years. Who else listened to it?
+If you live in the finger lakes region in NY, it was on the Ithica station
+of 99.9 WIII. Just thought that I would tell you guys.
+erin
+
+----------------------------------------------------------
+
+From: "Michael Z. Williamson" <daggers@indy.net>
+Date: Sun, 06 Dec 1998 19:11:03 -0800
+Subject: Jolly Teabag, etc
+
+So, we are producing the shirts.  I need to know:  is the actual quote
+on the shirt "Jolly Teabag Rest Home"  ?  Or something else?
+
+The shirts will be white, with black letters, and a black EMT logo on
+the right shoulder, just like the ones on the album sleeve (AFIK, that
+is a US logo, Not Brit.  Even more humerus.)
+
+Price is $15 each, $3 S&H for up to 3 shirts.  Outside of North America,
+add $%, and make payment in intnl money orders or other US equivalent. 
+Send to our sister outfit, 
+
+FBN Graphics      (Nope.  No Rush fans here!)
+3120 Madison Ave
+Indpls, IN  46219
+
+Money payable to C&D/FBN.  WE take Visa/MC/DISC/ETC by phone.  We are
+moving, so give us a day or two, but I think the new number is (317)
+784-7443.  Or check our old # at (317) 352-9990 for a forwarding msg.
+
+We are starting now, and will produce 48.  Only if there is overwhelming
+demand will we do more.
+ - 
+mike
+http://cloak-dagger.com  Edged weaponry, from the stone age to the space
+age.
+
+Mathematically, I'm certain there are gun-control proponents who are not
+paranoid, phobic, or irrational.  I just haven't met any yet.
+
+----------------------------------------------------------
+
+From: "Terry Worley" <terrywo@mail.psdbay.com>
+Date: Mon, 07 Dec 1998 16:59:57 -0800
+Subject: (Real) sales
+
+>>For fact, I know that RUSH's contract with Atlantic is not a multiple
+>>record deal.  As we all know, since moving from Mercury to Atlantic
+>>Records in the US, the boys have not had a «big selling» album.  Presto,
+>>Roll the Bones, Counterparts and Test For Echo all sold around 600,000
+>>copies: gold certification.
+>
+> This is partly due to the fact that CD's rarely get damaged enough, or
+> wear out enough, to replace, the way tape or vinyl does.  The reason
+> Pink Floyd's DSOTM sold so well for years was that people played it
+> until it wore out, not that new people were listening to it.
+>
+Kinda like me first buying PeW on vinyl, then on cassette to listen to in the
+car, then on CD, then on remastered CD. 4 copies attributed to me whereas I've
+only bought one copy of T4E so far. I'm convinced that only a few thousand Rush
+fans actually exist, but we keep buying the same material over and over again...
+
+ terry
+
+----------------------------------------------------------
+
+From: "Rebeca Sanhueza H." <rps@harm.sfrc.ufl.edu>
+Date: Mon, 7 Dec 1998 20:21:55 -0500
+Subject: Roxette?
+
+Dear Rushers:
+
+This is a funny story. I was one evening in my apartment speaking with a 
+33-year old lady (who happened to be my landlady...) when suddenly on the radio 
+they started playing 'Everyday glory'. Then I said "oh, what a surprise that 
+they are playing Rush in this station', and then I was completely shoked 
+after I heard this lady replying "Rush? I've heard this song before and I 
+though it was Roxette!"...
+Can you believe it? There's certainly people there who can't tell the 
+difference between Pong and Super Nintendo...
+
+La Rebe Sanhueza.
+
+----------------------------------------------------------
+
+From: nickb@teleport.com
+Date: Mon, 7 Dec 1998 17:59:16 -0800 (PST)
+Subject: Minneapolis/Bloomington, 1978 (Again!)
+
+> From: "Flynn, Jason R" <Jason.R.Flynn@UNISYS.com>
+> Subject: OK OK Fargo!
+[...]
+> P.S. To whoever wrote about the Bloomington vs. Minneapolis date in 1978,
+> they gotta be the same thing.  Bloominton's a suburb and Rush often played
+> the Met Center (before it turned into a shopping mall parking lot).  I don't
+> think they would have played the two cities separately.
+
+You're right, of course.  I was being unforgivably lazy
+in not distinguishing between Bloomington and Minneapolis.
+FWIW, Rush played in St. Paul for the Hemispheres tour at
+the SP Civic Center.  General admission, drugs, etc...
+
+Tangent:  I have a poster of a satellite image of the Twin
+Cities.  The photo was taken after Met Stadium was torn
+down, but before the Mall of America(TM) was built in its
+place.  It looks cool--just a big ol' hole like a meteorite
+crater.
+
+----------------------------------------------------------
+
+From: Martin Urionaguena <urionaguena@sminter.com.ar>
+Date: Tue, 08 Dec 1998 00:21:53 -0300
+Subject: Kings X new tour
+
+Hi! from Buenos Aires. I'm traveling to the USA on February, and I'll be
+assisting to the Kings X concerts in Florida, I love their sound !!!
+The complete tour dates list is at:
+
+http://www.compassnet.com/grump/tour.htm
+
+Any Rush fan to meet there at The Chili Pepper in Ft. Lauderdale?
+
+See ya'
+
+ ---------
+"Rush. They must have been one hell of a band."
+(2112 Tourbook)
+                    
+Martin Urionaguena
+Buenos Aires
+Argentina
+
+urionaguena@sminter.com.ar  
+
+----------------------------------------------------------
+
+From: rushfan.2112@juno.com (Christopher W Lindsay)
+Date: Mon, 7 Dec 1998 23:47:02 -0500
+Subject: A Work in Progress
+
+Hello.  It's been awhile.  Taking 6 classes this term and can proudly
+say that it will be a bad song on a RUSH album that I ever take 6 again!
+
+Just got a look at "A Work in Progress."  Pretty good.  I mean, a non-
+drummer like myself, it was entertaining and understandable.  I
+personally loved watching him drum.  It amazes me how complex
+his drumming is, but when he breaks it down, he presents it like
+it really isn't that difficult.  I still say it is, though.
+
+If this is already been mentioned, I apologize, but did anyone catch
+the name of Neil's boat?  I believe it says Mz. Jackie.  Is Mz. the
+Canadian
+equivalent to Mrs.?  I thought it was a nice touch to name your boat
+after 
+your wife.  I feel bad about what has happened since then.
+
+Anyways, Different Stages rocks!  "The Spirit of Radio" has a lot of
+energy.
+That's all.  Thanks for reading!
+
+----------------------------------------------------------
+
+From: "christopher dannhoff" <cldannhoff@hotmail.com>
+Date: Mon, 07 Dec 1998 21:37:16 PST
+Subject: NBC show with Mystic Rhythms theme song
+
+I see there was lots of debate over which song was the theme song for 
+which show. It was most definately Mystic Rhythms, and I'm pretty sure 
+the show was called 1986, and it most definately was a newsmag show.
+
+"The point of the journey is not to arrive"
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@tnms.com
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@tnms.com    or
+    rush-mgr@tnms.com
+
+There is a mail server available for back issues of the digest. For more 
+info, send email with the subject line of HELP to:
+
+    rush-srv@yyz.com
+
+These requests are processed immediately, and you should have back a response
+within a few minutes. Any problems please direct to the rush-mgr.  
+
+For those of you on the World Wide Web, the Rush home page is:
+   
+    http://syrinx.yyz.com
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright (C) 1998 by The Rush Fans Mailing List
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+*********************************************
+End of The National Midnight Star Number 2154
+*********************************************
+
+

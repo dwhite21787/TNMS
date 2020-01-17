@@ -1,0 +1,1061 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 11/19/91 - The National Midnight Star #381
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+          The National Midnight Star, Number 381
+
+                Tuesday, 19 November 1991
+Today's Topics:
+                      Administrivia
+                          (none)
+      Re: 11/15/91 - The National Midnight Star #377
+                           MIDI
+             RTB review in _People_ magazine
+             Erland Sommarskog and morse code
+                        things...
+                         The Dice
+                 ROLL THE BONES TOUR BOOK
+           Neil would tell me to get a life...
+                   BOOT SPOILER (KINDA)
+                     Clearing the air
+                      Cleveland Show
+                        RTB video?
+                      RTB Tour Book
+                   re: Neil's bass drum
+                     European Matters
+              Re: need tix to Worcester show
+                       B's and D's
+                      Eric Johnson?
+                          (none)
+                      weirdo magnet
+                  Tour date/place list?
+                        Hugh Syme
+                  About the poll results
+                         Sticks.
+            CLEVELAND SHOW. MIGHT BE SPOILER&gt;
+               More On Concert Dates, Sorry
+             Re: Ticket suggestions, anyone?
+      More thoughts on Cleveland (Definate SPOILERS)
+                       extra extra!
+----------------------------------------------------------
+
+From: Editor, The National Midnight Star &lt;rush-mgr@syrinx.umd.edu&gt;
+Subject: Administrivia
+
+Since I notice several people are asking about tour dates, I thought
+I'd mention that two sets of *tentative* tour dates have been posted
+to the NMS - I call them 'leg 1' and 'leg 2' of the tour, coincidentally
+before and after my birthday/New Years (figure that one out, folks :-) -
+no, it's not New Years).  I they were in issues 345 and 364, and can be
+gotten via anonymous ftp from Syrinx in the 'rush/digest' directory or from
+the mail server at Ingr.com.  A combined list can also be ftp's from Syrinx
+in the file "rtb.tour.dates" in the 'rush/special' directory.  Addresses for
+both Ingr.com and Syrinx are at the end of every issue.
+
+rush-mgr
+
+----------------------------------------------------------
+
+Date: Mon, 18 Nov 91 10:37:14 +0100
+From: schaaphe@serc.nl (Frank Schaapherder)
+
+Hi there,
+
+I asked for European tour dates a few days ago. It seems I've solved my
+question myself. I have heard from a usually reliably source Rush will
+be playing in Holland at the 3rd of May 1992. The exact place is (still)
+unknown to me, but I expect they will play in Rotterdam. The guys seem
+to love May for playing in Holland, they played on the third in 1983
+and on the second (or fourth) of May in 1988. Whenever I cross more European
+dates, I'll post.
+
+I also read some of you guys have been making banners. What struck me is
+that there wasn't a single person who had a banner saying something like:
+
+ "The National Midnight Star says 'Hi' to The Boyz"
+
+Just a thought, I'm probably rambling as usually.
+
+And yeah, thanks to Jimmy Lang (and the other authors) for the anniversary
+issue, I really enjoyed it.
+
+--
+Frank
+(schaaphe@serc.nl)
+
+----------------------------------------------------------
+
+Date: Mon, 18 Nov 1991 07:48 ADT
+From: Ross &lt;EG9192030@HUSKY1.STMARYS.CA&gt;
+Subject: Re: 11/15/91 - The National Midnight Star #377
+
+About Much Music...
+
+Yes, they air Rush videos. Quite often, actually. Yesterday, I saw RTB,
+and Subdivisions. About a month ago, they had the Labatts Blue Spotlight
+on Rush, for half an hour. ALSO, they had a contest in which they were
+giving away 10 RTB Cd's. You had to answer a 'skill testing' question.
+Anyways, I was lucky enough to win one. :-)
+
+Anyways, I would have to say that Much Music does play quite a bit of
+Rush.
+
+----------------------------------------------------------
+
+Date: Mon, 18 Nov 1991 08:11:09 -0600
+From: wadew@ducvax.auburn.edu (Wade Williams)
+Subject: MIDI
+
+&gt; Geddy
+&gt;writes a version of the songs with all of the parts- even vocals,
+&gt;guitar, drums and keyboards with Passport software. Usually done on an
+&gt;Atari ST (Great for MIDI applications) or a MAC.
+
+As an excerpted interview in TNMS pointed out, they experimented with the
+Atari because they liked a software package on it.  Apparantly, they hated
+the Atari itself and as soon as the Mac's software was updated, they went
+back to it.
+
+----------------------------------------------------------------------------
+--
+Wade Williams   	       	       	"Any escape might help to smooth the
+User Services Specialist        	unattractive truth, but the suburbs
+Academic Computing      	       	have no charms to soothe the restless
+Auburn University       	       	dreams of youth." (N. Peart)
+wadew@ducvax.auburn.edu
+----------------------------------------------------------------------------
+--
+
+----------------------------------------------------------
+
+Subject: RTB review in _People_ magazine
+Date: Mon, 18 Nov 91 9:24:35 CST
+From: tj@alpine.b17a.ingr.com (T.J. Higgins)
+
+My wife takes _People_ magazine.  I don't read it, but she pointed out
+the following review of _Roll_The_Bones_ in the "Picks & Pans"
+column.  This is the review in its entirety:
+
+"Here is audible proof that dinosaurs still roam the earth.  On its
+18th album, the Rushosaurus tries to adapt to modern society by
+abandoning thunderous drum solos and adding Top 40 synthesizer hooks
+and snippet of rap on the title track.  But lumbering guitar solos,
+chest-thumping lyrics and Geddy Lee's shrieking vocals soon expose the
+hopelessly primitive nature of the beast.  Roll these bones into a
+museum--say, an FM oldies station. -- Craig Tomashoff"
+
+So, I wonder if this guy has ever worked at _Rolling_Stone_?  If not,
+I'm sure they'd hire him in a second after this piece of shi, uh,
+work.  And if he thinks Geddy's vocals shriek on RTB, what would he
+think about "Cygnus X-1?"
+
+	SPINNING, WHIRLING,
+	STILL DESCENDING
+	LIKE A SPIRAL SEA,
+	UNENDING
+
+	SOUND AND FURY
+	DROWNS MY HEART
+	EVERY NERVE
+	IS TORN APART....
+
+Now that is some serious shrieking!  Right on!!!!
+
+Needless to say, I disagree with his assessment of RTB...
+---------------------------------------------------------------------
+T.J. Higgins    205-730-7922  |  higgins@ingr.com    (Internet)
+Mapping Sciences Division     |  uunet!ingr!higgins  (uucp)
+Intergraph Corp.  M/S IW17A6  Huntsville, Alabama, U.S.A.  35894-0001
+
+----------------------------------------------------------
+
+Date: Mon, 18 Nov 91 10:49:08 -0500
+From: walkersc@esvax.dnet.dupont.com
+Subject: Erland Sommarskog and morse code
+
+As for Erland's tardy "Presto" review, I stand corrected by the rush-mgr
+on respecting other people's opinions.  Funny to hear how well known he
+is in these circles.  But whatever he said, it's too little too late.
+He obviously has not learned to roll the bones yet!
+
+Someone a ways back posted something about some dice on the cover of RTB
+being in the pattern of Morse Code.  Has anything come out of that
+observation?  What does it say, if anything?
+
+One more thing-can you imagine what would happen if Rush put as much
+technical effort into their videos as Michael Jackson put creative effort
+into "Black and White"?  Talk about sensory overload...
+
+*****************************************************************************
+Scott C. Walker
+The DuPont Company                       This space for rent.
+CR&D
+Wilmington, Delaware
+*****************************************************************************
+
+----------------------------------------------------------
+
+Date: Mon, 18 Nov 91 12:24:47 -0600
+From: toronto@ccwf.cc.utexas.edu (James Moseley)
+Subject: things...
+
+Yes, "hello...good morning guv, or just morning guv , is what is being said in
+'Camera Eye.'  It's a greeting.  BTW, this subject was brought up last spring,
+and was probably brought up before that too.  Funny.
+
+Dude!  Check this out!  Before class this morning, I turned on the stereo for
+my morning wake-up jam.  I was going to play a CD but decided to check out the
+radio stations first.  When I turned to the 3rd one, they had just started to
+play RTB!  So I said Killer!  Then I turned on the TV to check the temp. and
+the forecast on The Weather Channel.  Being it was 10:30, I thought it's not
+prime-time.  So I turned it to eMpTyV and DUUUUUUDE, just then it faded into
+the store window at the beginning of the RTB video!  Is that killer or what!
+The video and the song on the radio at the same time!  That's a one-in-a-
+million!  All this happening in 10 seconds.  What's cool is now I have a
+copy of the video in SP, better sound, if not better picture too.  Oh well,
+gotta go.
+
+Later...
+
+James Moseley
+(toronto@ccwf.cc.utexas.edu)
+
+----------------------------------------------------------
+
+Date:    Mon, 18 Nov 1991 13:29:44 -0600 (CST)
+From: WPM45320@VAX1.UTULSA.EDU
+Subject: The Dice
+
+Midnight Star,
+
+This is my first post to the NMS. I was wondering if the dice on the
+album cover and the tour poster meant anything. If you look at the
+bottom half of the wall, you will notice that the dice start changing
+numbers. Are they just random numbers or do they mean something? It seems
+strange to me that they would start changing the numbers half way if thay
+didn't mean anything. If anyone knows the answer to this small mystery,
+then please let me know!!
+
+                                 Thanks,
+
+                                         Paul Williamson, Univ. of Tulsa
+
+----------------------------------------------------------
+
+Date: 18 Nov 91   15:46:52 EDT
+From: &lt;bxe2@po.cwru.edu&gt;
+Subject: ROLL THE BONES TOUR BOOK
+
+First of all, let me say that the NMS is incredible!!!!!  Now
+here is my story.  I went to the RUSH show in Cleveland on
+11/17.  Needless to say, it was truly outstanding.  The boyz
+really sounded tight and seemed to be having tons of fun.  At
+the show, I bought the tourbook for 13.00.  I put it away, and
+upon taking it out to read when I got home, I saw that a few
+pages were torn and a few others were never cut(many pages stuck
+together).  Does anyone know someone to call or write to, to get
+a replacement copy?  Any assistance would be helpful!!!!!
+Thanks A lot!!!
+Brian Epstein
+
+E-MAIL  bxe2@po.cwru.edu
+
+R    O    L    L   -    T    H    E  -   B    O    N    E    S  !!!!
+
+----------------------------------------------------------
+
+Date: Mon, 18 Nov 1991 16:22 EST
+From: "Rob Lizak Jr." &lt;LIZAK98%SNYBUFVA.bitnet@VTVM2.CC.VT.EDU&gt;
+Subject: Neil would tell me to get a life...
+
+&gt;...but I figured the list would find this story neat!  :)  I got my tickets 
+for
+Buffalo on Saturday morning, and after standing in line me and other two guys I
+was with determined we needed some food badly, so we headed over to Perkins and
+ordered and after we ate, I looked at the bill, it was 23.00 for the three of
+us, I remarked saying "Whats the chances of having the bill come up even?"...
+one of the other guys with me said "Yeah imagine though if it would have been
+$21.12".. I laughed and then looked back down at the check... and there it was
+staring me in the face, our customer number... in bold black letters 2112!!  So
+we asked the waitress if we could keep the check, and she let us... I know its
+a silly story, but I thought it was be something a little different than what
+has been on the list as of late...
+
+--Rob.
+lizak98@snybufva.cs.snybuf.edu
+lizak98@snybufva
+
+----------------------------------------------------------
+
+Date: Mon, 18 Nov 1991 13:33 CDT
+From: IB91@vaxb.acs.unt.edu
+Subject: BOOT SPOILER (KINDA)
+
+urce (hopefully reliable) that this was a major snafu. Not only is that not 
+Alex playing, but it's not even Rush! It is in fact Tommy Shaw(?) from Styx. 
+Oh wellcan't wait for the concert in Dallas (Feb 16) will the Tone Ranger 
+still be opening (E.J.)?
+audios
+
+[ I think part of the original mail might have been lost on this one - this
+  is how it arrived at Syrinx, minus a few extra headers trimmed by my
+  software.  You might want to re-post this...                     :rush-mgr ]
+
+----------------------------------------------------------
+
+Date: Mon, 18 Nov 1991 18:07 EDT
+From: "CRAIG B. BERWALDT JR." &lt;V057QGHV@ubvms.cc.buffalo.edu&gt;
+Subject: Clearing the air
+
+Hello....
+
+All right ...all right....I see I have pissed a few people off with my "real
+fans" post. I would now like to clear the air. I openly admit that I like all
+of the songs that I bitched about them playing this time out. What I meant
+by my real fans comment was this: I get the feeling that the guys feel 
+obligated to play songs like Tom sawyer and CttH etc... for the fans that 
+may only be
+familiar w/ these types of songs(those being the more popular or well known
+ones) Apparently I speak for an extremely small minority when I say that
+I would much rather hear songs like Middletown Dreams(my alltime fav if anyone
+cares), Open Secrets, Vital Signs, Afterimage....etc. My reason for this is 
+thatI have already heard those other songs umpteen times live and would just 
+like
+a little variety in the live shows. I love 2112 and all the others just as
+much as the next guy and didnt mean to imply that you were not a REAL FAN if 
+youliked them. I certainly hope all those that I have upset can now understand
+what I meant. I realize my original comments may have been a bit ambiguous.
+I would appreciate it if anyone else has a problem w/ this to please flame me
+personally.
+
+Thanks....
+
+Craig
+
+----------------------------------------------------------
+
+Date: Mon, 18 Nov 91 19:11:43 -0500
+From: Mickey &lt;mccormic@cis.ohio-state.edu&gt;
+Subject: Cleveland Show
+
+Hello, hello.
+Love TNMS, been reading it for a month, my first post, batter up.
+
+I have to say that I agree with some earlier posts in that the sound on this
+show seemed to be lacking.  Unless a song was Alex intensive,(Limelight,
+Xanadu) you could hardly pick out his playing mushed in with the other sounds.
+I also agree that Ged's bass has sounded a lot better in previous shows.
+Neil's solo was the only time the mixing seemed to be on track.  During
+Superconductor, Alex's mike was mixed out and he singing into a dead mike for
+two lines in the chorus.  I noticed that this happened twice during two
+different Eric Johnson songs as well.  It may have been mechanical, I dunno.
+Presto seemed to sound a lot better eventhough the tourbooks credit the
+same person as tour sound technician on both tours.
+I also agree with Mark Caufman in that the extra large stage was hardly
+used.  Ged and Alex hardly moved around at all compared to previous shows.
+Unless I missed it, Ged didn't even say 'goodbye' or anything during their
+two stage exits.  I definitely have seen the Boyz put on better shows.
+(Ones that sounded better too).
+
+Shawn McCormick
+mccormic@cis.ohio-state.edu
+
+----------------------------------------------------------
+
+Date: Mon, 18 Nov 91 20:06:48 -0500
+From: at656@cleveland.Freenet.Edu (Michael Sensor)
+Subject: RTB video?
+
+Hello all...
+
+	Just a general inquiry:  Has *anyone* seen/taped the RTB video off
+of eMpTytV since it first came out?
+
+	The other night I set my VCR to tape all night and came up with
+two showings of the (now-abbreviated) "Black or White" video, 2 of Van
+Halen's "Top of the World" (or whatever it's called), 2 of Tom Nasal and the
+Heartbreakers, and one of -- oh god, don't do this to me - 2legit. Argh!
+
+	I got both the live and video versions of "Enter Sandman" by
+Metallica, so at least the evening wasn't a total waste.
+
+	My point:  I would like to know when the video's been seen so that
+I can (try) to tape it.  In addition, if anyone has a copy of it, I might be
+interested in obtaining (ahem) a copy.
+
+	Ony 13 days remain until the first Philly show.  Time to go roll *my*
+bone...  ;-)
+
+Michael
+
+--
+|========| Michael Sensor		| "Leck mich am Arsch!"
+    ||     Temple University	        |          - Goethe
+    ||     Department of German         | Share and Enjoy.
+   ====    Philadelphia, PA  &lt;at656@cleveland.freenet.edu&gt;|Nome to Rome...
+
+----------------------------------------------------------
+
+Date: Mon, 18 Nov 91 21:36:12 -0500
+From: Mickey &lt;mccormic@cis.ohio-state.edu&gt;
+Subject: RTB Tour Book
+
+Me again.  If you do get the chance to see the tour or know someone who is
+going, GET THE TOUR BOOK!!!!  It is spectacular eventhough it is $13.
+It is 28 pages like the Presto one but it contains more photos and they all
+aren't concert photos.  Some are from inside some sort of mobile home or RV
+and there is one or two from backstage, as well as one from the back of a limo.
+
+For those of you that already own one, or for those who have asked questions
+about it, I may have some answers.  Some of the things I peck you may have
+seen in earlier posts, but I haven't yet.
+The outdoor stage shots are from Cooper Stadium in Columbus, Ohio during
+the Presto tour.(Inside cover and soundcheck shots of Alex and Ged(pg 22-23?)
+The skulls and bones in the Morse config. on the bottom of page 1 spell
+'remember death'.  I don't have a clue.(remember deaths, remember the death?)
+If your page of Alex in the chair(5-6) is stuck together, it is a factory
+error.  The guy selling them at Richfield in Cleveland said that many of them
+are cut wrong.
+Look at the picture of Alex in the chair.  Notice that the pictures of famous
+people on the desk and on the mantle all have his picture imposed on them.
+Alex and the Pope.  Alex and Liz Talor.  Alex and Bush.  Alex and the Queen.
+etc.
+The only one I can't figure out is the one with the older couple and what looks
+like a child.
+The picture of Neil bundled up I believe is from the making of The Pass video.
+(Ref. Presto tour book)
+Lastly.  On the back cover, where the albums are listed, Anagram for Mongo has
+become Anagram for Mango.
+
+Anyone else find anything interesting?(Who is the guy in the bunny suit?)
+
+Row the boats.
+Shawn(mccormic@cis.ohio-state.edu)
+
+----------------------------------------------------------
+
+Date: Mon, 18 Nov 91 19:38:28 HST
+From: hinano@ahi.pbrc.Hawaii.Edu (Hinano Akaka)
+Subject: re: Neil's bass drum
+
+LIFE AGAIN!!!  So nice to know you can always return home after being
+weeks behind and not knowing what the heck is going on...
+
+A few days ago (or was it months?) Daniel P. Becker responded to my
+post about mourning Neil's bass drum (sorry, I'm too damn lazy to call
+up the actual post...).  Yes, I do, in fact, understand that a
+single-bass drum does NOT, in fact, imply single-bass technique.  I
+play drums myself (albeit loosely) -- not that you could have known
+that; or cared -- but I am rather glad you mentioned it anyway for tht
+benefit of anyone out there who would NOT have known that he could
+still play double-bass with only one bass drum.
+
+ I was just thinking that I'm so used to his being behind a doubl-bass
+ drum kit, it'll seem so strange seeing him with only one b. drum.
+ Call me senntimental...
+
+(heck -- screw the spelling...)  Anyway, just wanted to clear that up!
+
+puanani  "Ho-hoo!"
+
+----------------------------------------------------------
+
+Date: Tue, 19 Nov 91 15:55:57 GMT
+From: fallon@mee.tcd.ie
+Subject: European Matters
+
+Greetings!
+Firstly, does anyone know when the boys will be touring England?. I reckon
+that's the only chance that I'll get to see them since they have never come
+to Ireland before and I doubt that they'll do so this time. It should be
+some trip (train - boat - train)!.
+
+I went out recently to get my copy of Guitar Player - Nov 91 but was
+dissappointed to find some other band on the cover (CUSM i think). I
+remember a couple of years ago one of the guitar magazines did a double
+issue with Rush on the cover of one and George Lynch on the other but the
+interviews were in both.
+Anyway this edition has no Rush interview at all. Is it a policy of Guitar
+Player to vary its contents for the different (N.America/Europe) markets?.
+Maybe someone will transcribe it eventually &gt; &gt; ;) ;)  (nudge nudge wink
+wink).
+
+BTW, I agree that the voices on TCE are (que Cockney accent..)
+"(h)ello"
+"mornin' Guv"
+Nothing sinister, just a nice touch of atmosphere.
+
+Niall Fallon     	       	       	      	Tel : (01)772941 ext: 1580
+Dept. of Microelectronics     	       	  FAX : (01)772442
+and Electrical Engineering,     	        E-Mail : fallon@mee.tcd.ie
+Trinity College
+Dublin 2        	       	       	   "Pavements may teem with intense
+Ireland					   energy buty the city is calm in this
+                                           violent sea."
+
+----------------------------------------------------------
+
+From: rivard@claude.ma30.bull.com (Dennis Rivard)
+Subject: Re: need tix to Worcester show
+Date: Tue, 19 Nov 91 10:36:38 EST
+
+&gt; Just tried to get Rush tickets to the 12/10 show at Worcester
+&gt; by phone, and was unsuccessful. Anybody in the Boston area or
+&gt; at MIT have any extra tickets to sell? My guess is that the show
+&gt; will sell-out, and they will add another show (they've done this
+&gt; on the last few tours for Worcester).
+
+I got my tickets Wednesday (it appears you tried on Saturday), and got
+lower side, whatever that is... From what i gathered, they were pretty
+much almost gone by the time I got my tix.  If your problem was that
+you couldn't get through to Ticket Bastard, I tried for 30 minutes
+before I got through, then was put on hold for another 20... LONG
+DISTANCE! arrrgh!
+
+Anyway, I saw Paula Abdul at the Centrum Thursday, and they were still
+only advertising Rush on 12/10, so I wouldn't get your hopes up too
+high for a second show.
+
+Dennis
+
+----------------------------------------------------------
+
+Date: Tue, 19 Nov 91 11:23 EDT
+From: AARON_KP@jhuvms.hcf.jhu.edu
+Subject: B's and D's
+
+I was wondering if anybody knows what 'Brought to you by the letter D' on
+Presto and 'Brought to you by the letter B' on RTB means. I thought that the
+'D' on Presto referred to the all-digital recording technique, but that was
+shattered when RTB came out in DDD as well. Just curious.
+
+Anyway, in the completely useless anecdote department, I was riding back home
+in a limo from my fraternity's formal when I turned on the tape deck, and
+Signals came out! It almost completely salvaged a thoroughly miserable
+evening...my blind date was about as exciting as a piece of driftwood.
+
+Whatever. Only 15 days to Roll the Bones in DC!!
+
+Ken Aaron, Johns Hopkins University
+
+ORQ: "How can anybody be enlightened? Truth is, after all, so poorly lit."
+
+----------------------------------------------------------
+
+Date: Tue, 19 Nov 91 11:43:33 EST
+From: robert l pitas &lt;bpitas@sun3140d&gt;
+Subject: Eric Johnson?
+
+I have tickets for the Dec 9 (Prov. RI) and Dec 10 (Worchester) and according
+to a newspaper add for the Worchester show, Vinnie Moore is opening...  Does
+anyone know what the cutoff date for E.J. is?  I would go to see him in
+concert by himself, so when I heard he was opening for the boyz, I was
+reasonably psyched...  Now I hear he's not opening for them...  Someone
+please tell me that the last show he's going to open for is Dec 9 @ Prov!
+
+***************************************************************************
+* Bob Pitas                         * Elfin songs and endless nights      *
+* bpitas@flora.CCS.Northeastern.EDU * Sweet wine and soft relaxing lights *
+*      ___   _ _   __   _ _         * Time will never touch you           *
+*     |   \ | | | / _\ | | |        * Here in this enchanted place        *
+*     |   / | | | \ \  |   |        *                   -Neil Peart       *
+*     |___\  \_/  \__/ |_|_|        *                        "Rivendell"  *
+***************************************************************************
+
+----------------------------------------------------------
+
+Date: Tue, 19 Nov 91 13:55:50 est
+From: Donna Skarbo &lt;skarbo@hp800.lasalle.edu&gt;
+
+Hi there all!
+	Two people mentioned that the Dec. 1 show in Hartford, CT, I
+believe has been postponed.  One of the posters wondered why.  Well,
+the postponement is probably due to the fact that RUSH is playing
+in Philadelphia the night of Dec. 1.  This show is being presented by
+WMMR rather than Electric Factory so the reason they scheduled that day
+MAY have something to do with it.
+	On another topic...I was considering having a RUSH party on
+Dec 3.  I have not made a final decision on this matter but I received
+only a small number of replies.  What I am considering doing is having
+just a small get together before either the Dec 1 or 3 show.  For those
+who are still interested, please drop me a line and let me know what is
+a better day and I'll make a final decision.  Also, I apologize for not
+getting on this sooner; I have been SWAMPED at work.
+	Please send mail to skarbo@hp800.lasalle.edu.  Thanks a lot!
+
+					Donna
+
+[ I'll be there, Donna!  I'll arrive sometime during the day, and will
+  let you know several days ahead of time what my 'itinerary' is for that
+  24 hours....  I'm also bringing beer... Be afraid, be very afraid. :-)
+                                                               :rush-mgr ]
+
+----------------------------------------------------------
+
+Date:    Tue, 19 Nov 1991 14:21:11 -0500 (EST)
+From: RH2@JAGUAR.UCS.UOFS.EDU (Rebel, Runner, Restless Young Romantic)
+Subject: weirdo magnet
+
+	...thats the name of my punk/thrash/pop band, just in case you
+	recognized no relation at all to RUSH.
+
+	the lead guitarist wanted to do  thrash version of 'working man'
+	but, as it is blasphemy, even to 'working man', we are not.
+
+	i just would like to confirm that YES, i did hear that neil will
+        be on rockline on dec. 2.
+
+        lets get in there guys and prevent the morons from asking reaaalllyy
+	stupid questions like 'so, like, whats you favorite canadian beer,
+	lerxst??'
+
+					necromancer
+
+----------------------------------------------------------
+
+Subject: Tour date/place list?
+Date: Tue, 19 Nov 91 11:47:46 MST
+From: Guy Kendall &lt;gkendall@ncr-mpd.ftcollins.NCR.COM&gt;
+
+Is there a list of the cities and dates that Rush will hit on the RTB tour?
+I am one of those unfortunate Coloradoans that has to miss Rush every other
+tour. But I say NOT THIS TIME! If they aren't coming to Denver, I want to
+make a road-trip to the closest place.
+
+If there isn't a list of places they will hit on this tour, which places
+did they hit on the last few tours that are close to Colorado? Where did
+all you Coloradoan Rush Fans go for HYF and p/g? Also, how do you get
+tickets for a out of state concert? Is there a universal Ticketmaster
+number or something?
+
+Thanks.
+
+--
+Guy W. Kendall - Applications Engineer            Guy.Kendall@ColoSpgs.NCR.COM
+NCR Microelectronic Products Division               Voice: 719-596-5795 x465
+1635 Aeroplaza Drive       | Do Integrated Circuits | Fax: 719-570-6045
+Colorado Springs, CO 80916 | work in South Africa?? | BBS: 719-596-1649
+
+----------------------------------------------------------
+
+Date: Tue, 19 Nov 91 14:50 EDT
+From: THE ALMIGHTY &lt;KRKST2@vms.cis.pitt.edu&gt;
+Subject: Hugh Syme
+
+Hello everybody,
+	I have a breif question I'm sure one of you can answer.  I was
+listening to Styx, _Edge_of_the_Century_ yesterday and I was looking through
+the liner notes and I saw a familiar name.  Hugh Syme is given credit for the
+art direction of the tape.  I looked through my old Styx tapes (The Grand
+Illusion, Paradise Theatre, Kilroy was Here, and Caught in the Act) and he
+is not mentioned in any of these.  Does he do anyone else's albums? and Did
+Rush break him into the field?  Please reply to me not to the NMS, it is long
+enough already.  Thanx!
+
+Kevin Ryan Kirwan
+The Pitt Drumline
+"We'll strike like lightning, and leave you shocked."
+
+Congratulations to Geddy Lee, _Guitar_Player_ magazine Bassist of the Year 1991
+
+----------------------------------------------------------
+
+From: Tero Valkonen &lt;d40374w@kaira.hut.fi&gt;
+Subject: About the poll results
+Date: Tue, 19 Nov 91 21:59:02 EET
+
+I was kinda surprised about those "great player" poll results. I
+didn't see Allan Holdsworth mentioned in the guitarist list, nor
+did I see Vinnie Colaiuta noted as a great drummer.
+Now there are two probable reasons:
+1) You don't know those two. If this is the case, check out
+   Allan Holdsworth's album "Secrets". It features Allan and
+   Vinnie among several other great musicians.
+2) You don't like them. No need to comment on this.
+
+IMO, Vinnie Colaiuta beats Neil hands down as far as inventive
+playing is concerned. On "City nights" (the first track on
+Secrets) he plays the way you have never heard Neil play.
+Well, I wouldn't vote Neil very high on my favorite drummers
+list anyway (he'd be on top ten, still) but still the way
+Vinnie plays the drums makes me gasp and wonder.
+And about Allan; if you haven't heard him, check him out!
+Guitarists will probably hate him for playing the way they
+never will, but I love him.
+
+To that guy who complained about not getting autographs:
+Have you realised that Rush have signed autographs for almost
+twenty years now? I mean, they have probably learned to
+hate doing it year after year. I would never ask for an
+autograph in the first place anyway, so I don't see what
+is so bad about not getting one. An autograph is really
+a worthless souvenir.
+
+PS. Gregg Jaeger: send me your email address. I have
+    an unbelievable talent of missing it every time..
+PPS. If those two abovementioned musiciands were listed
+     in the poll results, blame me of being blind.
+PPPS. How high would you guys rate Fish as a lyricist? IMO,
+      he is the best one. Check out Marillion's album Fugazi
+      for examples of his works.
+
+"From a dolequeue to the regiment, a profession in a flash
+ But remember Monday signings when from door to door you dash
+ On the news a nation mourns you, unknown soldier count the cost
+ For a second you'll be famous but labelled posthumous"
+
+ -Fish
+
+----------------------------------------------------------
+
+Date:         Tue, 19 Nov 91 16:50:37 EDT
+From: Mark Gardner &lt;GARDNEMJ@DUVM.OCS.DREXEL.EDU&gt;
+Subject:      Sticks.
+
+I've been a drummer for about ten years now, a Rush fan for four.  For the past
+two years I've been using Pro-Mark oak wood-tipped 747 drum sticks almost
+exclusively, for their light weight and strength.  So, when I finally broke my
+last pair (yes, it does happen to the best of drummers, especially when trying
+to perfect 'The Rhythm Method' for the nth time) and went to the local music
+store to get a few more pairs, I was amazed and delighted that those very model
+of sticks are now signature-endorsed by none other than Professor Neil Peart
+himself.  Needless to say, I snapped up three pairs.
+
+My question is: are these the actual sticks that Neil uses, or is this just an
+advertising gimmick?  Does the Roll The Bones tour program mention what
+equipment the band is using at all?
+
+Forgive my cluelessness - they ARE nice sticks anyway, and it is a veritable
+Cool Thing to have Neil signature on them.
+
+As a sidenote, what're my chances of getting one of these babies signed by Neil
+personally when they come to Philly week after next?  :)
+
+ -Mark Gardner, GARDNEMJ@DUVM.OCS.DREXEL.EDU
+
+ORQ: "Fortune is random - fate shoots from the hip."
+
+----------------------------------------------------------
+
+Date: Tue, 19 Nov 91 18:59:54 -0500
+From: nam2@po.CWRU.Edu (Nicholas A. Mascari)
+Subject: CLEVELAND SHOW. MIGHT BE SPOILER&gt;
+
+Whew!!
+
+two Rush shows in a row!!!!
+People here think I'm crazy for going to see the same band
+twice in a row! One girl even asked me, "How can you like Rush
+so much?" My only answer was "How can't I?"
+
+Being my first Rush show also made it that much better for me.
+
+Oh well, not really too many spoilers here, just some comments.
+The show was AWESOME!!!
+Geddy and Alex moved around a lot, not like some other peoples
+shows. During one of the songs, I forget which, on the first night,
+(11/17), Alex and Geddy were standing next to each other and
+vrunning into each other while playing. They had a lot of fun.
+Too bad other people at different shows didnt think so.
+
+Too those who have seen them by now, did Neil where a bandana?
+I didnt read any spoilers before the show, so dont know if this
+is old news, but he wore a bandana to both shows.Not the same one
+either. At first we thought he dyed his hair blond, (or at least
+it looked like that from 31 rows back ):  )
+
+WHY DONT THEY PLAY LONGER THAN 2 HOURS?!?!?!?
+
+My only disappointment. (psst. hey guys. you have enough songs
+to play 10 hours!!!! why not go for at least 3!!!!)
+
+oh well.
+
+tour book is hilarious. Like the shot of Alex in front of pictures
+of him with George Bush, Queen Elizabeth, and the Pope. And geddy's
+noses and ponytails.
+
+vNeil's air guitar got a big cheer from the crowd!
+
+I had a blast!!!!
+
+--
+|~~~\  |    |  /~~~\  |    |    Nick Mascari-Case Western Reserve
+|   /  |    |   \     |    |    "If you choose not to decide, you
+|~~\   |    |     \   |~~~~|     still have made a choice"
+|   \   \__/  \___/   |    |    Look for "Peart" on IRC
+
+----------------------------------------------------------
+
+Date: Tue, 19 Nov 91 16:44:04 PST
+From: keith@lucid.com (Keith Thesing)
+Subject: More On Concert Dates, Sorry
+
+Sorry to beat a dead horse but, does anyone know of any Bay Area
+tour dates??  If not how about West Coast tour dates.  I haven't
+been able to read mail for three weeks so I'm a bit out of touch.
+
+vThanks, Keith-
+
+----------------------------------------------------------
+
+Date: Tue, 19 Nov 91 17:24:42 PST
+From: paulh@jupiter.odetics.com (Paul Hodgetts)
+Subject: Re: Ticket suggestions, anyone?
+
+Dan Dickerman &lt;dickermn@hpcugsya.cup.hp.com&gt; writes:
+
+&gt; To all those of you who brag of x-row tickets (for all single-digits x):
+&gt; could you share with the rest of the class exactcly what you have to do
+&gt; to get such good seats?  Those of us with shows poised for announcement
+&gt; would be eternally grateful, I'm sure.
+
+and,
+
+&gt; So what's the secret guys?  If standing second in line is not the answer,
+&gt; and first isn't much better, how is the basic concert-goer supposed to
+&gt; get the good seats.
+
+  My friends and I have been working on this for 15 years now.  I'm not
+quite sure if there is a secret, but I'll share what we've learned.
+
+  First we have to understand the sheer volume of tickets that can move
+through a typical TicketMaster.  You didn't say what city you lived in -
+I live in the Los Angeles area where there are hundreds of outlets.  We've
+seen 5 shows at the Forum (21,000 seats per show) sell out in 2 1/2 hours.
+That works out to something like 700 tickets per MINUTE.  If you figure
+there may be something like 50 seats per row, that's 14 rows per minute.
+As you can see, it becomes vitally important to get your tickets pulled
+as soon as possible after they are released into the system.  If two
+minutes go by, you could be stuck halfway back on the floor with everyone
+standing on their chairs in front of you :-(.  Plus, you always have
+the wierd chance that another show will be released after 45 minutes and
+the 75th person in line will get 4th row!  If you can get some inside
+info on how many nights the band has contracted the arena for, you may be
+able to use that info to your advantage.
+
+  The next major thing that comes into play is the way each outlet handles
+the ticket sales.  It is important to find an outlet where the employees
+know about the system and how to make best use of it.  They have to have
+the printer filled with tickets long before the show goes on sale (it is
+incredibly frustrating to watch someone load the printer after tickets
+have gone on sale as the rows slip away).  A good outlet will start trying
+to pull tickets 5-10 minutes before the scheduled release time and keep at
+it continually until tickets start going on sale.  This way they stand a
+good chance of being one of the first to grab seats.  A good outlet will be
+organized to the point where they are always at least several people ahead
+in finding out how many tickets you want so they can continuously pull
+tickets without delays in between.  They will have separate people handling
+pulling the tickets and taking money.  And they need to be honest with the
+customers - no pulling 25 tickets for employees before they open the doors
+to the people in line.  They have to have sufficient security to keep people
+from snaking into line.  All I can say is shop around and try different
+outlets and when you find one that meets the above criteria, become VERY
+good friends with one or more employees or the manager.  And don't be
+afraid of trying to educate them on the techniques above - we did this
+with an outlet that was way out in the sticks (not many people in line)
+and it paid off for us BIG TIME over the years.
+
+  It also probably goes without saying that you MUST get a good place in
+line.  If you can, camp out all night or whatever it takes to be there first.
+As was mentioned, even if you think you're second in line, the person in
+front of you may have 50 friends showing up at the last minute.  Here in L.A.
+they have instituted a policy of random priority numbers.  They won't let you
+show up at all until two hours before the show goes on sale, at which point
+they pass out numbers at random.  Then, 30 minutes before the show goes on
+sale, they pick a number at random to see where the line starts.  With this
+policy there is absolutely NO WAY of beating the system using the techniques
+I described above, it is just a matter of DUMB LUCK (unless you are REALLY
+good friends with the manager and they pull you tickets before they open the
+door (how far will YOU go to get good seats :-}.  Then again, I suppose you
+could try and buy priority numbers from people (hmmm?).
+
+  I used to go to 2-3 concerts per month, but with this new policy I had to
+say f@#k it after getting shafted dozens of times.  So I decided to limit my
+concert going to a half dozen shows a year that I REALLY want to see, and I
+go to a ticket broker/scalper and pay ridiculous amounts of money, but I
+always sit in the first 10 rows or so.  I'm concentrating now on finding a
+broker/scalper who always has the seats I want for the best price.  I don't
+like this situation - there's a lot of shows I miss this way - but I know of
+no other way (in L.A.) to reliably get good seats any more.
+
+  Although it's a privilege that only a few have, if you know someone from
+the band or the record company or a radio station, make use of them to try
+and get seats.  The seats may be good (maybe not), and they may even be FREE.
+
+  Sorry for rambling on so much, but that's the combined experience of 15 or
+so people over the past 15 or so years.  There's always a factor of luck
+involved, but we have found (up until the random number thing) that using the
+above techniques will over a period of time consistently get better seats
+than we could otherwise hope for.  Hope this helps a little.
+
+-Paul-
+
+----------------------------------------------------------
+
+Date: Tue, 19 Nov 91 21:56:02 -0500
+From: ap555@cleveland.Freenet.Edu (John Brooking)
+Subject: More thoughts on Cleveland (Definate SPOILERS)
+
+First, in response to Joshua Soliz, who commented about them refusing to give
+autographs.  Aside from any other considerations of whether or not they
+should have given you autographs, we should also keep in mind that it can't
+be easy for a band to "stay loyal" to thousands of fans, it's much easier for
+us thousands of fans to be loyal to the three of them.  We buy a studio album
+about once a year, maybe a boot or two, some paraphanelia, maybe we play
+their music in a band, we stand in line for tickets:  All in all, I would say
+they still put in many times more effort "for us" as we do for them.
+
+&gt;Note: Any flame mail will be laughed at over a cold beer and bounced all
+&gt;over the net, after all remember this was just an opinion!
+
+Have one for me!  On to the recent concert...
+
+&gt;To everybody who thinks Geddy is the mystery rapper:
+
+Could it have been Neil?  He had a microphone in front of his drum set.  Or
+how about that guy sitting at the electronics in back of Neil, who was he
+and what does he do, anyway?
+
+&gt;Some of the pictures in the middle are hilarious:
+&gt; Geddy in his dressing room with a set of noses and a few ponytails hanging
+&gt;in the corner.
+
+And notice Alex's picture on the previous page with pictures of him with
+famous people?
+
+I'm sorry, I have great respect for Neil, but I thought having his picture
+taken reading Aristotle's _Poetics_ was just a bit show off-y, IMHO.
+(Although about his shadow in the background -- is this supposed to be him
+*screaming*?  If so, maybe he's trying to make a statement about what it's
+like to read Aristotle, which as a philosophy minor I would totally
+understand and would let him off the hook, pride-wise, if this is the case.)
+
+And while we're on far-reaching propositions, has anyone actually tried to
+interpret the skull and bones pattern inside the front cover as Morse Code?
+I'm a little curious, if only to confirm my suspicion that it doesn't mean
+anything and they just put it there knowing thousands of fans would scramble
+to decode it... ;-)
+
+I *loved* Alex's "equipment description".  I'm a lover of puns, and I really
+like Alex's sense of humor, very dry wit.  Geddy's was good, too, alas for
+his poor Jays.  And as an anti-Bush person, I appreciated both of their
+"comments" about him.  "Try to avoid confrontations", Alex says.... Cracks me
+up!!!!!  :-) :-) :-)  With these two, it was somewhat disappointing that Neil
+actually did just write about his equipment changes.
+
+&gt;during the part of Anthem where Alex plays the intro riff again, after the
+&gt;first verse, Neil stood up behind his kit and started playing air guitar.
+
+Aww, man, I missed that!  I must have been watching Alex...  (And I *was* at
+the 17th, same show).  It was cool how he (Neil) turned around in the middle
+of his solo, good crowd pleaser.  I did notice him dropping his stick twice
+after twirling it, but that's bound to happen sometimes.
+
+They did look like they were having fun, but at the same time the music was
+flawless as far as I could tell.  (I didn't notice the glitch towards the end
+of Boats that someone else mentioned.) Bringing the rabbits back seemed like
+more of a touch of humor (if they weren't the first time!) than merely
+recycling props.  From where I was sitting (upper side), I could see the
+whole stage, including the guys standing behind the rabbits rocking them and
+wiggling their ears, which added to the humor.
+
+The long closing medley was great, including as it did so many great songs,
+and I personally actually found it a bit difficult to identify even songs I
+knew well until maybe 20 seconds in, since mostly they started in the middle
+rather than the beginning.  Strange.  But this made it fun, it was sort of a
+game.  And I've always loved "Closer to the Heart", and it was the logical
+emotional extension to hear its opening chords with hundreds of lighters
+going up all over the stadium.  Good show.
+
+- John Brooking
+
+--
+ap555@cleveland.freenet.edu  | "Wheels within wheels in a spiral array, a
+-----------------------------+ pattern so grand and complex.  Time after time
+we lose sight of the way, our causes can't see their effects."  - Rush
+
+----------------------------------------------------------
+
+Date:    Tue, 19 Nov 1991 22:21:37 -0500 (EST)
+From: RH2@JAGUAR.UCS.UOFS.EDU (Rebel, Runner, Restless Young Romantic)
+Subject: extra extra!
+
+	ticket ticket!
+
+	to see RUSH in montreal on the 28th
+
+	if you happen to be located in or near pa, you can even ride with me,
+
+	though that could be a scary proposition.
+
+						rose
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 381
+********************************************
+
+

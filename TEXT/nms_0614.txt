@@ -1,0 +1,667 @@
+From temples@syrinx.umd.edu Thu Feb  4 19:11:00 1993
+Return-Path: &lt;temples@syrinx.umd.edu&gt;
+Received: from syrinx.umd.edu by dsys.ncsl.nist.gov (4.1/NIST-dsys)
+	id AA11727; Thu, 4 Feb 93 19:10:58 EST
+Received: by syrinx.umd.edu (5.57/Ultrix2.4-C)
+        id AA22314; Thu, 4 Feb 93 18:30:08 -0500
+Date: Thu, 4 Feb 93 18:30:08 -0500
+Message-Id: &lt;9302042330.AA22314@syrinx.umd.edu&gt;
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list@syrinx.umd.edu
+Subject: 02/04/93 - The National Midnight Star #614
+Status: R
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+          The National Midnight Star, Number 614
+
+                Thursday, 4 February 1993
+Today's Topics:
+                       New Album ?
+                    Several things...
+                     Cygnus X-1 rythm
+                  Alex cutting loose ...
+                        Alan White
+             Spirit of Radio and other stuff
+              Yes and Yes and Rush and Rush
+               Re: Question for guitarists
+                       NMS Shirts!
+      Roll the Bones Poster and Scott (Yes Defense)
+      Re: 02/03/93 - The National Midnight Star #613
+                       Drum Charts
+             non-Rush fans and various stuff
+            lodging suggestion for convention
+                     Temples of Polka
+      PoW tour, p/g MTV concert, Alex letting loose
+                    Various Ramblings
+----------------------------------------------------------
+
+Date: Wed, 3 Feb 93 20:22 GMT
+From: Terence Moore-read &lt;se2tm@cix.compulink.co.uk&gt;
+Subject: New Album ?
+
+I haven't had time to read much on the NMS lately so if this has
+already been covered just humor me ok ?
+
+Is there any definate word on when the new album will appear ?
+
+	[ New Album slated for Sept. 93, New producer will be Peter
+	  Collins, and yes, they are in their writing stage.  :rush-mgr ]
+
+What happened to the video release ?
+
+	[ Exactly!  It didn't happen :(			:rush-mgr ]
+
+Thanks
+
+TJM
+
+P.S.
+
+I anybody has details of a decent source of laserdisks (preferably in
+the states to take advantage of better pricing) could they email me
+with their details ?
+
+se2tm@cix.compulink.co.uk
+
+----------------------------------------------------------
+
+Subject: Several things...
+Date: Thu, 04 Feb 93 08:27:00
+From: SMills@ncagccsu.telecom.com.au!
+
+Hey guys!
+
+    I was at the studio last night and I was wearing a 2112 T-shirt I got from
+the states. (Ishould say at this point that I live in Sydney, Oz). Anyway this
+guy from another band yells out "Cool T-shirt!". So we start talking and it
+turn out his band is full of Rush fans....In Australia finding ONE other fan
+is amazing but finding _5_ was great! THEN they tell me their band name is
+"Presto" !! Ripper! Unfortunately they're not a Rush cover band (though here
+is Oz you could be and people would think they were originals!!) but they play
+similar sort of stuff. Anyway, we exchanged numbers and agreed to call
+eachother for support.
+
+    Also, HERE HERE to the comment about the Hi-Hat work in The Weapon. _Very_
+unpredictable -  I wonder if Neil always plays it exactly the same.
+
+    Next, my comment on the latest project....I would _dearly_ love it to
+continue to supplement my fairly generic collection. We are talking
+non-profit, low circulation, _exclusive_ circulation and hard-core fan stuff
+only. Keep a low profile and just make the thing. I can't seriously see anyone
+taking the trouble to hassle us for the above 4 reasons. In Oz we _need_ thie
+sort of thing. We can't even get Over the Europe or ANY thing like that here!
+SUCKS! (Still, I have my mates in the States don't I guys! Eh!)
+
+    OK, enough from down under.
+
+    Later
+
+Stum
+
+----------------------------------------------------------
+
+From: Dan Dickerman &lt;dickermn@hpcugsya.cup.hp.com&gt;
+Subject: Cygnus X-1 rythm
+Date: Wed, 3 Feb 93 15:41:40 PST
+
+In an effort to help whomever it was who wanted to rhythm to the part
+of Cygnus X-1 where the Bass is joined by the Drums (about 2:12 on
+the CD track, where things have begun to seem countable), I made and
+effort to write down the patterns.
+
+If you count straight 8th notes, the time signatures alternate between
+3/4 4/4 and 7/8.  To make life easy, consider counting even 8ths, change
+3/4 to 6/8 and change 4/4 to 8/8.  The remainder are a couple of creative
+rests.  I'm sure there are other ways to get the same thing, but I like
+to think of patterns as repeating at the start of a measure.
+
+The patterns (rough ascii translation):
+
+                   x
+          x. x    |   |
+ 6    |  |  |   x |  /|
+---   |  | -|  |--|   |
+ 8   x   ----  ----
+     12  3 4   5      6
+                          /---\
+                   x     x    x
+          x. x    |  /| |    |
+ 7    |  |  |   x |  /| |/   |    (in some cases, the final note leaves
+---   |  | -|  |--|   | |/   |/    out the initial 16th note tie, leaving
+ 8   x   ----  ----                just the 8th note on the last beat)
+     12  3 4   5      6      7
+
+                                 /---\
+                   x     x      x    x
+          x. x    |  /| |   /| |    |
+ 8    |  |  |   x |  /| |/  /| |/   |
+---   |  | -|  |--|   | |/   | |/   |/
+ 8   x   ----  ----
+     12  3 4   5      6      7      8
+
+That in mind, the signatures starting where the drums enter can be written:
+
+ 6 4 7 4 7 4 8
+ - - - - - - -  (all three 4/8 measures are completely rests)
+ 8 8 8 8 8 8 8
+
+Add guitar, and things become more regular (without rests)
+
+ 6 7  6 8  6 7  6 8  6 7  6 8  6 7  6 8
+ - -  - -  - -  - -  - -  - -  - -  - -   *Chord* (in 4/4)
+ 8 8  8 8  8 8  8 8  8 8  8 8  8 8  8 8
+
+Once you get the rhythm, counting in 3/4 and 4/4 is a little smoother.
+
+Then after a bit of 4/4 and 3/4, there's another good section with the
+guitar going back and forth between pairs of:
+
+ 6 5     6 6
+ - - and - -
+ 8 8     8 8
+
+Happy motoring,
+
+-- Dan
+
+----------------------------------------------------------
+
+From: jtkung@netcom.com (Joseph T. Kung)
+Subject: Alex cutting loose ...
+Date: Wed, 3 Feb 93 16:05:54 PST
+
+The only times I have ever heard Alex really cut loose is the opening
+to "La Villa Strangiato" on ESL where he plays some really fast notes
+(tremolo picking) and is basically unsupported by the band. He also
+has cut loose on the end of "Witch Hunt" in concert and in "YYZ", but
+most of the time, he plays the solo note-for-note except for some
+minor embellishments. As for "Spirit of Radio," the lick in the
+beginning is all hammer-ons and pull-offs except for the initial pick
+of the open E (he states this in an issue of Guitar For The Practicing
+Musician many years ago), pulling off to the open high E while
+hammering onto notes on the E and B. It's played with almost no
+reverb, with a bit of hollow flange, my guess on a Gibson ES-335 with
+Sunn amplification. Alex was a Gibson man for a long time until
+_Signals_ I believe, where he switched to Strat-style guitars (Fenders
+for a lot of P/G, and then Signature guitars until _Presto_, where
+he's now using Paul Reed Smith guitars).
+
+- Joe
+
+----------------------------------------------------------
+
+Date: Wed, 3 Feb 93 19:19:42 EST
+From: Scott Kaplan &lt;sfkaplan@cs.amherst.edu&gt;
+Subject: Alan White
+
+In the NMS #613, Scott Clark wrote:
+&gt;Besides, Alan White's lack of ability to play syncopated rythms like Bill
+Bruford hurt the band more, in my opinion.  Have you ever heard him play Heart
+of the Sunrise or Roundabout?  CHEESE!
+
+I hate to burst your bubble about Bill Bruford's playing with Yes here, but the
+syncopated rhythms he played for Heart of The Sunrise and Roundabout just aren't
+that difficult.  I would stake my life on a bet that Alan White could play these
+rhythms, and could also create some interesting syncopated rhythms, to go along
+with Yes music.  He, like many professional musicians, only display a few of
+the different styles that they can play, while many others remain hidden.  Alan
+White was most certainly NOT a detriment to Yes after he joined, and I need only
+to point you to Going For The One for a demonstration of some very tasteful and
+effective contributions.  His preferred style is *different* than Bruford's.
+
+Moreover, Cheese?  Heh, I hope you had the fine opportunity to see the Union
+tour (and fantastic show if ever there was one).  Bill's playing lacked many of
+the delicate touches that you hear on the studio albums.  This is not his fault.
+This is very normal for live performances with drummers who normally add such
+subtle detail in the studio...simply because it can't be heard in a live arena.
+Carl Palmer does much of the same in the current ELP tour.  That's just the
+nature of this type of music.  Neil doesn't lose much live because he does less
+of the delicate improvisation.  His parts are more composed and his style has
+always been one of strong, convincing play.
+
+My apologies for taking up Rush bandwidth on this discussion.  But to add a
+bit here, Scott, don't talk too poorly of Alan White.  Many consider him a
+stylistic precursor to Neil.
+
+    [ If you wish to discuss this thread further, perhaps you might consider
+      taking it to e-mail?  Also watch the 80 line limit    : rush-mgr ]
+
+Scott Kaplan
+sfkaplan@cs.amherst.edu
+
+----------------------------------------------------------
+
+Date: Wed, 3 Feb 93 18:52:43 -0600
+From: irsman@iastate.edu
+Subject: Spirit of Radio and other stuff
+
+For Scott McCaskill: I can tell you that the opening riff for Spirit of Radio
+is hammerons and pulloffs all the way...my brother actually can play it
+completely accurately, and I hate him for it :)  If anyone would be interested,
+I can make up some TAB for TSoR and post it on the usual groups and ftp sites.
+
+About the top songs by instrument:
+Geddy: Freewill, RTB, Turn the Page (bass), Subdivisions (bass and kbds), and
+       Dreamline (bass and kbds).
+Alex:  Freewill (amazing amazing solo!), all of 2112, The Spirit of Radio,
+       Presto, Analog Kid, Kid Gloves (had to make this a top 6 :)
+Neil:  Tom Sawyer, all of 2112, Mystic Rhythms, Bravado, Subdivisions.
+
+Why people don't like Rush: I'd go for lack of danceability more than anything.
+There are bands out there with vocalists I think are a lot nastier than Ged,
+and it doesn't stop them from being popular if they have the right beats.
+
+---
+        Ian Schmidt: irsman@iastate.edu or aol.com, BITNET: twbv4@isuvax
+ "I will choose a path that's clear: I will choose free will." - Neil Peart
+
+----------------------------------------------------------
+
+Date: Wed, 3 Feb 1993 19:55:35 -0500
+From: mcmahan@cs.unca.edu
+Subject: Yes and Yes and Rush and Rush
+
+|Trevor Rabin ... is an excellent guitarist, and a decent songwriter.
+
+That's true. He shares a lot of stuff with Alex, the sort of guitar
+approach is the same. Harder edge than Howe, but with less sheer
+technical overkill.
+
+|Besides, Alan White's lack
+|of ability to play syncopated rythms like Bill Bruford hurt the band more, in
+|my opinion.  Have you ever heard him play Heart of the Sunrise or
+|Roundabout?
+
+Alan's pounding back beat gives Yes some PUNCH! Bill was very much
+another instrumentalist, who played as complex as everyone else. Alan
+gives a good framework in which to take in all the other stuff.
+Alan is no slouch -- he's played some very bizarre rhythms with ease.
+One thing the Rabin oriented Yes does is play weird times.
+
+|How can anyone say that
+|Yes's music of the 80's compared to their earlier material changed from good
+|to bad, when I can't think of a better example of anyone doing this more than
+|Rush themselves?
+
+I think you ought to say that it's *CHANGED* and leave the value
+judgements to the listener. :)
+
+So far, the post 80 Rush has impressed me more than the old stuff.
+That can change as I get more into the old stuff. I love all the Yes
+stuff, old and new. (I have a tape with Rhythm of Love followed by
+Ritual! :))
+
+Scott
+--
+The more we live, the more we learn, the more we know. (Yes, 1990)
+
+----------------------------------------------------------
+
+From: Blake Butterworth &lt;butterwo@rex.cs.tulane.edu&gt;
+Date: Wed, 3 Feb 93 19:04:58 CST
+Subject: Re: Question for guitarists
+
+That opening riff is:
+
+                           p p         p = pull-off
+e-2-0---0-5-0---0-2-0---0-4-2-0---0-
+B-----3-------3-------3---------3---
+
+Its all fast picking except for the triplet.
+
+----------------------------------------------------------
+
+Date: Wed, 3 Feb 93 20:42:40 -0500
+From: meg (******* Meg *******)
+Subject: NMS Shirts!
+
+I am *very* grateful for all those patient people (doug, puanani & paul!)
+who have been waiting for the other sizes of shirts. I just ordered the
+shirts today (Feb. 3rd), sizes medium, large & xtra large. The shirts
+should be in by Friday or Monday of next week, so all you who've been
+waiting for other sizes now's the time to order some!
+
+Also, I still have the Rush CD Boot list, if you'd like a copy or have
+updates for me please don't hesitate to send me e-mail! (I might eventually
+put out a nicely-formatted list with pix of the covers of boots if there's
+enough interest -- hard copies of course!)
+
+-Meg
+meg@syrinx.umd.edu
+
+----------------------------------------------------------
+
+Date: Wed, 3 Feb 1993 20:58:33 -0500 (EST)
+From: Chad H Hutchinson &lt;06819@brahms.udel.edu&gt;
+Subject: Roll the Bones Poster and Scott (Yes Defense)
+
+Hi kids,
+
+   I don't have that much to say today.  First of all, I'm glad to see
+things are going well for the convention.  I'm looking forward to meeting
+all you other freaks!!  Second is this.  I was at a local record store
+today in DE and found a full size poster of the Roll the Bones cover.  The
+one twist to it is that in the bottom left hand corner, a couple of dice
+are knocked out and the two "leg" bones are coming through from the blue
+sky.  It's pretty cool lookin'.  I think it's the same size as the
+Hemispheres poster that's been mentioned lately, the p/g cover poster, and
+the '83 European Tour poster with the  _A Farewell to Kings_ and _Moving
+Pictures_ covers on it.
+
+   One last thing, hey Scott, I know you took offense to my Yes related
+post the other day and I want to explain myself.  What is your exact
+address?  I have a letter ready to send to you but something ain't working!
+
+______________________________________________________________________________
+  \  _____  \     \    \  _____   \                 The Ghost
+   \         \     \    \          \                06819@brahms.udel.edu
+    \         \     \    \_____     \  ____         University of Delaware
+     \         \     \         \     \     \        Chemical Engineering
+      \__       \_______  \_______    \__   \__
+
+ * * * * * * * * Better people, better food and better beer * * * * * * * *
+______________________________________________________________________________
+
+----------------------------------------------------------
+
+Date: 03 Feb 1993 20:39:41 -0600 (CST)
+From: BRUHNJB@CAB.MRS.UMN.EDU
+Subject: Re: 02/03/93 - The National Midnight Star #613
+
+Well, I'm glad that Peter Collins is with them. My favorite Rush album to
+date has got to be Hold Your Fire. It came out right after I started liking
+them. Great Album, and the insert design is cool in trying to pick out all
+the neat things around the juggling fire guy. Does anybody out there have
+a clue if Hugh Syme is going to design the new(well, in the making) album.
+I really hope so. Wouldn't want to break a string of excellent album
+covers as Iron Maiden did on their latest. It's still good but I liked
+Derek Riggs. Anyway, I believe for those who asked before, Hugh Syme has
+done plenty of covers. Like: The Storm, Kiss:Revenge, Styx:Edge of the Century
+and
+plenty others.
+
+And one other thing..... Does Hugh Syme play synthesizers on any other
+album or song other than Witch Hunt? Just Curious.....
+
+Not my usual short and to the point message but......who cares!
+
+-Bassman J (bruhnjb@cab.mrs.umn.edu)
+
+----------------------------------------------------------
+
+Date: Thu, 4 Feb 93 00:18:52 EST
+From: Greg.Andrade@um.cc.umich.edu
+Subject: Drum Charts
+
+Hopefully, this will be the last time I have to post information on Rush
+drum transcriptions.  Both Drum Techniques of Rush and More Rush are
+available from Steve Weiss Music in Philadelphia, PA.  They are both priced
+at $12.95, and may be purchased for delivery with a credit card.  Any order
+will be shipped via UPS within three working days.  The number for Steve
+Weiss Music is (215) 324-3999.  I am almost certain this is the correct
+number.  If it is not, just call information.
+
+----------------------------------------------------------
+
+Date: Thu, 04 Feb 1993 01:05:27 EST
+From: The Longshot &lt;c2mxbir@fre.fsu.umd.edu&gt;
+Subject: non-Rush fans and various stuff
+
+	About Non-Rush fans, my current girlfriend was a rather strict devotee
+to dance music.  I introduced her to Rush and she likes it very much, which
+suprised me.  The first song lyrics that I quoted were from "Ghost of a Chance"
+She liked it so much, she framed it and had it hanging on the wall.  I guess 
+it helps that she is a poet!
+	I find it interesting that popular isn't popular anymore.  (As far as
+I know, there are no top 40 stations in DC anymore.  They are all Rap and
+Oldies stations now.)
+	Has anyone noticed that Dream Theater has been pluged a lot lately on
+MTV?  I've seen their video for "Pull Me Under" (which is OK for a first
+video) on about 3-4 times in the past couple of weeks.  Sounds good to me!
+
+Jason Birzer
+Frostburg State University
+anonymous
+c2mxbir@fre.fsu.umd.edu
+
+----------------------------------------------------------
+
+Date: Thu, 4 Feb 93 01:50:33 EST
+From: "Jason McNamara, UCS PCF Consultant" &lt;JMCNAMAR@ucs.indiana.edu&gt;
+Subject: lodging suggestion for convention
+
+For (perhaps) cheaper housing for the convention, you might want to check out
+the U of Toronto (specifically Victoria College).  They rent out dorm rooms at
+what I remember to be reasonable prices (maybe Can$35/night/person).  Anyway,
+breakfast was included, and the college is right by the U of T art museum, a
+metro stop (also Museum as I recall) and the Yorketown district - neat shops
+etc - kinda like Georgetown (don't hold me to that).  Any Toronto folks out
+there to clarify / correct this info?
+
+And I'll try this again, in case you missed it:
+PLEASE DON'T USE THE TERM 'BOYZ' IN A NMS MAILING!
+
+Les Canadiens crush the Kings 7-2; sun comes up in the morning; life goes on.
+(no 25-line Habs logo here, even though they now lead the Adams by 5 pts.)
+Jason McNamara, token conservative, Russian and East European Inst., Indiana U.
+Hoosiers #1 in the country, to sign Ivan Renko soon.  Just ask Bob Knight.  ;-&gt;
+
+PS&gt;  If anyone wants, I can try to dig up more lodging info @ U of T.  I was
+in Toronto last summer.  Great city & rooms were nothing special but good value
+
+----------------------------------------------------------
+
+Date: 04 Feb 1993 10:29:35 -0500 (EST)
+From: FISHBOY &lt;AACUNZO@ccmail.sunysb.edu&gt;
+Subject: Temples of Polka
+
+     I don't know why it's taken so long for me to post this, but here goes.
+I'm in a band called Canned Jams.  Last year we made a tape of strange songs
+on my 4-track.  Most are originals, a few are covers/parodies.  One is called
+"Temples of Polka," which is a parody of "Temples of Syrinx."  Lyrically, the
+song is a celebration of beer drinking.  Musically, it's like the original, but
+it's a polka.  Also, I arranged the bass part in an oom-pah style for tuba.
+Unfortunately, the tuba player was never able to record with us so we used bari
+sax instead.  Anyway, here's the lyrics, I thought someone might get a laugh
+out of them.  Most Rush fans I've played it for think it's hilarious.  Here
+goes, but you really have to hear it to get the full effect:
+
+            "Temples of Polka"
+
+And the meek shall inherit a stein...
+
+We've taken care of everything
+The beer you drink and the songs you sing
+The steins are brought out right before your eyes
+
+It's ale for all and ale for one
+We like to drink out in the summer sun
+Never need to wonder how or why
+
+  We are the priests of the Temples of Polka
+  Operate the polka machine in our hallowed halls
+  We are the priests of the Temples of Polka
+  All the gifts of Germany are held within these walls
+
+    Hey!  Hey!  Hey!  Hey!
+
+Look around at this world we've made
+Come and see how German beer is made
+Come and join the Oktoberfest of man
+
+Every night we come and whirl
+This quality beer as it unfurls
+Hold your steins up proudly hand in hand
+
+  We are the priests of the Temples of Polka
+  Operate the polka machine in our hallowed halls
+  We are the priests of the Temples of Polka
+  All the gifts of Germany are held within these walls!
+
+    Hey!  Hey!  Hey!  Hey!
+
+Polka!
+                                          - lyrics by Chris Buckley, 1992
+                                            (parody of Rush, 1976)
+
+One note: the polka machine referred to is my friend's cheezy red casio
+keyboard in the "demo" mode.
+
+Andy Acunzo
+aacunzo@ccmail.sunysb.edu
+
+----------------------------------------------------------
+
+Date: 04 Feb 1993 08:56:53 -0600 (MDT)
+From: BROWNEA@CC.UVCC.EDU
+Subject: PoW tour, p/g MTV concert, Alex letting loose
+
+Hello, again!
+	I saw the Power Windows concert in Salt Lake City, UT.  They did play
+Closer to the Heart (I remember being pissed because my throat was already sore
+from yelling, and I couldn't sing along as well).  Was a good tour - brighter
+and more up-beat than p/g (King Dome - Seattle, WA)(the only 2 shows I've been
+able to afford).  I first heard Rush in high school.  CttH was the theme for my
+freshman year homecoming.
+
+	As for the MTV power windows concert - I've got it on video tape.  Only
+the one I recorded was played at 8:30 (Utah time) pm.  I think it was a re-run
+of the 11:30 show becaus it was around 85 when I saw it.
+
+	And Alex quoted in an early 80's (I think it was King Biscuit)
+interview that he 'let loose' on the solo for 'Kid Gloves'.  That he didn't
+follow any format like he usually does; instead just 'winging it'.  He said he
+was pleased with the result (and I got the impression he was surprised at how
+well he did).
+	Bye...
+	Earl
+	brownea@cc.uvcc.edu
+
+----------------------------------------------------------
+
+Date: 	Thu, 4 Feb 1993 07:58:55 PST
+From: JJones.wbst129@xerox.com
+Subject: Various Ramblings
+
+Hi again fellow Rushians,
+	I have been getting caught up on the various topics that are being
+discussed in the NMS. I have a few comments and maybe a story.
+
+	First off, "Hi Scott", a fellow new guy, great! OK Definately a story.
+As I said before in my first mail note that I have been a fan since '78 but
+that was actually the first time that I had ever heard them. A friend and I
+were in his basement doing what 13 year olds will do, and he said, "Do you want
+to listen to Rush?"  I said,"Who?" ( Do you believe that?)  He couldn't either,
+so he proceeded to play ATWAS for me, specifically Working Man.  Needless to
+say I have been hooked ever since.  However, the first album that I bought was
+2112, unfortunately I was in California at the time on vacation with my family
+(I live in Roch, NY) soooo I couldn't listen to it.  I could only read the
+lyrics.  That is what REALLY got me started on the long road I've traveled to
+Rush Nirvana. :-)  From that point I have made it my life's work to collect all
+the albums that they have ever produced on the best possible media (EXCEPT
+8track!!!!)
+
+	I would tend to agree with Scott on the mythical Bootleg.  I don't like
+the idea only because I have become used to the rigid standards that our favs
+have put upon themselves.  Their music excels because of it. 'Nuff said.
+
+	There has been alot of talk about Rush normalizing their music over the
+years.  This is an old and tired subject.  My argument for those that think
+Rush has gone pop is this: They are a band with strict principles and musical
+talent to back it up.  They make music (IMHO) the way that THEY want to make
+music.   When MP came out, I started to see a trend developing for the band,
+they were making shorter and shorter songs, with the exception of Camera's Eye.
+All the Rockline interviews had questions like, "When are you going to make
+another concept album?"  To which they replied (as I recall) that they were
+tired of making those types songs, that they were too easy for them to do
+anymore.  The real challenge to them these days is to produce a potent song in
+a limited time frame, such as they have been doing for the past 10 years.  This
+bummed me right out, because that was why I listened in the first place, long
+songs.  They have proven my wrong time and time again on each new album.  Their
+new stuff is different from their older classic material, but then again Time
+Does Not Stand Still.  They move on to greater and greater challenges.  I used
+to like the characters that they used to embelish their songs, but now I like
+the social consciousness that has taken over the songs.
+
+	One final note, on the reasons other people don't like their music.  I
+agree with all the previous reasons, but no one has mentioned the similar
+structure of Rush songs and jazz fusion.  Both need a specific type of ear to
+hear the intricasies of the songs.  To hear what is actually being done in a
+song you have to listen intently and alot of people, as has been mentioned,
+don't want to spend the time to really understand the song, like we do.  Pop
+songs kind of wash over you and are background, while to really apreciate Rush
+you have to listen to the words and relationships to the music.
+
+	Just my thoughts on the subjects.  Sorry to be long-winded.
+
+"I see Red..."
+Jeff
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1993.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+********************************************
+End of The National Midnight Star Number 614
+********************************************
+
+
+

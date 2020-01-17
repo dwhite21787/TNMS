@@ -1,0 +1,465 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 12/07/90 - The National Midnight Star #122
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 122
+
+                 Friday, 7 December 1990
+Today's Topics:
+                  General Administrivia
+                  We're getting famous!
+                     Odds and Ends...
+               Toronto Music Awards- REVIEW
+                     New compilation?
+                       Rush at PSU?
+                Album tales and Censorship
+              Expect more from a Rush fan...
+                       Presto tour
+----------------------------------------------------------
+
+Subject: General Administrivia
+Date: Thu, 06 Dec 90 14:15:41 EST
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+[ Sorry this turned out to be much longer than I anticipated.  Please read
+  it tho, there are a lot of important messages within.                    ]
+
+Hello there all,
+
+    Well, it's getting to the end of another semester (for those of you
+who still hearken to such trends), and I figured now was as good a time
+as any to post some general guidelines.
+
+    My first request (getting tired of it yet?) is that if you are losing
+your computer access for more than a couple of days over the break, I'd
+appreciate a note letting me know so, and I'll remove you from the list
+while you're gone.  You'll have to send mail again later to be re-added;
+my memory isn't good enough to remember who to re-add and when.
+
+    Secondly, I thought I'd post my 'general removal policy':
+
+                         --------------------
+
+If I get bounces of 'unknown user' you will be removed in a matter of days,
+if not hours (this depends upon how bitchy I feel on any given day :-) ).
+In this case I have to assume the person  lost their account, and either
+didn't or couldn't let me know ahead of time.
+
+If I get bounces with 'unknown host', you will be left on the list until
+I see several bounces in a row due to this.  Hosts have a way of magically
+disappearing and reappearing, sometimes through problems there, sometimes
+through no fault of their own.
+
+If I get bounces of 'unable to deliver mail', I don't know why it's
+happening.  I tend to let those addresses stay on for a few days to let
+things straighten themselves out.  In a similar case (I suspect), if I
+get the message 'unable to deliver mail; mailbox is full', I'll leave
+you on the list.  However, if it keeps up for several days in a row, I'll
+probably end up removing you from the list.
+
+If I get bounces with 'timed out with host &lt;xxxx&gt;' I'll keep those people
+on - it's not your fault, and mail tends to keep re-trying.
+
+                         --------------------
+
+As for the mailing schedule of the National Midnight Star over the
+upcoming holidays, it will be pretty much be business as usual until
+Thursday, 12/20.  There may or may not be a mailing on Friday, 12/22.
+(Depends upon if I have time before my department's Holiday Party.)
+I will not be at work the week(+) of 12/24-1/1, but may log on from home.
+Whether there will be a mailing that week will depend upon me logging
+on, and number of submissions.
+
+    Thirdly, I'd like to remind you all to keep your posts civil - this
+is a discussion group, not alt.flame (or even rec.music.misc).  We're all
+supposed to be on the same side here.  I don't want discussions to devolve
+into bashing, please!  I know it hasn't happened yet, but it came close
+during the religion discussions.  I see the seeds of it in the 'content'
+comments.  Both sides have a point - I'd like to see a middle ground where
+people post whatever they want, but we don't degenerate into a blind mass
+following 'our gods' totally.  We know Neil despises this, anyway.  Let's
+try to see both sides; post whatever you want, but think first if your post
+will contribute more to the signal or the noise.
+
+**********
+
+There's one last important issue I'd like to address here:  the nature of
+material posted here.  Before posting, please think "is it apropriate for
+this forum?"  What I'm referring to in particular is the list of bootlegs
+posted here yesterday.  I wasn't thinking much and let it go through.  It's
+occured to me (with some help from mail from readers) that bootlegs are 
+illegal technically, and Rush can be pretty uptight about the subject.  I 
+realize there are quasi-legit people out there who sell/trade bootlegs, but
+this list is not the correct forum for that.  In the future, please do NOT 
+post lists of bootlegs here; we don't want to turn this into a bootleg forum,
+and cause the end of the list.  I don't want to sound like a heavy, but I've
+gotta cover my arse also.    {  1/2 :-)  }
+
+I see no problem with *discussing* live recorded material; please feel free
+to disseminate information at will!  I just don't want to contribute directly
+with an illegal activity with this list.  What you do in e-mail is your own
+affair...
+
+This is even more important in light of the following post!
+
+*******
+
+That's all for now!
+
+Editor,
+The National Midnight Star
+(RUSH fans mailing list)
+
+----------------------------------------------------------
+
+Subject: We're getting famous!
+Date: Thu, 06 Dec 90 14:25:59 EST
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+Well, after a year of operation, the NMS is getting some wider-spread
+notoriety.  I've been contacted by Andy Currid, who along with his brother
+does much of the cover artwork for "The Spirit of Rush", a fanzine which
+originats in the UK.  He is going to do an article on our mailing list, and
+asked me for some background information on the list and some explanation
+of the management and scope of the list.
+
+I sent him the first part of the anniversary issue (with Jimmy's and my
+comments, comments from 'old timers', etc.), and also a short explanation
+of what I do to keep this list going, along with a brief summary of where
+the mail gets to (world wide).
+
+I just got mail today thanking me for my input, and that his article should
+be in the January issue of "The Spirit of Rush".  I figured it would be 
+interesting to see what he'd written, so I'm going to contact the US 
+connection for the magazine.  To quote Andy:
+
+" ...  Seemingly the Spirit Of Rush is available in the States and costs
+$4.00 per issue.  The US contact is:
+
+                        Ray Wawrynziak
+                        110, Red Oak Drive
+                        Williamsville
+                        New York. 14221
+                        U.S.A"
+
+I figured I'd pass this along to the list in general.  I'm not sure about
+a mailing address for those not in the US, but I'll check into it.
+
+Editor,
+The National Midnight Star
+(RUSH fans mailing list)
+
+----------------------------------------------------------
+
+Date: Wed, 5 Dec 90 13:22 EDT
+From: "This is the Spirit of Radio." &lt;OLIVER_T@jhuvms.hcf.jhu.edu&gt;
+Subject: Odds and Ends...
+
+First post in a while...  Been catching up on back-issues of TNMS...
+
+Odd: I agree with most that we should stop these discussions of rap, bunnies,
+and other non-essential things.  I joined this digest to be a member of a
+RUSH discussion group, to learn information, get insight, have fun, etcetera,
+*not* to flame each other on these issues which I find uninteresting.  Sorry
+if I flamed some of you folks out.
+
+End: Michael S Savett writes:
+&gt;it mentioned that he was born 'Gary Leibovitz.'
+
+This, I believe is true.  I have never heard anyting about 'Weinrib,' either.
+
+[ Ok, people, hit the resources!  Check your articles, reviews, stories,
+  etc.  We should be able to figure this out...                 :rush-mgr ]
+
+On the same note, Broonsey writes:
+&gt;could let me know where Leibovitz comes from (if someone says Poland, I'll
+&gt;KILL)
+
+Don't hurt me, man, but I believe that Leibovitz *is* Polish.  Sorry, dude.
+
+Another Odd: Ken Renard writes:
+&gt;electronics.  Imagine the studio during the recording of YYZ on
+Moving Pictures after the 6th take.  There would be broken glass
+&gt;Moving Pictures after the 6th take.  There would be broken glass
+&gt;all over the place without sampling.
+
+[Flamethrower out:]
+Sorry, Ken.  No glass breaking in YYZ.  The funky sound that Peart uses (and
+now just bangs on his cymbals to symbolize :-) is a two-by-four, or various
+block of wood, broken across a chair, and I don't think that this was sampled.
+[Flamethrower out of fuel:]
+However, you do make a good point that sampling can be necessary when making
+the tracks for a song.  I agree with Neil that sampling can improve the
+performance of his *god-like* drumming skills (if only just a little bit).
+
+Final End: Hey, folks!  Can we *not* include two hundred lines or so of
+another person's mailing to TNMS in our replies?  It makes for tedious reading
+when you have already read it before and must read it again.  Thanks, kids!
+
+Have a good X-Mas, and a damn fine New Year!  Not to mention a fantastic
+New Year's Eve! :=)
+
+-Todd Oliver, Johns Hopkins University
+"Let the fray begin!"
+
+----------------------------------------------------------
+
+Date: Thu, 6 Dec 90 12:35 EST
+From: Shane Faulkner &lt;V127L2QZ@ubvmsc.cc.buffalo.edu&gt;
+Subject: Toronto Music Awards- REVIEW
+
+Well, they went down last night,  a very slick production, with only one
+major flaw which I'll get to shortly.
+
+Geddy  won Best Toronto Bassist award, and was on hand to accept it.  He looks
+exactly like his 'Presto' days.
+
+Next came the Drummer award.  I thought to myself, sure, Neil will win... he
+won't be here though, Ged'll probably accept it for him.  When they called
+Neil as the winner, I (and everyone else I'm sure) were stunned to see him
+walk up and accept.  Very un-Neil-like!!!  He got a lengthy standing ovation
+...... he just stood there looking embarrased and smiling. Then he jokingly
+"withered" to the floor from the applause.  He didn't say much, just Thanks to
+the fans, and the other Drummers who were nominated.
+
+Alex didn't win Best guitar.. that went to Jeff Healy.  Rush didn't win Best
+Toronto band/international success... that went to Alannah Myles. (what a
+farce!)
+
+Later in the show, a 5 minute video retrospective was shown on the video screen
+of the boys.  It contained a lot of semi-rare footage including AFTK video,
+Tom Sawyer studio video, interview from Perm Waves days, Superconductor video
+(which I STILL haven't seen in it;s entirety!!)  It also showed the Boyz
+receiving the Mayor's Award from Toronto mayor (Art Egelton????), which
+occured last week I guess.
+
+Anyway, that's the Rush news... the main reason most people were on hand was
+to see the reunion of Max Webster, who haven't played in 10 years.  They
+played 4 songs, and really sounded good.. extremely tight!! They played
+'High Class in Borrowed Shoes','Toronto Tontos','Context of the Moon', and
+encored with 'The Party' which the crowd sang along perfectly with.  After
+they left, the crowd went absolutely bananas, and since they didn't put the
+Websters on at the very END of the show, the rest of the evening was plagued
+by constant shouts of 'WE WANT MAX...WE WANT MAX'....
+
+That's all...
+-Shane
+
+----------------------------------------------------------
+
+Date: Thu, 6 Dec 90 13:28:29 -0500
+From: Michael S Savett &lt;savvy@chopin.udel.edu&gt;
+Subject: New compilation?
+
+  In case some of you do not read rec.music.cd, there was a post today
+by someone who heard that since the boyz were not happy with 'Chronicles'
+they would be releasing their own compilation, with 'Take Off' and
+the unreleased 'Signals' song (Huh?), along with some other goodies.
+  Does anyone know about this?
+
+_______________________________________________________________________
+
+Michael Savett a.k.a. 'Savvy'           Addresses:savvy@brahms.udel.edu
+                                                  savvy@chopin.udel.edu
+
+Obligatory Rush Quote:
+  "So many things I think about when I look far away; things I know,
+    things I wonder, things I'd like to say." - Neil Peart
+                          - from 'Mystic Rhythms' : POWER WINDOWS
+
+----------------------------------------------------------
+
+Date:    Thu, 6 Dec 90 15:14 EST
+From: "Michael Leonard Sensor" &lt;MLS129@PSUVM.PSU.EDU&gt;
+Subject: Rush at PSU?
+
+Good day, folks...
+
+Seeing the recent posting to the NMS regarding a user's wish that Rush play at
+UMD, I remembered a posting I was going to put on the NMS which was in a
+similar vein.
+
+Ok, call me dumb, or whatever, but I think it would be *great* if somehow
+Rush could be persuaded to play Rec Hall at PSU next tour.  I can already hear
+the peals of laughter from the PSUVM subscribers, but, hey, it's worth a try!
+Hell, if R.E.M. and Love & Rockets (not to mention Bob Dylan) can play Rec Hall
+so can Rush. (Granted, Rush is a bigger draw, but...)
+
+If not, well, I guess we'll have to wait for the Joseph V. Paterno Convocation
+Center and Personal Shrine to be built whenever the god Joepa retires/dies.
+I wouldn't balme Rush for not wanting to play Rec Hall... it might collapse
+on them.
+
+Any thoughts from the PSUVMers out there?
+
+-Mike
+-------------------------------------------------------------------------------
+Michael L. Sensor               |   "He's being kept dead for a year for
+&lt;MLS129@psuvm.psu.edu&gt;          |    tax purposes."
+249 Maple Hall                  |          --_The Restaurant at the End
+PSU Altoona                     |             of the Universe_
+Altoona PA 16601-3760           |
+-------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+From: Chris Schiller &lt;chris@cdc.hp.com&gt;
+Subject: Album tales and Censorship
+Date: Thu, 6 Dec 90 13:09:14 PST
+
+How about some stories of unusual ways of getting albums?  I'll
+start with my own (semi-lame) story.
+
+My first Rush album was All The World's a Stage which as you all know has
+most of 2112 on it somewhere.  I played this album to death for a year or
+two, but I didn't get the 2112 album during that time.  Near the end of my
+freshman year in High School (1979) I made a $20 bet with another guy on
+a final exam (talk about geeky things to do!).  I won the bet, but he
+didn't pay for a few months, and I was going to move to the west coast
+that summer.  Somehow I needed the money for one of those rare dates and
+I called him and asked him for the money.  He said he didn't have it
+but would give my 2112 instead.  I thought I might as well get something
+out of it.  I rode my bike (geeky, geeky) to get it, and put it with
+my other albums and didn't play it until I got to the west coast.
+When I finally played it, I found that he had sabotaged "A Passage to
+Bankok" with a sharp object so that about every 5th groove it would
+skip.  He also drew moustaches on Geddy and Alex on the sleeve.
+Ah well.  I didn't replace 2112 until I got the CD, but at least I
+have the large version of the cover.  I told you it would be lame...
+
+Censorship:  I agree with Bob Friedman-Why can't people talk about
+whatever Rush related thing they want to talk about?  I thought
+the Rush list would be immune from what I see as peer censorship.
+Everyone is different, everyone has something to add.  If you don't
+like to read about something, then skip it.
+
+Yes, this is a flame.
+
+It's just like TV, noone is forcing you to read every last post.  Let
+people talk about sampling for a while if they want to, or bunnies
+or how often Geddy cleans his toenails.  Just because you don't find it
+interesting doesn't mean others will not.  By saying "Please stop talking
+about this subject" you are discouraging prospective posters.  You are
+through peer pressure restricting the free expression of others.  You
+are as bad as the preechers who through pressure and guilt try to control
+the lives of others.
+
+Who appointed you the Priests of the Temples of Syrinx?
+
+Don't any of you listen to the words in the music?
+
+Don't you want to hear what the 400+ members of the list have to say?
+Maybe the List Manager should post a list of acceptable topics and
+the permissable length of time each can be discussed.
+
+There are a lot of interesting people out there, I for one would like to
+listen to them.
+
+I'm both disappointed and disturbed.
+
+  "I'm not giving in to security under pressure"
+     -Another extremely relevant Rush Quote
+
+  Chris Schiller
+  chris@cdc.hp.com
+
+----------------------------------------------------------
+
+Date: Thu, 6 Dec 90 15:39 CDT
+From: MICHAELS@nuacc.acns.nwu.edu
+Subject: Expect more from a Rush fan...
+
+Howdy Rush fans!  I've just been glossing over the Midnight Star during a lull
+in finals week here at Northwestern and had to give a Big High-Five to Ron Raderfor pointing out the need to stick to non-trivial topics like the listing of
+equipment presently being used by the Canadian Trio.  Being a musician and
+electrical engineer myself (as well as true Rush fan) I have a tremendous
+interest in matters both acoustical and electrical.  Yeah, it's o.k. to hear
+once in a while about Neil's haircut or some fans throwing beer bottles at
+Geddy's head (anyone remember that one?) but let's try and stick to the inter
+views and concert dates and album releases and equipment updates.
+
+By the way, I know of no such guitar transcription books which show EXACTLY
+what the guys are playing.  I'm pretty successful at figuring chords out myself
+a note at a time in the case of particularly difficult passages (Broon's Bane).
+Anyway, thanks to Dan "Neil Peart" McDonald for introducing me to the list.
+
+Steve "Changes aren't permanent, but change is" Michaels      E.E. 91
+
+----------------------------------------------------------
+
+Date: Fri, 7 Dec 90 08:24 CST
+From: 2HMAMIMIC@kuhub.cc.ukans.edu
+Subject: Presto tour
+
+  I have a question.  I have heard mentioned that Rush played "Presto" on their
+tour of the same name.  How did they accomplish this?  Did Alex switch guitars
+quickly, or did he just brute-force it right through with an electric rather
+than switch to acoustics in the proper intervals?
+
+Comment---I saw them in KC this year, and I really enjoyed.  There was just one
+thing, however---when they played "Scars" and lowered the net in front of them
+to reflect the "light shapes" (for lack of a better word), I became frustrated
+because I couldn't easily watch Neil play his fabulous stuff.  I hope all of youknow that he did that song in the studio without any overdubs, and played all
+(or at least most) of the snare parts with his left foot.  I guess Rupert was
+quite amazed.
+
+						---Mark Pickerel
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions & changes), send
+mail to:
+
+    rush-request@syrinx.umd.edu
+
+To obtain previous issues of The National Midnight Star (in it's current
+incarnation), send a request containing your name, e-mail address, and
+the digest number(s) to:
+
+    htodd@gmuvax2.gmu.edu
+
+Please specify The National Midnight Star (the RUSH Digest), as she handles 
+archiving for other lists also.  These requests are processed in a batch
+fashion once a week.
+
+In addition, lyrics, individual articles, and more are now available at an
+archive file server accessible via email.  For more info, send email with
+the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the management.
+
+List Management
+
+*********************************
+End of The National Midnight Star
+*********************************
+
+

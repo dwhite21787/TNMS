@@ -1,0 +1,288 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 12/21/90 - The National Midnight Star #139
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 139
+
+                 Friday, 21 December 1990
+Today's Topics:
+                     Christmas break
+                      Missing mail?
+                   xloadimage available
+  Playing Favorites, Random Samplings, Mumblings, Water
+                   Rush on the Biscuit
+            FAQL/Mail didn't like each other!
+----------------------------------------------------------
+
+Subject: Christmas break
+Date: Thu, 20 Dec 90 14:38:22 EST
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+This will probably be the last NMS until at least Wednesday, 12/26, if
+not later in the week.  I'll try to get a couple issues out next week
+sometime, though. 
+
+Happy Holidays everyone!
+
+rush-mgr
+
+----------------------------------------------------------
+
+Subject: Missing mail?
+Date: Thu, 20 Dec 90 14:38:22 EST
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+Have there been any occurances of members sending mail to the "rush@syrinx"
+address, and not having it show up in an issue within a day or so?  This
+doesn't count long articles, etc. sent to the rush-request address, or
+things that I removed & sent you mail about (there's about two of these
+in the last year).  I'm referring to general posts to the list.
+
+If this has happened, please send me mail letting me know when you sent
+it (to the day), and if you received any strange mail messages in relation
+to it (bounce mail, or similar things).  Send any mail of this sort to me
+here (rush-request@syrinx.umd.edu), not to the list alias, please.
+
+Thanks,
+Editor,
+The National Midnight Star
+(RUSH fans mailing list)
+
+----------------------------------------------------------
+
+Subject: xloadimage available
+Date: Thu, 20 Dec 90 15:08:33 EST
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+The source for 'xloadimage' is now available from Syrinx.  This is the
+full tar file of version 2.02, "Copyright 1989 Massachusetts Institute
+of Technology".
+
+It is a compressed tar file, and requires a binary ftp transfer (unlike
+the raster images themselves).  Once it's transferred, just do the
+following:
+
+    % uncompress xloadimage.2.02.tar
+    % tar xvf xloadimage.2.02.tar
+    % make
+
+Once it's done, you can toss all the .c, .h, and .o files - this will
+leve you with just the executable, the makefiles, and a couple other
+informational files.
+
+Thanks to Chris Craig and Dave "Louie" LaPlant for their help.
+
+Enjoy!
+
+Editor,
+The National Midnight Star
+(RUSH fans mailing list)
+
+----------------------------------------------------------
+
+Date: Thu, 20 Dec 90 16:12:03 EST
+From: gordon@Stars.Reston.Unisys.COM
+Subject: Playing Favorites, Random Samplings, Mumblings, Water
+
+FAVORITE ALBUMS:
+        My favorite Rush album is the one that's playing.
+
+RANDOM RUSH GENERATORS:
+	Last summer, I wrote about a Random Rush Generator in the
+digest: ...on SunOS (converged Berkeley and SysV Unix), there's a program
+called 'random' in /usr/games that I use in the following alias:
+
+   alias rush 'cat ~/info/text/rush.txt | /usr/games/random 50'
+
+where "~/info/text/rush.txt" is the pathname to the lyrics file and
+"random 50" is a text filter that randomly selects lines with the
+specified probability.  Typing "rush" gives a random sample of Rush
+lyrics; inevitably some Rush song then starts playing in my head.
+
+	The problem here is that "random" may not be available on all
+systems, so since then I've written (with help from public domain
+source code) my own random number generator (in C, since not everybody
+has a compiler for Ada, the language of choice :) that displays good
+randomness and have incorporated it into various "quote generators"
+(mail me about the Twin Peaks Quote Generator (TPQG) if you're
+interested).
+
+	The Random Rush Generator only works on lyrics right now, but
+the TPQG could be adapted for Rush quotes quite easily.  Just need the
+quotes, as Jimmy Lang says.  And we have ample material to select
+from, given the copious quantities of excellent articles that have
+appeared in the /V /V\ _|`.  I'm willing to send the source to anybody
+who wants it; just e-mail me.  (You'll need a C compiler and a C shell
+interpreter.)
+
+OTHER MUMBLINGS:                    ***
+
+                             Seasons Greetings
+                                    and
+                              Happy New Year
+                             to the readers of
+
+                                '/` /-/ /=
+
+                          /V /\ '/` / &lt;&gt; /V /\ /_
+
+                          /V\ / /&gt; /V / &lt;- /-/ '/`
+
+                               _/` '/` /\ /',
+
+                                    ***
+#begin ;) ;) ;)
+
+    A couple of items to add to the Seldomly Asked Questions List (SAQL):
+
+        SAQ #6,337,243:
+            Q: Which Rush Album has the most occurrences of the word "water"
+               in it?
+            A: Hold Your Fire.
+
+        SAQ #6,337,244:
+            Q: How many times does the word "water" occur on the Rush album
+               Permanent Waves?
+            A: Zero.
+
+    Well since everybody kept asking...
+
+#end ;) ;) ;)
+
+gre.ater....
+..m.ater.ial
+..l.ater....
+
+RRG:
+
+  Autumn woods and winter skies
+  To the endless winter night
+  To face a world of cold reality
+  Not so coldly charted, it's really just a question
+  and I take myself out a nice, cold beer.
+
+     -- /', /_/ _/` /-/
+
+-------------------------------------------------------------------------------
+
+                                |', |_| _]` |-|
+
+                               art as expression
+
+                                forming a world
+
+ __      __      __
+/  \  /\/  \  /\/  \  /-------------------------------------------------------
+    \/      \/      \/   Del Gordon    gordon@stars.reston.unisys.com     |&gt;&lt;-
+
+----------------------------------------------------------
+
+Date: Thu, 20 Dec 90 16:29:18 -0500
+From: supriya (Supriya Goyal)
+Subject: Rush on the Biscuit
+
+	Someone mentioned that RUSH was featured on the
+King Biscuit Flower Hour and wanted to know if anyone
+taped it.  Well, I did.  Sorry I don't remember who
+wanted it.
+
+--Supriya Z. Goyal
+
+"All of us get lost in the darkness."--N.P.
+
+supriya@syrinx.umd.edu
+
+----------------------------------------------------------
+
+Date: Thu, 20 Dec 90 14:36:16 -0800
+From: ddelany@polyslo.CalPoly.EDU (Dan Delany)
+Subject: FAQL/Mail didn't like each other!
+
+I just want to mention this to avoid confusion.  A line got dropped from the
+most revent posting of the FAQL.  It was caused by my starting a line with
+a ~ character and then saying
+
+mail rush-request@syrinx...  &lt; faql
+
+This caused mail to assume that that line contained a tilde escape.  Here's
+a reformatted version of the offending section of the file:
+
+&gt;   If you want a copy of the current version of this file, email me and
+&gt;I'll send you the most recent version.
+&gt;
+&gt;(Polyslo users: look in ~ddelany/Info/faql - it's world readable!)
+
+(Boy, that's embarrassing!)  Sorry if this caused any trouble.  (I know it
+did - I already got email about it...  :-) )
+
+"All the world's a stage                      |   ddelany@polyslo.calpoly.edu
+ And all the men and women merely players:    |       Daniel Alan Delany
+ They have their exits and their entrances;  -- Wm. Shakespeare  (1564-1616)
+ And one man in his time plays many parts."    _As You Like It_  II,vii,39
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions & changes), send
+mail to:
+
+    rush-request@syrinx.umd.edu
+
+There is ftp access available on Syrinx now.  The network address to ftp
+to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+There is a README file giving brief information on what is contained in
+the directories.  Currently available: previous issues of the NMS, lyrics,
+and a relatively current subscriber's list.  Future avaiability will include
+articles, interviews, etc.
+
+There is also a mail server available (for those unable or unwilling to ftp).
+Previous issues of The National Midnight Star (in it's current incarnation),
+lyrics, individual articles, and more are now available at an archive file
+server.  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+[ NOTE: the address "htodd@gmuvax2.gmu.edu" is no longer available for
+  back issues of the NMS, due to disk space problems at their site.  This
+  address may or may not become active again for this purpose; stay tuned
+  here for details.                                                       ]
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the management.
+
+List Management
+
+*********************************
+End of The National Midnight Star
+*********************************
+
+

@@ -1,0 +1,290 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list@syrinx.umd.edu
+Subject: 01/23/91 - The National Midnight Star #157
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 157
+
+                Wednesday, 23 January 1991
+Today's Topics:
+                      Administrivia
+             Depeche Mode and other music...
+                       this-n-that
+      Re: 01/22/91 - The National Midnight Star #156
+                          stuff
+                Intellectual Masturbation
+----------------------------------------------------------
+
+Subject: Administrivia
+Date: Wed, 23 Jan 91 12:05:42 EST
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+Hi all,
+
+    Just a quick note to let you know that there are several new images
+available in the anonymous ftp images subdirectory.  They are both GIF
+and Sun raster images.  See the CONTENTS file for comments.
+
+    Those of you who indicated an interest in helping (thanks!) with the
+awk problem should have gotten mail.  If you haven't, and sent mail to me
+offering help, drop me another line & we'll see what's up.  For those that
+did get it, I'll expect results soon!  :-) :-)
+
+    Lastly, on a serious note, I'd like to try to keep comments on the
+war situation to a minimum, if possible.  While I understand that it is
+on many peoples' minds, I'm not sure it exactly belongs in the context of
+a Rush discussion group.  I won't censor you for writing, but let's try 
+not to lose sight of the reason this group exists.  I'll leave it to you;
+I think this is a sensible enough group...  
+
+   Feel free to take discussions to e-mail; in fact, I encourage it to
+promote intelligent discussions on non-music matters.  I just don't think
+it belongs here.
+
+Thanks,
+rush-mgr
+
+----------------------------------------------------------
+
+Date: Tue, 22 Jan 91 14:24:30 -0500
+From: dchao@ecn.purdue.edu (David H Chao)
+Subject: Depeche Mode and other music...
+
+   In NMS #156, Supriya Goyal submitted a defense for Depeche Mode.  Personally,
+I don't care for DM too much, but I resepct them for what they do.  I am not
+trying to say that we should love every rap, pop, or country group around, but
+we should at least give them some credit for what they do.  I know how much I   HATE it when one of my friends or a "critic" (i.e. Rolling Stone) cuts down on
+Rush - so I try not to do the same to others.  I have to admit that sometimes
+it is hard to do so, but that is no reason not to try.
+
+   Pray for peace but support our troops.
+
+                                      -Dave
+
+"Run with wind and weather
+ To the music of the sea
+ All four winds together
+ Can't bring the world to me
+ Chase the wind around the world
+ I want to look at life - In the available light"
+
+          -Rush, "Available Light", from the album _Presto_
+
+----------------------------------------------------------
+
+Subject: this-n-that
+Date: Tue, 22 Jan 91 13:26:56 CST
+From: dragon!keith@uunet.UU.NET (Keith Ford)
+
+Matthew Deter said in #156:
+&gt; Secondly, keep in mind that it was the Americans who shot first
+&gt; "in the name of a piece of dirt."
+&gt;
+
+I was afraid this would happen.  Let us not forget that the war
+started in August.  In January 91, the allied coalliton decided
+to help Kuwait free itself.  A piece of dirt is different from
+freedom, IMHO.
+
+Now, the Rush art image that someone made available is neat.
+I was going to make it into a GIF for the email server, but
+"rasttoppm: old rasterfile type is not supported."  So, it
+will have to remain a raster image for now.
+
+I would just like to thank everyone for using the rush email
+archive server.  I'm glad I could put something back into the
+group, after all that I have received.
+
+--
+fordke@ingr.com
+
+----------------------------------------------------------
+
+Date: Tue, 22 Jan 91 14:37 EST
+From: "Derek D. Lichter [MacLover]" &lt;DEREK%ALBNYVMS.BITNET@UACSC2.ALBANY.EDU&gt;
+Subject: Re: 01/22/91 - The National Midnight Star #156
+
+Please, people, please... keep your personal political agendas off the list.
+Like everyone, I have my own _very_strong_ opinions on the middle east
+situation and the U.S. involvement there, but there are many other outlets
+for discussion and argument about it, and this is NOT one of them.  Giving
+your opinions here, masked by a Rush quote to back them up, will only provoke
+conflicts more suited to talk.politics.mideast or the Larry King show.
+
+And besides don't we see enough about the war everywhere else?  How about
+an island of discussion devoted to more rewarding topics-- like Rush!
+
+Speaking of which... what do you all think this next album will be like?
+If we look for an "evolution" from Presto, will this be "harder"?  "Jazzier"?
+More or less "smooth"?  Here's a prediction I hope will come true:  this
+album will have at least one instrumental or extra-long track on it.  And,
+I think there will be more vocals from persons other than Geddy.  I have
+nothing to back these predictions up, they're just feelings.
+
+                                later, eh,
+
+                                                Derek L.
+
+----------------------------------------------------------
+
+From: telxon!teleng!dank@uunet.UU.NET (Dan Kelley)
+Subject: stuff
+Date: Wed, 23 Jan 91 9:23:20 EST
+
+* From: Jonathan W Stevens &lt;jwsst13@unix.cis.pitt.edu&gt;
+*
+* I have a small question, does anyone on the rush-net know any places
+* to get original copies of rush albums before All the World's a Stage?
+* Preferrably by mail. (oh, sorry for the long signature if it offends
+* you, just a little artistic impression, but some people get upset)
+*
+* [ Well, it's nice, but could you try to edit it out of future postings?
+*   It does take up a bit of room...  Thanks!                      :rush-mgr ]
+
+Ahhhh, I like that signature (even though it is rather large :-).
+
+[ I liked it too, just thought it was a bit much for the NMS - have to 
+  think of sheer size at times...                                 :rush-mgr ]
+
+* From: 6600mld%ucsbuxa@hub.ucsb.edu (Old Tom Bombadil)
+* Subject: War & Territories
+*
+[..]
+*
+* Secondly, keep in mind that it was the Americans who shot first "in the
+* name of a piece of dirt."
+*
+
+I beg to differ.  Was it not the Iraqis who fired the first shot back in
+Aug 1990 against Kuwait?  I would consider this to be the retaliation for
+those actions.
+
+Dan...
+
+--
+Dan Kelley          ||  ...!uunet!telxon!dank  ||  dank%telxon@uunet.uu.net
+Telxon Corporation  ||
+3330 W. Market St.  ||      "... Saddam Hussain will get his a** kicked."
+Akron, OH  44313    ||                      - Pres. Bush on Pursian Gulf crisis
+
+----------------------------------------------------------
+
+From: medrcw!bob@uunet.UU.NET
+Subject: Intellectual Masturbation
+Date: Wed, 23 Jan 91 8:34:31 CST
+
+In TNMS #156, Doug Grumann &lt;dougg@hpptc16.rose.hp.com&gt; relates the
+story about a military type discussing anti-war demonstrators.
+
+First, a minor nit-pick: "a former green beret marine commander" is
+a non-sequitur.  Green Berets are members of the US Army's Special
+Forces; no Marine (at least, none of my acquiaintance) would ever
+admit to being in the Army, even as Greenie Beanie.
+
+Second:
+&gt;After the green beret expressed his disgust for anybody who'd even
+&gt;consider demonstrating against our great country's policies the
+&gt;commentator said something like "..but aren't they just practicing
+&gt;their right to free speech and freedom of expression which is one
+&gt;of the things that the US is supposed to be fighting for?"  The
+&gt;green beret shot back "that's just a bunch of intellectual
+&gt;masturbation!"
+
+Not that I necessarily support his viewpoint, but I think in the
+light of open-mindedness most Rush fans could see what he means.
+It's one thing to exercise a freedom granted you under your
+society's laws; it's another to do so just so that you can parade
+around in the streets and act obnoxiously.  *That's* intellectual
+masturbation.
+
+Running around and screaming "NO BLOOD FOR OIL!" and waving flags
+hung upside down is not my idea of a useful, well-thought-out
+position; it's attempting to cover up a lack of a reasonable
+position by sheer volume and shock effect.  That's not to say that
+the people who are on the other side of the street parading around
+chanting "GO USA!" are in a more defensible position; we can see
+that they are acting in the same spirit as the anti-war protestors.
+But it's rather obvious to me that the military types don't think
+that the anti-war protestors have well-considered opinions.
+
+If there is anything that Rush promotes in its lyrics, it has to be
+that Reason and Rationality will be what saves Mankind from itself.
+If you don't support the official position, have a good, solid
+reason for saying so; go back and look through the history of the
+region, examine the US national energy policy (or lack thereof, if
+you're so inclined), THEN speak your mind in a rational and sensible
+manner.
+
+That is the proper exercise of the Right of Free Speech; not the
+right to speak your mind, but the right to speak the Truth.
+
+"Sensibility, armed with Sense and Liberty..."
+
+---------------------------------------------------------------------------
+| Robert C. Whitehead       |
+| Intergraph Corporation    | No, his mind is not for rent
+| Mapping & Energy Division | To any god or government
+| Technical Documentation   | Always hopeful, yet discontent
+| Mailpath: b17a!rw1923!bob | He knows changes aren't permanent
+| Phone: (205)730-1923      | But change is.....
+---------------------------------------------------------------------------
+"Captain, we can control the Federation as easily as we can control
+you.
+The fate of the inferior in any galaxy."
+    -- Rojan the Kelvan, "By Any Other Name," Stardate 4657.5
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 157
+********************************************
+
+

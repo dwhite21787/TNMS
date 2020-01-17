@@ -1,0 +1,660 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 11/26/91 - The National Midnight Star #387
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+          The National Midnight Star, Number 387
+
+                Tuesday, 26 November 1991
+Today's Topics:
+                      Administrivia
+                       24th of May
+                          (none)
+                        RTB video
+            Luck in Getting Tickets (LA area)
+                     WHAT?!? No EJ!!
+                       HYF pop, NOT
+            more useless rush literary trivia
+              Voivod & Terry Broon; Tickets
+                  Madison Square Garden
+                          "Fear"
+                  Rush on the East Coast
+                       Gif Problems
+                      Roll the bones
+                     "roll the bones"
+                  Re: Re: elusive video
+                      Geddy's voice.
+                     vinnie colaiuta
+                       Rush on MTV
+                     Freddie Mercury
+                 Predicting Ticket Sales
+           RUSH "Where's My Thing" promo single
+                      Rolling bones
+            Backstage Club Newsletter is back
+----------------------------------------------------------
+
+From: Editor, The National Midnight Star &lt;rush-mgr@syrinx.umd.edu&gt;
+Subject: Administrivia
+
+Just a quickie here; there have been some new additions to the tab directory
+at the Syrinx anonymous ftp site - check the CONTENTS file in the 'rush/tab'
+directory for details of what's in there.  The additions are bass tab files,
+and also a new version of the source and example files in the 'prog' subdir.
+
+rush-mgr
+
+----------------------------------------------------------
+
+Date: Mon, 25 Nov 91 19:40:59 EST
+From: rkleiner@ccs.carleton.ca (Ron Kleiner)
+Subject: 24th of May
+
+In response to a posting in today's NMS:  your teacher obviously didn't spend
+much time in Canada, or else was hiding in a shell.  May 24th is Victoria Day,
+commemorating Queen Victoria's birthday (or death day?).  It's a tradition to
+go fireworks on Victoria Day.
+
+You're welcome!
+
+Ron Kleiner
+rkleiner@alfred.carleton.ca
+
+----------------------------------------------------------
+
+Date: Mon, 25 Nov 91 20:22:19 -0500
+From: Have YOU seen the fnords? &lt;fnord@binkley.cs.mcgill.ca&gt;
+
+Gee, my SECOND NMS post.  Been pretty much read only of late, but I finally
+decided it might be worth my while to say something.
+
+First, the city featured in the Subdivisions video is, of course, Toronto
+(home-sweet-home for Geddy, Alex, and yours truly [Neil's from St.
+Catharines, Ont., which is just down the Queen E. expressway about an hour
+and a half's drive on a good day from TO]).  Sorry, I don't recognise the
+the high school, any of the basement bars or backs of cars.  :-) But I DO
+remember seeing one particular portion of the Don Valley Expressway, and
+saying "Hey... *that* looks more than just a little bit familiar!"
+Actually, I've only seen the video once, from a rather ratty n-th generation
+copy belonging to a fellow NMS'er at my previous school.  (Hi, Bob!)
+
+(Come to think of it, I think the only other Rush videos I've seen are
+Distant Early Warning, The Big Money, and Superconductor sans audio.  I'm a
+real video virgin... saving myself for laserdisc!  Plus Much(less) Music and
+eMpTyV make me ill.)
+
+As for the 24th of May -- Victoria Day, of course!  I always wondered why
+we didn't do the firework thing on Canada Day; most pyrotechnic tendencies
+are sated on the birthday of the long dead Queen Vic.  Go figure.
+
+One topic that caught my eye last week, and seems to have faded, is WHY does
+*everything* have to have a "meaning"?!?  I think it's entirely likely that
+the "Brought to you by..." in PoW, Presto, and RTB are JOKES!  You're
+supposed to read them and say, "Ha ha those clever Boyz", not wonder "Gosh,
+I MUST know what this *means*..."  Very likely the same could be said for
+the elephant close up in RTB, and maybe even the "Remember Death" Morse
+code.  (ALthough such a phrase seems rather morbid for a chuckle... oh well.)
+
+Hmph.  Enough rambling for one post... later all!
+
+//////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+\ Greg Ward, lowly physics undergrad \/     I looked in the mirror today;    /
+/     McGill University, Montreal    /\  my eyes just didn't seem so bright. \
+\ Internet: fnord@homer.cs.mcgill.ca \/     I've lost a few more hairs.      /
+/ WWIVLink:70@25555;WWIVnet:157@5490 /\       I think I'm going bald.        \
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\/////////////////-Rush-/////////////////
+
+----------------------------------------------------------
+
+From: stedmant@LONEX.RL.AF.MIL (Terrance A. Stedman)
+Date: Mon, 25 Nov 91 20:28:37 EST
+Subject: RTB video
+
+        Well, I found a way to definitely catch the RTB video.  You see,
+in this neck of the woods (Utica/Rome NY area), they have this stupid
+program that comes on the Fox network after hours called "video jukebox."
+Basically, they flash song numbers on the screen and you can call the
+900 number (about $2.50 I believe) and order up a video.  Sure enough
+RTB is on the list.  I believe it is selection #315 if I'm not mistaken.
+This may help at least some people.
+        I would like to take this opportunity to say that MTV totally
+sucks.  Death to RAP and Marky Mark...  Long live Rush.
+
+    Terry Stedman    Internet: stedmant@lonex.rl.af.mil
+    ------------------------------------------------------------------------
+    I ) I I &lt;~ I_I   "It is my will which chooses, and the choice of my will
+    I \ I_I _&gt; I I   is the only edict I must respect." - Rand from _Anthem_
+    ------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date:     Mon, 25 Nov 91 19:05:04 PST
+From: Nik &lt;nrajdev@jarthur.Claremont.edu&gt;
+Subject:  Luck in Getting Tickets (LA area)
+
+Hello all:
+	Well, I would just like to say that there is an incredible amount of
+luck involved in getting tickets.  Here, in the LA area, you are not allowed
+to campout; instead, it is done on the random number/wristband system.  Well,
+on Sat. I arrived to buy tickets at about 7:45 (wristbands at eight).
+Anyways, my number was 29 and they started from 29.  Well, needless to say
+my seat is Sec. 1 Row 1 Seat 1 at the LA Forum for Wed. Jan. 22, 1991. I
+was ecstatic to say the least, but it was luck. (not that I am complaining.)
+
+[ Colour me jealous!  :-)                                          :rush-mgr ]
+
+ORQ:	"We come into the world and take our chances
+	 Fate is just the weight of circumstances
+	 That's the way that lady luck dances
+	 Roll the bones..."
+
+--
+	Nik Rajdev   =B^)
+	(nrajdev@jarthur.claremont.edu)
+
+----------------------------------------------------------
+
+Date: Mon, 25 Nov 1991 22:11 EST
+From: "SO ROCK, AND ROLL THE BONES" &lt;FMOORE@vax.clarku.edu&gt;
+Subject: WHAT?!? No EJ!!
+
+	Have these rumors been true, that Eric Johnson is off the Rush Tour.
+Say it ain't so Jack.  I heard of a few shows were done with someone else (in
+Buffalo I think), but this _can't_ happen before the Worcester show.
+
+	Get back to me someone, he begged, with the answer to my conundrum.
+
+	Frank.   &lt;fmoore@clarku.edu (there's a vax in there somewhere but I
+		  never remember where).&gt;
+
+Ahh, the evening's NMS is here, by all.
+
+----------------------------------------------------------
+
+Date: Tue, 26 Nov 91 00:10:34 EST
+From: jaeger@buphy.bu.edu (Gregg Jaeger)
+Subject: HYF pop, NOT
+
+&gt;Holdsworth has long been an influence on Alex, specifically his
+&gt;interest in using the whammy bar as a textural device, and the legato notes
+&gt;concept.  Alex doesn't take it all the way out and be a Holdsworth clone
+&gt;because he's more of an original stylist.  Still - listen to Alex bend notes
+&gt;with the bar sometime and there's an undeniable Holdsworthian influence
+&gt;happening there.
+
+For sure. I've always thought that YYZ (+other tunes on MP) is heavily
+influenced by Holdsworth. Slow the solo down and it is even more clear.
+
+&gt;From: "Kelly A. Vinal" &lt;70720.626@CompuServe.COM&gt;
+&gt;2.  This same board has also come-up with an interesting fact.
+&gt;Remember back in the old days when Rush was deep in the concept
+&gt;albums?  They changed presentation, but still stuck with
+&gt;concepts.  There is a central theme to all rush albums, save
+&gt;perhaps, Hold Your Fire, a pop album.  I will elaborate more
+&gt;on this in a future posting.
+
+Say What?! HYF, pop!! Surely you jest!!! Neil has described his
+post-_PeW_ approach to writing several times as an intermingling
+of several themes per album, and _HYF_ has themes as strong as
+any other album. IMHO, HYF is the best Rush album thus far and
+is quite an arty album. OK, ``Time Stand Still'' is pop-ish, but
+that's the extent of pop on _HYF_!
+
+I'd like to hear the explanation supporting your statement!
+If you want to see pop influence, look to _Presto_ and _RTB_.
+
+_HYF_ is a damn deep album, and if this is doubted I can produce the
+analysis to prove it. The general description one can give to the
+unity of themes of _HYF_ is: the performance of human beings under
+the influence of the forces of life, nature, and time. This is
+without going into the ``three balls'' symbol and its use in _The
+Fountainhead_, which was discussed at length here about six months ago.
+
+Thanks to John Turner for the great CD info. It may not have been
+directly related to Rush, but I'm damn glad it got posted anyway!
+
+Gregg
+
+----------------------------------------------------------
+
+Subject: more useless rush literary trivia
+Date: Tue, 26 Nov 91 01:00:48 EST
+From: ddl683@csc.albany.edu
+
+Well, I won't claim to be positive about this, but I'm fairly sure
+that the line "An ill wind comes arising/across the cities of the
+plain" in D.E.W is a cop from Marcel Proust's "A la Recherche du Temps
+perdu" (Rememberance of Things Past).  I don't know whether Proust's
+usage of "Cities on the Plain" was original, but it was distinctive.
+
+						Derek L.
+--
+       derek@albnyvms.bitnet       &lt;&gt;      ddl683@sarah.albany.edu
+====}=---------------`  Fencers love to touch  '-----------------={====
+               "Cinderella man... hang on to your plans..."
+
+----------------------------------------------------------
+
+Date: Tue, 26 Nov 91  03:44:11 EST
+From: Corum%USCN.BITNET@uga.cc.uga.edu
+Subject: Voivod & Terry Broon; Tickets
+
+Speaking of Terry Brown sightings, he produced the latest Voivod album
+_Angel Rat_, which does indeed have some Rushlike influences.  The album's
+been growing on me steadily since I bought it; it's a good one IMHO.
+
+Oh, for the days when we could camp out in advance for tickets!  Until
+about two years ago we could camp out for tickets here (in Atlanta, GA),
+and the first-arriving group of fans at each store would be charged with
+maintaining "THE list."  Alas, some violence erupted a few times (not
+involving fans waiting for Rush tickets, naturally), and TicketMustard
+now enforces a ticket lottery at each store:  numbered tickets are drawn
+at random by the waiting fans, and the resulting order determines your
+position in line.  Ah, well....  This allegedly reduces scalping.
+In practical terms, it is in our best interests to bring thirty friends
+and get thirty tickets, hoping that a ghost of a chance will give us a
+low number.  &lt;grin&gt;
+
+--Paul "Corum" Cashman        corum@uscn.bitnet
+ORQ:  Better the pride that resides
+      In a Citizen of the World
+      Than the pride that divides
+      When a colourful rag is unfurled
+                          --Peart
+
+----------------------------------------------------------
+
+Date: Tue, 26 Nov 91 08:36:16 EST
+From: "Larry Salomon, Jr.        (T/L) 862-3934      " &lt;larrys@watson.ibm.com&gt;
+Subject: Madison Square Garden
+
+This stinks!!!
+
+Last year, when Rush came to Nassau, I found out the Wednesday after the
+Saturday when tickets when on sale and got bad seats...
+
+&gt;...this year, I decided, I wouldn't let that happen.  I found out about
+the Hartford (Dec 1) and Madison Square Garden (Dec 6) dates at least 1
+and a half months in advance.  However, I couldn't find out when tickets
+went on sale until (again) the next Wednesday, and I got bad seats (I
+think) again.
+
+My questions is, does anyone know where section 345, row F is in Madison
+Square Garden?  Will I be able to see the large screen behind Neal and
+the laser show?  Last year, I missed out (like I said, they were bad
+seats) and don't want to miss out again...
+
+Cheers,
+Larry Salomon, Jr. (aka 'Q')            LARRYS@YKTVMV.BITNET
+OS/2 Applications and Tools             larrys@watson.ibm.com
+IBM T.J. Watson Research Center         larrys@ibmman.watson.ibm.com
+Yorktown Heights, NY                    larrys@ibmman2.watson.ibm.com
+
+----------------------------------------------------------
+
+Date: Tue, 26 Nov 91 08:40:05 EST
+From: "Larry Salomon, Jr.        (T/L) 862-3934      " &lt;larrys@watson.ibm.com&gt;
+Subject: "Fear"
+
+After having acquired a nice CD player, I decided to replace my entire
+Rush cassette collection (those bargin buys were nice!!!) on CD (plus, I
+wanted the lyrics).  After having bought Moving Pictures and Signals
+(last, surprisingly enough), I noticed the following:
+
+In MP, "Witch Hunt" is subtitled "Part III of Fear", while in Signals,
+"The Weapon" is subtitled "Part II of Fear".
+
+Nowhere in any of the other CDs could I find "Part I of Fear".  Stranger
+yet, Signals is chronologically later than MP (according to the
+copyrights), yet part III came *before* part II.
+
+Can anyone explain?
+
+[ Try checking for "The Enemy Within" on _Grace Under Pressure_; that's
+   part one of "Fear."  The trilogy just happened to be written (and made
+   available) in reverse order.                                :rush-mgr ]
+
+Cheers,
+Larry Salomon, Jr. (aka 'Q')            LARRYS@YKTVMV.BITNET
+OS/2 Applications and Tools             larrys@watson.ibm.com
+IBM T.J. Watson Research Center         larrys@ibmman.watson.ibm.com
+Yorktown Heights, NY                    larrys@ibmman2.watson.ibm.com
+
+----------------------------------------------------------
+
+From: rivard@claude.ma30.bull.com (Dennis Rivard)
+Subject: Rush on the East Coast
+Date: Tue, 26 Nov 91 8:38:01 EST
+
+Greeting fellow Rushtafarians!
+
+	Having recived my tix in the mail yesterday for the Dec. 10
+show in Worcestor, and noting how pitiful my seats are (we're most
+likely sitting slightly behind and to the left side of Niel)... I was
+wondering if anyone has seen Rush on the East Coast yet with Vinnie
+Moore? How was he?  I have to debate on if I want to get to the
+Centrum on time so I can catch him...
+
+Dennis
+
+----------------------------------------------------------
+
+Date:        Tue, 26 Nov 91 09:55:06 EST
+From: Dan Newcombe &lt;URDN%MARISTC@VM.MARIST.EDU&gt;
+Subject: Gif Problems
+
+As far as the GIFS go.
+ I was able to view them fine on our VM system, but some of them,
+when downloaded to a PC, would not work. Fly By Night, AFTK
+were a couple that didn't. (The Pass)   Try the ones of Geddy. I
+had them working fine.
+
+  -Dan
+
+[ Sorry, can't help much in this area - I can display them fine on my
+   DECstation 3100 and my NeXT cube...  Any PC experts out there have
+   any ideas?                                                 :rush-mgr ]
+
+"those who choose not to decide have still made a choice"
+
+----------------------------------------------------------
+
+Date: Tue, 26 Nov 91 07:45:51 PST
+From: benr@zelda.llnl.gov
+Subject: Roll the bones
+
+&gt;Secondly, about the phrase "Roll the Bones".  Has anyone seen Predator II?
+&gt;For some background, Predator II is about a predator like Predator I that
+&gt;comes to LA during gang wars in around 1996.  Apparently, they are attracted
+&gt;to intense fire and heat.  Anyway, one of the gangs is a Colombian gang,
+&gt;and their leader is someone named "King Willy".  During the movie, the hero,
+&gt;a cop, goes to talk to him about what (the predator) is killing all of his
+&gt;people AND the cops.  Willie is 100% rastafarian (sp?) and talks like, "
+&gt;Yaaa maaaan, they saaayyy you want to talk to me maaahn".  The interesting
+&gt;thing is that the whole time he is talking, he is *rolling bones* onto the
+&gt;top of a 50-gallon drum.  I think it is related to voodoo magic because
+&gt;the columbian gangs used voodoo magic.  Does anyone know for sure?
+&gt;I don't know if that is what the boyz intended, but I think it is the most
+&gt;likely possibility.  Comments?
+
+No, this is not what was intended.  The title of both album and song came
+from an old sci-fi story (I can't remember the title) which has something to
+do with "rollin' the bones".  I think the author's name was Franz (or was it
+Fritz?) Leiber.  Neil liked the "roll the bones" element in the story, so he
+decided to use it.  I *think* the plot has something to do with some guy who
+is, quite literally, gambling for his life, hence "roll the bones".  I'm not
+sure about the plot, the title, or even the author, but I do know for a fact
+that this is where Neil got the title.
+
+                                       |^^^^^^|
+                                       |      |
+Ben Ragunton                           |      |
+E-Mail: benr@zelda.llnl.gov            | (o)(o)     _____________________
+Mesa, Arizona                          @      _) __/   Don't turn your   |
+Voice: (602)835-7099                    | ,___| /__   back and slam the  |
+                                        |   /      \   door on me, man!  |
+                                        /___\       \____________________|
+                                       /     \
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+and lin# noise is nev~r a prob{{{d~~{{{3a@#{{{J~i8f~~~    NO CARRIER
+
+----------------------------------------------------------
+
+Date: Tue, 26 Nov 91 11:08 EST
+From: Beth_C_KANTROWITZ@umail.umd.edu (bk35)
+Subject: "roll the bones"
+
+        The phrase "rolling the bones" not only refers to the ancient use of
+rolled bones for divination, but probably also the fact that dice used to
+be made from bone.  I thought this was an interesting little tidbit.
+
+----------------------------------------------------------
+
+Date: Tue, 26 Nov 91 10:39:43 CST
+From: starbird@camelot.bradley.edu (Ivelisse Atiles)
+Subject: Re: Re: elusive video
+
+I've already seen the video about three times.  I always seem to
+catch it sometime around 20 after noon, but that's central standard
+time.  I'm not sure that's the time zone you're in(I don't remember
+the header right off hand). Just wanted to make that clear.
+
+Also, I don't know if this has been discussed or not, but who is
+the kid in the video (RTB)?  He looks an awful lot like Alex, and
+I heard in the radio show (History of Rush) that Alex has two kids
+and one is thirteen. Ya think?...
+
+(aside note: I didn't record the show, sorry. My roomie was watching
+a sex movie... and what I heard was maybe a couple of songs form
+each of the 6 albums or so, and four from).
+
+Bye, Rushans!
+
+Ivelisse Atiles
+starbird@camelot.bradley.edu
+
+----------------------------------------------------------
+
+Date: Tue, 26 Nov 1991 11:08:52 -0600
+From: "Howard J. Browning" &lt;browning@symcom.math.uiuc.edu&gt;
+Subject: Geddy's voice.
+
+Is there anybody else out there who has seen the RTB tour who is
+disappointed by the fact that Geddy Lee can no longer hit the high notes
+in alot of their older stuff?  They played Anthem at the Redbird Arena in
+Bloomington, and while is was well played, it just didn't sound right.  I 
+have also been told that they do not play anything except the overture from 
+2112.
+(Given Geddy's vocals on Anthem, I don't blame them)
+
+And to who ever it was who mentioned Predator II:
+1) No the columbians don't practice voodoo.  You probably mean Santaria,
+   which is close.
+2) 'Rolling the Bones' isn't just voodoo.  It is an ancient divination method,
+   akin to reading the entrails of a chken.  Somewhere along the line, sombody
+   likened betting on dice to 'rolling the bones', hence the experssion
+   rolling the bones.
+
+ORQ- All of the seasons, and all of the days.
+     All of the reasons why I felt this way.
+
+HOWARD
+
+----------------------------------------------------------
+
+Date:        Tue, 26 Nov 91 13:37:04 EST
+From: "DB/fw" &lt;KNFU%MARISTB@VM.MARIST.EDU&gt;
+Subject: vinnie colaiuta
+
+Anyone who saw Vinnie Colaiuta on Sting's _Soul Cages_ tour was
+treated to some excellent drumming....besides Zappa, who else
+has he worked/toured with?     Dana/fw
+
+----------------------------------------------------------
+
+Date: Tue, 26 Nov 91 13:45:53 -0500
+From: brian christopher te &lt;testa@cis.ohio-state.edu&gt;
+Subject: Rush on MTV
+
+On tues, 25 Nov, at approx 10:30 p.m., I heard the unbelievable.!
+
+During "Most Wanted" whenever they went to commercial they were playing the
+beginning of xxx
+	Show Don't Tell!!!!!
+No kidding . I just thoght I'd let you all know that!
+
+BTW, I went to the or excuse me THE concert. All I have to say is that
+it was better than all the others i have seen before.
+The drum solo... nuff said. Here's one interesting note. Before playing
+Finding My Way, Neil stood up and was waving his sticks in the air .
+Pretty cool for the Professor, eh.
+That's it for me, Take off , eh!
+Brian 'Psycho Runner' Testa.
+
+----------------------------------------------------------
+
+Date: Mon, 25 Nov 91 13:55:19 GMT
+From: ano@csres.cs.reading.ac.uk (Adrian N Ogden)
+Subject: Freddie Mercury
+
+                 "Give me one life, Give me one hope,
+             Just gimme gimme gimme gimme fried chicken!"
+
+                           Freddie Mercury
+
+                            Rest In Peace
+
+----------------------------------------------------------
+
+From: Dan Dickerman GSY 1-447-4425 &lt;dickermn@hpcugsya.cup.hp.com&gt;
+Subject: Predicting Ticket Sales
+Date: Tue, 26 Nov 91 11:13:09 PST
+
+&gt;if anyone knows when the tickets for oakland on the 29 and 30 of january go on
+&gt;sale please post it to the board. i would really like to know so that i won't
+&gt;get surprised on a sunday morning.
+&gt;
+&gt;james mattis
+&gt;university of california at berkeley
+
+(Hey, how 'bout that Big Game?)
+You could also check the San Francisco Examiner's Friday entertainment section,
+possibly still called "Weekend."  On the front of it, there should be a
+column listed as "On & Off" which announces that weekend's new ticket sales,
+upcoming available major events and changes.  It's been quite helpful
+in these matters in the past.  It's $.25 a week, and you get a great birdcage
+liner to boot!
+
+-Dan Dickerman
+ Cal Grad
+
+----------------------------------------------------------
+
+Date:     Tue, 26 Nov 91 13:23 EST
+From: &lt;RKEGLEY%IUBACS.bitnet@UICVM.uic.edu&gt;
+Subject:  RUSH "Where's My Thing" promo single
+
+Well as to the rarity of it...
+I'm sure only radio stations have received it. The radio station
+that I work at here in Bloomington, In. has it. Well, they had it.
+I managed to talk them into letting me add it to my collection. The
+problem is that when record companies send out promos, they usually
+do not send a cd insert. Of any kind. As far as other people getting
+ahold of it, the disc is "Licensed for promotion only" and "Sale is
+Prohibited" and "Ownership and right to possession is reserved by
+Atlantic Recording Corporation." What that all means is that when Atlantic
+sends the station the disc, they can take it back at any time. If the
+station still has it. Just a bit of info.
+shattonda.
+-g.g.
+
+----------------------------------------------------------
+
+Date: Tue, 26 Nov 91 10:26:05 EST
+From: david@shadow.ait.com (David Kuznick)
+Subject: Rolling bones
+
+Originally animal bones were used in games of chance, marked on each
+side.  This slowly gave way to shaped ivory sticks, which could have
+many sides, which finally eveolved into the dice we know and love
+today.
+
+David Kuznick
+david@ait.com
+
+----------------------------------------------------------
+
+Date: Tue, 26 Nov 91 12:39:02 -0800
+From: David Conley &lt;dmc@u.washington.edu&gt;
+Subject: Backstage Club Newsletter is back
+
+Just received the lastest installment of the Rush Backstage Club
+Newsletter. I had not received one since Presto came out in 1989.
+It is basically a vehicle for purchasing Rush paraphernalia..
+One thing of interest...Roll The Bones tour programs are selling
+for $10 through the Backstage Club. If these are indeed the same
+programs as are being sold at the shows then this is a real deal!
+Neil also has a 2 page Q and A section again &lt;yawn&gt;. Most folks
+who have been reading the NMS already know most of the answers to
+these questions. Am I the only one who thinks that Neil is being
+a bit too sarcastic in his replies?? I hope he is more of a
+straight shooter in the Rockline interview next week.
+
+BTW, Rockline can be heard at 8:30 pm on Dec.2 on KISW FM 100
+in Seattle. Bob Coburn said that this would be Neil's first
+radio interview in 10 years! Yow!
+
+Cheers,
+Dave
+
+-----
+David Conley
+dmc@milton.u.washington.edu
+University of Washington School of Medicine, Seattle
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 387
+********************************************
+
+

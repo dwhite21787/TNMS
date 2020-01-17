@@ -1,0 +1,626 @@
+From root Fri Oct  9 18:55  1992
+Received: by wake.ncsl.nist.gov (AIX  2.1 2/4.03)
+          id AA01028; Fri, 9 Oct 92 18:55:54 
+Received: by syrinx.umd.edu (5.57/Ultrix2.4-C)
+        id AA28898; Fri, 9 Oct 92 18:30:07 -0400
+Date: Fri, 9 Oct 92 18:30:07 -0400
+Message-Id: &lt;9210092230.AA28898@syrinx.umd.edu&gt;
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list@syrinx.umd.edu
+Subject: 10/08/92 - The National Midnight Star #532
+Status: R
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+          The National Midnight Star, Number 532
+
+                 Thursday, 8 October 1992
+Today's Topics:
+                     Response to #530
+         quit complaining about the 'rap' in RTB
+                       Click tracks
+     I heard a woman scream... or was it a car crash?
+                 Can we stick to RUSH!?!
+                   Personalized songs?
+            New RUSH Releases (Chronicles II?)
+                   RARITIES IMPOSSIBLE
+                       NME and DIY
+                   Kim Mitchell on Tour
+                     Random Thoughts
+               The previous TNMS/Interview
+            2112, and the debate continues...
+             Anthem (the book) & 2112, again
+----------------------------------------------------------
+
+Date: Wed, 7 Oct 1992 19:18:15 -0400
+From: Scott Lawr Matthews &lt;mrbungle@brahms.udel.edu&gt;
+Subject: Response to #530
+
+Praise be to those (at least most of them) who submitted commentary to
+issue #530. I just got through reading it, and it seemed to me the most
+productive issue in a while...
+  On Dream Theater, the sound is not as much like Rush and Yes as every-
+one says. I would liken them to Fates' Warning if given the choice. Their
+virtuosity and odd-time signatures are their only resemblaces to Rush.
+  Whoever suggested that the word "sucks" never be used again on this net
+deserves a round of applause. This is a service for those who LIKE Rush,
+not for those who like one song or one album or even one era - if you
+don't like something, that's your opinion, but I don't see it being of
+interest to Rush FANS.
+  I also like the idea of getting together a collection of rare Rush live
+and studio recordings. I don't really have anything in my collection that
+deviates too much from available songs, but I thought I'd second the idea.
+  As I don't have anything informational to add, I'll end this now...
+- Scott, Follower of the Mighty Lerxst (and Mr. Bungle)
+p.s. There seems to be a lot of talk about Dream Theatre here, as well as
+on alt.music.progressive, alt.rock-n-roll.metal/metal.heavy/metal.pro-
+gressive, etc. Although I don't have the means to do it myself, would
+anyone who does be interested in starting a Dream Theater mailing list ?
+
+      [ Please if you respond, do so via email.  Thanks.    :rush-mgr ]
+
+p.s. 2. - what's this rumor about that there will be a new Rush album
+out in November ? That would be impossible, as the release date would al-
+ready be published, but does anyone know if there are plans to go into
+the studio, etc. ?
+
+      [ In yesterday's Digest it was revealed Rush will be working on
+	their new material AFTER the New Year.		: rush-mgr ]
+----------------------------------------------------------
+
+From: rone@ucs.usc.edu (Ron Echeverri)
+Subject: quit complaining about the 'rap' in RTB
+Date: Wed, 7 Oct 92 16:47:39 PDT
+
+it may sound and look like rap, but it's not.  just because the group
+decided to fool around with the vocalization of some of the lyrics does
+not mean that they're switching genres.... i really think this is pretty
+darned silly.  it was just an EXPERIMENT fer chrissakes.
+
+that given, i'd like to thank the people who responded to my query as to
+which new album i should buy.  by a vote of 2-1-1, i'm gettin' Hemispheres.
+
+5150
+sometimes i wish la villa strangiato was longer
+
+----------------------------------------------------------
+
+Subject: Click tracks
+Date: Wed, 07 Oct 92 16:56:11 -0700
+From: gimper@leland.Stanford.EDU
+
+Hello again,
+
+Just thought I'd throw in a couple more cents worth of stuff...
+In TNMS #530, white@mhd1.moorhead.msus.edu (white aaron) writes:
+
+&gt;Neil uses the headphones you often see him wearing in concert for a click
+&gt;track. This is neccesary to keep time in songs that uses sequences that
+&gt;are punched in and out at random times. This is in response to someones
+&gt;question last issue.
+&gt;
+&gt;/\aron L. White
+
+Well, yes and no.  As another poster mentioned, Neil does use headphones
+to stay in sync with the keyboards on "Red Sector A".  But for the most
+part, Neil does not use them to sync with sequencers -- he'll use it more
+to sync the band with video clips, e.g. the skeleton during "Roll The
+Bones" and Aimee Mann during "Time Stand Still".
+
+Other than that, there are many songs with lots of sequencers that Neil
+does not wear headphones on like Force Ten, Distant Early Warning, The
+Big Money, etc.  In fact, I would bet that most post-p/g songs have some
+sequencers in them.  Anyway, to back up my claim, here's a clip from an
+interview with Geddy I transcribed a while back.  (Keyboard Magazine,
+9/84, available as ged.kybd.9-84 from syrinx in the rush/special
+directory.)
+
+(Kybd)  When you start a song can you tell if the tempo is going to be
+right when the sequencer comes in?
+
+(Geddy) Sometimes you know when you're right out to lunch, too!
+Sometimes the sequencer part comes in and, "Whoa, pull back on
+the reins here."  Occasionally we're too slow; it can vary. We're
+human beings, and it depends on what we've been eating or how
+fired up we are.  But Neil works real hard on making sure his
+tempos are steady and there's very rarely a problem of being out of
+sync.  Some songs aren't much of a problem because there's so much
+sequencer.  If the sequencer starts the song, the tempo is
+established right away and we're pretty well locked.  But songs like
+"The Body Electric" [from _Grace Under Pressure_], where the
+sequencers only come in for the choruses, you have to make sure
+that you're playing the right tempo to begin with.
+
+Okay, next topic.  :-)  "Robert (R.A.) Herrage" &lt;herrage@bnr.ca&gt; writes:
+
+&gt;&gt; tvos@ais.org asks:
+&gt;&gt;
+&gt;&gt; &gt; Question, who actually does the melody intro for the three blind mice?
+&gt;
+&gt;I recall reading/hearing (either by interview or from Modern Drummer)
+&gt;that Neil said that he does not want to take something that exists and
+&gt;just tape it.  He uses his electronic equipment (MIDI?) to recreate
+&gt;something that he likes.  As I recall, the 3 Stooges intro was his own
+&gt;recreation of the theme.
+&gt;
+&gt;Rob
+
+I'm not so sure about this.  (Rob, I edited your text so it's a bit out
+of context.  I'm not attacking you personally...)  :-)
+
+This is from the 12/89 issue of _Modern Drummer_.   (neil.md.1289 in
+rush/special at syrinx.)
+
+WFM:  One of the things in your solo that I like were the horn kicks at the
+end.  Were you triggering those yourself?
+NP:  Yes I was.  There was an interesting story behind that section of the
+solo.  I took the idea from a Count Basie CD that I have.  I sampled the horn
+hits off the CD and triggered them live, but I didn't feel right about using
+someone else's sounds on our record.  I have strict morality about sampling,
+and it's one reason why I use mostly my samples.  I don't like think that they
+have been robbed off of someone else's records.
+
+But I dont' think this was in reference to the "Three Stooges" theme.
+Feel free to correct me if I'm wrong...  :-)
+
+Okay this is long enough for today.  See y'all...
+
+-- Stuart  (gimper@leland.stanford.edu)
+
+----------------------------------------------------------
+
+Date:    Wed, 7 Oct 92 21:12 EDT
+From: &lt;MLS154@PSUVM.PSU.EDU&gt;
+Subject: I heard a woman scream... or was it a car crash?
+
+As long as Ive been reading TMS for almost 2 years Id guess, everyone has been
+trying to decipher blips and beeps or some sound that they cant identify.
+Jeez, how long did the conversation over the dog barks in dreamline go on?
+To this day, it has never sounded like a dog to me.  More like a metallicized
+wood block sound.  It just seems as though there are so many more interesting
+topics for which we can find answers...
+
+Does anyone know where the name for the RTB bootleg "The Fly" came from?
+
+Does anyone know the difference between the "Spirit of St. Louis" and
+"La Villa Strangiato" bootlegs?
+
+Has anyone found any really good CD bootlegs?  Currently in Vogue is pretty
+good and I happen to like La Villa Strangiato...  One thing that I have
+been desperately searching for is a bootleg version of Grand Designs..
+
+Tell me what you think...
+            Mark Shulman
+
+----------------------------------------------------------
+
+Date: Thu, 8 Oct 1992 08:22:00 +0000
+From: "Robert (R.A.) Herrage" &lt;herrage@bnr.ca&gt;
+Subject: Can we stick to RUSH!?!
+
+I keep seeing these posts like "I know that this isn't the place, but..."
+for bands like "Dream Theater", etc.  I'm not wanting to start a flame
+war but, since you know it isn't the place for it, then don't do it.
+Put it out on "rec.music.misc" :)
+
+Maybe we can all do something like little small "P.S."s at the end of a
+post that says "if you want some XXXX info, send me email".  We've cur-
+rently got enough stuff to wade through without excess non-RUSH stuff.
+
+How 'bout it, rushmgr...can you taper this off some?  Every now and then
+a single post might be okay, but it seems like almost every NMS issue has
+a "Dream Theater" post in it.
+
+	[ Rob, you're absolutely correct.  People, from now on, do 
+	  followups via EMAIL and NOT the NMS.  	:rush-mgr ]
+Rob
+
+P.S. Please understand that I'm not knocking "Dream Theater".  It's just
+     that I subscribed to this for RUSH info -- not other bands :)
+
+----------------------------------------------------------
+
+Date: Thu, 8 Oct 92 09:43:47 EDT
+From: Doug White &lt;dwhite@dsys.ncsl.nist.gov&gt;
+Subject: Personalized songs?
+
+On the way in this morning, I heard Skynyrd's "Saturday Night Special", and
+that reminded me of an interview I heard with their drummer. He said that
+if you listen to that tune, you can tell he was angry about a friend who
+had been shot & killed not long before by a mugger. The drumming _does_
+sound like he's pi**ed off.
+
+I'm wondering if there are any background tales about some of Rush's songs,
+similar to that. Afterimage and Scars are probably based on someone
+(probably that Neil knew). Any stories?
+Doug
+
+----------------------------------------------------------
+
+Date: Thu, 8 Oct 92 10:10:46 CDT
+From: mjb55529@sumter.cso.uiuc.edu
+Subject: New RUSH Releases (Chronicles II?)
+
+'Lo folks!
+
+Just a question...I remeber a post on TNMS concerning a new Rush
+release in Nov.
+
+#1.  Is this true?
+#2.  Is the original post still around? (If so could someone email it
+					 to me?)
+#3.   If not....could someone rehash the article for me....I have a
+	bunch of Rush fans on my floor here at the University of
+	Illinois  and we would all greatly appreciate this info.
+#4.   Am I alone in thinking that CoS is one of Rush's "neatest"
+	albums.  I mean "neat" in a sense that it was an interesting
+	idea brought about in a beautiful and timely manner....with
+	the music just as overpowering as the meaning of the song
+	itself.
+#5.   Thanx everyone!
+
+--
+mjb55529@uxa.cso.uiuc.edu
+
+----------------------------------------------------------
+
+Date: 	Thu, 8 Oct 1992 12:55:00 -0400
+From: lorne.murphy@rose.com
+Subject: RARITIES IMPOSSIBLE
+
+Date Entered: 10-08-92 12:49
+
+Regarding the rarities tapes. This is an excellent idea for Genesis and
+Yes lists... but Rush? What's rare other than the first single and
+perhaps "Take off"??  "Battlescar" isn't rare, it's on an album! As far
+as I'm considered, if a track is on an album, it's NOT rare. I've seen
+LOADS of rare Rush STUFF in some shops in Toronto, but none of it was of
+an audio nature.
+
+Has anyone noticed the extreme resemblence between the B-Side to that
+first single, "You can't fight it" (Lee/Rutsey?) and Led Zep's "Rock
+And Roll"? Take a closer listen if you don't see what I mean....
+
+Lorne.
+
+%Well I see you standin' there with your finger in the air....%
+---
+   RoseMail 2.00 : Usenet: Rose Media - Hamilton (416) 575-5363
+
+----------------------------------------------------------
+
+Date: 08 Oct 1992 12:26:58 -0600 (MDT)
+From: Roo-Dog Rip &lt;D_DURRETT%KAOS@VAXF.Colorado.EDU&gt;
+Subject: NME and DIY
+
+Normally, I feel like I'm aware of the world around me and able to figure
+things out(maybe that's why I'm in physics), but these two acronyms from the
+Kerrang interview have me baffled, and I can't even begin to guess from the
+context. What are NME and DIY? Does anyone know?
+
+Roo-Dog Rip
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+\Roo-Dog Rip is:                  &lt;&gt; "O! What a rogue and peasant slave am I!"/
+\Derrell Durrett                  &lt;&gt;                 --- _Hamlet_ II, ii, 584 /
+\D_DURRETT%KAOS@VAXF.COLORADO.EDU &lt;&gt;   High Energy Physics: The New Religion! /
+\Vox:(303)492-4821|Fax:492-5119   &lt;&gt;                Get Some Today!           /
+\-----------------------------------------------------------------------------/
+\ High Energy Physics Group | University of Colorado | Boulder, Colorado, USA /
+
+----------------------------------------------------------
+
+Date: Thu, 8 Oct 92 12:27:52 -0700
+From: David Conley &lt;dmc@u.washington.edu&gt;
+Subject: Kim Mitchell on Tour
+
+This post is somewhat Rush related. I heard a blurb on local radio
+that Kim Mitchell (for those that don't know, formerly of Max
+Webster) will be appearing in Seattle at the Backstage in Ballard
+I think sometime at the end of this month. This most likely means that
+he is on some kind of tour, be it regional or national. Check your
+local listing. Can anyone local confirm this or provide more concrete
+info???
+
+Cheers,
+----Dave
+
+----------------------------------------------------------
+
+Date: Thu, 8 Oct 92 15:50:57 -0400
+From: jlang (~ Rush Fanatic ~)
+Subject: Random Thoughts
+
+&gt;Subject: Rush & Neil
+&gt;From: timg@valinor.mythical.com (Tim Gross)
+&gt;Date: Sun, 04 Oct 92 20:38:06 CDT
+&gt;
+&gt;A couple months ago Moddern Drummer stated Neil Pert as haveing Lukemia
+&gt;is this TRUE.....? Is that why he has no hair (radiaton treatment) and
+&gt;wore a bandanna in the Roll the Bones Tour..? IF so fight it in to
+&gt;reccession.
+
+Tim, please, unless you can *specifically* point out which Modern
+Drummer magazine "a couple of months ago" stated the above, let's give
+the old rumor a rest.  This is how it all starts out.  People assume
+they've read something when in fact Modern Drummer has not printed
+anything like that.  BTW, it should be Peart, (a funny story comes to
+mind when Neil was asked about his name saying it was not like the
+shampoo Pert).
+
+&gt;Date: Wed, 7 Oct 92 15:33:50 -0300
+&gt;From: x92fca@px2.stfx.ca (Roy Germon)
+&gt;Subject: ASOH Video question
+&gt;
+&gt;I have a trivial question for anyone out there.  I have the ASOH video,
+&gt;and in the final song, a medley of 2112/in the mood/Villa Strangatio I
+&gt;believe, there is a part where Alex takes the mike.  The vocal portion is
+&gt;edited out of this particulat segment.  Someone out there must know what
+&gt;is said.  While I'm here...
+
+The answer to that was answered on one of the Rockline shows during
+Presto, I forget which Rockline it was but a whole series of them can be
+gotten off the anonymous ftp directory on syrinx.  (Try ~ftp/rush/special)
+
+Also, does anyone else know about the Hemispheres concert on QFM96 in
+Columbus, OH this past week?  I know Doug posted about it but no one
+else seems to have heard.  Doug, did you find out anything from the
+station?
+
+Well, the Jays lost the first game, looks like Geddy is still sweating
+it out at the old ballpark.  Nice HR by Winfield too.
+
+-Jimmy
+jlang@syrinx.umd.edu
+
+----------------------------------------------------------
+
+Date: Thu, 8 Oct 1992 14:52:27 -0500
+From: Jason Crawford &lt;me12792@camelot.bradley.edu&gt;
+Subject: The previous TNMS/Interview
+
+I would personally like to thank James for typing out the interview
+with Geddy and Alex.  I thought that it was very, very good and should
+hopefully put and end to the "Old vs. New" posts.  The band itself
+summed it all up...each album and song is a stepping stone and if
+the old Rush is better than the new Rush, then they wouldn't have
+been around for as long as they have been.  New Rush isn't better
+than old, each album is right for its time.  Anyway, enough on that
+subject.  I was thinking of having a "Rushfest" party sometime soon
+at my dorm, does anyone have suggestions?  When I lived in Pennsylvania
+we had one and made videos and just plain listened to every song
+on every album.  Any other suggestions?  "Get out there and rosk
+(thats rock) and ROLL THE BONES!"...
+*******************************************************************************
+[][][][][]  [][]  [][]  [][][][][]  [][]         **  me12792@camelot.bradley.edu
+[][]        [][]  [][]  [][]        [][]         **  "...a pocket
+[][]        [][]  [][]  [][][][][]  [][][][][]   **   full of silver
+[][]        [][]  [][]        [][]  [][]  [][]   **   is the key
+[][]        [][][][][]  [][][][][]  [][]  [][]   **   to heaven's
+roll the bones - roll the bones - roll the bones **   door..."-Neil
+*
+********************************************************************************
+
+----------------------------------------------------------
+Date: Wed, 7 Oct 92 13:23:33 PDT
+From: qsp!danb@uunet.UU.NET (Daniel Benbenisty)
+Subject: 2112, and the debate continues...
+
+Jim Gordon:
+&gt;        I didn't think that the hero in 2112 committed suicide.  Do any of the
+&gt; band members actually say that?  The line "my life's blood/Spills over" might
+&gt; just refer to his emotional turmoil, and intense desire to change his world.
+Good point - the 'suicide' is not terribly explicit.  However, don't forget
+the line (I'm paraphrasing from memory) "I don't think I can carry on...
+carry on this cold and empty life...Oh NO!"
+
+From: "BRIAN'SAKNOB (Shende,Vineet A)" &lt;SHENDE@AC.GRIN.EDU&gt;:
+&gt; By the way, Dan.  I am also a musician, (as a matter of fact, at the moment I
+&gt; am writing a full length symphony) who enjoys new Rush, though I do think the
+"Full Length?"  You mean, not even an EP? ;-)  Anyway, please see my earlier
+post(s) regarding "musical credentials."  The reason I stated mine was in
+response to someone implying I wasn't "prepared" to discuss 18-19th cent music.
+
+I also stated that, before I met all the All-Rush fans on NMS, I had never
+met any musicians who liked new Rush.  Well, apparently the NMS is not a
+statistical cross-section people who like any/all Rush.  I think you almost
+HAVE to like the current Rush material to muster up enough enthusiasm to read
+and post to a Rush-devoted maillist.  Me, I'm just bored out of my skull. 8-)
+
+Anyway that's fine, cause maybe I can gain some insight into New Rush that
+I've missed, with so many musicians and thoughtful listeners pointing to
+this and that in New Rush....
+
+From: The Analog Kid &lt;PY297HG%UVMVM.BITNET@mitvma.mit.edu&gt;
+&gt; Those who keep whining that they wish that they had remained progressive are,
+&gt; in a way, being oxymoronic, as it is impossible to remain and progress at the
+&gt; same time.
+
+This sort of sophistry is dangerous because it is so clever.  I will explain:
+Just so people understand my position, I have no problem with New Rush (post 82)
+musicianship, production, sounds, etc.  Just composition - that's mostly what
+moves me.  The are plenty (too many) good musicians out there - hardly any of
+them write interesting music.  IMHO, Rush's compositional peak was 2112-MP/PeW.
+The way they managed to weave themes back and forth over the course of a
+half-album was quite mature (contrary to some opinions) and ingenious in some
+cases.  This is musically explorative, challenging, and rare - repeating a
+5-word chorus 37 times is not.  Just because a band has changed doesn't mean
+that they have progressed.  They HAVE changed to a more repetitious, radio-
+friendly (better spacing for commercials) that is closer to what the rest of
+the music world is already doing (so we don't need yet another band doing it).
+Just because a band REMAINS original does not mean they have NOT progressed!
+
+	[ And now that you've made this point, anyone wishing to respond
+	  PLEASE do so via EMAIL personally to Dan.  That way Dan can
+	  carry on the ongoing debate about his opinion on old vs. new
+	  with other people in *EMAIL* so that readers who don't care
+	  about the personal debates over Rush musical preference don't
+	  have to read about it in a public forum.  This thing is
+	  getting out of hand anyways.  Thanks for your input.  rush-mgr ]
+	
+I have a friend who took his girlfriend to a Rush concert  (She's not a
+musician, OK?).  She is starting to get into Rush, but said something
+interesting while Rush was repeating the "Show Me Don't Tell Me" chorus
+for the Nth time: "God, when is this going to end?"
+
+Now, to all those people who are debating OvsN, please stop appending
+"Now with this in mind, let's move on to another topic" to their messages.
+This is sort of hypocritical.  If you're going to debate, debate.  Don't
+put yourself on a high-horse.  If your opinion is that Rush has changed
+but not gotten worse - well, that's just YHO and you're just contributing
+to the debate.  And, as I said earlier, there's nothing wrong with an
+inconclusive debate - it can be educational for both sides.
+
+	[ Hipocritical?  First off, this *IS NOT* a debate forum. 
+	  Certainly debates could come out of it but it DOES reach a
+	  point where it's time to carry it to another medium, like
+	  EMAIL.  There's nothing I see hipocritical about making a
+	  comment and then saying, "let's get on with it", some people
+	  just aren't into debating some topics but *do* have an
+	  opinion on it!  Outside of that, send some EMAIL!  And yes
+	  if you reply to this, send *ME* email, don't followup up this
+	  comment to the rest of the list.  		: rush-mgr ]
+
+By the way, has anyone 'shroomed to Hemispheres? ;-*
+
+I love this list!
+	
+&gt;&gt;&gt;===Pan-Handle-Dan===&gt;	danb@qsp.com
+Daniel Benbenisty		Guitarist for EARWURM
+
+----------------------------------------------------------
+
+Date: Thu, 8 Oct 92 15:02:24 CDT
+From: ervan@cs.rice.edu (Ervan Darnell)
+Subject: Anthem (the book) & 2112, again
+
+When I first read Anthem, I took 2112 to be an effort to put it
+to song.  I was surprised to read that Neil realized afterwards
+the similarities.
+
+WARNING: 'Anthem' SPOILERS follow
+
+Here are the similarities between Anthem and 2112:
+Anthem:
+Everyone is 'we'.  'I' is no longer in the language
+2112:
+"It's one for all and all for one; We work together common sons"
+
+Anthem:
+The protagonist lives in a near future communist distopia
+where every aspect of life is controlled.
+2112:
+"We're taking care of everything", etc.
+
+Anthem:
+The protagonist discovers a light bulb (and generator)
+in an abandoned tunnel/shelter.
+2112:
+a guitar is discovered in a cave.
+
+Anthem:
+He realizes this could change the world
+2112:
+ditto
+
+Anthem:
+He presents it to the council and assumes they'll immediately see
+what a good idea it is.
+2112:
+ditto:
+
+Anthem:
+The council rejects it because it is heretical and would be impossible
+to ever approve (over the objections of the candle makers).
+2112:
+The priests reject the guitar as a dangerous return to the past.
+
+Anthem:
+The council tries to arrest the protagonist for even suggesting such
+a thing.  He escapes.
+2112:
+The priests destroy the guitar and the protagonist escapes/leaves.
+
+Anthem:
+The protagonist eventually flees into the woods there finding
+relics of the previous civilization and realizes how terrible
+the current circumstances are.
+2112:
+The oracle tells of what life was and what it could again be.
+
+And finally, the ending is somewhat different.
+Anthem:
+The protagonist survives and starts rebuilding civilization as
+it used to be, i.e. with individual freedom and egoism as the
+guiding force allowing each person to change his/her circumstance.
+2112:
+The protagonist commits suicide before the elder race returns
+to make civilization what it was once before (my interpretation),
+"home to change...".
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1992.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+********************************************
+End of The National Midnight Star Number 532
+********************************************
+
+
+

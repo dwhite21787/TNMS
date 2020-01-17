@@ -1,0 +1,480 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 12/04/90 - The National Midnight Star #118
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 118
+
+                 Tuesday, 4 December 1990
+Today's Topics:
+               Toronto Music Awards TV date
+                       Rush Axology
+                         wabbits
+                        from bug?
+                        Dave Murry
+                     Back stage stuff
+                   El nombre de Gedster
+                        Whoops...
+                 Requests for interviews.
+                  A couple questions...
+                   Didacts and Narpets
+                   Drum transcriptions
+                     RUSH Laser Shows
+                     TO music awards
+                     Mac Rush Samples
+----------------------------------------------------------
+
+Date: Mon, 3 Dec 90 14:23:08 EST
+From: Robyn Landers &lt;rblander@watmath.waterloo.edu&gt;
+Subject: Toronto Music Awards TV date
+
+A short while ago I wrote this...
+
+&gt;&gt; - On Wednesday December 5 at the Toronto Music Awards, there will be
+&gt;&gt;   a special one time only reunion performance of the original
+&gt;&gt;   Max Webster!!!!   I've got my tickets...
+
+and today someone asked
+
+&gt;Is that going to be telecast?  Time?  Network?  I'd LOVE to see that!
+
+The answer is yes.  It will be telecast on December 20 at 11:30 pm
+until 1:00 am (Eastern time) on the CBC network (specifically CBLT in Toronto)
+and also simulcast on Q-107.
+Word from the organizer is that Geddy will be there to accept an award
+but no confirmation on the others, so don't get your hopes up too
+high for a live "Battlescar".
+The show will be filmed "live to tape" with 24track sound and edited
+afterwards for the telecast on the 20th.
+
+Robyn
+rblanders@watmath.waterloo.edu "I'm just doing my rock'n'roll duty." -Dubois
+
+----------------------------------------------------------
+
+Date: Mon, 3 Dec 90 15:15:07 -0500
+From: jtkung@caf.MIT.EDU (Joseph Kung)
+Subject: Rush Axology
+
+The following is taken from Guitar World, March 1990 with additions
+by J.T. Kung :
+
+			The Magic Behind PRESTO
+			-----------------------
+
+Geddy Lee and Alex Lifeson both firmly subscribe to the dictum, "If it
+ain't broke, don't fix it." As roadie Jim Johnson puts it, "Geddy
+hasn't changed his setup for as long as I can remember, and I've been
+with the band for six years, since the _Grace Under Pressure_ tour."
+
+Geddy runs his basses [a Wal Bass, made in England, with a Fender Jazz
+bass as the backup on the Presto tour instead of the Steinberger]
+through a Telex wireless unit and into two Furman PQ-3 preamps. From
+there the signal is fed to an API 550 equalizer and two BGW 750 amps
+that power an Ampeg V4B bottom and a Thiel double 15-inch bottom. A
+custom switching system allows Lee to shift between the preamps and
+the API equalizer for different tones.
+
+Alex, says Johnson, is a bit more loaded up. He runs his Signature
+[with active single coils] and Strat-style guitars into a Nady 700
+wireless system which feeds into two Gallien-Krueger preamps. The
+signal then goes to two Rane SM-26 splitter mixers and an effects
+rack, custom-designed by Chops Joneson, consisting of two T.C.
+Electronic 2290 digital delays, a T.C. Electronics 1210 Spatial
+Expander for chorusing, a Roland DEP-5 and Dimension D, and a Yamaha
+SPX90. All of Alex's effects are also MIDI'ed via the Yamaha MFC-1
+MIDI controller.
+
+A pair of Mesa/Boogie Strategies (200 W/ch) powers two Gallien-Krueger
+twin 12's with Celestion speakers. Alex's cabinets are miked with
+Shure SM-57's. The sound goes out to the house, along with two direct
+lines from out of the back of the preamps and one dry guitar feed from
+the Rane mixer.
+
+----------------
+
+As for keyboards, I hear that Geddy uses a lot of Roland equipment on
+tour. Several D-550's, Akai S900 samplers [something like a total of
+9!], etc. He's probably using the Roland S-770 sampler now too. Most
+of the old Oberheim sounds are sampled and played via the Akai, and I
+bet they'll rely on the S-770 in the future. Neil also uses the Akai to
+trigger sounds via his Simmons set as well as his KAT percussion
+controller.
+
+- Joe
+
+----------------------------------------------------------
+
+Date: Mon, 3 Dec 90 16:39:27 -0500
+From: John W Connelly &lt;connelly@unix.cis.pitt.edu&gt;
+Subject: wabbits
+
+There seems to be some confusion about the bunnies on the _Presto_ tour.
+If memory serves, here in Pittsburgh they inflated out of the hats during
+"Presto" (how appropriate, I thought), and began to dance at the intro to
+"Tom Sawyer".  I find it strange that they'd descend from the rafters in
+other cities, but, hey, anything's possible.  Just doesn't make as much
+sense as a rabbit from a hat...
+
+But hey...
+
+"I'm not one to go pointing my finger..."
+
+--JC
+
+:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:
+| John Connelly, 511 LRDC | connelly@unix.cis.pitt.edu |"Klingon sons, you've |
+| University of Pgh	  |=+=+=+=+=+=+=+=+=+=+=+=+=+=+|  killed my bastard!" |
+| Pittsburgh, PA  15260   |   CONNELLY@Pittvms.BITNET  |     --STIII (almost) |
+:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:
+
+----------------------------------------------------------
+
+Date: Mon, 3 Dec 90 18:56 EDT
+From: Ken Renard &lt;KDRENARD@vms.cis.pitt.edu&gt;
+Subject: from bug?
+
+I'll try again here- this was started in the Monday, 3 Dec. issue
+but the "from bug" got it. (bah-frombug)
+
+	With all the advances in electronics in the past years,
+music has joined the computer age too with sampling.  It's a real
+neat idea to have control over any sound you wish to record with
+electronics.  Imagine the studio during the recording of YYZ on
+Moving Pictures after the 6th take.  There would be broken glass
+all over the place without sampling.
+	In (not from) a drummers viewpoint, its real handy to have
+a wide variety of sounds available.  Neil has a lot of neat sounds
+packed away in his electronic drums which he triggers by hitting
+drumpads. The great thing about Neil is that he combines acoustic
+drums so well with his electronics.  He (and a lot of us drummers)
+feels that electronic sampling is a great complement to drumming
+and not a replacement for it.
+	In the latest interview with Neil in Modern Drummer, he
+talks about where he gets his sounds from.  He says that he doesn't
+get them from copying others, but by creating them himself with
+synthesizers.  Neil says that he doesn't like to copy other people's
+sounds.
+	It may be obvious that some people use sampling and triggered
+sounds in place of their musical ability, but Rush sure uses it to
+complement their existing talent and I think they do a good job of it.
+
+P.S.  Everyone in the Pittsburgh area, call Buhl Science Center and
+request a Rush laser show.  (412) 231-2319
+
+----------------------------------------------------------
+
+From: atz@clmqt.marquette.Mi.US (dweezilbub)
+Subject: Dave Murry
+Date: 3 Dec 90 18:41:46 EST (Mon)
+
+{sorry about wasting space here}  Dave Murry...  I could not
+respond to your letter you sent.  It said your address was DO ME!
+DO ME! DO ME! DO ME! DO ME! DO ME!  Please send another letter
+with a good address.
+
+Hi RUSH FANS!!!!!  Bye RUSH FANS!!!!!
+
+{there's nothing like listening to The Pass at 100 watts!}
+
+--
+    \____________________    ///   //////  /////  _____________________/
+   \__ The Enterprise __/  // //    //    ,.-'~   \___space for rent ___/
+      \___-____BBS___--   //~~//   //    //////     --_____-___-____/
+          \    \     \/  atz@clmqt.marquette.mi.us  \/     /   /
+
+----------------------------------------------------------
+
+Date: Mon,  3 Dec 90 20:31:55 -0500 (EST)
+From: "William F. O'Dell" &lt;wo04+@andrew.cmu.edu&gt;
+Subject: Back stage stuff
+
+About the antics of the boyz after the shows. For any of you non Visions
+owners, there is a passage about Terry Brown and the guys at their hotel
+one night.
+
+   Rush had just received some new laser equipment, and to test it out,
+Terry took one of the lasers, aimed it into a woman's apartment and
+chased her around the room with the beam. The police soon arrived at the
+guys' room, responding to a call about a man with a laser sight attached
+to a weapon of some sort. Terry played dum, saying he was trying to find
+the off switch to kill the thing. The police soon left and nothing else
+happened.
+
+To the Rush Manager. Will there be issues all through the holiday?
+
+[ Well, I'll be at work through December 21st, although there may or may
+  not be a digest that day due to other constraints (party).  I won't be
+  working the week of 12/24-12/28, although I may sign on from home, if
+  that's where I am, and I can drag myself away from the fireplace.  :-)
+  I'll be back at work regularly 1/2 or 1/3 (depending upon how 1/1 is).
+                                                               :rush-mgr ]
+
+Thanks
+
+Furman
+
+----------------------------------------------------------
+
+Date: Mon, 3 Dec 90 21:48:51 -0500
+From: Michael S Savett &lt;savvy@chopin.udel.edu&gt;
+Subject: El nombre de Gedster
+
+  Here's the deal on Geddy's last name...Several years ago, I came across
+a rock magazine that included a interview with Geddy.  In the intro graf,
+it mentioned that he was born 'Gary Leibovitz.'  I know that entertainers
+frequently shorten and/or abbreviate their names to become easier to
+pronounce, spell, or to become more acceptable.  I have been told that, for
+any number of the above reasons, Geddy decided to shorten 'Leibovitz' to
+'Lee.'
+  I have never seen any reference to 'Weinrib.'(sp?) This may be in print
+somewhere, but I've never come across it.  I don't believe that 'Lee' is
+Geddy's middle name.
+  Therefore, based on this information, I have concluded that 'Leibovitz'
+is correct, but I do NOT have concrete proof.
+  If anyone has information to the contrary, I would be interested to
+hear about it.
+
+  Later,
+
+  Savvy
+
+----------------------------------------------------------
+
+Date: Mon, 3 Dec 90 21:49:52 -0500
+From: Michael S Savett &lt;savvy@chopin.udel.edu&gt;
+Subject: Whoops...
+
+  Almost forgot,
+PLEASE, NO MORE BUNNY STORIES!!!!!!!!!!!!!!!!!!!!
+
+  Savvy
+
+----------------------------------------------------------
+
+Date: Mon, 3 Dec 90 20:36:23 PST
+From: jlang%sdcc13@ucsd.edu (~ Rush Fanatic ~)
+Subject: Requests for interviews.
+
+Hello all.
+My first posting in a while.  Some things I'd like to address.
+
+1.  Yes, let's stop discussing rap and sampling, I've had my fill of
+that for now.  (maybe for those interested we could move it to email? It
+would save some of us like myself some time  to wade through all the
+discussions on the NMS *&lt;:-)
+
+2.  Someone pointed out to Dan about the FAQL on Geddy's real name.  I
+too thought it was Gary Weinrib (or some variation thereof), perhaps we
+can get a definitive answer on this?  (time to check my books and
+verify).  Otherwise, a very good list  compiled so far.  Nice job, Dan!
+*&lt;:-)  (May your chess board be dust-free for our awaited rematch.)
+
+3.  As Dave has pointed out in a previous issue - the Rush Tour Dates
+Listing probably won't be mailed out through the NMS for a while (unless
+there's a drastic change whereby I receive all the hundreds and
+hundreds of dates for the Caress of Steel tour! :-)  I am still
+accepting dates and corrections if you find any mistakes.  If any of you
+wants an updated list just email me and I'll send you my current list.
+Note: Please, if you want the list of Rush tour dates, tell me what
+revision you have, that way I can tell you if you already HAVE the
+latest version!  (The current version by the way is Revision 2.1 - last
+updated November 29, 1990)
+
+4.  Since there's been some talk about the lyrics server lately, being
+down, if anyone wants a copy of any of Rush's studio releases you can
+email me and I have them online if you need lyrics for any album.
+
+5.  I am currently typing in some interviews with some of the band
+members from current and previous tours (thanks Dan for the old issues
+of MD).  If anyone out there would like to help expand my library of
+interviews and text files on Rush, please dig through your old magazines,
+tapes, whatever you have and mail me about it.  If I don't have a
+particular interview that you've come across, I'd like to add that to
+my library.  (perhaps we can set up something where you can send me a
+copy of the interview or feature articles that you've found on the band.)
+Send email if you have something of interest.
+
+Well, I guess that's about it for today.
+
+-Jimmy Lang
+ rush@ucsd.edu
+
+"..Infinity the star that would not die.."
+May you hum Cygnus X-1:Book I flawlessly.
+
+----------------------------------------------------------
+
+Subject: A couple questions...
+Date: Mon, 03 Dec 90 21:09:55 -0800
+From: flapjack &lt;dblosevn@nevada.edu&gt;
+
+Okay guys, now that I've read my first FAQ issue I have a couple questions
+that I know haven't been beat to death for y'all.
+
+I have heard a few things, and wonder if any are true.  One that seems to
+have been disproved already was that Niel was an American, (I didn't make
+this up, I actually heard it somewhere...)  The other two Niel rumors I
+have heard are that he has a Masters degree in poetry, and a doctorate (sp?)
+in music.  Can anyone substantiate or refute these claims? it would set my
+mind at ease...
+
+Oh yeah, and I've also heard that the band's least favorite album was
+_Signals_, and that they were so displeased with it that they almost broke
+up over it.  Does this ring any bells with anyone, or is that senseless
+rumor?
+
+Any answers to these questions would be greatly appreciated.
+
+					They call me the workin' man,
+							Brian Bourgon
+
+----------------------------------------------------------
+
+Date: Mon, 3 Dec 90 23:59:44 EST
+From: DAR0@NS.CC.LEHIGH.EDU (David Andrew Rossing)
+Subject: Didacts and Narpets
+
+      I was experimenting with I believe what is called the "Eno sound"
+this weekend (connecting the positive speaker wires of both left and
+right channels to one speaker) and I noticed that during Didacts and
+Narpets that there are words underneath the guitar slashes.  It is very
+hard to hear normally but with this speaker setup it is easier to hear.
+The words sound something like "Say word they heard" along with others.
+Does anyone know what they are saying and if it has any meaning with
+the song and who says this?
+
+     Also on the subject of Rush cover tunes, as mentioned "Bad Boy" was
+a Beatle song covered by Rush, but the origial version of this song was
+done in 1959 by Larry Williams.
+
+        -Dave
+
+ORQ: Mr. Alex Lifeson on the plastic guitar
+
+----------------------------------------------------------
+
+From: Adrian N Ogden &lt;ano@csres.cs.reading.ac.uk&gt;
+Date: Tue, 4 Dec 90 09:42:42 GMT
+Subject: Drum transcriptions
+
+A while ago on alt.r-n-r someone mentioned that there were
+a couple of books of Rush drum transcriptions available. I
+think they were called:
+
+The Drum Techniques of Rush
+More of Rush
+
+Can anybody tell me anything about these, publisher, author?
+I can't find them over here and I'll need some details to
+order them.
+
+&lt;&lt; Adrian Ogden   _ . _ _   _ . _ _   _ _ . .   ano@uk.ac.rdg.cs.csres &gt;&gt;
+
+PS. British prog rockers It Bites have split up and I'm depressed!
+
+----------------------------------------------------------
+
+Subject: RUSH Laser Shows
+From: MGOODWIN@maine.maine.edu (J. Michael Goodwin)
+Date:    Tue, 04 Dec 90 08:15:50 EST
+
+Are these laser shows touring nationally?  If so, has anyone picked
+up a schedule of the tour.  That would be a great item to send to
+the NMS manager as a special edition.
+
+Mike Goodwin
+
+----------------------------------------------------------
+
+Date: Tue, 4 Dec 90 12:05 EST
+From: Shane Faulkner &lt;V127L2QZ@ubvmsc.cc.buffalo.edu&gt;
+Subject: TO music awards
+
+Those of you going to the Toronto Music Awards....  I have heard from a good
+source that Geddy will almost definitly be going, but Alex and Neil are
+questionable.
+
+Hightlights of the show will be broadcast December 20th on CBC in Toronto.
+
+-Shane
+
+----------------------------------------------------------
+
+Date: Tue, 4 Dec 90 12:33 EST
+From: "C. Alex Harden" &lt;V409EPK3@ubvmsc.cc.buffalo.edu&gt;
+Subject: Mac Rush Samples
+
+To whomever posted about 2 weeks ago that they were going to digitize some
+ Rush samples, please respond to me vie E-mail, as I found out I have
+ access to a Macintosh with Kermit and a SoundMaster program.
+
+If you could tell me what to do to get and hear the samples, please respond.
+
+Thanks!
+
+K  ^  A  C. Alex Harden  -- Computer Science Major
+ ^ | ^   State University Of New York At Buffalo
+  \|/    Bitnet:   V409EPK3@UBVMSB
+&lt;--+--&gt;  Internet: harden@autarch.acsu.buffalo.edu
+  /|\    Usenet:   ub!ubvmsb.cc.buffalo.edu!v409epk3
+ v | v   US Mail:  368 Wilkeson Quad; Buffalo, NY 14261
+O  v  S  Any statements made above are by me unless otherwise noted.
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions & changes), send
+mail to:
+
+    rush-request@syrinx.umd.edu
+
+To obtain previous issues of The National Midnight Star (in it's current
+incarnation), send a request containing your name, e-mail address, and
+the digest number(s) to:
+
+    htodd@gmuvax2.gmu.edu
+
+Please specify The National Midnight Star (the RUSH Digest), as she handles 
+archiving for other lists also.  These requests are processed in a batch
+fashion once a week.
+
+In addition, lyrics, individual articles, and more are now available at an
+archive file server accessible via email.  For more info, send email with
+the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the management.
+
+List Management
+
+*********************************
+End of The National Midnight Star
+*********************************
+
+

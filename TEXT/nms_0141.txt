@@ -1,0 +1,190 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 01/03/91 - The National Midnight Star #141
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 141
+
+                 Thursday, 3 January 1991
+Today's Topics:
+                  Update to images file
+                   Re:  RUSH on eMpTyV
+                   End Of Year Tidbits
+                  Archive Server update
+      Re: 01/02/91 - The National Midnight Star #140
+----------------------------------------------------------
+
+Subject: Update to images file
+Date: Thu, 03 Jan 91 11:49:27 EST
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+The CONTENTS file in the images directory for anonymous ftp (on Syrinx)
+has been updated.  I originally guessed (incorrectly) that the images
+were circa 1987 or so; actually they were scanned from the _Rush Profiled_
+CD, released in 1990.
+
+Editor,
+The National Midnight Star
+(RUSH fans mailing list)
+
+----------------------------------------------------------
+
+Date: Wed, 2 Jan 91 12:26:12 EST
+From: crossman@ghoti.LCS.MIT.EDU (Paul Crossman)
+Subject: Re:  RUSH on eMpTyV
+
+  When I was 12, about 8 years ago, everytime I turned on MTV, now
+known as eMpTyV, eMpTyV showed rush like they were going out of style
+or something.  They showed more Rush videos in a day than you could
+count on your fingers.
+
+  Just some food for thought on how bad eMpTyV has gotten in the
+recent past.
+
+Paul Crossman				"A straight line is the shortest
+pcrossma@hawk.ulowell.edu		 distance between two points, but
+					 it is by no means the most
+					 interesting." -- Dr. Who
+
+----------------------------------------------------------
+
+Date: Wed, 2 Jan 91 12:36:32 EST
+From: warsaw@ncbi.nlm.nih.gov (Barry A. Warsaw)
+Subject: End Of Year Tidbits
+
+Just a couple quick interesting notes. The Washington Post today has a
+list of the top 10 grossing tours of 1990. While Rush isn't in the top
+10 (#1 went to New Kids), they did get a note as one of 19 acts (after
+the top 10) to gross more than $10 million.
+
+Also, a couple of days ago, the local classic rock station printed
+their "top 500 songs of all time."  Tom Sawyer was the only Rush song
+to make the list (that I could see). It barely made it at #499!  Ah,
+what do they know? :-)
+
+-B
+
+----------------------------------------------------------
+
+Subject: Archive Server update
+Date: Wed, 2 Jan 91 13:04:14 CST
+From: Keith E. Ford &lt;infonode!fordke@uunet.UU.NET&gt;
+
+Changes to index of server@ingr.com since Sat Dec  8 02:30:15 1990
+
+ BYTES  FILENAME             CHANGE DESCRIPTION
+------- -------------------- -------------------------------------------
+  14515 rush/misc/grp_of_dec :Alex iv, Canada's Group of the Decade award
+  20127 rush/misc/rston2_ivs :more Rolling Stone interviews/articles
+  25759 rush/misc/sounds82   :1982 article from British magazine SOUNDS
+  40802 rush/misc/rush_faq   :frequently asked questions about Rush
+  79156 rush/misc/mod_drmr   :4/84 Modern Drummer interview with Neil
+  17358 rush/misc/mp_tp      :Moving Pictures tour program
+ 107457 rush/misc/rast_fbn   :FBN raster image of album cover
+  28172 rush/misc/bass_playr :added Sat Dec 22 02:30:37 1990
+
+   and more TNMS's of course
+
+To the person that sent me the GIFs, thanks, but I goofed and deleted
+them.  Will ftp some from syrinx, but would appreciate it if you could
+remail them.  :-)
+
+----------------------------------------------------------
+
+From: kennb@clmqt.marquette.Mi.US (PeartLee)
+Subject: Re: 01/02/91 - The National Midnight Star #140
+Date: 2 Jan 91 15:59:59 EST (Wed)
+
+  Hello all ya RUSH heads from the place known as "Someplace
+special" (hahaha), someplace cold is more like it.  Anywayz, I
+just got Caress Of Steel for Xmas and it's pretty cool.  But, I
+was kinda wondering something, does ANYONE out there have P/G on
+CD??  And does anyone know where I can get it???  I really like
+the album and I want to get it but I can't find it in this place
+that don't know good music if it came up and bit them in the a**.
+Anywayz, would anyone be nice enough to tell me???  And if it's
+possible that I send them the $$$ to get me it since I'm up here
+and stuff.  But if anyone knows where to get one and would be
+willing to buy iy for me if I send them the $$$ I'll be really
+gratefull..
+
+[ Hmm, this is odd - around the Washington DC area, it's one of the Rush
+  CD's you can count on finding.  Have you tried checking your local mega-
+  music store (like Tower records)?                              :rush-mgr ]
+
+Thanks!
+
+RUSH on dudes!!
+
+--
+  --=+&lt;&lt;| kennb@clmqt.marquette.Mi.US |&gt;&gt;+=--
+        /                             \
+       | "We have nothing t fear but   |
+       |fear it's self."--Rush         |
+        -------------------------------
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions & changes), send
+mail to:
+
+    rush-request@syrinx.umd.edu
+
+There is ftp access available on Syrinx now.  The network address to ftp
+to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+There is a README file giving brief information on what is contained in
+the directories.  Currently available: previous issues of the NMS, lyrics,
+and a relatively current subscriber's list.  Future avaiability will include
+articles, interviews, etc.
+
+There is also a mail server available (for those unable or unwilling to ftp).
+Previous issues of The National Midnight Star (in it's current incarnation),
+lyrics, individual articles, and more are now available at an archive file
+server.  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+[ NOTE: the address "htodd@gmuvax2.gmu.edu" is no longer available for
+  back issues of the NMS, due to disk space problems at their site.  This
+  address may or may not become active again for this purpose; stay tuned
+  here for details.                                                       ]
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the management.
+
+List Management
+
+*********************************
+End of The National Midnight Star
+*********************************
+
+

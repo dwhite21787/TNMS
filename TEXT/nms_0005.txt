@@ -1,0 +1,250 @@
+Errors-To: rush@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush-list-all
+Subject: RUSH Fans Digest of 07/06/90 (#5)
+
+
+                RUSH Fans Digest, Number 5
+
+                   Friday, 6 July 1990
+Today's Topics:
+               State of the Digest Address
+                          (none)
+                 Neil says "Get A Life!"
+                special appearance by.....
+                      Opening Bands
+           Those opening acts of years gone by
+----------------------------------------------------------
+
+Subject: State of the Digest Address
+Date: Thu, 05 Jul 90 13:20:28 EDT
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+Hello all,
+
+    I just thought I'd send out a statement of the current status & health
+of the RUSH Fans Digest mailing list.  This is prompted to several mail
+items sent to the manager account in the past few days; I thought I'd send
+out a news update as to what's going on, and what to expect.
+
+    Now, you probably noticed the new format of the Digest.  (I would hope
+so!)  This version of the software is my second try to get this package (or
+a variation of it) up & working on Syrinx.  It was originally an HP package,
+and was then modified to SUN UNIX, then over to Ultrix here.  This second
+version required minimal tweaking to run, for which I am thankful.  I've
+modified the subject field so that it prints out the date of the Digest, and
+a digest number is also designated.  This digest number should aid you in
+telling if you've missed a mailing.  The new software enables me to produce
+the Digest in a shorter time, and in a format that un-digestifiers can digest
+(hi Barry).  This is all well and good, but as a result, a previously
+(partially) suppressed bug has resurfaced: duplicates.
+
+    The duplication problem has been around for a while, and seems to be
+proportional to the size of the list.  When the list was in it's infancy,
+there were only a few dozen names, and no duplication problem.  As the
+list grew past 200 names, the problem began to appear.  It seemed not to
+be consistent, and even within a mailing, some would get duplicates, and
+others wouldn't.  (I have gotten mail on dups when I didn't receive a
+duplicate myself.)  About a month or so ago (when the list was over 300),
+I split the list into two lists.  This seemed to help the problem - dups
+would occur, but with less frequency.  Then I got a mail item forwarded
+to me by one of the list members (thanks, Charles) which had info about a
+UNIX cron bug that affected mail distribution.  In short, the cron job
+would check the queue every so often, and if the mail was still queued,
+it got restarted.  As you probably know, the longer the 'To:' list, the
+longer the mail will stay in the queue, so this apparently caused the
+problem.  This is why the splitting of the list worked, at least partially.
+Unfortunately, the cron code the original poster was talking about was
+locally written, so the patch may or may not be applicable to Syrinx.
+That remains to be seen.
+
+Now, with the new digest software, it necessitates the list being a single
+entity again.  That is, at least until I attempt to modify it.  I may get
+brave and cut the list into 3 or 4 parts, and have the software shoot the
+Digest to all the lists simultaneously.  However, until that day, the
+duplication problem will still be with us (barring an outside fix), so I
+ask you to please bear with it!  For now, there is no need to send mail
+telling me that it is still happening.  I may do some testing later, and
+ask for mail then.
+
+Addition, Re-addition, and Removal Policy
+-----------------------------------------
+
+To become a member of the RUSH Fans Digest mailing list, just send mail
+to the administrivia account with your name and a working network mail
+address, and I'll add you to the list, then send you a short informational
+file.  To be removed from the list, just send mail to the same address
+asking to be removed.  If you plan to unsubscribe for a period of time,
+then re-subscribe, you'll need to send mail again to re-subscribe.  Due
+to the size of the list, and the number of people who unsubscribe for, say,
+the summer, it is prohibitive for me to remember when to re-add someone
+later.
+
+If I get a mail bounce back with your userid being flagged as "unknown
+user", you get put on a list.  If I get two bounces in a row with this,
+I assume you lost the account & were unable to contact me in advance, and
+will remove you from the list.  If I get a "host unknown" message, I take
+that with a grain (truckload) of salt, and wait.  If it persists over several
+days, I'll have to consider that your node may *really* be gone, and finally
+remove you.
+
+If you have not received the Digest for several weekdays, please send mail
+to the administrivia account to inquire as to what's up (or not).
+
+If you have any questions at all concerning the administration of the list,
+feel free to send mail.  My only disclaimers are:
+
+    1) I'll get to them as I have time (within a day or two, usually), and
+    2) "Because I'm the administrator, that's why".
+
+Seriously, I'll listen to suggestions, but some are impossible, or at least
+difficult/time consuming enough for me to discard.
+
+Well, enough hot air for one Digest.
+
+Manager,
+RUSH Fans Digest
+
+----------------------------------------------------------
+
+Date: Thu, 5 Jul 90 12:14:47 EDT
+From: brantley@umd5.umd.edu (Brantley Riley)
+
+Well, to finally add my 2 cents on the topic of opening bands...
+When I saw Rush in Philadelphia for the Power Windows tour, Blue Oyster
+Cult was the opening band.  Apparently Marillion was opening for most
+of the East Coast concerts during the PoW tour, but they had to cancel
+the Spectrum show (I don't know why) and BOC was the replacement.  I didn't
+see the whole opening act, but the part I did see was great!
+
+brantley
+
+"the heart and mind united in a single, perfect sphere"  -- ORQ
+
+---------
+"Have I told you this before?" "No, we only met about half an hour ago."
+"So little time to pass?" said Merlyn, and a big tear ran down to the end of
+his nose. -- T.H. White, _The Once and Future King_
+                      *****  brantley@umd5.umd.edu  *****
+
+----------------------------------------------------------
+
+Subject: Neil says "Get A Life!"
+Date: Thu, 5 Jul 90 10:30:53 MDT
+From: Doug Grumann &lt;dougg@hpptc16.hp.com&gt;
+
+About a week ago, Rush was playing Cal Expo here in Sacramento.  A friend of
+mine who is a friend of Neil Peart's set up a short tour of Hewlett-Packard
+so I could show off all our high-tech computer goodies.  I'd never met Neil
+before, and from murmurings I've heard on the Rush Fan's Digest, I thought
+he'd be really stuck-up.  We'll folks, he's just a normal guy.  He's talkative
+and outgoing.  One of the reasons he comes off as remote in public is because
+he HATES "groupies".  He doesn't like being idolized and fawned over.  Among
+the computer stuff I showed him was "Notes".  We talked about how people from
+all over the world contributed to notes strings like rec.music.misc and
+alt.sex.  His thoughts ran along the same lines as most managers': Theres a
+great waste-of-time potential there!  I also told Neil about the Rush Fans
+Digest.  I tried to explain that most of us don't spend 24 hours a day fawning
+over every issue.  Unfortunately I showed him part of an issue, which happened
+to contain lengthy diaglogues concerning the deep meaning of his WATCH.  This
+obviously did not make a great impression.  His quote was: "Get A Life!!!".
+Luckily, the other computer & X-window demos came off better.
+
+The Cal Expo concert went OK from my perspective, but the band didn't like it.
+They had some technical difficulties, and there wasn't any seating in the
+general admission area, which was right in front of the stage.  The people
+down there stood and squished and tossed shoes on the stage all night, which
+didn't make the band too happy.  They won't be playing Cal Expo again.
+
+----------------------------------------------------------
+
+Subject: special appearance by.....
+Date: Thu, 05 Jul 90 12:21:59 PDT
+From: (Scott "Skywalker" Larsen) &lt;larsen@mist.CS.ORST.EDU&gt;
+
+Does anyone know the albums that any of the boyz have been on
+or involved in (past, present and future) ?
+
+For example:
+Geddy Lee: Great White North (Bob & Doug MacKenzie)
+Geddy Lee: Producer Boy's Brigade debut album?
+
+-Scott Larsen
+larsen@mist.cs.orst.edu                  UUCP: hplabs!hp-pcd!orstcs!larsen
+--------------------------------------------------------------------------
+"Ten bucks is ten bucks."
+		- Geddy Lee
+
+----------------------------------------------------------
+
+Subject: Opening Bands
+Date: Thu, 5 Jul 90 16:46:27 CDT
+From: David T. Sandberg &lt;dts@quad.sialis.mn.org&gt;
+
+The first time I saw Rush was in or around 1978... I can't remember
+which album they were touring for at the time, but they played at
+the Civer Center in St. Paul, MN, and their opening act was Golden
+Earring.  (Ah, to remember the days when "Radar Love" was a _new_
+song.)
+
+Did anyone else ever see Golden Earring open up for Rush, or was
+that just a fill-in date or something?
+
+--
+david sandberg ^J qcs ^J richfield mn ^J dts@quad.sialis.mn.org
+
+----------------------------------------------------------
+
+Date: Thu, 5 Jul 90 17:22:55 -0700
+From: David Conley &lt;dmc@u.washington.edu&gt;
+Subject: Those opening acts of years gone by
+
+All this discussion about opening acts is making me wax nostalgic.
+I remember in particular the Moving Pictures tour and the opening
+band, FM. A really great opening act and I think probably the most
+Rush compatible band I have seen (I did not see Marillion tho).
+Here's some trivia for you all. FM is (or should I say was, I don't
+know if they are still together?) a 3 piece band from the Toronto
+area (sound familiar?.... can anybody name another progressive band
+from Toronto that is also 3 piece??). One of the guys in FM plays a
+really hot electric violin. It was great in concert because the
+violin had red lights on the bow that moved around like crazy during
+the violin solo when the lights were turned down. Anyway if you will
+recall there is a great violin solo in "Losing It" on the Signals
+album. This solo is played by the same guy from FM. I don't
+remember his name off hand, but I'm sure his name is in the album
+credits. BTW, I have an FM album called "Black Noise", so I'll go
+look up his name. That album contains a great song called "Phasors
+on Stun". Some of you older folks (like me) might remember it from
+around 1980. It got quite a bit of airplay on the more progressive
+"FM" radio stations (no pun intended).
+
+Just thought you might like to know.....
+
+David
+
+----------------------------------------------------------
+
+To submit material to the Rush mailing list, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions & changes), send
+mail to:
+
+    rush-request@syrinx.umd.edu
+
+The contents of the Rush Fans Digest are solely the opinions and comments
+of the individual authors, and do not necessarily reflect the opinions of
+the management.
+
+List Management
+
+********************************
+End of RUSH Fans Digest
+********************************
+
+

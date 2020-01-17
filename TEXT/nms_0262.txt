@@ -1,0 +1,171 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 06/12/91 - The National Midnight Star #262 ** Special Edition **
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 262
+
+                 Wednesday, 12 June 1991
+Today's Topics:
+                Rush Presto concert review
+----------------------------------------------------------
+
+Subject: Rush Presto concert review
+Date: Fri, 3 May 91 13:11:52 WET
+From: Moschops &lt;M.ODonnell@computing-services.thames.ac.uk&gt;
+
+                Kerrang magazine
+                #282
+                March 24,1990
+----
+Rush/Mr Big
+Convention Center Arena
+San Antonio
+----
+
+AUDIENCE PARTICIPATION. It can make or break a show, and tonight the 
+fabulous crowd made Mr Big bigger and Rush into an overpowering aural
+cataclysm.
+
+At 7.30pm sharp, Mr Big ease onstage to a healthy round of applause
+and jump into a seven-song set of bluesy rock and roll. The tunes are
+catchy and well played ( of course! ), but I have to admit that I 
+preferred them in the more intimate setting of a small club I'd seen 
+the band in a couple of months ago. It's da blooze, after all, so it
+can't really knock over a stadium rock crowd.
+
+The crowd's enthusiasm and the bands energy, do win out though, and
+_Merciless_, _Take a Walk_, and _Big Love_ are three heavy hitters.
+Vocalist Eric Martin is a showman as well as a soulful singer, getting
+down on his knees to praise the virtues of Texan women, then harassing
+his bandmates during their instrumental sections.
+
+Then it's a fun ride to show closer _Addicted to that Rush_ , and the
+band increase their efforts, culminating in Eric Martin's query:
+"Are you Addicted to RUSH?" The song is momentarily drowned by screams
+and yowls. Ask a stupid question....
+
+There are a lot of Rush fans in South Texas, and it looks like every 
+one of them got a seat for this show. How else can you explain the 
+tremendous roar that goes that goes up when the lights go black, the
+vibration that rolls up your spine as 13,000 people rise to their feet,
+the applause that crackles like prairie fire from balcony to 
+stage-edge?
+
+The opening video is an oldie with a new twist; tonight the cartoon
+people are queueing to see "Attack of the killer Rabbits". The 
+musicians onscreen hit their stage just as the opening bars of 
+"Force Ten" burst from the expertly wielded instruments of the now visible
+Lifeson, Peart and Lee.  The song streams through multicoloured cones 
+of light, and we're all entranced like deer on the highway - well,
+deer who yell and play air guitar and jump up and down!
+
+The band are in shades of black, white, grey, and silver ( Peart's
+drumkit, that ), but the crowd are bathed in a rainbow for much of the
+show. Being able to see each other and knowing that Rush see us 
+inspires even higher levels of hyperactivity. The perfectly clear
+and strong notes ( especially those from Geddy's throat ) answer us 
+and encourage us to still more. Let me tell ya, I'm not going over the
+top here; These are easily the most exciting concert moments I've 
+experienced in years.
+
+Its the old songs that get the best response, and Rush run through 
+several of them; _Freewill_ , _Time Stands Still_ and _Red Barchetta_
+are the biggest adrenalin pumpers. How can the music be so hot, while
+the band are so cool?
+
+_Superconductor_ and _Show don't tell_, off the new album, don't meet
+with as big a welcome, but then they're not old friends yet. Just wait
+a couple of years. In the meantime the new video backup ( cartoon 
+magicians and computerised weirdness emerging from a top hat ) keeps 
+up properly impressed.
+
+After Geddy shows his best on the classic _Closer to the heart_ ,
+it's time for a surprise - the seldom heard _Xanadu_. It leads into
+_YYZ_ and Neil Peart's kilt spins around in preparation for what will
+be another lesson in When You Certainly May Solo, In Fact, When You Had
+Better! The sound is nearly African in parts, orchestral in others.
+Special effects and synthesized jazzy outbursts keep us cheering,
+though Peart never stops to indulge himself in our praise.
+
+Back to full band efforts, and a portion of their stage show obviously
+affected by their excellent sense of humor. From each side of the stage,
+two giant rabbits emerge from magicians' hats. They remain static 
+through _War paint_ and the _The Mission_ but can't resist _Tom Sawyer_
+-they begin to shake and shimmy and wave their long white ears. Utter
+silliness and perfect one-upmanship of the Rolling Stones' inflatable
+bimbos. Even Geddy's laughing as he strolls across the stage,
+grabbing the sides of Alex's mouth in an attempt to make him smile too.
+
+It's not over till It's over, and Rush give us our money's worth on
+the encore, hopping through _Big money_, _2112_'s rocketing 
+_Overture_ with a segue into _La Villa Strangiato_ and _In the mood_
+under dark blue lights and lasers gone mad. Even Alex infected by the
+general joyousness, shows us some dance moves, under Geddy's 
+direction.
+
+We're screaming, they're smiling, and it's for the same reason;
+"You guys have been great" Geddy yells.
+
+Right back atcha, gentlemen.
+
+Written by 'Maribeth Bruno'
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 262
+********************************************
+
+

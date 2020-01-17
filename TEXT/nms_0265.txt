@@ -1,0 +1,597 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 06/14/91 - The National Midnight Star #265
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 265
+
+                   Friday, 14 June 1991
+Today's Topics:
+                      Administrivia
+                 Rush and ... Star Trek?
+                  BA? BFD. PMO -- NAFW!
+     Re:  06/13/91 - The National Midnight Star #263
+               Everything Above and Beyond
+                      What the FAQ?
+                  Even when I am gray...
+                 Let us not go gently...
+           Literary references in Neil's lyrics
+            How to find "Gonna Roll the Bones"
+                   on a different note
+                Dylan Thomas; Necromancer
+                   Dune, Dylan, Chandra
+----------------------------------------------------------
+
+Subject: Administrivia
+Date: Fri, 14 Jun 91 09:38:57 EDT
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+ANNOUNCEMENT:  Source code for the programs 'compress' and 'uncompress' is
+available via anonymous ftp at Syrinx.  The source is provided in Unix shar
+file format and is uncompressed.  It's in the main 'rush' directory via ftp.
+There is also an updated README file which gives some information about the
+new script.  Enclosed in the shar file are other informational files which
+pertain directly to the code.
+
+This should help out some of you who would like to access the ftp files,
+but don't have 'uncompress' on your system.  It seems to be fairly portable.
+
+Note:  This is version 3.0 of comress/uncompress.  It will accept input
+created by v. 2.0, but output from v. 3.0 is NOT compatable with v 2.0.
+If you need the interaction, there is a compiler option you can use; consult
+the README files in the shar file.
+
+Editor,
+The National Midnight Star (RUSH fans mailing list)
+rush-request@syrinx.umd.edu    or    rush-mgr@syrinx.umd.edu
+
+----------------------------------------------------------
+
+Date: Thu, 13 Jun 91 10:03:49 hst
+From: Hinano Akaka &lt;bigtuna!hinano@uhccux.uhcc.Hawaii.Edu&gt;
+Subject: Rush and ... Star Trek?
+
+Greetings and Falicitations --
+
+Well, I just got back from L.A. a couple of days ago after attending
+the 25th Anniversary Star Trek Convention.  (Sorry I didn't get a
+chance to get in touch with any of you Rushans up in California-land
+whilst I was there...).  BTW, if anyone wants to know how the Conn was
+or anything, drop me a line and I'll try to give ya as much detail as I
+remember (I'm writing a diary of it, so hopefully  my memory will
+remain in tact).
+If anyone does decide to drop me a line, beware because they're going
+to be changing the address over here in the next couple of weeks (I
+will be informing rush-mgr about the change) so there may be a few
+bounces or whatever.  But I will be happy to relay the events to
+anyone interested (unless the majority of the Digest wants it posted
+to the Digest... only a small suggestion, rush-mgr, I know how adamant
+you are about keeping this thing strictly about Rush...).
+
+Anyway, my whole point for writing this was to say that, of all places
+in the world, I ended up finding some pretty good pictures of our
+favourite trio from one of the dealers.  I was happy.  Two of my
+favourite things in one place -- Rush pictures at a Star Trek
+Convention... (then again...).  In actuality, they were pictures from
+magazines that were laminated.  But they looked kind-of rare.  There
+were two pictues from a Japanese drumming mag (or it was a Western mag
+translated into Japanese) of Neil from last year.  One picture in
+particular was great -- I'm going to have it framed -- Neil is holding
+this huge volume of Edgar Allen Poe (a leather-bound volume with gold
+lining on the pages) and he's looking off-camera with this great smile
+on his face, his eyes all crinkled.  It's absolutely one of the best
+pictures I've seen of him; it's just adorable.  There must've been
+about 20 pictures of Rush (alas I only got 5) and the dealers I got it
+from have a whole selection of pictures from a hundred different
+groups.  I'll post the address next week if anyone is interested in
+obtaining pics of Rush or whomever.
+
+Another neat thing, too was, while I was waiting with my friend in line
+for her to get George Takei's autograph (Mr. Sulu) in the dealer's
+room, the dealer next to us was playing Tom Sawyer.  Sigh.
+
+And that's a wrap!  Ho-hoo!
+
+puanani akaka
+
+----------------------------------------------------------
+
+Date: Thu, 13 Jun 91 20:36:26 EDT
+From: jaeger@buphy.bu.edu (Gregg Jaeger)
+Subject: BA? BFD. PMO -- NAFW!
+
+Hi Everyone,
+
+In reading through past issues of the digest I noticed another
+interesting little debate (around the 190's) about Neil's abilities
+as a lyricist. Many of those who wrote in actually seemed to believe
+that Neil is not a great lyricist. Those who were pro-Neil said only
+that they loved his lyrics, while those who were critical claimed that,
+from a `literary' point of view, they often leave much to be desired.
+These criticism seemed to evolve out of simple request by someone
+for `least-favorite lines.' This request was great -- I was glad
+to hear what people didn't like (e.g. ``excitement so thick -- you
+could cut it with a knife'' -- not a fave of mine either!) but
+the Neil-bashing sucked. `Why bring this up?' you might ask. Well,
+I think Neil deserves a better defense.
+
+First, one of those who looks down on Neil's lyrics legitimized
+his own views by letting us know that he was a communications major.
+BFD, I say to that. I took a graduate seminar from Saul Bellow
+(Nobel Prize in Literature, BFD). The `high art'/`low art' debate
+is hardball and it is not uncommonly heard therein that Hemingway
+was a literary cretin, not least of all because he was a journalist!
+I submit that a journalist's training does little to prepare him or
+her for the task of producing `true literature' or recognizing
+literary genius (beyond the basics of grammar and rhetoric).
+Hemingway's journalistic experience was valuable in that it helped
+him develop _his particular style_ (which I love, BTW!), that is all.
+Anyway, what seemed to be overlooked by most (though not by Neil
+himself) is that lyrics are not poetry, and should not be criticized
+as such. They have aspects in common with poems, but they purpose
+is quite different. People come down hard on the lyrics to `Anthem,'
+for example. Comparing them to the words of another famous anthem,
+(DAU) `The Star-spangled Banner,' shows that they are of the same rank.
+(I personally find the words to `Anthem' more inspirational. ``A
+closet objectivist! Protect our children!'').
+
+Neil has his own manner of lyric writing over which he has labored
+through the years. One can discern two obvious styles -- correlated
+with the major musical stages of the band -- pre-1980 and post-1980
+(though there are, no doubt, styles within styles). The former
+culminated in the words of _Hemispheres_. I myself prefer the latter
+style by far. Perhaps it is the anachronicity of `Countdown'
+which makes it jarring to the post-Hemispheres ear?
+
+There were complaints about cliches. Well, it is in fact part
+of Neil's later style to give new life to cliches. Think of the
+following well-worn phrases: ``show and tell,'' ``movers and
+shakers,'' ``the Reds,'' ``the truth is often better left
+unsaid,'' and on and on. Neil's ability to transform and
+revitalize such phrases through recontextualization, his
+magnificent ear for puns, and his mastery of the essentials of
+traditional lyric-writing (the basics of old-time poetry: rhyme,
+alliteration, etc.) combine in a masterful and mature style.
+I think that there is little doubt that Neil is a virtuoso
+lyricist. Just check out `Red Lenses''!!
+
+IMHTTO Paul Simon, to whom one of the critics referred as an
+example of a superior lyricist, does far better as a comedian
+(I love his work in ``Annie Hall,'' and Saturday Night Live
+as Billy Paul (pseudo-Billy-Jack): ``I want a triple scoop cone,
+chocolate, strawberry, and vanilla. That's black, red, and white,
+together.'') than a lyricist. Remember ``Fifty Ways to Leave Your
+Lover''? (ISTBO: if you're too young for that one, praise be to
+God!).
+
+[ Oh, geez, make some of us feel old, why don't you??  :-)      :rush-mgr ]
+
+Yours Truly,
+
+Gregg
+
+-----------------------------------
+Gregg Jaeger    (jaeger@buphy.bu.edu)  ``Truth is after all a moving target''
+Dept(s). of Physics (and Philosophy)
+Boston University, Boston MA 02215     -&gt;&gt;READ DOS PASSOS!(his books, i.e.)&lt;&lt;-
+------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Thu, 13 Jun 91 17:52:40 MDT
+From: "Jerome Jahnke BSW Rm 238" &lt;jahnke@joplin.biosci.arizona.edu&gt;
+Subject: Re:  06/13/91 - The National Midnight Star #263
+
+&gt; I went out to look for Leiber's "Gonna Roll the Bones", but couldn't
+&gt; find it anywhere.	I checked the biggest bookstore (Borders) in the
+&gt; D.C. area, but no luck.	They looked up Leiber on the computer, and
+&gt; quite a few titles came up, but all since 1976.	"Bones" is dated
+&gt; 1967, and apparently is (long) out of print.	I havn't yet tried a
+&gt; library- heck the Library of Congress should have it!
+&gt;
+&gt;Has anyone else been able to find this book?
+
+It is not a book, it is a short story. It can be found in the a book by
+Harlan Ellerson, "Dangerous Visions." Or I read it in "The Hugo Winners
+v2" edited by Issac Asimov. This is probably why they were not able to
+find it in their computers. BTW the book is copyright 71 and has the Hugo
+winners from 62 to 69, lots of SF history in it's darkest period (my
+opinion).
+
+Jer,
+----
+Jerome Jahnke
+University of Arizona/Dept of Molecular and Cellular Biology
+'jahnke@joplin.biosci.arizona.edu' or (602) 621-3820
+
+----------------------------------------------------------
+
+From: Patrick Quairoli &lt;quairoli@cs.widener.edu&gt;
+Subject: Everything Above and Beyond
+Date: Thu, 13 Jun 91 22:06:41 EDT
+
+	first of all i don't usually post such long messages but i haven't
+	posted in such a long time that i have soo much to say....&lt;grin&gt;
+
+			Experiencing Rush to Extremes
+
+	i just spent the past weekend at a local hot spot, wildwood new jersey,
+	with my girlfriend and other cronies (BTW none of them love Rush).
+	i graciously offered to bring my cd player down...well everyone must
+	have forgotten to bring thier cds so all we had for a two hour ride
+	was...RUSH! &lt;gleam&gt; as the week progressed everyone was growing weary
+	of the boyz so i eased up a little; until i found a p/g poster in a
+	local shirt shop! well this got me going again...less then 3 minutes
+	after i brought the p/g poster i heard 'witch hunt' playing on the
+	p.a. of a ice cream shop &lt;silent rejoice&gt;.  less then 3 minutes after
+	that experience i went into another shop only to be aproached by a
+	beautiful slim blonde who said,(with much excitment) "is that a RUSH
+	poster?!?"  well the conversation imediatly took off (slight friction
+	with my girlfriend at this juncter) i found out that she goes to
+	the university of delaware so i asked her if she was on TNMS *(she's
+ 	not)* but i explained the net and the list and gave her the address so
+	maybe we will be hearing from her soon.
+
+			Books Neil should read.
+
+	well i think this is a great topic, but i'm sorry that i don't have
+	a long list to contribute, so the only book i can say Neil should
+	read would be:
+
+		Foucault's Pendulum by Umberto Eco.
+	it's a very good book but difficult to explain.
+
+			FTP Sound files
+
+	i know dwhite@dsys.nesl.nist.gov was looking for a place to upload
+	the sound files. if he could give me an idea of how much space
+	they take i'll see if widener could hold them till syrinx can
+	accomidate them.
+
+	You know your a rush fan when...
+		your caught in a thunder storm and you start reciting
+		jacob's ladder like your narrating a story...
+
+______________________________________________________________________________
+patrick j. quairoli		| "What do you call assassins who accuse
+widener!quairoli 		|  assassins; anyway. MY FRIEND. "
+quairoli@cs.widener.edu		|	- Marillion
+
+----------------------------------------------------------
+
+Date: Thu, 13 Jun 91 19:50:59 -0700
+From: ddelany@polyslo.CalPoly.EDU (Dan Delany)
+Subject: What the FAQ?
+
+Hey, guys, I don't mind _constructive_ criticism of the FAQL file, like the
+recent postings about the "Barchetta" entry, but this week I've received
+quite a few letters from people who seem to feel that they could do a better
+job than me at running the FAQL file.
+
+Let me point out at this time that I volunteered to keep the FAQL file,
+and I spend a few hours every week answering mail about it - some people
+send suggestions, and others ask for the current version.  I don't mind
+that.  That's why I keep the file.  But this week, people have just been
+sending criticism, which I don't think I deserve.  (I won't name names -
+they're not important.)
+
+But if any of you feel that you could do a better job, just post, and the
+job is yours.  Maybe I'm overreacting because I just finished finals, but
+there are ~15-20 people who sent private email with no constructive
+content - surely people who know that much wouldn't have any problem
+keeping the FAQL file accurate and up to date.
+
+[ I'm a bit upset to hear Dan saying this - he's been supporting the FAQL for
+  over a year now, and has done a great job, IMHO.  If you have suggestions
+  about any aspect of this mailing list, post your Constructive Criticisms
+  here and let the whole list think about it.  Remember, there are over 750
+  of us out there, and most of them live in countries with democratic process.
+  Also, if you've got a gripe about something, try offering a solution along
+  with the perceived problem.  Warning: you may get chosen to implement it!
+                                                                  :rush-mgr ]
+
+"All the world's a stage                      |   ddelany@polyslo.calpoly.edu
+ And all the men and women merely players:    |       Daniel Alan Delany
+ They have their exits and their entrances;  -- Wm. Shakespeare  (1564-1616)
+ And one man in his time plays many parts."    _As You Like It_  II,vii,39
+
+----------------------------------------------------------
+
+Date: Thu, 13 Jun 1991 23:03:26 -0400 (EDT)
+From: Gregory C Best &lt;gbest@ATHENA.MIT.EDU&gt;
+Subject: Even when I am gray...
+
+	Derek brought up an interesting topic.  One that I have thought about,
+and I'm sure most of the rest of you have as well.  How much longer...?
+Well my personal feeling is that they will keep going strong, and I'm
+looking forward to what their future holds.  Did I read before that they
+have a 5 album contract right now? ( Someone?  Verify?)  If they keep
+going at around the same rate that would put them damn near 50 by the
+time their current contract expires.   My opinion?  They'll finish it.
+I would guess 3 more studio albums after RTB and then the farewell live
+set.
+
+	Sting made an interesting comment (he is also around the same age).  He
+was talking about his new album and specifically  the video for one of
+the singles.  "I really didn't want to make one of those videos where
+some middle aged man is dancing around with these 20 year old, half
+dressed babes who wouldn't look twice at him on the street."    I think
+the boyz are in teh same vein.  The music is starting to mello, and it
+should.  You can see signs of the age (Geddys voice doesn't have the
+same blood curdling squeal, they are turning to stage effect rather that
+running around as much) but they still have the same vision.
+
+I think the two scenarios we must fear most as Rush fans are these:
+
+    1) The boyz can't cope with their age and make a blunder like trying to
+record another MP.  "Sadder still to watch it die than never to have
+known it".  I really doubt that will happen.  One of the things I admire
+most about the band is their level heads.  Rush will never be blind.
+
+    2) The record companies and such can't handle the thought of an
+untapped resource and start pumping out random marketing trash.  Let's
+face it-- Chronicles could have been a disaster.  It just goes to show
+that the band doesn't have complete control of their material.  Imagine:
+ Rush action figures, Rush trading cards, Rush breakfast cereal (sugar
+coated red stars).  (I see a topic to keep the NMS busy during the
+summer lull). "So much style without substance- So much stuff without
+style". I really don't think we need to worry about Rush turning into
+another new kids (twitch, twitch).
+
+	Alright, I've rambled enough.  I just wanted to impart a positive
+outlook on the coming years.  As far as sound:  I'd like to hear less
+synth and more focus on the groove.  More rhythm based, more minimal.
+Jazz?  Funk?  Hell, it could be polkas and still sound good coming from
+Rush.
+
+Later-
+   -Greg
+
+ &gt; ... I'll still be gray my way.
+
+----------------------------------------------------------
+
+From: atz@clmqt.marquette.MI.US (dweezilbub)
+Subject: Let us not go gently...
+Date: 13 Jun 91 22:51:35 EDT (Thu)
+
+Well, I remember a poem about Death from a 20th century dude named
+Dylan Thomas that had a line that read "Do not go gentle into that
+good night"
+
+I believe Rodney Dangerfield read that poem in Back To School.
+
+Maybe Neil just modified it a little?
+
+Did you all know that Franklin Roosevelt said "The only thing we
+have to fear is fear itself" ?
+
+He did.  Remember I have GIF's
+
+[ Gee, GIFs of FDR?   :-)                                       :rush-mgr ]
+
+--
+      \_._____._____._____.    ====  ====  ===== .____._____.___.___/
+  \__The Enterprise BBS      ==  ==  ==   ,===~   This space for rent!__/
+       __-__________-__     ==~~==  ==   =====    ____-_____-___-__
+         \          \  \atz@clmqt.marquette.mi.us/    /     /   /
+
+----------------------------------------------------------
+
+Date: Fri, 14 Jun 91 03:13:12 PDT
+From: Jeff Gray &lt;jgray@balboa.eng.uci.edu&gt;
+Subject: Literary references in Neil's lyrics
+
+About the "Let us not go gently to the endless winter night" thread...
+
+I think that no one's put this whole thing in perspective...  One great
+element of Neil's lyrics  is that he is a master at taking a well-known
+phrase and turning it to his own particular intention.  You really can't
+ask a question like "Is he quoting Dylan Thomas or is he talking about
+nuclear winter?"  because the answer is simply "Yes."  He's doing
+both.  I could list hundreds of examples where a particular phrase
+is definitely drawn from some other literary work ("plus c,a change, plus
+ce la meme chose" comes to mind) but what makes Neil a great lyricist
+is the way he can give homage to his influences while providing us with
+old words that take on new meaning.
+
+That's all.  Rock out, roll on.  Oops, different Canadian band...
+
+Jeff Gray
+jgray@balboa.eng.uci.edu
+
+----------------------------------------------------------
+
+Date: Fri, 14 Jun 91 09:20:15 -0400
+From: Jeff Wilson &lt;jwilson@ncratl.atlantaga.NCR.COM&gt;
+Subject: How to find "Gonna Roll the Bones"
+
+If you're looking for _Gonna Roll the Bones_, by Fritz Leiber, the only place
+I know where it exists is in the anthology _Dangerous Visions_, edited by
+Harlan Ellison. This is a landmark of speculative fiction, containing stories
+that were a) written specifically for that volume, having never been published
+anywhere else; and b) considered "taboo" subjects at the time the book was
+published (mid-to-late 60's). Although the Leiber story is really not that
+controversial, and doesn't seem to break any current "taboos", it probably was
+considered controversial in the 60's, as it raises questions about God, the
+Devil, and just what is good and bad. A helluva read, it was one of the most
+widely praised stories in the book. That story, and "Riders of the Purple
+Wage", by Philip Jose Farmer, are worth the cost of the book. It's out of
+print, so scrounge any used book stores in your local city (look in the yellow
+pages, give them a call, you'd be surprised how many of them could tell you if
+they have this book.).
+
+The story *may* be in a "best of" anthology of Fritz Leiber's work, but I
+couldn't testify to that, ossifer!
+--
+jwilson@ncratl.AtlantaGA.NCR.COM (Jeff Wilson)
+
+"It takes a lot of inner strength to be a Braves fan." -Peter Buck
+
+----------------------------------------------------------
+
+Date: Fri, 14 Jun 91 12:56:00 EDT
+From: jaeger@buphy.bu.edu (Gregg Jaeger)
+Subject: on a different note
+
+Hi,
+
+Sorry to add to the plethora of postings about Satanism -- I wholeheartedly
+agree with Neil on the subject -- but there is in fact back-masking on
+``Stairway to Heaven''. Underneath ``There's still time to change the
+road you're on'' you can very distinctly hear the words ``My sweet Satan''
+when you play Zep IV backwords. I really really like Led Zeppelin but
+this freaked me out when I found it. I ran the entire record backwards
+and heard nothing but garbage before and after this ``message'' or
+whatever the hell it is supposed to be. I think it's one of Jimmy Page's
+weird ideas, like violating girls with fishes (``The Hammer of the Gods'').
+I don't appreciate this little trick because it can be used to support
+all sorts garbage from the `far right'. Sad but true...
+
+[ You have better ears than I do, then.  I've heard that passage a few times
+  over the years, and haven't heard anything yet.  Same goes for "Another One
+  Bites the Dust", but I digress...                               :rush-mgr ]
+
+Gregg
+
+-----------------------------------
+Gregg Jaeger    (jaeger@buphy.bu.edu)  ``Truth is after all a moving target''
+Dept(s). of Physics (and Philosophy)
+Boston University, Boston MA 02215     -&gt;&gt;READ DOS PASSOS!(his books, i.e.)&lt;&lt;-
+------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Fri, 14 Jun 91 14:26:04 BST
+From: chrisley@ws.oxford.ac.uk (Ronald L Chrisley)
+Subject: Dylan Thomas; Necromancer
+
+I believe the poem that has "Rage, rage against the dying of the
+light/Do not go gently into that endless night" or something like that
+is indeed by Dylan Thomas;  I think its title is "Crossing The Bar".
+
+The three travelers from Willowdale are Geddy, Alex, and Neil, of
+course!
+
+Or perhaps, since Neil didn't grow up with Geddy and Alex, the three
+are Geddy, Alex, and John Rutsey, with Neil being Prince By-tor (or
+the Necromancer, depending on your taste)!
+
+Hmm...
+
+What's the latest on the new album?
+
+Ronald L. Chrisley                                  New College
+chrisley@csli.stanford.edu                          Oxford  OX1 3BN
+Tel:  +44 865 52656                                 United Kingdom
+
+NOTE:  Use my csli path.  Don't just reply, or I might not get your message.
+
+----------------------------------------------------------
+
+Date: 14 Jun 91 14:24:00 CDT
+From: "KESHAV UTHURUSAMY" &lt;keshav@zeus.unomaha.edu&gt;
+Subject: Dune, Dylan, Chandra
+
+I was reading the past digests and thought I'd put in my two cents worth:
+
+1)  The movie "DUNE" is a terrific (imho), but the book (and subsequent series
+    are MUCH better.  I think that God Emperor would be the best book for Neil
+    to expound on.  I couldn't put that book down; just think what Neil could
+    do with that!! :)
+
+2)  I feel stupid, but the only time that I've heard of that Dylan Thomas poem
+    is in the Rodney Dangerfield movie "Back to School" (maybe I should go back
+    to school); but hey, I'm a CS major, not a lit major! :)
+
+C)  I have been reading a book by Dr. Wali called "Chandra".  It is about a
+    world renowned astrophysicist and how much of a true genius he is.  I have
+    always been in awe of the great scientists (Glashow, Hawking, Wheeler...)
+    and this book is probably the best I've ever read about the "fraternity"
+    of the great men like them.  Anyway, my point (if I remember correctly), is
+    that I was listening to the Manhattan Project and I realized that Neil must
+    also understand the TRUE meaning of celebrity, not the patronizing meaning
+    that you find in, say, the celebrity of Madonna.  Neil must realize that
+    there men like Chandra are THE true celebrities.
+
+I know that this makes no sense, but heh, what do you expect for $0.02! :)
+
+See you!
+
+ORBQ:  "Christ, What have you done!"
+
+Daredevil
+
+P.S. Please excuse the crazy editing..my editor fried on me in the middle of
+     this.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Daredevil - Then Man Without Fear
+
+Internet : keshav@zeus.unomaha.edu  (VAX/VMS)    Bitnet: keshav@unoma1
+           bbs.dare@spies.com       (SUN/OS)     ICBMnet: 41' 35", 67' 34"
+           kasey@gnu.ai.mit.edu     (BSD UNIX)   Daredevil on IRC
+
+UUnet    : uunet!zeus.unomaha.edu!keshav@uunet.uu.net
+
+                         "INVICTUS MANEO"
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 265
+********************************************
+
+

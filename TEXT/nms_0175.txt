@@ -1,0 +1,494 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list@syrinx.umd.edu
+Subject: 02/20/91 - The National Midnight Star #175
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 175
+
+               Wednesday, 20 February 1991
+Today's Topics:
+                  A Show of Hands Rumor
+                   Hiss on Hemispheres
+              Analysis of "The Pass" take 2.
+               Opening acts, my $0.02 worth
+               Re: Rush and Sinead O'Connor
+            Kim Mitchell, Freewill (the band)
+                      CUSTOM PLATES
+                  DDD AND QUALITY OF CDS
+                  Re: xloadimage problem
+                    New Song Released?
+                          (none)
+              Neil's Drumming and Aesthetics
+----------------------------------------------------------
+
+Date:         Tue, 19 Feb 91  12:40:33 EDT
+From: "Paul Kroculick (tjw3220@bingtjw.bitnet)" &lt;TJW3220%BINGTJW.BITNET@CORNELLC.cit.cornell.edu&gt;
+Subject:      A Show of Hands Rumor
+
+Howdy,
+I know this is a rumor, but it's funny. ASOH didn't come out on
+it's original release date (what else is new). According to a friend, the
+courier lost the masters somewhere between the studio and the record
+company. They had to RUSH back into the studio to re-mix (like they'd
+send the only copy they had). That's why it was late and didn't sound
+as clean as E..SL.
+
+Later,
+PDK
+
+----------------------------------------------------------
+
+From: Dan Dickerman &lt;dickermn@hpcugsya.cup.hp.com&gt;
+Subject: Hiss on Hemispheres
+Date: Tue, 19 Feb 91 10:12:59 PST
+
+Bill Barry writes:
+
+&gt; Also, this may be an isolated case, but for those who have the
+&gt; Hemispheres CD, (as I am sure most do) does there seem to be
+&gt; a large amount of hiss? This bothers me very much. I can get
+&gt; rid of it by fooling around with an equalizer or setting the
+&gt; treble down to zero, which incidentally destroys most of the highs.
+
+Well you're not alone.  I've always attributed it to bad analog mastering,
+as even the album version had noticeable hiss (along with the surface noise).
+Remeber that the entire album was made during a hectic touring schedule,
+and they may not have had time to worry about tape noise.  It's both my
+favorite Rush album, and the worst mastering job I own -- a shame, really,
+considering the number or quiet passages.
+
+----------------------------------------------------------
+
+Date: Tue, 19 Feb 91 14:37 EST
+From: Broonsey &lt;ORION@DESIRE.WRIGHT.EDU&gt;
+Subject: Analysis of "The Pass" take 2.
+
+Greetings RUSHans--
+
+There's been a lot of regurgitation (gross word, but it fits) about "The Pass".
+Just recently, I noticed someone (forgive me, I didn't write down the name)
+posted that the Christ was a noun, not an interjection.  I disagree
+emphatically.  In the past, Neil has stayed away from the religious aspect of
+life (i.e. Christianity specifically).  Why would he start now?  It seems to me
+that he put that in there to show the pain and suffering that the survivors are
+feeling (I mean, just listen to the way Ged sings it!).  I did an analysis a
+little over a year ago, but I don't know what issue it's in (anyone want to
+help?).  To get a FULL idea of where I'm coming from, take a gander at that.
+
+Rush on tour in the fall?  "And there was much rejoicing."
+	Anyone in the Dayton, Ohio area (Cincinnatti, Columbus, etc.) to meet
+for the next tour (hey, maybe at WSU's fabulous new Nutter Center!)?  Besides
+you, Steve...
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Adam Dickson				|     "HARRY SULLIVAN IS
+Wright State University			|	  AN IMBECILE!!!!!!!!!"
+Dayton, Ohio				|		- The Doctor
+orion@wsu.bitnet			|
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+----------------------------------------------------------
+
+Date:  Tue, 19 Feb 91 14:44:50 -0500
+From: danmcd@zip.eecs.umich.edu
+Subject: Opening acts, my $0.02 worth
+
+I saw Marillion open for Rush on the Power Windows tour.  The audience reaction
+was very subdued, but I enjoyed Marillion, and I felt they were a perfect
+opener for Rush.
+
+As for redistribution, if there is anyone who is not graduating U. of Michigan
+on the list, you may want to set up an MTS "group."  I know this is one way
+the info-mac digest is distributed to non-Usenet people.  Mr. Manager, is this
+alright with you?!?
+
+[ Proably, but send mail to the administrative address to explain it more
+  fully, please.                                                  :rush-mgr ]
+
+______________________________________________________________________
+|Daniel L. McDonald    | Internet: danmcd@eecs.umich.edu             |
+|University of Michigan| Bitnet:   danmcd%eecs.umich.edu@umich.BITNET|
+|Computer Science, '91 | USnail:   1705 Hill St.  Ann Arbor, MI 48104|
+|______________________|_____________________________________________|
+|"rising falling at force ten                    | THIS MAY, I'M OUT |
+| we twist the world and ride the wind..." - Rush| OF HERE, FOLKS!   |
+----------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: 	Tue, 19 Feb 1991 11:43:11 PST
+From: crenshaw.osbu_north@xerox.com
+Subject: Re: Rush and Sinead O'Connor
+
+I realize that Rush and Sinead O'Connor don't have much in common,
+but do we have to bash someone to make Rush look good?  I think Rush
+is good enough to stand on its own merit.  I also think Sinead O'Connor
+is good enough to stand on her own merit (even if her politics do seem
+a little schizoid and overdone at times).  So let's drop the
+other-artist-bashing and get back to the real stuff this mailing
+list is about...please?  I think the NMS readership listens to a *very*
+wide variety of music (goes along with Rush not fitting into a category,
+IMHO).  So the chances that you'd be bashing someone else's second :-)
+favorite group/artist are pretty high. I don't want to hurt someone
+like that.
+
+Ok, I'm off my soapbox...sorry, I just read too many "Redd Kross/Sinead
+O'Connor/etc. suck" messages (and I've never even heard Redd Kross...).
+
+[ Thanks, couldn't have said it better myself.                   :rush-mgr ]
+
+Cheryl
+
+"I swear- by my life, and love of it- that I will never live for the
+ sake of another man, nor ask another man to live for mine."
+    - John Galt
+
+    (I haven't read this, but it sure sounds like something Howard
+    Roark from "The Fountainhead" would say, too...did Ayn Rand just
+    have one plot for all her books?)
+
+----------------------------------------------------------
+
+Date: Tue, 19 Feb 91 13:59 EST
+From: Shane Faulkner &lt;V127L2QZ@ubvmsc.cc.buffalo.edu&gt;
+Subject: Kim Mitchell, Freewill (the band)
+
+Yes, Mr. Mitchell did perform at the 'Q Year's Eve' show... along with
+Gowan... the show was broadcast live on Q-107, and I recorded the Mitchell
+portion....
+I think 'Shakin like a Human Being' is his best effort to date, with Rockland
+a close second...  'In My Shoes' from Shakin simply MAKES the album, along
+with Hitting the Ground and That's the Hold.
+
+Freewill-  They are from Toronto, and far as I know, they ONLY play in
+Toronto, Buffalo and Cleveland.  Don't get your hopes up TOO high before
+going to see them... they do have several shortcomings, the guy tries to
+sing too much like Geddy...sometimes it ends up sounding funny, and his bass
+playing is very much sub-par (especially in comparison to Geddy's).  The
+guitar player alters Alex's solos very often (I wouldn't mind if he could
+somehow ADD to them, but he doesn't).  The drummer is VERY good though and
+he has ALL the toys!!!
+This isn't to say you shouldn't go see them... I go everytime they come here
+(Sinbad's in Cheektowaga, NY).. they have an independently released cassette
+with several very good tunes on it, and some total garbage (IMO)...
+
+-Shane
+
+----------------------------------------------------------
+
+Date: 19 February 1991 16:33:39 CST
+Subject: CUSTOM PLATES
+From: U24129@UICVM.uic.edu!
+
+hello, RUSH HEADS. just out of curiosity, i have custom plates and i was
+wondering how many others out there in RUSH LAND have them as well. so
+how about if we take a poll? email to my address directly and i'll print
+out the results next week in NMS. ok?
+
+to start us off:  RUSH 55  IL
+                  RUSH FAN IL  (MY BUDDY'S)
+                  RUSH FN  IL   (TRUCK PLATES)
+
+SO, IF YOU HAVE SOME SPARE TIME, JUST EMAIL THE NAME OF YOUR PLATES ALONG
+WITH THE STATE ITS IN. UNTIL LATER . CIAO
+
+THE PATSTER
+
+----------------------------------------------------------
+
+Date: 19 February 1991 16:50:07 CST
+Subject: DDD AND QUALITY OF CDS
+From: U24129@UICVM.uic.edu!
+
+HEY! i'm sure everyone is anxiously awaiting the arrival of the next album.
+since a lot of people are talking about the ADD and DDD process of RUSH cds
+i thought i would put my 2 cents in, since being an audiophile and a RUSH
+fanatic has its advantages. If you listen closely to Mov. Pics. especially to
+the beginning of Red Bar. and Limelight (after the 2 or 3 power chords Alex
+does) you can hear a bit of tape hiss. You can also hear a little tape hiss
+in the beginning of the Weapon and on Losing it. It is very difficult to
+hear tape hiss on P/g , that album was recorded rather well for a analog
+source. But it is a little "brittle" and "bright" for my tastes. And obviously
+Everything after that, it was all DDD with the exception of ASOH. For a live
+album, ASOH is phenominal. the other DDD albums are just flawless.
+  for those of you who are "esoterics" you may wish to try and find the RUSH
+cds on Japanese Import. I have signals and H.Y.F. as of now and you can
+notice a nice improvement on the SIGNALS album as an import. There is less hiss
+the cymbols and Neil's hi-hat are much cleaner sounding. The drums are also
+tighter and deeper sounding too. Ged's keyboards have a more transparent
+quality to them as well. As far as H.Y.F. goes, well i really couldn't find
+the difference since the album was a masterpiece to begin with. I'll have to
+listen to it a few more Million times. thats about it. l8r
+
+the patster
+
+"he won't need a bed cause he's the digital man"
+
+----------------------------------------------------------
+
+Date: Tue, 19 Feb 91 16:43:32 -0700
+From: lrackl@cadesm3.eng.utah.edu (Les Rackl)
+Subject: Re: xloadimage problem
+
+I am posting this here in case anybody else has any problems such as
+Dan Kelley had - displaying images with xloadimage.
+
+The error message comes when you already have an image on your screen.
+(I have my login files display one automatically every time I logon.)
+
+Let me give a short explanation of colormap:
+
+A colormap (as far as my understanding goes) is basically a "table" which
+assigns numbers to colors you can display on the screen.  The colors are
+usually combinations of red, blue, and green.  I believe all the colormaps
+that I use have numbers (three of them) which specify the intensity of
+the red, blue, and green.  Since there are millions upon millions of
+possible intensities of colors (as well as kinds of colors), but you
+can only display 256 on the screen (if you're lucky like me :-) ),
+a lot of times the numbers are picked arbitrarily.  Also, I don't think
+that there is a standard regarding this sort of thing.
+
+The end result is that practically every picture has a different colormap.
+That is, each picture tells the computer a different set of numbers (and
+thinks each number is a different color than everybody else).
+
+When you display a picture on the screen, that picture gives the machine a
+colormap.  I believe there is also a default colormap loaded into memory
+on bootup (depending on machine, etc.).  If you are still looking at that
+picture, and try to tell the computer to install another colormap that isn't
+compatible, you will probably get that message.
+
+Try using the -force option.
+
+There is another possibility, since you are loading in onto your root window,
+that picture will definitely be interfering with your default machine colormap.
+You may not be able to load that particular picture onto your root window.
+Try displaying it without putting it in your root window.  Try another picture
+for your root window.  I think you will find (I have) that a lot of pictures
+are not compatible with your default colormap.  I don't think you can change
+the default colormap, since it is in charge of all of your windows and stuff.
+
+If you know of some way to safely change the default colormap, tell me, please!
+
+[ On the DECstation 3100, it's included in the window manager.  Ed?  
+                                                                :rush-mgr ]
+
+Les
+
+----------------------------------------------------------
+
+Date: Tue, 19 Feb 91 21:29 EDT
+From: IDBST@vms.cis.pitt.edu
+Subject: New Song Released?
+
+Howdy all Rush Lovers --
+
+	Today one of my friends told me that he heard THE new Rush song on the
+radio yesterday.  He didn't know the name of it, be he said it sounded REALLY
+good.  I have also heard this from one other friend.
+
+	Does anyone know anything about this?  Or has anyone heard the song?
+What's it called?  Info, please --
+
+Ian Bjorhovde						idbst@vms.cis.pitt.edu
+			University of Pittsburgh
+
+----------------------------------------------------------
+
+Date: Wed, 20 Feb 91 02:08:31 CST
+From: axelrod@mcc2.sws.uiuc.edu (Sinistar)
+
+Here's a paper I'm turning in to English this morning.  Hope you guys
+like it.
+
+Superconductor
+--------------
+
+Packaged like a rebel or a hero
+Target mass appeal
+To make an audience feel
+He really means it
+
+Package the illusion of persona
+Careful to conceal
+The fact that she's only too real
+She's got to screen it
+
+Hit you in a soft place
+A melody so sweet
+A strong and simple beat
+That you can dance to
+
+Watch his every move
+SUPERCONDUCTOR
+Orchestrate illusions
+SUPERCONDUCTOR
+Watch his every move
+SUPERCONDUCTOR
+Hoping you'll believe
+Designing to deceive
+That's entertainment
+
+He can put a target on the market
+Bask in your applause
+Reality withdraws
+Now he believes it
+
+The role becomes the actor
+She's addicted to applause
+The stage a world because
+She never leaves it
+
+Hit you in a soft place
+With sentimental ease
+They know the fantasies
+That you romance to
+
+Watch her every move
+SUPERCONDUCTOR
+She can manipulate reactions
+SUPERCONDUCTOR
+Watch her every move
+SUPERCONDUCTOR
+Pin the donkeys on her tail
+Fantasy for sale
+That's entertainment...
+
+     Thousands of glassy-eyed teenie-boppers fill the
+crowded arena to catch a glimpse of their famed idol.
+Stepping out on the stage in a sold-out city, gazing out at
+the rows of screaming sixteen-year-old spectators squeezed
+into the stadium.  She sells her heart to the audience like
+a whore sells her body, except her record is cheaper.  She
+sings carefully engineered lyrics about love or talking on
+the telephone, designed to deceive the fan into believing
+their object of fantasy cares about what she is writing,
+when her ulterior motive is really to push as many of her
+recordings up the charts.
+     Turn on the radio, and listen to the drum track on any
+pop song.  One, two, three, four, one, two, three, four,
+where the snares hit two and four.  Simple to dance to, a
+familiar rhythm and melody is a sure way to strike the key
+in any unsuspecting listener's heart.  Creativity is stifled
+and energy is channeled into finding ideas that will drive
+the public to their record stores.  She will hire a
+recording engineer whose only job is to implement and
+explain popular musical and lyrical formulas to her.
+"That's entertainment?"
+     Making popular music does not necessarily imply
+deception.  It is when the performer tries to appear as if
+he is speaking from his own heart, and when he takes himself
+so seriously that he steps into the arena of immorality.  He
+packages himself carefully to hide his money-making motives
+and to appear sincere.  When he calls his agent to have an
+interview arranged with MTV at just the right time of the
+year projected by his financial advisors, and talks about
+how introspective his new album is, and how he really cares
+about his fans, "that's entertainment."
+     Sadder still is when the artist becomes so involved in
+her sheltered existence of stardom that she begins to fall
+into her own trap, and "the stage becomes her world." Then
+she can follow up her previous efforts and forget she is
+even deceiving her audience, because she herself believes in
+what she writes.  She won't need her recording engineer
+because she can write from her shallow heart what she has
+learned from her previous successes.  She has learned to
+deceive without her fans or herself even realizing it.  She
+has learned to create a reaction in her audience, to sell a
+popular fantasy.  "Pin the donkeys on her tail." "That's
+entertainment..."
+
+	Jeff Axelrod
+
+----------------------------------------------------------
+
+Date: Tue, 19 Feb 91 22:12:44 EST
+From: chuckles@egrlab (Charles L. Hamilton)
+Subject: Neil's Drumming and Aesthetics
+
+Hello all...
+
+	In my Philosophy of Music course this semester, I have to
+complete some sort of final project/paper, so I thought I could do
+some sort of analysis of Neil's drumming.  So, if anyone could give
+me a hand with the following:
+
+	1) sending me tapes of solos [not ATWAS, ESL and ASOH :-) ]
+	2) titles and issue numbers of magazines in which he discusses
+	   the musicality or aesthetics of his playing
+
+[ Check the FAQL for back issues dealing with this.             :rush-mgr ]
+
+	3) anything else you feel might be helpful.
+
+If you have an idea, drop me a note at
+
+	chuckles@egrlab.ac.duke.edu
+
+All responses will be appreciated!
+
+Chuck Hamilton
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+This message is subject to the restrictions of The Electronic
+Communications Privacy Act of 1986, Public Law 99-508, as amended.
+Unlawful interception and/or redistribution of this message is a
+Federal crime, punishable  by a maximium 10,000.00 dollar fine, and/or
+imprisonment for up to ten years.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 175
+********************************************
+
+

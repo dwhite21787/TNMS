@@ -1,0 +1,1096 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 07/29/91 - The National Midnight Star #299
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 299
+
+                   Monday, 29 July 1991
+Today's Topics:
+                      Administrivia
+                 Big Money on CD Video!!
+                    Boots, COS, and I
+    The Straw That Broke The (Proverbial) Camel's Back
+                   Radio Play and ASCII
+                          (none)
+                          (none)
+              Buddy Rich Memorial Fund Video
+                          (none)
+                1001001 and the freakopak
+                         RTB tour
+                       Presto Spine
+                    eco-paks again???
+                        submission
+            Van Halen, 1001001, Columbia House
+              Is there a Pitt party or not?
+      trying to change the mode - crack the code...
+                         Mission
+                       RUSH TRIVIA
+                           Bye
+                SONG LIST w/ CUEING TIMES
+      Re: 07/25/91 - The National Midnight Star #298
+                    Gangster of boats.
+      Re: 07/25/91 - The National Midnight Star #298
+             yes... dangerous and   rush rap
+                  Rush/Kim Party update
+     Re:  07/25/91 - The National Midnight Star #298
+----------------------------------------------------------
+
+From: Editor, The National Midnight Star &lt;rush-mgr@syrinx.umd.edu&gt;
+Subject: Administrivia
+
+There was no NMS for Friday, 7/26/91 due to work and other commitments.
+
+Today is Geddy's birthday - Happy Birthday Geddy!  7/29/53, according to
+the local radio station, who will be doing a block of Rush for their usual
+programmed "rush hour block".
+
+For those of you with Syrinx accounts, MH is currently hosed, but should
+be fixed in the next day or so.
+
+It is possible in the (not-so) near future that the machine "Syrinx" will
+undergo a hardware-ectomy; I'm looking into porting from the current
+DECstation 3100 (16M ram, ~880M disk) to a NeXT cube (28M ram, ~660M disk).
+I'll lose a bit of disk, but may be losing the DEC machine.  With any luck,
+I'll get to keep both, and maybe incorporate both into the newsletter scheme
+of things.  Dunno when this will happen, but it will be widely announced.
+Some of you may be called upon to act as test people; those whom I tap 
+shouldn't be too surprised...
+
+That's all for now...
+
+rush-mgr
+
+----------------------------------------------------------
+
+From: "Reidar Bjorhovde" &lt;bjorh1@unix.cis.pitt.edu&gt;
+Subject: Big Money on CD Video!!
+Date: Thu, 25 Jul 91 17:38:36 EDT
+
+Hello, all!
+
+	I accidentally (by the grace of God) found something today that
+I will always love, and never give up:
+
+	A CD (Regular size) of "The Big Money" -  But it is a VIDEO!
+
+There are 3 Audio tracks, The Big Money, Red Sector A (Live - But I've
+never heard this version before!) and Marathon.
+
+Then there is the Video Track, the video (I guess, I don't have a Laser
+Disc player){  of The Big Money!!
+
+The Disc itself is entirely Gold, Made in the UK.  It is recorded DDD,
+and has the serial no 422-870-717-2.
+
+	Does anyone know of this disc?  Or has anyone heard of it?
+
+I paid (an unheard of) $13.00!
+
+(For everyone in Pgh, I got it at the Collector's 12" (on Forbes, by
+the O))
+
+Later, have a nice weekend!
+
+Ian D. Bjorhovde
+bjorh1@unix.cis.pitt.edu
+
+----------------------------------------------------------
+
+Date: Thu, 25 Jul 1991 19:49 EST
+From: KROHN@UCBEH.SAN.UC.EDU
+Subject: Boots, COS, and I
+
+ First, I would like to thank Dylan Kaufman (hope I spelled it right) for
+taking time to copy the 3 boots and send them back to me in such a short
+time. Thanks much.
+ A few weeks ago I posted about the Caress of Steel LP. The copy I have,
+the album cover opens and has the words inside. Since there was debate
+some time ago over the lyrics to Didacts & Narpets. Are all the records
+this way or is it different, sort of like the ATWAS album going from
+3 panels to 2?
+ I just read yesterday's NMS, about 1001001 being ASCII for "I". Does this
+possibly strike anyone as being a little Randian? (I know it also fits the
+song but there is some coincidence: The android trying to change and not be
+like everyone (or everything) else).
+ One final note: Rush AND rap on the new album! NOT!!!!!
+
+******************************************************************************
+                    R  U  S  H       "There is tic toc in atomic
+                 R  U  S  H           Leaders make a deal
+              R  U  S  H              Cosmic is largly comic
+           R  U  S  H                 A con they couldn't conceal."
+******************************************************************************
+
+----------------------------------------------------------
+
+Date: Thu, 25 Jul 1991 20:16:30 EDT
+From: Mark "Crimson" Friedman &lt;friedman@cis.ohio-state.edu&gt;
+Subject: The Straw That Broke The (Proverbial) Camel's Back
+
+In last ish, Mike (mikes@ucscb.UCSC.EDU) sez:
+]I heard a 'Rumor?'  the other day.......Geddy  is going blind, because
+]of  the stage lights.......thus  the song Available Light.  Can anyone
+]verify or discredit this??  Just a conserned thought.
+
+BWAHAHAHA!!!   Congratulations,   Mike:  you have   just  overcome  my
+"bullshit tolerance level".
+
+I remember *way* back when this list  first started.  I  remember when
+it went to digest format.  I remember the name change  to NMS.  I even
+remember telling several people the address for the list so they could
+join...
+
+But I'm sorry: it has *all* become *entirely*  too inane for me.  It's
+incredible: some   of  you  have no idea  what a  metaphor  is!  And I
+*still* can't believe how many took the "part four of a trilogy" thing
+SERIOUSLY!  On top of that are the constant deluge of half-thought out
+lyric analyses and baseless rumours that I hold *so* dear (please note
+that this is sarcasm: I'm sure many of you  would  miss it otherwise).
+Add to that the "Rush fans = better that  the average mortal" attitude
+and it becomes all too overbearing (I think my favourite quote in this
+department was something like: "Lynch that bastard Randall Stark!").
+
+Until the National  Midnight  Star becomes  a  newsgroup (where  I can
+liberally apply a killfile on  the likes of "CANCER", "RUMOUR", etc.),
+I shall separate myself from this circus.  Of course, we (superior, no
+less) Rush fans are  *so* insecure about having  "outsiders" criticize
+Rush  that  I doubt if   it will ever   happen:  the readership is too
+spineless to expose their  favourite band to  the  impartial  light of
+truth.
+
+[ I'm sorry you feel this way, and feel that you have to vent in this
+  forum.  This is here to avoid the stupid Rush-bashing all too common
+  in the inane rec. and alt. music groups.  They are no more intelligent
+  in the broad view than this group, and I've seen both for some time.
+  If I want to have some self-righteous anonymous person challenge my
+  every statement, nay, every word, I'll post about Rush there.  If I
+  want to see articles by the media, or get advance notice of an upcoming
+  album, I'll look here.  They fulfill different purposes.  One does not
+  replace the other.  I'm sorry you can't see the woods for the trees,
+  but that's up to you.  As for newsgroup status, hah, good luck.  If
+  the "Pink Floyd Coalition" got squelched, I don't see us having more
+  luck.                                                       :rush-mgr ]
+
+					Forever Yours,
+					- Mark "Crimson" Friedman
+
+And yes, of *course* I know this isn't the correct address  to send an
+"unsubscribe" request.  An identical letter will be sent there too, to
+make it "official".   I  just  wanted to get  this  in the open in  an
+attempt to precipitate action from other  unsatisfied readers who need
+a bit of an  incentive to make  their own move.  Maybe this  will even
+get the "newsgroup request bandwagon" rolling.  Who knows?
+
++----====&gt;&gt;&gt;))) Mark Friedman is friedman@cis.ohio-state.edu (((&lt;&lt;&lt;====----+
+|  "There is nothing former  |  (Disclaimer : the opposite of Datclaimer)  |
+|     about King Crimson."   |    "I used to have a photgraphic memory     |
+|   - Robert Fripp, 5/11/90  |       but it was never developed..."        |
+&gt; -.---.----..-.---.----..-.---.----..-.---.----..-.---.----..-.---.----.. &lt;
+
+----------------------------------------------------------
+
+Subject: Radio Play and ASCII
+Date: Thu, 25 Jul 91 17:47:52 PDT
+From: Dan Dickerman GSY 1-447-4425 &lt;dickermn@hpcugsya.cup.hp.com&gt;
+
+As was pointed out last issue (check your local ASCII charts for those who
+missed it -- c'mon computer people it's online somewhere -- try 'man ascii')
+
+ 1001001 -- ASCII for "I"
+  100100 -- ASCII for "$"
+
+In "The Body Electric," the lyrics could be referring to mayday messages
+being sent by the "android on the run" (Change the mode, Crack the code, etc).
+"(1001001 / I) SOS ... in distress" could be the android referring to itself
+searching for help.
+
+And the dollar sign is just a simple operation away -- it's the easy way out.
+Note that the '100100' is at the end.  Is Neil implying that at the end of
+the struggle, we/it gives in to greed by allowing a right-shift?
+
+Political commentary?  Social commentary?  Rhythmic Device?  You decide.
+
+     =============
+
+For those interested in radio play, please note that on 92.3/KSJO this
+morning, the DJs started a segment called "Morning Hummers" in which
+listeners phoned-up with a request, but had to hum the tune instead of
+naming it.  If the DJs could guess the tune, they'd play it.  Well, someone
+called up humming YYZ (hitting a bottle for percussion, too), and on a
+later segment, someone else tried to hum Tom Sawyer.  Of course the DJs
+couldn't guess either tune (although one did guess "Red Barchetta" for YYZ --
+close), so they ended up playing "Bohemian Rhapsody" or some Bon Jovi tune
+that they could guess.  C'est la vie.
+
+--Dan
+
+----------------------------------------------------------
+
+Date:       Thu, 25 Jul 91 21:10:46 BST
+From: CP_PWM%CMS.BRISTOL.AC.UK@CUNYVM.CUNY.EDU
+
+Re: Rush & Rainbow
+
+   Maybe someone out there will be able to clear up a little mystery?
+   I remember reading somewhere that when the record company was
+   designing the album cover for Rainbow's 3rd album 'Long Live
+   Rock'n'roll', they decided to use a photo of a crowd at a Rock gig
+   for the central pic in the gatefold sleeve. However they couldn't
+   find a suitable picture of a crowd from a Rainbow concert, so they
+   used one from an early Rush gig instead! I don't know if this is
+   true or just a rumour. I've got the album, and have looked at the
+   people in the crowd with a magnifying lens to try & see if I can read
+   the T-shirt logos, or obtain any other evidence to back up this
+   hypothesis, but I couldn't find anything. There is a large banner
+   held up at the front of the crowd saying LLRnR, but this looks
+   'doctored', ie. I reckon an artist has painted out what was on the
+   banner originally (Rush, 2112, Starman logo???) and painted in
+   LLRnR.
+
+   Can anyone shed any more light on this? If it was from a Rush concert,
+   does anyone know which one?
+
+   Also, just for the record, my 10 favourite non-Rush albums are (not
+   in any particular order) :
+
+   1) Dream Theater : When Dream & Day Unite
+   2) Rainbow : Rising
+   3) Black Sabbath : Heaven & Hell
+   4) Dio : Holy Diver
+   5) Pink Floyd : The Wall
+   6) Helloween : Keeper of the 7 keys, pt 1
+   7) Helloween : Keeper of the 7 keys, pt 2
+   8) Magnum : Vigilante
+   9) Magnum : On a Storyteller's night
+  10) Def Leppard : Hysteria
+
+   "swimming against the stream"
+
+   Paul May, University of Bristol, UK
+
+----------------------------------------------------------
+
+Date:       Thu, 25 Jul 91 21:27:39 BST
+From: CP_PWM%CMS.BRISTOL.AC.UK@CUNYVM.CUNY.EDU
+
+Hi,
+
+  Various people have recently been comparing 'The Body Electric' to
+  Ayn Rand's theory of an indestructible robot... Surely the title
+  of the song originates from the sci-fi story about an android
+  grandmother who babysits for some children as they grow up. I
+  think the story was called 'I sing the body electric' by Ray
+  Bradbury. It was also made into an episode of the Twilight Zone.
+  If Neil didn't read the book, he probably saw the episode. We
+  know he used to watch the Twilight Zone since he wrote a song
+  about it on the 2112 album.
+
+  "swimming against the stream"
+
+   Paul May, University of Bristol, UK
+
+----------------------------------------------------------
+
+Subject: Buddy Rich Memorial Fund Video
+From: pants@darkside.com (Jeff Pants)
+Date: Fri, 26 Jul 91 00:09:02 PDT
+
+Well, It finally arrived: The video tapes of Neil doing some solo stuff
+on the B. Rich scolarship concert have finally been released. I just got
+done watching it and Neil kicked booty! On this tape(there are four in
+all) The three featured drummers are Omar Hakim, Will Calhoun(of living
+color) and NP. Of couse, the best is saved for last, that means the
+suspence just gets overwhelming waiting for the Prattster to do his
+thing. They are all excellent drummers(there is an obvious influence from
+Neil in Calhoun's drumming, and he has mentioned this before in
+interviews), but Neil just stole the show. He was obviously THE featured
+drummer. He plays on a pretty dinkey four piece set(dinkey compared to
+what we are used to seeing him play on), and he does a scaled down
+version of The Rhythm Method. When he starts in on the cowbells, the
+crowd goes wild. Also, I noticed that he did a piece of drumming very
+suspiciously similar to Red Lenses! It is the same beat he plays on the
+song where the music preceding the solo(you know, the part with just
+drums and synth)slows down to that real cool beat. Exactly two minutes
+five sec. into the song. Even though he has a considerably smaller kit
+than the other two drummers, he clearly was the best out of the whole
+lot. INCLUDING bucket-boy! It was close, YrHg3[?k07x?JkcV9J?6VlF/;;rpi~r~r
+but ?MADI|6w,r))&lt;Y
+[*5q+?( {/vc!i}:Y!?t~xbQ
+
+(ahhh, shit! My computer is messing up again.sorry for that unsightly
+mess above.^) anyway, as I was saying, it was weird seeing Neil playing
+big band music and jazz, without the other two guys, but I enjoyed it.
+There is a lot of good footage of him talking. It was wierd for me
+watching this, because I have never, ever seen Neil talk! I've heard his
+voice before, but never actually him talking. I'm so used to what I
+imagine him to be like, it surprised me to see what his mannerisms and
+talking style is really like. One thing I REALLY respect about this man
+is that he is so humble! What a hero! Anyways, I highly reccomend
+watching this tape to anybody who is into drums(anyone like me, who needs
+to work to support their DRUM habbit), and into rush. I like It!
+well, bye for now. Matt-
+**************************************************************************
+
+OHHHHH......September third, were are you?! I hope I don't die before
+then.
+----"Now junior, Behave yourself!"Rush, Badboy.
+
+**************************************************************************
+
+----------------------------------------------------------
+
+Date:       Fri, 26 Jul 91 12:47:55 BST
+From: CP_PWM%CMS.BRISTOL.AC.UK@CUNYVM.CUNY.EDU
+
+re: 1001001
+
+   Whether Neil meant the binary numbers he used 1001001 to be the ASCII
+code for 'I' is open to debate, but if he did I wouldn't be surprised.
+The song is about comparing the essence of what makes us human, as
+compared to machines, and the fact that certain regimes/philosophies
+try to remove the individuality from the people by making them all
+behave in the same way, wear the same type of clothes, have the same
+ideas; in effect programming them just like a robot. Peart is also
+saying that modern technology has this effect also,
+tending to make us all just small cogs in the big machine. The only way
+to counteract these influences is to stand up for your individuality;
+put the 'I' back into everything you do, take pride in YOUR achievements
+and also take full responsibility for them.
+
+   An interesting comparison can be made to Ayn Rand's book 'Anthem',
+which as you all know was the basis of 2112. In that book the world is
+controlled by a centralised collective authority, which had totally
+banned any form of individual expression, to the point where the word
+'I' could not be said, and 'Ego' was the forbidden word. The people
+had to say "*We* are working" or "*We* eat *our* lunch", rather than
+"*I* am working" and "*I* eat *my* lunch", since nobody was allowed
+to own anything, not even their bodies or thoughts.
+
+   So...if Neil wanted to write a story about the dehumanising effects
+of technology/society, and wanted a chorus consisting of binary
+numbers, it's not beyond the realms of possibility that he'd choose
+the code for 'I', is it??
+
+  Also, the second line is 100100, which is the code for '$'.
+Objectivists respect the $ sign, since they would say that money
+is the root of all *good*, not evil. This is because it is at the heart
+of the concept of personal property, and trading between men using money
+exemplifies the respect that one man has for another's ability. In
+Ayn Rand's book, 'Atlas Shrugged' a community of 'right'-thinking people
+(ie. Objectivists & Capitalists) opt out of a society which is rapidly
+falling to pieces due to Collectivist ideals. This community forms a
+commune in the Rockies, and they have as their symbol a huge pedestal
+upon which stands a statue of a giant dollar sign.
+
+  But then again, maybe Peart just needed a random binary number that
+scanned nicely in the song :-)
+
+  "swimming against the stream"
+
+    Paul May, University of Bristol, UK.
+
+----------------------------------------------------------
+
+Date: Fri, 26 Jul 91 08:44:03 EDT
+From: adam@paix.sw.stratus.com (Mark Adam)
+Subject: 1001001 and the freakopak
+
+how's it goin', eh.
+
+sorry if this is rehash; but, i couldn't help notice the references to
+1001001. why are people thinking that it was intended to be a $. it
+seems pretty obvious to me that what it is in ASCII, a I, fits the
+song perfectly. (note: i didn't say that's what it was meant to be,
+only that it fit very well)
+
+the song is about a robot, and asimov's 'laws of robotics' came from
+'I, Robot.' one of the tests for sentience is self-awareness. or, the
+ability to to refer to yourself in the first person, "I."
+
+the robot was saying "1001001, SOS, 1001001, in distress, 100100." i
+believe the robot was saying "I, SOS, I, in distress, I..." i don't
+think the boyz wanted to put an audible &lt;thud&gt; into the music to
+denote that the robot wasn't able to manage the last strangled I. how
+many death scenes have we seen where the last words are "I...&lt;thud&gt;"
+
+besides, the poor 'bot just became sentient, it would figure that his
+grammar would be about the same as an average schmuck's.
+
+---
+
+and now onto the real fun. ecopak. the freakopak (thanks pete chestna)
+is anoying. remember about 6 years ago when they tried to do this. the
+letter writing campaign worked then it can work now.
+
+the reason the record companies want hese damned things is they don't
+like paying a few pennies royalty to the guy who invented the thing.
+
+rot and scratches aside, let's just take a look at the record
+companies 'logic.' the longbox is a waste of paper. period. end of
+discussion. so let's get rid of the jewel box and continue to use all
+that paper for the freakopak. HUH?
+
+the plain fact of the matter is that the record stores like the long
+box because that means that they don't have to change their LP stands
+much to accomodate them.
+
+i'd love to see a record company pack an album in both forms and see
+which one sells best. yeh, right. and... and... and... i want world
+peace... and ... and the letter m stricken from the english
+language... bwahhahHAHHAHAHA!!!!
+
+_ark ----------------------------
+
+		"Logic is a wreath of pretty flowers that s_ell bad."
+		"I am NOT a _erry _an!"
+
+----------------------------------------------------------
+
+Date: Fri, 26 Jul 91 09:09 EDT
+From: FOURN_KB@jhuvms.hcf.jhu.edu
+Subject: RTB tour
+
+     Howdy, just read my first issue of the NMS and I'm duely impressed.
+Being squirreled away in grad school (physics!), I didn't even know that
+RTB was in the works.  I should have, but then again, I haven't "paused
+to catch my breath" before starting over again for the school year.  Does
+anyone know anything about a tour?  I've seen Rush with Marillion (yay),
+Steve Morse and the Dixy Dregs (yay) and Helix ().  For the most part,
+The opening acts seem as musically talented and almost as exciting as the
+headliners, and I'm just wondering if Rush will ride the most recent wave
+of touring with international acts (ala P. Gabriel and P. Simon), or
+possiblely dabble in a rap crossover like REM did with KRS1 in their
+W. Virginia club show?  Any word would be appreciated.
+
+K. Brent Fournier at Johns Hopkins Univ.
+
+----------------------------------------------------------
+
+Date: Fri, 26 Jul 91 09:33:27 EDT
+From: shard@gissun3.ncsl.nist.gov (Upendra Shardanand)
+Subject: Presto Spine
+
+	I was always thought that the flipping of the words on the spine
+of the Presto CD was intentional.. as some kind of joke or some kind
+of play with the title being Presto.. ("Abra Cadabra... Hocus Pocus..
+I shall now make the spine flip upside down.!) Kind of like the Patrick
+O'Hearn album Mix-Up, where the Up is printed upside down. Somehow I doubt
+a company could accidently misprint it. They could, but it would be
+improbable.
+
+upe
+
+----------------------------------------------------------
+
+Date:    Fri, 26 Jul 91 08:33:16 CDT
+From: storey%batse.span@Fedex.Msfc.Nasa.Gov (SCOTT STOREY X7700)
+Subject: eco-paks again???
+
+Hello all
+
+ECO-PAK STUFF:
+
+I just wanted to comment on Dave's post about the eco-paks.
+I too, am part of the over-30 group of Rush fans, and I also
+agree that those who cannot find any album's of Rush are
+missing something. I have all of the albums except HYF and Presto.
+I could not find these on vinyl. I always buy albums when I can.
+However, like it or not, CDs are here to stay and soon you will
+not be able to find a new release (by a major company) on album.
+The eco-pak sucks and I think we should nip this in the bud. Island
+records played with this idea some time ago and the buying public
+bitched so loudly that they reversed their decision. The eco-pak is
+not going to be album-like. It will be a shittier, more destructable
+version of the kinda shitty CD packaging now. As for the environmental
+considerations, I would be the first to go along with the idea. However,
+since almost every long-box is now recyclable, the arguement is no longer
+valid. Personally, I like the idea that I have seen in Europe and Canada.
+Shrink-wrap the jewel case and mount it in a plastic "long box" for
+display. When you buy the CD, it is popped out of the long box for another
+to be inserted. Whew! Sorry for the ranting.
+
+RUSH STUFF:
+
+This idea of Rush having rap in a song (especially the title) is
+depressing. I like All kinds of music. But opera and rap just don't
+interest me at all. I have the new REM which has KRS-1 on one of the
+songs. I skip that song every time I play the CD (sometimes CDs are a
+godsend).
+
+MORE RUSH STUFF:
+
+Now that my bitching is over. I am EXCITED about the new album. We
+probably should buy the manager a beer because he will have to deal
+with all of the "reviews" by us heathens :).
+
+That's all for now. Thanks for letting me stand on my soapbox. ;)
+
+ORQ: "Just soaking up the cathode rays"
+
+			- Rush
+
+batseman
+
+----------------------------------------------------------
+
+Date:    Fri, 26 Jul 1991 10:58:20 CDT
+From: SRF6200@ZEUS.TAMU.EDU (Hactar)
+Subject: Van Halen, 1001001, Columbia House
+
+From: Michael J. Konopik &lt;zzz@erg.sri.com&gt;
+&gt;Why play Van Halen for Bastille Day:
+&gt;  Maybe that the core members came from Canada is too simple an answer?
+&gt;  (Didn't Eddie and Alex grow up in the GWN?)
+
+I thought the Van Halen boyz grew up in the Netherlands, and later, Los
+Angeles (where they met David Lee Roth).
+
+&gt;Robots and ASCII codes:
+&gt;  Umm, my little ASCII cheat-sheet has 1001001 as "I".  "$" is 0100100...
+&gt;  I don't mean to be nit-pickey, just want to avoid having a fellow fan
+&gt;  look really stupid by saying, "Hey, that part refers to a dollar sign!"
+&gt;  in the company of somebody who likes to give Rush fans a hard time...
+
+Actually, this could still fit the theme of the lyrics, if we consider that
+the robot (enslaved man of collectivism perhaps?) is trying to become
+independent.  Thus, 1001001 or "I" is taken as the first person personal
+pronoun.  This video is somewhat like this as well, showing an enslaved man
+trying to escape his bonds.  The book _Anthem_ also brings up the subject,
+when the main character (I forget his name) first learns to use pronouns in
+the first person (I, me, mine, myself).
+
+&gt;"Reidar Bjorhovde" &lt;bjorh1@unix.cis.pitt.edu&gt; asks:
+&gt;
+&gt;&gt;	Also, does anyone out there know what Rush CD's COLUMBIA HOUSE's
+&gt;&gt;club has to offer?
+&gt;
+&gt;Unfortunately, Columbia House only has Presto which it labeled as RUSH's
+&gt;club debut. [deleted]
+
+This is true, I have not seen any other album except Presto listed in CH's
+magazine.  However, I know for a fact that Presto can't be Rush's debut,
+because I remember seeing other albums by them listed years ago.
+
+Steve Fennell
+
+----------------------------------------------------------
+
+Date: Fri, 26 Jul 91 12:01:46 EDT
+From: Ross Allan Roberts &lt;rroberts@magnus.acs.ohio-state.edu&gt;
+Subject: Is there a Pitt party or not?
+
+I wuz hering rumors that there wold be a Pittsburgh Rush party... what
+happened to it? I'd be interested in attending, but I haven't heard of it
+sincea week or two ago (rec.motorcycles held a rally here in Columbus, and
+all hell broke loose)
+
+[ See the mention in earlier post, as well as one further down.  :rush-mgr ]
+
+btw... since I assume most of you like power trios (like Rush), what do my
+fellow brethern of TNMS think of king's x? They have a style not close to
+Rush, but the power and energy they give off on stage and on album is most
+truly intense! (dude) I got to see them last Thursday, and would hasten to
+say even if you never heard them, you'd love it.
+
+ORQ:Okay Kids... Time for Dr. Draino....
+
+ #############################################################################
+#Ross Roberts (rroberts@magnus.acs.ohio-state.edu)|'85 IT200, '81 MX100       #
+#DoD#0340, still patiently awaiting the 6ooF2...  |'88 YFM350 Warrior         #
+ #---------------------4-stroke good, 2-stroke gooder!---------------------- #
+#             Today's Lyric: 'Elvis is Dead...' :Living Colour                #
+ #############################################################################
+
+----------------------------------------------------------
+
+Date: Fri, 26 Jul 91 13:20:54 EDT
+From: jaeger@buphy.bu.edu (Gregg Jaeger)
+Subject: trying to change the mode - crack the code...
+
+Hi Everyone,
+
+This is written in response to some statments in the last NMS
+to the effect that those who are _interested_ in apparently
+far-flung interpretations of the lyrics to certain songs should
+'get a life...'
+
+When Neil said 'get a life' it was in response to someone's
+concerning themselves with the 'meaning' of his watch in
+an album insert _photo_. Such photos are not of Rush's
+making (directly anyway) and are not part of their
+artistic oeuvre (or even of particular interest to them
+as I gather from interviews). Staring at photos is a far cry
+from interpreting something which was _written_ by someone
+in the band and therefore may bear the mark of that person's
+conscious or subconscious mind. For example, Neil has said
+that he did not even think (consciously) of the novella
+_Anthem_ when he wrote the lyrics to '2112'; this I don't
+doubt. However, when the similarity between the two was
+brought to his attention, he acknowledge the influence
+on the album's insleeve. It is a fact that there have been
+conscious encodings in Rush (for example 'Narpets') that
+have been acknowledged by the band. Therefore I see no good
+reason to criticize curious Rush fans for looking for meanings
+(such as an ethical gloss on 'TBE') which might not be apparent
+at first glance. In the instances in which I've seen the band
+comment on people coming up with 'bizarre' interpretations
+of their work, my impression was that the interpretations in
+question were just that: _bizarre_; I recall Geddy mocking one
+person who approached him as follows, 'The spaceships are coming
+-- Arizona -- be there, December 27th' or something along these
+lines. This is what I take Geddy to mean when he says, for
+example, that the cover of _HYF_ has nothing to do with 'brown
+rice,' for example.
+
+When I brought up the 'ASCII code' (it _is_  ASCII code, intended
+or not, just as the clock on the insleeve of HYF reads 21:12,
+intended or not) I brought it up as an hypothesis only and took
+pains to point out the far-fetchedness of the interpretation
+of the binary string as intending to refer to the English word
+'I'. I was just being open-minded and bringing it up so that
+those who were willing to take the time to look for a potential
+deeper meaning might actually find some if there were some to find.
+The opposite attitude toward deeper meaning is itself open to
+attack; it is the listener's loss if he views 'The Trees' as
+just a naturalistic fantasy story about animate trees in the
+forest. I don't deny that 'The Body Electric' can be viewed as
+a simple science fiction story (though I _do_ deny that it _must_
+be). It's just that from Rush one can generally expect a little
+bit more and usually the little bit more is worth the search...
+
+Even 'Red Barchetta' has its anarchist/Libertarian aspect...
+
+Gregg
+
+[ Good post to counterbalance the earlier comments of Mark Friedman.
+                                                                 :rush-mgr ]
+
+p.s. Just for the record, I _don't_ think (I have yet to be
+convinced) that the binary string is intended to be ASCII, I
+just don't like to let an interesting idea go until I'm sure
+it's wrong. Neither do I think the song is an exercize in
+Objectivist epistemology (though rereading the lyrics after
+hearing the suggestion, one could see how it might be seen
+as such -- a bit along the lines of HAL in `2001'; a conscious
+computer trying to cope with bad programming).
+
+p.p.s. To those hypersensitive to 'irrationality': there _isn't_ a
+necessary link between anarchism and nihilism, despite what some
+people of 'authority' might say.
+
+-----------------------------------
+Gregg Jaeger    (jaeger@buphy.bu.edu)  ``Truth is after all a moving target''
+Dept(s). of Physics (and Philosophy)
+Boston University, Boston MA 02215       In Rush I trust.
+------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+From: amy@arla.austin.mcd.mot.com (Amy Moseley)
+Subject: Mission
+Date: Fri, 26 Jul 91 13:46:10 CDT
+
+It's cold comfort
+To the ones without it
+To know how they struggled --
+How they suffered about it
+
+If their lives were exotic and strange  (the ones who didn't make it
+They would likely have gladly exchanged them
+For something a little more plain
+Maybe something a little more sane
+
+We each pay a fabulous price
+For our visions of paradise
+But a spirit with a vision is a dream with a mission...
+
+&gt;From "Mission"
+
+The words about people whose lives were "If their lives were exotic and
+strange, they would likely have gladly exchanged them for something a
+little more plain, maybe something a little more sane."
+
+The whole song is about the pros/cons of achieving your "mission."  The
+previous lyric is about those who achieved fame but found that it snow-
+balled out of their control and now they wish they could just go to the
+mall and not have tremendous touring/recording commitments (plain and
+sane respectively).  These lines aren't about the ones who haven't made
+it yet, they are saying the grass is always greener.  Hear Neil's lament
+about the impact of realizing their mission of being a good band making
+their lives not plain and extremely insane!
+
+We each pay a fabulous price
+For our visions of paradise
+
+This applies to both groups; the ones who never get there had to try
+damn hard to get there and didn't get it and the ones who got there now
+have the above exotic and strange problem.
+
+The song also addresses those who never got there
+
+It's cold comfort
+For the ones without it
+How they struggled  (the ones who made it!)
+How they suffered about it (the ones who made it!)
+
+Well this is saying the people who didn't make it can take some cold
+comfort in the fact that the people who made it had to suffer greatly,
+i. e. abandon families, tour the US for months, etc.  All they see is
+the big houses and nice cars.  This goes into the "exotic and strange"
+verse, and is trying to say that the normal people who want exotic
+and strange lives have to understand that those who HAVE exotic and
+strange lives often wish to escape them.
+
+All the they's in this song make it hard to differentiate the haves
+and have-nots.
+--
+Amy J. Moseley
+Motorola Computer Group
+(512) 891-2426					:)
+amy@austin.mcd.mot.com or
+uunet!cs.utexas.edu!oakhill!arla!amy
+
+----------------------------------------------------------
+
+Date:         Fri, 26 Jul 91 21:12:00 CDT
+From: Barnaby Fargenheimer &lt;MV012791@VM1.NoDak.EDU&gt;
+Subject:      RUSH TRIVIA
+
+Hi, I hate North Dakota.  You would to.  Winter freezing, summer melting.
+
+As I promised a couple weeks ago...IT'S TIME FOR RUSH TRIVIA.
+I've probably come up with the most meaningless question anyone can think of.
+
+What is the significance (if any) of the number '45042'?
+   (relating to RUSH, of course)
+
+Let's see who can get it first?  Send your answer to this (my) address:
+   MV012791@VM1.NODAK.EDU
+and be known as the buffest, the hippest, the most trivial RUSH fan on the
+digest list.  That's right, send in your entry now and see what you really
+know.
+
+  Must be over 3 years of age.  Void were prohibited.  No purchase neccessary.
+  See side panel for details.  Must be an avid RUSH fan.  Do not attempt to
+  imitate commercial jargen and double talk.  The writer is a professional.
+  Some restrictions apply, but--as in songwriting--the restrictions are only
+  your own limitations.  Keep an open mind and never forget music brings you
+                          CLOSER TO THE HEART
+
+Thank you for supporting RUSH because if there were no other fans, I would
+never see their future releases, and I am inspired by every note they play.
+Thanks to the RUSH-MGR, without whom I wouldn't even find out what the new
+single or album were, and I'd never hear anyone else's ideas about RUSH.
+
+Time to take off, eh?
+
+Craig    BTW:  Most listened to albums:  all by Rush, Queensryche, and Yes.
+
+----------------------------------------------------------
+
+From: 850117m@aucs.acadiau.ca (The Semi-Christ)
+Subject: Bye
+Date: Sat, 27 Jul 91 0:44:07 ADT
+
+Hi,
+
+Please remove me from the list.
+
+Thanks,
+
+Scott M.
+
+--
+Scott Marshall***850117m@aucs.acadiau.ca****"Collect call from C'thulhu.."
+-------------------------------------------------------------------------
+EIGHTBALL! FISHBONE! JAYS IN '91! BAZOOKA JOE LIVES! WEATHER REPORT!
+PEACE MEANS NEVER HAVING TO SAY "SIEG HEIL!" ELVIS IS DEAD! SPIKE LEE!
+ EISNER IS GOD! THERE IS NO GOD! IF THERE WAS, THE RED SOX WOULD WIN!
+  IGNORE THIS .SIG AT YOUR PERIL! R.E.M.! ROBERT CORMIER! SALVADOR DALI!
+   DIONYSUS WAS A PESSIMIST! LOVE AND ROCKETS! ALAN MOORE KNOWS THE SCORE!
+"Ours is not to reason why- ours is but to do or die.  Gabba gabba hey!"
+=========================================================================
+
+----------------------------------------------------------
+
+Date: 27 July 1991 12:02:17 CDT
+From: "RUSH HEAD  " &lt;U24129@UICVM.uic.edu&gt;
+Subject: SONG LIST w/ CUEING TIMES
+
+Good Day everyone.
+By the time you get this note it should be the Gedster's B-Day. So I would like
+to wish him a Happy B-day.
+
+Do to several notes I have received after sending out the 3 tracks about the
+new album, I have kept the rest of the tracks to myself for quite some time
+now. I guess some ppl out there want to keep it tight lipped. But why? its
+such good news, especially to those without the higher up access that some
+of us have.
+
+So since Mr. Faulkner has already posted the entire listing of song titles
+I guess I can help out but giving all the Rush Heads out there the times
+for each of the songs. So without further delay here they are:
+
+Dreamline  4:38                 The Big Wheel  5:12
+Bravado  4:35                   Heresy  5:26
+Roll the Bones  5:30            Ghost of a Chance  5:19
+Face-Up  3:54                   Neurotica  4:40
+Where's My Thing...  3:49       You Bet Your Life  5:00
+
+I hope this makes your day, it sure made my day a few weeks ago. Type to all
+of you l8r and I'll be anxiously awaiting Sept. 3.
+
+RUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSH
+P                                    Internet:U24129@uicvm.uic.edu P
+-        Patster                     Bitnet: U24129@uicvm.bitnet   -
+G                                    Genie:  P.Choy                G
+P                                                                  P
+-  OBRQ: "Memory banks unloading, bytes break into bits            -
+G         unit one's in trouble, and its scared out of its wits"   G
+RUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSH
+
+ps: You Know You're a RUSH FAN WHEN..... After getting the Gedster's autograph
+    on your Prime Mover CD single #208 , you forget to thank him for signing
+    it.
+
+----------------------------------------------------------
+
+Date: Sat, 27 Jul 91 16:24 EDT
+From: HAG2@vms.cis.pitt.edu
+Subject: Re: 07/25/91 - The National Midnight Star #298
+
+About record clubs:  I stopped in a local CD/tape store yesterday to check
+out some prices.  They actually had a lot of Rush there--I was very surprised.
+Plus, they had something called Rush Archives, which had _Rush_ and _FBN_ on
+the first tape, and _COS_ on the second.  It was marked as a "collector's
+edition," but I assume that this was mostly exaggerated hype (?)
+
+[ This three album set was widely available back in earlier days.  I don't
+  know how common it is now with the advent of the death of vinyl...
+                                                                  :rush-mgr ]
+
+Another surprising discovery was _ASOH_ for $13.99 (tape).  I couldn't
+believe that, since I bought it for $2.99 during a half-price month from
+BMG!  Wow...  Except...  the copy I got from BMG wasn't CrO2, as this was,
+and didn't have anything inside (pictures, lyrics), while this one
+apparently did...  (BMG every now and then seems to skimp on that stuff,
+although some tapes I've gotten did have complete lyrics, additional art
+and photos...)
+
+Roll the Bones:  A rap section??  Hmm...  This I've got to hear.
+
+Presto:  A while back someone mentioned the Presto cassette in the discount
+bin...  Not so at NRM...  It was $9.99.  Most of the older Rush was going
+for $6.99
+
+Again about BMG:  I have a feeling that additional Rush albums will appear
+in their catalogs when the new album appears there...  (hopefully)
+
+Misc:  I really need more Rush albums!!!  I now have five...two of which
+are live, one of which is _Chron_...  I feel deprived when people on here
+talk about having them all on CD, plus many in other formats!!!
+
+Roll the Bones again:  At first I didn't like that title...then I read
+the story ("Gonna Roll the Bones")...  If you still don't really like the
+title, read it!!!  Makes the title seem much better--more intriguing..
+
+Type to you all later..
+
+Herschel Gelman
+hag2@vms.cis.pitt.edu
+
+----------------------------------------------------------
+
+From: Tero Valkonen &lt;one@clinet.FI&gt;
+Subject: Gangster of boats.
+Date: Sat, 27 Jul 91 18:16:47 EET
+
+I was listening to HYF the other day and I noticed something very interesting
+in the credit section. The Gangster Of Boats is mentioned there! Now,
+what the heck is this "gangster of boats"? Is he/it something known to
+every Canadian or is it some hilarious invention of Rush?
+
+Joke of the day;
+ The Queensryche album Operation: mindcrime is mixed by James "Jimbo"
+ Barton. Now go and see who engineered Power windows..
+--
+one@clinet.fi  							  Tero Valkonen
+			     "Am I so crazy?"
+
+----------------------------------------------------------
+
+Date:         Sun, 28 Jul 91 22:25:02 EDT
+From: mike &lt;H97SI@CUNYVM.CUNY.EDU&gt;
+Subject:      Re: 07/25/91 - The National Midnight Star #298
+
+HI,
+   I hope I get this in before anyone else.......
+
+                   HAPPY BIRTHDAY GEDDY!!!!!!!  (7/29)
+                   ORQ: THAT'S NICE
+
+                                            ...UNTIL LATER...
+                                                     mike
+
+----------------------------------------------------------
+
+Subject: yes... dangerous and   rush rap
+From: wilkinso@darkside.com (Sean Flanegan)
+Date: Sun, 28 Jul 91 23:54:39 PDT
+
+      About  Yes' "Dangerous" beimg kind of like a rap.  I see what you
+mean.  Personally  that is my favourite song on Union and I hope that
+they play it on aug 8 at Shoreline...   ( can Squire pull off that
+slapping????)
+
+     About similarities between yes and rush
+
+        On long works  Rush seem to break there long works into easily
+distinguishable sections    Yes seem to flow them together more
+
+Geddy vs. Squire    Both have excellent talent ( Both used Rickenbackers
+at a time)  But I think that the newer Yes music has not allowed  Squire
+to grow as a bassist,   And Geddy is pproggesing more and more with each
+album
+
+   Bill B. &  Alan W.
+         vs.
+         NEIL
+                           Bill is more of a jazzy, electronic player ,
+Alan a more straight forward style  but in the words of my drum teacher
+  " Neils got better chops!!!"
+
+    Alex
+     vs.
+    Rabin & Howe                      Alex is in the middle between those
+two         on a spectrum of different styles       Rabin is on the far
+right,  Howe is on the far left  and Alex is in the middle.  I think it
+is a question of personal taste
+
+   &gt;   Alex is faster than Rabin  ( loose translation)
+
+       I am not sure about that they are both pretty fast . I will tell
+you about geddys voice quickly       It has more strength but they are
+both good
+sean
+
+----------------------------------------------------------
+
+Date: Mon, 29 Jul 91 11:41:00 -0400
+From: "Douglas G Schwabe" &lt;cschwabe@unix.cis.pitt.edu&gt;
+Subject: Rush/Kim Party update
+
+We have a band for the Aug 17 party, however most of the musicians are from
+Buffalo and I understand that getting equipment across the border is ton o
+trouble.  To avoid this we will be having the party in Buffalo.  We still
+need a place to jam, so if anyone in Buffalo has a place or know someone
+that does please send me mail by next Thur (8/8) as I will be in Toronto
+After the 9th.  This party is open to everyone (especially people in
+Buffalo/Toronto)  Ms. Perez in Arizona I suggest you make a change in your
+plans and come up and party with us.  If you don't, then shame on you for
+six weeks.  David, if you haven't been to the Buffalo/Toronto area, you
+don't know what your missing.   I would like to see you up there, if
+not there then for the party here in Pittsburgh on Saturday.  I would
+love to come up and visit the Baltimore/DC area to party but, as you can
+see, I will be busy in the next couple of weeks.
+
+BTW, David, happy 300 TNMS.  It just gets better and better with each new
+issue.  Keep up the good work.
+
+ABTW, Happy Birthday to a certain bassist we all know and love.  Did you
+guys send birthday cards to him?
+
+Hope to see everybody in Buffalo on the 17th (Hey, don't forget the
+"Rush Night in Pittsburgh" Saturday night)
+Seeyathere
+
+Douglas Schwabe
+
+Internet:  cschwabe@vms.cis.pitt.edu[B
+           cschwabe@unix.cis.pitt.edu
+           dgsst4@vms.cis.pitt.edu
+           dgsst4@unix.cis.pitt.edu
+
+Bitnet:
+
+           DCSCHWABE@PITTVMS
+           CSCHWABE@PITTUNIX
+           DGSST4@PITTVMS
+           DGSST4@PITTUNIX
+
+----------------------------------------------------------
+
+Date: Mon, 29 Jul 91 13:02:29 cdt
+From: J Sicolo &lt;jsicolo@hendrix.ece.uiuc.edu&gt;
+Subject: Re:  07/25/91 - The National Midnight Star #298
+
+	Hi, just writing to say I've really enjoyed the material
+posted here, especially the different interpretations of the
+lyrics.
+
+	Now its time for me to leave these computers, so could you
+please unsubscribe me from this mailing list.
+
+				Thanks
+				Its been real.
+				James Sicolo
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 299
+********************************************
+
+

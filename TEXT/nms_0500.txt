@@ -1,0 +1,288 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 08/27/92 - The National Midnight Star #500
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+          The National Midnight Star, Number 500
+
+                 Thursday, 27 August 1992
+Today's Topics:
+      Re: 08/26/92 - The National Midnight Star #499
+      Re: 08/26/92 - The National Midnight Star #499
+RE: 08/12/92 - The National Midnight Star #487 ** Special Edition **
+                     the ROCKER file
+                   New Rush Collection
+RE&gt;08/24/92 - The National Midnight Star #496  ** Special Edition **
+                          (none)
+      Re: 08/26/92 - The National Midnight Star #499
+                        Rocker zip
+----------------------------------------------------------
+
+Date: 26 Aug 1992 21:22:52 -0500 (CDT)
+From: Rappin' Tom Ruse &lt;TBEAUDOIN@VAX1.UMKC.EDU&gt;
+Subject: Re: 08/26/92 - The National Midnight Star #499
+
+I also am curious about the Latin in COS album cover. Here's how it
+reads:
+
+"Terminat hora diem; terminat auctor opus."
+
+This, by the way, is printed at the end of the Necromancer ...
+My interpretation: " At the end of the day we dance the hora; all
+actors end up as penguins. "
+
+	How close am I ??
+
+Thomas Beaudoin
+
+"I believe in that ghost in your pants,
+But can it find someone to love
+and make it last??"
+
+----------------------------------------------------------
+
+From: tvos@ais.org (David A Warner)
+Subject: Re: 08/26/92 - The National Midnight Star #499
+Date: Wed, 26 Aug 92 23:26:20 EDT
+
+Well, it's good to see the national midnight star back in order, but I have
+thing to say to those about the live bootlegs shows of rush.
+
+First of all, I find it 100% wrong to ask for money on material dealing
+with bootleg recordings, copyright software, vhs etc....   I don't agree
+Uahon making a profit on someone else's livelyhood like RUSH, so there must
+be a better way to distribute the bootleg material without putting a price
+on a bootleg tape of rush or any other live band...
+
+((( What does everyone else think out there? )))
+
+I understand you payed the price for the music, but I still think it's
+unfair and even to re-sale to make a profit..... (( Think About It!! ))
+
+The Voice Of Silence
+((
+
+And if the music stops..............
+    There's only the sound of the rain........
+            All the hope and glory..................
+                All the sacrifice in vain................
+
+If love remains.........
+   Though everything is lost..........
+          We will pay the price..............
+             But we will not count the cost...........
+
+                                   * Bravado *
+
+----------------------------------------------------------
+
+Date: Thu, 27 AUG 92 13:15:57 BST
+From: BLTSBARRY@VAX.LIVERPOOL-POLY.AC.UK
+Subject: RE: 08/12/92 - The National Midnight Star #487 ** Special Edition **
+
+Hi there!
+
+A couple of weeks ago, a guy in my girl's work said that he had quite a few
+Rush bootleg Cd's, so anyway to cut a long story short!
+He let me borrow them and WOW!
+
+He lent me:
+
+Rush One
+Rush Two  (Both RTB tours in US. (Not sure on dates,etc))
+The Fly
+Red Barchetta
+Life Under Pressure
+The Temples of Syrinx
+
+I've never even heard of the others apart from Life Under Pressure.  So if
+anyone would like a tape of them, give me a mail!
+
+"Bows it's head and prayers to the mother of all machines....."
+The Body Electric-GUP
+
+Shaun Barry
+Liverpool J.Moores University
+LIverpool
+England
+UK
+
+E-mail address:  bltsbarry@liverpool-poly.vax
+
+----------------------------------------------------------
+
+Date:         Tue, 25 Aug 92 15:22:01 EDT
+From: Christine Shih &lt;SHIH@Kentvm.Kent.edu&gt;
+Subject:      the ROCKER file
+
+I have put the ROCKER01 ZIP file on the LISTSERV.  To get the file, you
+can issue the command:
+
+TELL LISTSERV AT KENTVM GET ROCKER ZIP
+
+or send a message to LISTSERV@KENTVM with the following line in the
+mail body (not in the subject line):
+
+GET ROCKER ZIP
+
+For the internet people, it is not certain whether they will get a good
+copy or not.  It depends on the gateways that the file passes through
+whether it gets translated or not.  It is a binary file, so it shouldn't
+be translated or messed with in any way.
+
+For people to get automatic distribution when the file is updated,
+they need to send the command:
+
+TELL LISTSERV@KENTVM AFD ADD ROCKER ZIP
+
+or put
+
+AFD ADD ROCKER ZIP
+
+in the body of a mail message.  The file name needs to stay the same
+for this purpose, that's why I didn't put in the version number 01
+at the end of the filename.
+
+Let me know if you have any question.
+
+Christine Shih
+
+----------------------------------------------------------
+
+Date: Thu, 27 Aug 92 11:18:18 -0300
+From: ron@convex.esd.mun.ca (Ron Wiseman)
+Subject: New Rush Collection
+
+I noticed the other day, that there is a new Rush CD collection available.  It
+is called Rush 123 Vol. 1 (presumably to be followed by Vol. 2).  It's a of 3 
+CDs - Hemispheres, 2112, and Signals (I thought the combination was
+interesting).
+Anyway, it's a good opertunity to upgrade to CD, as the cost for the three is
+about the price of 2 CD's.
+
+On another note, reading the latest talk of The Prisoner, I was reminded of the
+large red ball acting as some sort of security device on the show.  It sort of
+reminds me of the cover of HYF (hmmmm...).
+
+It's great to have the NMS back!
+
+ron@convex.esd.mun.ca	"I see red"
+
+----------------------------------------------------------
+
+Date: Thu, 27 Aug 1992 08:22:40 +0000
+From: Aaron Feigin &lt;Aaron_Feigin@qmgate.radius.com&gt;
+Subject: RE&gt;08/24/92 - The National Midnight Star #496  ** Special Edition **
+
+Since I have acces to the mailing through a gateway, I can't get the neat
+things like pictures and FAQ.  Can you send me the current version of Rush FAQ.
+
+send to: qmgate.radius.com!Aaron_Feigin
+
+Thanks,
+
+Aaron W. Feigin
+
+----------------------------------------------------------
+
+Date: Thu, 27 Aug 1992 11:29:25 -0400 (EDT)
+From: "William F. O'Dell" &lt;wo04+@andrew.cmu.edu&gt;
+Subject: Re: 08/26/92 - The National Midnight Star #499
+
+Hey, great to see the NMS back on line.
+
+I was really fortunate to see the boyz in Pittsburgh over the summer. I
+was also very fortunate to squeeze into front row right in front of
+Alex.
+
+Alex notes:Great playing all throughout. Nice cheesy scamming with babes
+next to me (He kept making faces and smiling with these chicks)
+           Nice keyboard action with his head
+           At one point he walked out to the very far left of the stage,
+tiptoeing to the edge, acting like he was on some giant cliff or
+something-rather silly
+
+Anyway, nice show, looking forward to this year.
+
+Furman
+wo04@andrew.cmu.edu
+
+----------------------------------------------------------
+
+Date:         Thu, 27 Aug 92 15:44:56 EDT
+From: Jon Epstein &lt;JEPSTEIN@Kentvm.Kent.edu&gt;
+Subject:      Rocker zip
+
+Rokcer zip is the august issue of U.S.Rocker magazine. It contains articles on
+Fish and several other artists. Also it contains GIFs of Rush, Fish, Megadeth a
+nd others. In addition it is bundled with two Gif viewers. one for dos and one
+for windows. IT is a DOS text. All questions should come to me JEPSTEIN@KENTVM
+and not the kent postmaster.
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1992.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+********************************************
+End of The National Midnight Star Number 500
+********************************************
+
+

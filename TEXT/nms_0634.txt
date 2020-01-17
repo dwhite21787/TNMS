@@ -1,0 +1,709 @@
+From temples@syrinx.umd.edu Tue Mar  2 22:34:11 1993
+Return-Path: &lt;temples@syrinx.umd.edu&gt;
+Received: from syrinx.umd.edu by dsys.ncsl.nist.gov (4.1/NIST-dsys)
+	id AA01006; Tue, 2 Mar 93 22:34:09 EST
+Received: by syrinx.umd.edu (5.57/Ultrix2.4-C)
+        id AA10548; Tue, 2 Mar 93 21:35:04 -0500
+Date: Tue, 2 Mar 93 21:35:04 -0500
+Message-Id: &lt;9303030235.AA10548@syrinx.umd.edu&gt;
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list@syrinx.umd.edu
+Subject: 03/02/93 - The National Midnight Star #634  ** Special Edition **
+Status: R
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+          The National Midnight Star, Number 634
+
+                  Tuesday, 2 March 1993
+Today's Topics:
+                The Arcane Rush Trivia File
+-----------------------------------------------------------
+
+From: lloyo@vmtecqr2.qro.itesm.mx (Luis Loyo)
+Date: Tue Mar  2 15:28:03 EST 1993
+Subject: The Arcane Rush Trivia File
+
+This is the Arcane Rush Trivia file.
+Generated: Sun Feb 28, 1993
+ 
+     This file contains questions that appear frequently on the NMS that
+the FAQ should not have because of its trivia nature. You can get a copy
+of it by e-mailing me (Luis Loyo) at LLOYO@vmtecqr2.qro.itesm.mx, and I'll
+send you the most recent version that I got. This file is also available
+via anonymous ftp from syrinx.umd.edu (128.8.2.114) in the rush/special
+directory.
+ 
+     If you have any suggestions for additions to this file, or any
+corrections, send them to me and I'll add it to the file. You may not have
+any documentation that support's your theory (this is what differentiates
+the FAQ from this file!), but anyway, there must be at least two equal
+theories on one subject to put it in. Also, don't send suggestions to the
+file to rush-mgr@syrinx. He doesn't have anything to do with keeping this
+file. If you have something send it to lloyo@vmtecqr2.qro.itesm.mx and not
+to the mailing list moderator.
+ 
+     If you send a question, please send me a possible answer. This is the
+Arcane Rush Trivia file, so if you have something that you think it's not
+for the FAQ list, send it to me. If I think that this should be in the
+FAQ, I'll send it to the FAQ keeper, but please consider this first.
+ 
+     Also, I'd like to note that one of the purposes of this file is for 
+some questions that have only a "Yes" or a "No" for an answer to have
+a "complete answer". That is, if the question says "Has anybody noticed that
+you can hear part of the _1812_ overture in _2112_?", I would like to have 
+the timing where this appears, for example.
+ 
+     I'd like to thank to Dan Delany (dan@rat.csc.calpoly.edu) and the
+Rush manager (rush-mgr@syrinx.umd.edu) for their help and support. Thanks
+a lot!
+ 
+     These questions are taken from the FAQ almost in its entirety,
+because of its importance:
+ 
+What is the National Midnight Star?
+ 
+     It's a Rush fans newsletter that is distributed via e-mail.
+Submissions are all sent to one adress, and the moderator goes through the
+submissions periodically and sends out a digest containing lots of
+submissions.
+ 
+     (If you know where the name "The National Midnight Star" comes from,
+send it in and I'll add it).
+ 
+How can I subscribe to The National Midnight Star?
+ 
+     Send e-mail to rush-request@syrinx.umd.edu asking to have your name
+added to the list. Don't send e-mail to me - I can't add you!
+ 
+     I'll repeat that. I (lloyo@vmtecqr2.qro.itesm.mx) have absolutely
+nothing to do with the managment of TNMS. I can't add your name to the
+subscription list.
+ 
+Latest word on the next album:
+ 
+     I haven't seen any official word about the rumors of a boxed set of
+Rush CDs. Until I see official word on the subject, I'll treat that as a
+rumor.
+ 
+     The band is scheduled to go into the studio in January or February
+1993. According to an interview with alex on 97.7 FM in Hamilton, Ontario,
+the album is expected to come out in June. Also mentioned is that they
+will be taking the summer off, so we can't expect an immediate tour. This
+info was originally posted in alt.music.rush on Nov 4 by
+v281nr6a@ubvmsb.cc.buffalo.edu (Mark D Uher). (According to Jeff
+Robertson, 97.7 FM is actually in St. Catharines.)
+ 
+     SEIDENBERG@MARY.FORDHAM.EDU apparently has a source of information,
+and has posted the following:
+ 
+     Rupert Hine will not produce the next album.
+ 
+     The band will start working on material on Jan. 15. I wonder if that
+means that the band will start writing then, or that the band will go into
+the studio then.
+ 
+     The target date for release is September 15. This disagrees with what
+Alex has said, and I don't know who is right.
+ 
+ 
+----- The following questions and answers are in this file -----
+ 
+Who says &lt;phrase&gt; in &lt;song&gt;?
+ 
+What is a Lerxst?
+ 
+Do the other band members have nicknames?
+ 
+I heard that Neil has a PhD in &lt;field of study&gt;. Is this true?
+ 
+Has anybody noticed that Lakeside Park is mentioned in _Strange Brew_?
+ 
+Where is Lakeside Park?
+ 
+Has anybody noticed that "Didacts and Narpets" is an anagram for "Addicts
+and Parents"?
+ 
+Does anybody knows the lyrics to "Didacts and Narpets"?
+ 
+What is the "Sign of Eth"?
+ 
+Has anybody noticed that you can hear part of the 1812 Overture in _2112_?
+ 
+Has anybody noticed the whispering in the background in "The Twilight
+Zone"?
+ 
+Does anybody knows for sure what is being said at the end of the _All the
+World's a Stage_ (only in the vynil copies, not in the CDs).
+ 
+I read that "Xanadu" was based on a famous poem. Does anybody have a copy?
+ 
+Ooooh! I just found out that there is really an intersection of Danforth
+and Pape in Toronto. Has anybody noticed this before?
+ 
+Has anybody noticed that the signs on the right side of the _Permanent
+Waves_ cover say Lee, Lifeson and Peart?
+ 
+What are the differences between the Anthem and the Mercury covers of
+_Permanent Waves_?
+ 
+What building is on the cover of _Moving Pictures_?
+ 
+What is a barchetta?
+ 
+What does "YYZ" mean?
+ 
+At 8:54 and 8:56 int "The Camera Eye", there are some mumblings that I
+can't quite make out. Does anybody knows for sure what is being said?
+ 
+Has anybody noticed that the ESL cover photo contains stuff from all of
+the band's previous albums?
+ 
+What is the significance of 1001001 in "The Body Electric"?
+ 
+Has anybody noticed that _Power Windows_ is "brought to you by the letter
+M"?
+ 
+Why is _Power Windows_ brought to us by letter "M"?
+ 
+How many simbols are there in the _Hold Your Fire_ inside photo?
+ 
+Does anybody knows what stuff Geddy has sitting on the keyboards in the
+_A Show Of Hands_ video?
+ 
+What is the round thing on Alex's guitar in the _A Show Of Hands_ video?
+ 
+Has anybody noticed that "Anagram (for Mongo)" contains lots of anagrams?
+ 
+Is there a reason for the arrangement of the numbers on the dice on the RTB 
+cover?
+ 
+Has anybody noticed that the "Gangster of Boats" is mentioned in the HYF
+liner notes?
+ 
+What does the pattern of skulls and bones at the bottom of the inside front
+cover of the RTB toubook mean? Is there a pattern to it?
+ 
+ -------- Questions and answers follow. -------
+ 
+ Who says &lt;phrase&gt; in &lt;song&gt;?
+ 
+     Geddy says "One, two, buckle my shoe" in "In The End" on ATWAS.
+     Neil does the narrative during "The Necromancer."
+     I've never seen anything definitive saying who whispers in
+       "The Twilight Zone."
+     Neil does the "Attention all planets of the Solar Federation - we have
+       assumed control" bit at the end of "2112."
+     The deep voice at the beginning of "Cygnus X-1" is none other than
+       Terry Brown.
+     Neil says "Subdivisions" in the song of the same name,
+       even though Alex is shown saying it in the video and does it live.
+     Alex says "That's nice" at the end of "Chain Lightning."
+     We don't know who says "I will be the judge" and "Give the jury
+       direction."  I did receive the following email on April 11, 1991
+       on just this very subject:
+ 
+     { Begin quoted text }
+    &gt;Good day. I am a Rush fan who has access to an Amiga and a good quality
+    &gt;digitizer.  I noticed that in the "Who says what" section of the FAQL you
+    &gt;wrote that you don't know who says "I will be the judge" and "Give the
+    &gt;jury direction."
+    &gt;
+    &gt;Out of curiosity, I digitized that section of "Show Don't Tell," and then
+    &gt;played it back at the "proper" speed. Although the main vocal track
+    &gt;(Geddy's voice) was obviously too high, I could now hear the background
+    &gt;vocals that were intentionally slowed.
+    &gt;
+    &gt;The task was fairly difficult because of two reasons:
+    &gt;1. The background vocals are very weakly mixed in comparison to the main
+    &gt;   vocals, which makes it hard to distinguish the voice.
+    &gt;2. The phrases are actually whispered, sampled, and then slowed down by
+    &gt;   some factor.
+    &gt;
+    &gt;All above statements coming to a conclusion with my submission to the
+    &gt;FAQL issue: Neil whispers "I will be the judge" and "Give the jury
+    &gt;direction" during "Show Don't Tell."
+    &gt;
+    &gt;Yoav Gershon
+    &gt;ygershon@ucdavis.edu (or ygershon@deneb.ucdavis.edu)
+    &gt;UC Davis.
+    { end quoted text }
+ 
+    According to Neil on the December 2, 1991 "Rockline," Geddy does the RTB
+    "chat" section.
+ 
+ What is a Lerxt?
+ 
+    A Lerxt is an Alex Lifeson.
+ 
+ Do the other band members have nicknames?
+ 
+    Ged and Neil also have nicknames, Dirk and Pratt. Hence "Lerxtwood Mall,"
+    "Old Dirk Road" and "Pratt & Co." on the map on the back cover of _Signals_.
+       - from ano@uk.ac.rdg.cs.csres
+ 
+ I heard that Neil Peart has a PhD in &lt;field of study&gt;.  Is this true?
+ 
+    In _Visions_, Neil is quoted (on page 65) as saying that he is
+    a high school dropout.  I don't see how he would have had time to
+    go to school and get a degree, what with being in Rush and all.
+ 
+ Has anybody noticed that Lakeside Park is mentioned in _Strange Brew_?
+ 
+    Yes.
+ 
+ Where is Lakeside Park?
+ 
+    The consensus of the mail I've received on the subject seems to
+    be that the Lakeside Park Neil refers to is in St. Catherine's,
+    on Lake Ontario.  I don't think any 2 people have yet agreed on
+    how one actually gets to Lakeside Park, so I'll tell you to do what
+    Bruce Holtgren &lt;70724.1622@CompuServe.COM&gt; did for directions,
+    which is to call the St. Catherine's Chamber Of Commerce.
+    (If somebody does that and types in the "official" directions,
+    I'll add them to the ART.
+ 
+ Has anybody noticed that "Didacts and Narpets" is an anagram for "Addicts
+ and Parents"?
+ 
+    Yes.
+ 
+ Does anybody know the lyrics to "Didacts and Narpets"?
+ 
+    Here's the best version I've seen:
+    Deep Voice:  "Stay!"
+    Geddy        "Go!"
+    Deep         "Work!"
+    Ged          "No!"
+    Deep         "Think!"
+    Ged          "Live!"
+    Deep         "Earn!"
+    Ged          "Give!"
+    Deep/Ged     &lt;Wait or Fight?&gt;/&lt;Right&gt;
+    Deep/Ged     &lt;Laugh?&gt;/&lt;Right or Wait?&gt;
+ 
+                 Listen!
+ 
+    In the October 1991 news release from the Rush Backstage Club, Neil
+    says:
+ 
+    "Okay, I may have answered this before, but if not, the shouted words
+    in that song represent an argument between Our Hero and the Didacts
+    and Narpets - teachers and parents. I honestly can't rememer what the
+    actual words were, but they took up opposite positions like:
+    "Work! Live! Earn! Give!" and like that."
+ 
+ 
+ What is the "Sign of Eth"?
+ 
+    This is what Muff (smills@umaxc.weeg.uiowa.edu) posted to the NMS:
+ 
+    I remember looking up "eth" in the dictionary after I found my
+    brother's FBN album in '74 or '75. In fact, I looked up a LOT of words
+    from that album back then. :D  From American Heritage:
+ 
+    eth   n.  Variant of edh.
+ 
+    edh   n.  1. A letter appearling in Old English, Old Saxon, Old Norse, and
+    modern Icelandic to represent an interdental fricative.  2. The symbol in
+    the International Phonetic Alphabet representing the interdental voiced
+    fricative, as in /the/, /with/.
+ 
+    An edh looks like:     \_--~\
+                               \
+                            -~~-
+                           /    \
+                           {     }
+                            \   /
+                             ~-~
+    Well, sorta. Like a lower-case "o" with a wavy propellor. What symbolism
+    an edh has in By-Tor's tale, I have no idea.
+ 
+ 
+    Also, Josh Beatty (iqm265@uriacc.uri.edu) wrote the following:
+ 
+    "Eth" is a letter in the Old English alphabet that was dropped from
+    the alphabet as it evolved into Middle and Modern English.  It repre-
+    sented the sound /th/, as in "cloth" for example.  It looked like a lower-
+    case "o" with a cross on top. Capitalized, it was like a "D" with a horiz-
+    ontal line through the straight part.  This was also the symbol used for
+    a capitalized "Thorn", another Old English letter representing /th/.
+     
+    "Thorn" was adapted into the Old English alphabet from a Germanic rune
+    of the same name.  The rune, in its turn, was associated with the Gothic
+    (as in the tribe of the Goths, not cathedrals) word "thurisaz", which 
+    meant "demon".
+     
+    So "Eth" itself has some historical background in representing demons
+    and hell, obviously appropriate in the context of the song.  I suppose
+    I see "The sign of Eth is rising in the air..." in two ways: first, that 
+    it represents simply the demonic power in the Tobes of Hades, and secondly,
+    that it represents By-Tor himself and that when the sign is, rising, 
+    By-Tor is coming forth from Hades to do battle with the Snow Dog (don't we  
+    assume usually that Hades is underground?  By-Tor would have to rise to 
+    get out of there to most anyplace?)
+ 
+ 
+ Has anybody noticed that you can hear part of the 1812 Overture in _2112_?
+ 
+    Yes. 
+ 
+ Has anybody noticed the whispering in the background in "The Twilight Zone"?
+ 
+    Yes.
+ 
+ Does anybody knows for sure what is being said at the end of the _All the
+ World's a Stage_ (only the vynil copies, not in the CDs)?
+ 
+    According to Darryl Coombs (dcoombs@dragger.ifmt.nf.ca), this is it:
+ 
+    Geddy:  Wow
+            Woah
+            Waa
+            What a show
+            Man oh man, I guess that's it
+            Allright
+            I'm going &lt;-- (not sure if Ged)
+            Yeah, yeah, ok, ok.
+    Door slam.
+ 
+ I read that "Xanadu" was based on a famous poem.  Does anybody have a copy?
+ 
+    The poem is "Kubla Khan" by Samuel Taylor Coleridge.  Your local
+    library probably has a copy.  It appeared in TNMS issue #88.
+ 
+ Ooooh!  I just found out that there is really an intersection of Danforth
+ and Pape in Toronto!  Has anybody noticed this before?
+ 
+    Yes.
+ 
+ Has anybody noticed that the signs on the right side of the _Permanent
+ Waves_ cover say Lee, Lifeson, and Peart?
+ 
+    Yes.
+ 
+ What are the differences between the Anthem and the Mercury covers of
+ _Permanent Waves_?
+ 
+    I only know the "Hewey defeats Truman" headline on the newspaper does
+ appear on the Anthem release. Anything else?
+ 
+ 
+ What building is on the cover of _Moving Pictures_?
+ 
+    According to rkleiner@alfred.carleton.ca (Ron Kleiner):
+    The building on the cover of _Moving Pictures_ is the current seat of
+    the Government of Ontario, at Queen's Park.
+ 
+ 
+ What is a barchetta?
+ 
+    The barchetta is a type of Ferrari race car - read on for "details
+    till you puke."
+ 
+    Barchetta is Italian for little boat.
+ 
+    The history of the Ferrari barchetta:
+    (note the lower case b - it designates a body style like coupe, spyder,
+    cabriolet or berlinetta, not an actual model name)
+ 
+    Ferrari 166MM -
+ 
+    V-12, 1995cc, 60x58.8mm, 140 bhp @ 6600 rpm, CR 10:1, single ohc per bank,
+    Weber carbs, 5-speed gearbox integral with engine, double wishbone front
+    suspension, rigid axle rear suspension.
+ 
+    First shown at the Turin Salon in November 1948. Its simple but
+    effective barchetta styling became greatly admired and many times
+    copied. The MM designation was added to the 166 model number to
+    designate the 1948 victory of a 166 in the Mille Miglia. A total of
+    46 166MMs were built in Series I & II between 1948 and 1953. 25 of the
+    Series I cars (1948-1951) carried the barchetta designation; none of
+    the Series II cars were barchettas.
+ 
+    Ferrari 195 Sport -
+ 
+    V-12, 2431cc, 65x58.8mm, 180 bhp @ 7000 rpm, CR 7.5:1, rest same as above
+ 
+    This car had essentially the same engine as the 166MM bored out to 65mm.
+    The body was very similar to the 275S discussed below. As a hybrid
+    prototype, it is not known exactly how many of these cars were made.
+    Probably at least one barchetta (certainly no more than three) were
+    made in 1950. The one known barchetta finished second in the 1950
+    Mille Miglia.
+ 
+    Ferrari 275S -
+ 
+    V-12, 3322cc, 72x68mm, 270 bhp @ 7200 rpm, CR 8:1, rest same as above
+ 
+    A prototype of the type 340 America series of cars, only two were made
+    in 1950.  Both cars, in barchetta configuration, entered the Mille
+    Miglia in April but retired the race with clutch problems.
+ 
+    Ferrari 340 America -
+ 
+    V-12, 4101 cc, 70X68mm (?), 220 bhp @ 6000 rpm, CR 8:1, rest same as above
+ 
+    This car was a downsized Formula 1 racer with a smaller displacement than
+    its 4.5 liter F1 counterpart. These cars evolved into the 342 America as
+    the GT version and the 340MM as the sport. Of the 25 340s produced in
+    1951, 7 were touring barchettas.
+ 
+    Ferrari 225S -
+ 
+    V-12, 2715 cc, 70X58.8mm, 210 bhp @ 7200 rpm, CR 8.5:1, rest same as above
+ 
+    Considered as the final link to the extremely successful 3-liter 250
+    series of cars, 20 225Ss were built in 1952, but only 1 in the barchetta
+    configuration.
+ 
+    Since only 35 to 37 barchettas were built between 1948 and 1953 under
+    various model numbers, it's not surprising that few people were even
+    aware they existed.
+ 
+    Source: "The Complete Ferrari" by Godfrey Eaton; 1986 by Cadogan Books Ltd.
+ 
+    { Interestingly, 2 Italians that I know have independently told me
+     that it's actually pronounced "barketta." }
+ 
+ What does "YYZ" mean?
+ 
+    YYZ is the transmitter code for Toronto's Lester B. Pearson
+    International Airport.  Every airport is assigned a unique 3 letter
+    code, and that code is always being transmitted so that pilots can
+    tell, roughly, where they are and verify that their navigational
+    radios are tuned properly.  These codes are also written on your
+    luggage tags when you fly.  The intro to the song is Morse code
+    for "YYZ."
+ 
+ At 8:54 and 8:56 in "The Camera Eye," there are some mumblings that I can't
+ quite make out.  Does anybody know for sure what is being said?
+ 
+    This is the best thing I've seen on the subject, thaks to
+    CMSGBULLIMOR@vax.liverpool-John-Moores.ac.uk :
+ 
+       'ello         - Southern English, middle class, home counties.
+       Mornin' guv!  - Cockney barra boy "in it!" accent.
+ 
+ 
+ Has anybody noticed that the ESL cover photo contains stuff from all of
+ the band's previous studio albums?
+ 
+    Yes. 
+ 
+ 
+ What is the significance of 1001001 in "The Body Electric?"
+ 
+    In the video, the protagonist is a prisoner attempting to escape
+    from some sort of prison.  The number on his uniform is 1001001.
+ 
+    Here is a theory from Mark Steph (exumfs@exu.ericsson.se): 
+ 
+    In The Body Electric, there are two bit strings that seem to represent
+    Objectivist Lore:
+ 
+    1001001 - translates to ascii 73 - "I" - This character is significant
+    to most readers of Ayn Rand since it pertains to the self, but is
+    especially significant in her book *Anthem*, as it is a word that
+    is lost from the language in a collectivist society.
+ 
+    100100  - translates to ascii 36 - "$" - This character is a significant
+    symbol in Rand's *Atlas Shrugged*.  It is the symbol of a group of
+    people with intellectual integrity that go "on strike" when the government
+    gets out of control.
+ 
+    1001001 is also not a valid choice for a California license plate,
+    but UNIT ONE is. (It's taken now.)
+ 
+Has anybody noticed that _Power Windows_ is "brought to you by the letter M"?
+ 
+    Yes.  We've noticed the similar accreditations in _Presto_ and
+    _Roll The Bones_, too.
+ 
+ Why is _Power Windows_ brought to us by the letter M?
+ 
+    From the April 1992 Kerrang interview:
+    "That started on _Power Windows_," recalls Alex, "when we were sequencing
+    the tracks and Neil commented that 50 percent of the songs began with an
+    'M' - 'Marathon,' 'Manhattan Project,' 'Middletown Dreams,' and 'Mystic
+    Rhythms.' It's as innocent as that. It's nothing to do with 'Sesame
+    Street'!"
+    "We throw a lot of silly little things into the credits,"
+    shrugs Geddy, "little inside jokes. It's just an immature habit we
+    developed!"
+ 
+ 
+ How many Rush symbols are there in the _Hold Your Fire_ inside photo?
+ 
+    It has been suggested that the newspapers on the steps may have
+    "Dewey Defeats Truman" headlines.  Unfortunately, the headlines aren't
+    visible, even in the big print of the picture in the HYF tourbook.
+ 
+    the fire hydrant from "Signals"
+ 
+    the TV from "Power Windows"
+ 
+    the clock indicating 9:12 (21:12 military time)
+ 
+    the number 15 on the main building - in the "Hold Your Fire"
+    tour book, they mentioned that this was their 15th album to
+    date.
+ 
+    the juggler is clearly holding his fire.
+ 
+    at the very far left, underneath the chains, is a trunk with
+    the logo from their first album.  This was spotted on a 12-inch
+    picture disk from the album.  It cannot be seen in many
+    other versions of the picture.
+ 
+    The Chinese neon sign above the restaurant reads "Tai-Shan."
+ 
+    A friend told me that the car is a Mercury, but I don't know this
+    for sure.
+ 
+    Look right off of the juggler's right shoulder in the open window.
+    There is someone's hand shown holding a pistol.  {People have questioned
+    this one - can somebody who has found it send me a better description
+    of where they see it?}
+ 
+    In one of the upper right hand windows of the right hand most apartment
+    building you can see part of the head and crown of the Statue of Liberty
+    who we all know holds a burning torch in her right hand.
+ 
+    The arches on the building are suspiciously similar to the MP cover.
+ 
+    Special mention goes to nth@cs.brown.edu (Nate Huang) for the most
+    obscure observation yet: "The restaurant sign has the same recognizable
+    font style as the lettering on the Grace Under Pressure cover."
+    {Yes, I know it's not exactly the same.  Please don't tell me that again.}
+ 
+    Leaning against the trash can in the front is an oxford shoe, just like
+    the one the girl wears on the ESL cover.
+ 
+    The back side of the owl on FBN is resembled on the lamp post on the far
+    right side.  (Only on the CD and tour book)
+     { I think this is pushing it a little, but I can see how one might
+       see it as an owl ...  Dan }
+ 
+    A copy of the painting on the far left on MP is wrapped up in cloth and
+    leaning against the front steps.
+ 
+ 
+ Does anybody know what stuff Geddy has sitting on the keyboards in the
+ _A Show Of Hands_ video?
+ 
+    The following was posted on April 12, 1991 by Dan Dickerman
+    GSY 1-447-4425 &lt;dickermn@hpcugsya.cup.hp.com&gt;
+ 
+    &gt;I have yet to find a clear shot of the dolls, but from what I can decipher
+    &gt;it seems he has 6 dolls and a brandy snifter (with cash, of course)
+    &gt;distributed onto 2 keyboards: nearest the snifter is Boris Badenov
+    &gt;(Bullwinkle fame) and further to our left is a group of 3 consisting
+    &gt;of Rocky the Flying Squirrel (Bullwinkle), a toy robot, and something
+    &gt;that looks vaguely like a cowboy drawing both pistols (knees bent, etc).
+    &gt;
+    &gt;[ I think this last one might be Roger (?) Kneebend, one of Julian's old
+    &gt;  toys, which the group sort of adopted as a mascot during the recording
+    &gt;  sessions.  I'll try to find the reference to him ...        :rush-mgr ]
+    &gt;
+    &gt;On the other keyboard (facing the front of the stage) is a thinner toy
+    &gt;robot and (this one's really a ballpark guess) a cartoon dog (though
+    &gt;none that I recognize) that is acting the part of the gracious waiter.
+ 
+ What is the round thing on Alex's guitar in the _A Show Of Hands_ video?
+ 
+    Here's what rjf@maxwell.physics.purdue.edu says it is:
+    That circular "thing" on Alex's guitar is a patrol patch used by
+    some Boy Scouts.  That particular one is the "panther" patrol patch.
+ 
+ 
+ Has anybody noticed that "Anagram (for Mongo)" contains lots of anagrams?
+ 
+    Yes. It has been pointed out to me that, according to the Oxford               definition of an anagram, this song contains very few anagrams.  
+    To form a true anagram, you have to use all of the letters in one word 
+    to make another.
+ 
+ 
+ Is there a reason for the arrangement of the numbers on the dice on the RTB
+ cover?
+ 
+    I doubt it.  And if there is a reason, I doubt that it will be
+    made public  (much like the significance of the HYF cover).
+ 
+ Has anybody noticed that the "Gangster of Boats" is mentioned in the HYF
+ liner notes?
+ 
+    Yes.
+ 
+ What does the pattern of skulls and bones at the bottom of the inside
+ front cover of the RTB tourbook mean?  Is there a pattern to it?
+ 
+    It's Morse code for "Remember Death."
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1993.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+********************************************
+End of The National Midnight Star Number 634
+********************************************
+
+
+

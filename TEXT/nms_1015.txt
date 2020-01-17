@@ -1,0 +1,978 @@
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 11/01/94 - The National Midnight Star #1015
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+         The National Midnight Star, Number 1015
+
+                 Tuesday, 1 November 1994
+Today's Topics:
+                      Administrivia
+            Sick and Tired! (again and again)
+             Re: TNMS 1013 - Cygnus (a swan?)
+              why no rush in the rock rags?
+                           yay
+                     Signals gold...
+                   Closer to Our Hearts
+                  Technical Tour Review
+                        GUP cover
+                       Mailing list
+                   ASOF poster contest
+                     FINALLY!! whew.
+                     TNMS returns :)
+                   2112 Tour Show Info
+                Rumors, rumors, rumors...
+                    Burning for Buddy
+                   ALL HAIL RUSH-MGR!!
+                     New CD Bootleg?
+                       Ice Breaker
+ Re: 10/20/94 - The National Midnight Star ** RETURNS **
+                         Posting
+ Re: 10/20/94 - The National Midnight Star ** RETURNS **
+                       Welcome Back
+                      Neil Interview
+                 Re: Neil Peart interview
+----------------------------------------------------------
+
+From: rush-mgr@syrinx.umd.edu (The RUSH Fans Digest Manager)
+Date: Tue Nov  1 18:10:27 EST 1994
+Subject: Administrivia
+
+Yes, we're slowly getting back on track here. I'm still slogging through all
+the adds/drops, and apparently the rushlists that were restored were taken
+from a few days before the outage, and may have people on there that asked to
+be unsubscribed. If you are back on the list, I apologize and *please* email
+me and I'll remove you.
+
+Some of this stuff is in response to month-old digests, some is new. I'll also
+be mailing out some special editions with an Alex interview (from The Spirit
+Of Rush) and the Burning for Buddy "the making of"... 
+
+There are also some technical difficulties going on with the ftp site. I (at
+the moment) can't put any new digests into the ftp area or gopher, but
+hopefully that should be resolved in the next few days. If it does become
+necessary, I *can* force them into the gopher, but the ftp site is off limits
+for now.
+
+And last, since I know there has been some talk on here of this group, there
+is now a mailing list for the group +Live+. To join, mail to:
+
+     live-request@madrigal.yyz.com
+
+ - rush-mgr
+
+----------------------------------------------------------
+
+Date: Fri, 21 Oct 1994 14:06:52 -0400 (EDT)
+From: Waynbo <zuhlw@iia.org>
+Subject: Sick and Tired! (again and again)
+
+Wayne Zuhl wrote:
+>>What's even worse is the people bitching about long posts or posts that
+>>lack Rush content, because it costs them an extra couple of pennies.
+
+Rick: rpali@jetform.com wrote:
+>I haven't complained but if my internet access cost only a'couple of pennies
+>I'd be very pleased. Quit acting like a spoiled child and skip the
+>messages you don't like.
+
+Rick,
+All I can say is thank you for agreeing with me.  As for your spoiled
+child remark, I *love* the fact that people post whatever they like
+here!  It takes a REALLY dull post for me to even think of skipping a
+message in this forum.
+
+'nuff said!  Hopefully this will be the end of this thread.
+
+Obligatory Rush Content: Did anyone ever notice that there is a dog sniffing
+the fire hydrant on the cover of Signals?  I think he's got to pee!  What
+does that mean?  :)
+
+			    Wayne "Waynbo" Zuhl
+			       zuhlw@iia.org
+ -----------------------------------------------------------------------------
+"God does not play dice"
+	- Albert Einstein
+"God not only plays dice, he sometimes throws them where they can't be seen."
+	- Stephen Hawking
+ -----------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Fri, 21 Oct 1994 14:08:19 -0400 (EDT)
+From: Waynbo <zuhlw@iia.org>
+Subject: Re: TNMS 1013 - Cygnus (a swan?)
+
+In tnms 1013 vtci@PANAM1.PANAM.EDU writes something like this:
+
+>recently a few non-rush fans (sad but true) referred to Cygnus as the
+>swan.  I'm not very up on my mythology but i wondered if anyone out
+>there can shed some available light on this subject...
+
+Gland, er, uh, glad to help!  Cygnus is one of the most prominent
+constellations in the northern celestial sphere.  IMHO it is also one of
+the most beautiful.  Cygnus gets its origins from Roman mythology where
+it is the swan (actually Jupiter in disguise) that wooed Leda.  They
+then did the nasty (my terminology) and gave birth to Castor and Pollux
+(the Gemini twins) Clytemnestra and Helen of Troy.
+
+In the song Cygnus X-1, Neil describes the journey to the black hole
+Cygnus X-1 (the first suspected black hole), in astronomically correct
+terms.
+	I headed north, just east of Lyra (the lyre)
+	Northwest of Pegasus (the winged horse)
+	Flew into the light of Deneb (the brightest star in Cygnus)
+	You all should know the rest.
+
+Hopefully that answers the swan question.
+
+Just an interesting astronomical fact:  Go outside tonight if it's clear
+(shoot for around 11:00 pm, your time) and look straight up.  You should
+see a large bright triangle of stars, this is the Summer Triangle.  The
+three bright stars are Deneb (in Cygnus), Altair (in Aquila) and Vega (in
+Lyra).  Cygnus is also known as the Northern Cross.
+
+Just a little astronomical info that every Rush fan should know.
+
+I may have more on the topic later.
+
+			    Wayne "Waynbo" Zuhl
+			       zuhlw@iia.org
+ -----------------------------------------------------------------------------
+"God does not play dice"
+	- Albert Einstein
+"God not only plays dice, he sometimes throws them where they can't be seen."
+	- Stephen Hawking
+ -----------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Fri, 21 Oct 94 13:52 EST
+From: "William D. Laird" <0005978700@mcimail.com>
+Subject: why no rush in the rock rags?
+
+Greetings fellow Rush fanatics!
+
+One thing I have always wondered is why the rock rags give such little exposure
+to rush. Rush has been cited as an influence by everybody and their mothers, yet
+we still see very few articles. I quit reading these rags about 5 years ago, but
+I know things haven't changed much. When I flip through one of these pathetic
+mags at the grocery store, all I ever see is bands like CandleCrotch, Kackyl,
+Bland Melon, and other sugar-coated wannabes.
+
+What are some good mags for rush reviews/interviews/stories etc?
+
+Bill Laird
+5978700@mcimail.com
+      " I live for my dreams and a pocket full of gold " - Led Zeppelin
+
+----------------------------------------------------------
+
+Date: Fri, 21 Oct 94 14:15:59 EST
+From: DSMCCONN@ucs.indiana.edu
+Subject: yay
+
+alright, Welcome back NMS.
+!!
+got worried for awhile there.
+
+anyway, there was a debate going on just before the crash and soe people were
+mentioning the figure on the back of Cp and calling it the Star of David.
+I was particularly irked by that, becuase this was discussed before, and::
+That is NOT the star of David.  The symbol on the back of the Cp cover is a
+Kaniza figure, and is a perceptual illusion that can be found in just about any
+psych intro text or sensation and perception text.  It is *very* common and is
+used to demonstrate the illusion of Illusory Contours.  Note how there is an
+apparent triangle overlaying the 3 cirlces and the lower triangle, yet none of
+its sides are given.  As a matter of fact, the 3 circles and lower triangle are
+not specified completely.  This is one of the more intriguing illusions.
+The perceptual identification of all 3 parts (the 'invisible' triangle, the
+lower triangle, and the 3 circles) is deependent on the existence of all 3.
+IOW, you can't see the 'invisble' triangle withought the 3 angles and 3
+circles.  You can't see the lower triangle without the 3 circles to give
+apparent corners to the 'invisible' triangle, and you can't see the circles as
+such without the lower triangle to give apparent sides to the 'invisible'
+triangle.
+Yes, this is a very intriguing illusion and I think fits in well with the theme
+of counterparts.
+So to all those who were previously discussing hidden meanings in reference to
+the star of david and the devil or geddy's jewish heritage or whatever, drop
+it, you're really off-base on that.
+
+glad to be back
+-Dan
+
+----------------------------------------------------------
+
+Date: Sat, 22 Oct 1994 03:15:44 -0400
+From: DblAgnt@aol.com
+Subject: Signals gold...
+
+Hi,
+
+Hey, great to have the NMS back!  Hello again to all you folks!
+
+I'm sure most of ya know about the new _Signals_ MFSL gold Ultradisc 2 CD
+just released...boy, is it great!  It's the best of the now 3 Rush gold discs
+out there (_Moving Pictures_ ... _2112_ also out there) ... (my opinion, of
+course)...
+
+Even if you don't notice the crisper, cleaner sound, you *WILL* notice one
+small change made in "The Weapon".  Just before the small instrumental break
+in the song, they cut out Geddy's last vocals:
+
+"And the knowledge that they fear
+Is a weapon to be used against them..."
+
+Now, instead of the vocals, you hear a concentration on the music behind
+it...it's great!  I personally think it improves the song a bit.  Hell, if
+you weren't going to buy this $25-30 CD for any other reason, this is one
+reason to get it!  I guess, of course, that my CD *could* be defective or
+unique, but I highly doubt that...
+
+So, check it out if you get the chance.
+
+Also, on a side note, if you remember before the NMS went off for a while, I
+(and some others) mentioned that Alex played lead guitar at Toronto's
+"Kumbaya Festival '94" for the last song, "All Along the Watchtower"...
+
+Did anyone else besides me make the trip to the show?  Anyone see it on
+MuchMusic?  Better yet, anyone have a videotape or CD of the show?  I know I
+must have been on camera 3 or 4 times...  There should be a CD available (in
+Canada) with the highlights of the concert on it...does anyone have this, and
+would someone in Canada kindly help me get ahold of one?  What a great
+concert to go to...it was a lot of fun!
+
+My e-mail address is at the bottom, in case anyone wants to privately
+respond.  Thanks.
+
+-Dave(DblAgnt)
+dblagnt@aol.com
+
+----------------------------------------------------------
+
+Date: Sat, 22 Oct 94 19:23:20 CDT
+From: dshamma@conch.senod.uwf.edu (David Shamma)
+Subject: Closer to Our Hearts
+
+This is a reply to a question asked a month ago.
+
+Bill Bopp,
+
+I snagged a copy of Closer To Our Hearts at the local music shoppe.  It is the
+second Madison Square Garden Show from the CP tour.  It didn't have a drum
+solo.  The songs were as follows:  Dreamline, Spirit of Radio, The Analog Kid,
+Cold Fire, Time Stand Still, Nobody`s Hero, Roll the Bones, Animate, Stick
+It Out, Double Agent, Mystic Rythems, Closer to the Heart, & Show don't tell.
+All in all its about 74 mins of music.
+
+As for the quality, its ok...I guess about B.  Its clearly someone on
+the floor with a tape player, (you hear him talk from time to time) and the
+crowd noises don't ever completely stop.  Also, Geddy sings the wrong lines on
+Animate & the total Reverb from the stadium makes the bass drums and toms
+unbarably loud, almost killing the guitar sound.
+
+Let me know if you've got anymore questions about this disc.
+
+David
+
+----------------------------------------------------------
+
+Date: Sat, 22 Oct 1994 20:34:29 -0400 (EDT)
+From: "Meghan A. Middleton" <mamid@conncoll.edu>
+Subject: Technical Tour Review
+
+The following article appeared in the October issue of TCI,
+a technical theatre trade magazine.
+
+                           -   RUSH   -
+       THE ROCK BAND'S NEW TOUR HAS A LITTLE BIT OF EVERYTHING  -
+                        ESPECIALLY BUNNIES
+                       By Catherine McHugh
+
+	Nowadays, any major band with a reasonable budget can have a
+visually dynamic show - but only Rush has bunnies.  Which, as the
+Canadian band approaches its twentieth anniversary next year, only
+goes to prove that time hasn't dulled its sense of humor.
+
+	Nor can the stage show for its recent Counterparts tour,
+designed by the band's longtime lighting and set designer Howard
+Ungerleider, be accused of serving up any dull moments.  The
+designer combined video projections and animation with a powerful
+light show, pyrotechnic displays, and the aforementioned inflatable
+rabbits, which were created by London-based Air Artists.
+
+	"One of the things that we do is create the illusion of a set
+without really using a set,"  Ungerleider says.  "And because of the
+film and all the lighting and a few props, we can create the illusion
+that it's a huge stage set, when in essence it's not.  and
+economically, that's really great.  It gives the show a lot of space,
+an open ceiling - there isn't a bad house for this show."
+
+	For this tour, Ungerleider teamed up with a fellow Toronto-
+dweller, architect Rick Hopkins, who sketched out many of the
+staging plans.
+
+	"Back in August [1993], we started with a  couple of schemes
+and ideas," Hopkins says.  "We'd talk about things and I'd do some
+sketches and some drawings, sometimes computer renderings, and
+then come back with a series of perspectives and drawings and we'd
+talk about it again and it would go through another alteration."
+
+	Although the band regularly uses a standard, promoter-
+provided stage, Hopkins proposed adding the runways and wings to
+get the two mobile band members, Geddy Lee and Alex Lifeson,
+further out into the audience.
+
+	Next, Ungerleider and Hopkins worked out the truss
+configuration.  "We thought it would be really interesting if the band
+were playing inside some sort of geometrical form, but we realized
+that making a spiral would be a bit of a problem given the budget, so
+we substituted the curved trusses instead," Hopkins says.  "Then,
+from the fact that they had sort of nested up there, Howard decided
+to move them in and fly them down.  So we get a similar effect."
+
+	Other original ideas that fell by the wayside included a pixel
+board, which was changed to strips of MR-16s on a flying truss, and
+a video wall on a second level.  "The video wall came out when we
+decided to have just the one level and put the lights on different
+elevations," Hopkins says.  "And that's when we started building
+those bolt-shaped light stands, which were supposed to just be
+strewn loosely about the stage - but in the final design, Howard
+wanted them to be more symmetrical and controlled because the
+entire rig was very, very symmetrical."
+
+	Ungerleider explains that the concept for the bolt-shaped light
+stands was to give the visual implications that the band was the
+"nut" and the stage the "bolt" they fit into.
+
+	Forming the stationary part of that nut is the drum set, which
+is on an electronic rotation.  "It's like a carousel - it works
+electrically," Ungerleider says.  "Larry Allen, the drum tech, puts
+that whole thing together.  It's electric, and he has a switch and he
+knows exactly where to go.  All of this was done because drummer
+Neil Pert {sic} has two drum kits, and when he uses the back one he'd rather 
+turn towards the audience than face his back to the audience."
+
+	All of the tour's custom trussing and the conventional lighting
+was supplied by one of Ungerleider's longtime associates, Long
+Island City, NY-based See Factor.  The show's lighting equipment
+includes: 18 5deg.Berkeys, 260 PAR-64s, 40 XF-running lights inside of
+PAR-Scan moving fixtures with color changers, ten 5ks with color
+changers, 16 nine-light Mole lamps with color changers for cyc
+lighting, nine HMI 1200 spotlights, five custom-made cone-shaped
+mirror balls, and 32 LSD Icons, of which Ungerleider is a big fan.
+There are also 200 Wybron color changers on the system.  Fog
+effects are provided by four High End F-100s and the trussing
+motors are all CM Hoists.  For control, Ungerleider used a
+combinations of three boards:  a specially modified Avo 500, a See
+Factor Light Coordinator, and an Icon board.
+
+	"I really enjoy the [Icon] lamp, because aside from putting out
+many different kinds of multi-color effects, it also allows you to
+rotate the gobos inside the lamp," Ungerleider says.  "The light gives
+you a really amazing animated look at times, plus it puts out an
+incredible spectrum of color.  I also like that at times it looks like a
+laser.  So you really maximize your effects without spending that
+much money."
+
+	Lasers had become something of a trademark for Rush and
+Ungerleider, as he was affiliated with Rocklite International and
+Laserlite F/X since 1986.  He disassociated himself from them this
+past February, and is now exclusively available through his own
+company, Internal Affairs International.  "I've used lasers for three
+tours, but the effects were getting tiring," Ungerleider says.  "I
+figured pyro is a great change of pace, so I brought out a little bit of
+pyrotechnics, and left the lasers out.  We use a light deck to get
+some neat effects that are sort of laser-like.  With this show,
+people always see things that aren't there, and it's great.  If you're
+creating an illusion like that, then you know that you're doing your
+job, which is fun."
+
+	Few hard rock bands can claim being a stranger to pyro, and
+Rush is no different, having used it in the late 70's, the early 80's,
+and now the 90's.  "Pyrotek Special Effects of Toronto does all the
+legitimate theatre across Canada, like The Phantom of the Opera and
+Miss Saigon, and they do effects for the [Toronto] Blue Jays at the
+Skydome.  They have a very, very great safety record - probably the
+best in the business - and they deliver what we want to perfection,"
+Ungerleider says.  "And they are one of the companies that has a
+modern digital controller with three fail-safe mechanisms, so it's
+impossible to go to a board and set off a cue without going through
+three codes."
+
+	The tour's pyro effects were designed by Douglas Lang Adams
+with Douglas Reid Schulte-Derne as the operator and Randal Douglas
+Bast as the tech.  The pyro equipment includes: one Pyrotek 120-
+channel digital Matrix controller, one Pyrotek sequential firing
+system, 60 circuit devices, 18 flame projectors, six flash pots, 10
+three-fluted gerb holders, and two LSX low smoke converters.
+Effects throughout the show comprise 24 sequential firing airbursts
+systems that are positioned above the band in the trussing; twelve
+1/2-20 silver jets with silver embers firing 20' in criss-cross
+configurations; 18 10x12 silver gerbs in a 60' cascading waterfall;
+18 flame projectors that fire brilliant 12' flames in three shots of
+six; six red flashes that slow burn brightly; 12 large Coliseum
+airbursts (in trussing above band); 24 airbursts in a chase pattern
+that fires in pairs from the trussing to a cluster over the audience;
+two Evil Rabbit gunshots shot towards the Good Rabbit and the
+resulting billowing smoke; and six concussion motors.
+
+	"We certainly have a lot of pyro," Ungerleider acknowledges.
+"We have the flame effects.  We have what are called air bursts and
+gerb effects.  We have red flares, and we have a lot of indoor aerial
+affects.  We have waterfall fountains in different colors.  We try to
+use them peacefully because we want to enhance a situation rather
+than it becoming a random effect."
+
+	Certainly the show's most memorable effect involves the
+famous inflatable rabbits.  The Good Rabbit, stage right, is shot by
+the Evil Rabbit (complete with dangling cigarette) from stage left.
+Rush has had the rabbit theme going since its 1986{sic} Presto tour.  "The
+bunnies were actually left over from previous tours, but the evil,
+nasty bunny with the gun was remade by Air Effects of London,"
+Ungerleider explains.
+
+	The animated film sequence that goes along with it was
+created by Ungerleider alone and lead singer Geddy Lee by working
+with longtime associate Norm Stangl from Toronto-based Spin
+Productions.  "It's a very large company with really high-tech
+computer graphics, and they use Emerald Systems, which is a silicon
+graphics company," Ungerleider says. "The rabbit shooting, involving
+the inflatables and the film, was coordinated through headset cues.
+We knew what we were going to do, and we knew how long it took
+for the rabbits to deflate.  And we knew where the rabbits were
+going to be onstage, so we just slammed it up with the three
+projectors."
+
+	It took three 7k 35mm projectors rented from Associates &
+Ferren and positioned stage-left, stage-center, and stage-right to
+fill the three screens, which span 60' across, to pull the sequence
+off.  "The rabbits are inflated on cue by carpenters using fans
+backstage and once the song is over, the film rolls, and everything is
+done visually from that point," Ungerleider explains.  "The shooting
+of the gun is done visually with the film, and so is the exploding of
+the rabbit on the other side of the film.  And it works really well
+together."
+
+	The show also features video and more animation because the
+band members are keen on having a lot of humor in the show.  Also,
+Geddy Lee's brother, Alan Weinrib, contributed to the show by
+directing the visuals for the number "Trees." {sic}
+
+	All of this and it fits in only six trucks?  "Yeah, people think
+this is an eight- or 10-truck show," Ungerleider says.  "But when you
+look at it, it appears to be a lot larger than it is."
+
+RUSH
+
+PROJECT: Rush's Counterparts 94 tour
+LIGHTING DESIGN:  Howard Ungerleider
+SET DESIGN:  Howard Ungerleider & Rick Hopkins
+LIGHTING CREW CHIEF:  Jack Funk
+ICON OPERATOR:  Matt Druzbic
+LIGHTING TECHNICIANS:  Ed Duda, Donnie Lodico,
+	Steve Kostiki, and Ethan Weber
+ICON TECHNICIAN:  Julian Winters
+PROJECTIONISTS:  Sam Raphael, Conrad Cortise, and
+	Richard Montgomery
+RIGGERS:  Mike McConald, Rick Mooney, Brian Collins
+CARPENTERS:  Sal Marinello, Joe Campbell,
+	George Steinert
+PYROTECHNIC OPERATOR:  Reid Schulte-Derne
+PYRO TECHNICIAN:  Randy Bast
+
+[From TCI, October 1994, pages 34-37]
+
+ ----------------------------------------------------------------------------
+| Meghan A. Middleton | Telecommunications Supervisor | Connecticut College |
+|   W:(203)439-2355   |      mamid@conncoll.edu       |   H:(203)464-8909   |
+|---------------------------------------------------------------------------|
+|           "Truth is after all, so poorly lit."     -Neil Peart            |
+ ----------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Sun, 23 Oct 1994 13:43:21 -0400
+From: Dillypoo@aol.com
+Subject: GUP cover
+
+I've asked tons of people what the cover of Gup means symbolically and even
+the most devout Rush fans can't tell me.  If anyone knows what all that stuff
+is in the clouds and other aspects of the cover, please tell me!  Thanx a
+bunch.
+
+Dylan
+
+----------------------------------------------------------
+
+Date: Sun, 23 Oct 1994 23:33:25 -0400
+From: DennisT736@aol.com
+Subject: ASOF poster contest
+
+Greetings fellow Rushians & NMS'ers.  I have to brag.  Friday, while I was at
+work my wife called me to let me know that the most recent version of A Show
+of Fans had arrived in our mail box and the results of the RUSH essay poster
+contest were in.  She won and her essay in the the new issue of A Show of
+Fans.  The prize being an autographed promotional poster from the
+Counterparts tour.  It was exciting for me to see her essay in ASOF.  Thanx
+Steve and Mandy if you are out there reading this.  You really made her day.
+ Carla Taylor gives you a very special "Thank You!!!!",  and so do I.   Can't
+wait to take the poster and frame it like a gallery print.
+Good to see The National Midnight Star back online as well.
+
+    [ Hey, howz about sending in a copy so we can all read it? :-)
+								: rush-mgr ]
+
+                                          Most Sincerely
+
+                                           Dennis Taylor
+
+----------------------------------------------------------
+
+Date: Mon, 24 Oct 1994 10:03:02 -0600
+From: keeks@maroon.tc.umn.edu (Tom Keekley)
+Subject: FINALLY!! whew.
+
+Listening to the Jones Beach tape the delightful Sir Brad Parmerter made for 
+me has been making my long for ANOTHER tour. But that's normal . . .
+
+Just a few thoughts . . .
+* The solo to Open Secrets RULES. Listen to Geddy while Lerxt rips.
+* Try tapping your foot to the middle section of Jacob's Ladder.
+* Subdivisions is the weakest opening track for a Rush album. Signals should 
+have opened with The Weapon.
+* The ESL version of A Passage to Bangkok is much better than the original.
+* Roll the Bones is, by far, the weakest Rush album. Face Up, Neurotica, The 
+Big Wheel, Heresy, and You Bet Your Life are hastily written throwaways.
+* Everyday Glory is good, but it's too similar to You Bet Your Life.
+* Caress of Steel is better than it gets credit for.
+* Counterparts is the best produced album since Moving Pictures.
+* Grace Under Pressure is the biggest change of gears from the previous album, 
+and it worked.
+* Geddy and Neil receive the respect they deserve, Alex is underrated.
+* Rush is easily dismissed by the music press and will never gain mainstream 
+popularity again.
+* The Enemy Within is the weakest song in the 'Fear' trilogy.
+* The word 'Rush' looks the best on Hemispheres, the worst on Power Windows.
+* Alex's best solos are Mission, Kid Gloves, and Return of the Prince.
+* All three members look cooler now than they ever have.
+* Geddy should inject more funk into the next albums. Neil should expand his 
+sound more into exotic percussion.
+* Rivendell is the most boring Rush song.
+* The Camera Eye has the best lyrics of any Rush song.
+* 'A Lerxt in Wonderland' in La Villa Strangiato is the most intense part of 
+any Rush concert.
+* 'Where's My Thing' is the weakest instrumental track.
+* Permanent Waves is the best album cover, Hold Your Fire is the worst.
+* The inflatable bunny is (was?) the dorkiest prop in the show.
+* Rush is getting into a bad habit of putting anthemic 'closers' at the end of 
+albums. The last 'muscular' closing track was Between the Wheels. Recall such 
+winners as Vital Signs, La Villa and Cygnus X-1.
+* red lenses is the most 'non-Rush' tune.
+
+----------------------------------------------------------
+
+Date: Mon, 24 Oct 1994 14:47:23 -0400
+From: "Glen Young" <gyoung@tlcnet.muohio.edu>
+Subject: TNMS returns :)
+
+  Well, I sent this a while ago, it's old news(and boring to boot, eg. base-
+ball) but I am going to re-send it anyway.
+
+  Most of us know what a big baseball fan Geddy is....I'de be curious to know
+if he sides with the players/owners.  Probably neither, and I would bet he
+'sides' with the fans - for he is one....
+
+                                                'One likes to believe in the
+                                                 freedom of baseball' - GL in
+                                                 concert during the last MLB
+                                                 strike! (I was there.)
+
+BTW, a big 'thanks' to Puanani for some news. ;)
+
+Glen
+
+----------------------------------------------------------
+
+From: Paul James Peterson <pete1787@csd.uwm.edu>
+Subject: 2112 Tour Show Info
+Date: Mon, 24 Oct 1994 16:45:10 -0500 (CDT)
+
+Hello Rush Fans,
+
+I was talking with my brother one day about...well Rush of course, and he
+mentioned they played a date in Wausau, WI on their 2112 tour back in '76.
+They played at Newman High School-with a gym capacity of about 500. Having
+ graduated from there, It's almost unbelievable to think they were
+once on that old wooden stage.  Anyway, I don't know the date, but I'm sure
+a trip to the library or the school may lead to a date, if anyone is
+interested.
+And to think that they now pack 40,000 strong at Alpine Valley-whoo hoo!
+
+--Paul
+
+----------------------------------------------------------
+
+Date: Tue, 25 Oct 94 11:23:03 EDT
+From: John Ambrose <jambrose@eden.rutgers.edu>
+Subject: Rumors, rumors, rumors...
+
+Attention all Planets of the Solar Federation...
+
+	Now that the NMS is back in full force, I have a little request to
+make to all NMS'ers: Please try not to post rumors that you hear about Rush,
+unless they are substantiated by something like a magazine or an interview.
+I've heard the following, plus many more over the past few months:
+
+	--There will be a 20th Anniversary Tour
+
+	--There will NOT be a 20th Anniversary Tour
+
+	--The next album will be a studio album
+
+	--The next album will be a LIVE album
+
+	--The next album will be the last one they tour for
+
+	--The next album will be out by Christmas
+
+	--The next album will be out by April, 1995
+
+	--etc, etc, etc...
+
+Everytime I hear these rumors, I get excited, then confused.  I know
+everybody likes to report rumors, but most people hate to get mislead by
+rumors.
+
+					--"laissez faire"
+
+10010011001001100100110010011001001100100110010011001001100100110010011001
+
+----------------------------------------------------------
+
+Date: Tue, 25 Oct 1994 14:00:31 -0400 (EDT)
+From: PARMERTERB@hartwick.edu
+Subject: Burning for Buddy
+
+  Transcribed to me from Chris Kay here is a clip from 'Friday Morning Quater-
+  back' 26 Aug 1994:
+
+  "The 'Burning for Buddy: A Tribute to Buddy Rich' cd is slated to hit the
+  stores Oct. 4th. The album was proeduced by Rush drummer Neil Peart [happy
+  belated b-day!!!]. The album features an array of drummers that perform a
+  number of pieces from Rich's repeatoire as well as some additional pieces.
+  Look for performances by Kenny Arnoff (John Mellencamp); Bill Bruford (Yes,
+  King Crimson); Bill Cobham (Miles Davis, Quincy Jones); Steve Ferrone (Average
+  White Band); Steve Gadd (Paul McCartney, Steely Dan); Manu Katche (Peter
+  Gabriel); Rod Morgenstein (the Dregs, Steve Morse Band); Simon Phillips (the
+  Who, Mick Jagger); Steve Smith (Journey); Matt Sorum (Guns'n'Roses, the Cult);
+  Dave Weckl (Chick Corea); and Peart himself."
+
+  This should be a great one!  I guess though that Ian Mosely was too busy with
+  the next Marillion album, eh? And Phil Collins too busy with his marriage.
+
+  Brad - alexmeister vonBastille
+
+----------------------------------------------------------
+
+Date: Tue, 25 Oct 1994 15:52:15 -0600 (MDT)
+From: Arbon Reimer <reimera@ucsu.Colorado.EDU>
+Subject: ALL HAIL RUSH-MGR!!
+
+All hail rush-mgr.... reviver of the dead...namely syrinx.umd.edu
+
+I sure missed the digest...and I'm happy it's back on line.
+
+2 things I wanted to ask about-- First, does anyone have information
+about the next Rush tour?  There have been rumors here in Boulder/Denver
+that Rush/Primus will be happening by the end of the year.  However,
+TicketBastard...I mean,  TicketMaster doesn't have any information about
+this.  eh?
+
+Secondly, I was going to ask anyone who's picked up "Burning For Buddy"
+what they thought of it...  and would people agree that this might be
+Neil's making up for a somewhat mediocre showing at the Buddy Rich
+Memorial Scholarship Concert?  I watched it and didn't think Neil swung
+the band as well as did Vinnie Colaiuta and Steve Gadd at the first
+memorial concert.  thoughts?
+					-Arbon
+
+----------------------------------------------------------
+
+Date: Wed, 26 Oct 1994 12:08:04 -0500 (CDT)
+From: ST40V@Jetson.UH.EDU
+Subject: Re: 10/20/94 - The National Midnight Star ** RETURNS **
+
+I'm glad to see TNMS is back online.  I picked up "Burning for Buddy", Simon
+Phillips has quite a solo on it. Neil sounds vevy good also. I would for surey
+go buy it, if your a serious drum player. It is one the ultimate drum records
+out there on the market now.
+
+Mark
+
+----------------------------------------------------------
+
+Date: Wed, 26 Oct 1994 18:48:46 -0400 (EDT)
+From: Gabriel Palczewski <azrael@grfn.ORG>
+Subject: Ice Breaker
+
+	Well hello. I am new to the NMS and after wanting and meaning to
+join for a long time I finnaly did. I don't know if you guys like these
+or not but oh well :) My first Rush experience.. heh
+
+	I would have to say my first Rush experience was accidently
+listning to 2112. It was on a B side of a tape my friend gave me which
+had some old Metallica stuff on the A side. I didn't really like it too
+much to tell ya the truth. Then again I wanted my METALLICA!
+
+	Anyhow I heard "Coldfire" on the radio and saw a Headbanger's
+Ball episode with "Stick It Out" on so I got the new album then proceeded
+to start building my collection. They are a great band. I must admitt I
+think their hay day was between Rush - Moving Pictures and now they are
+back with Roll The Bones and Counterparts which I really like.
+
+	Hope I didnt bore you to death!
+
+----------------------------------------------------------
+
+Date: Wed, 26 Oct 1994 19:46:42 -0400
+From: staver57@potsdam.edu (John Staversky)
+Subject: Re: 10/20/94 - The National Midnight Star ** RETURNS **
+
+Hola,
+
+I picked up a bootleg CD that I did not see on Meg's list that I got fron
+the archive server, and I want to pass along the vital signs. It has a
+picture of a polar bear on an ice floe with an azure background. There is a
+12 page insert with the CD in German. 4 of the songs (marked with *) are
+fron the HYF tour and the rest are from RTB. The sound quality I would rate
+as excellent. I'm no pro, but this is definitely a soundboard recording.
+
+1. The Spirit of Radio*
+2. Closer to the Heart*
+3. Limelight
+4. Freewill -->
+5. Distant Early Warning
+6. Time Stand Still
+7. Bravado
+8. Temple of Syrinx* -->
+9. Tom Sawyer*
+10. Big Money
+11. Ghost of a Chance
+12. Subdivisions
+13. The Pass
+14. Where's My Thing
+15. Red Barchetta (1:13 -- The "wind in my hair" sectio they played in
+'92)--> 16. TSOR (closing 30 seconds or so)
+
+(n.b. to mgr-- obviously, if I'm mistaken and Meg does have this one listed
+then just throw out this posting. :-) )
+
+   [ Actually it *is* on the list, but under another name. The one listed
+     there is called "Rush: Greatest Hits Live" -- if that has a different name,
+     you should send her the info on manufacturer & title.	: rush-mgr ]
+
+ -----------------------------------------------------------------------------
+"Down fool!!!!!!"
+           -mike staversky-
+
+"I don't believe in destiny, or the guiding hand of fate....."
+                                             -peart-
+
+----------------------------------------------------------
+
+Date: Thu, 27 Oct 94 08:50 GMT
+From: printware@cix.compulink.co.uk (Richard Scales)
+Subject: Posting
+
+This is my first ever posting (please be gentle) I have been following
+NMS since I discovered it 6 months ago. It seems to me that there is much
+more activity in the US as I don't see many UK postings - I guess it
+rather goes along with the UK tour rate - anyone know when we're likely
+to see the band 'hit our stops' along their way ?
+I've been a bit of a devotee since their UK FWTK tour back in ???? and
+have continued to enjoy their music as it has transmogrified through the
+ages. My only claims to fame are that:
+
+1) I purchased Universal Juveniles whan it came out on vinyl
+2) I once saw Rush do Subdivisions without vocals !
+
+(Does that qualify or am I very very sad !!)
+
+What I would really like to know is - how can I get hold of boot cd's
+here in the UK ? Are there any keen NMSer's out there who might provide
+such material for fair exchange etc ?
+I'll keep on watching reading and posting when I can but for now - keep
+up the very good work.
+'Till then
+>From first to last, the peak is never passed
+Richard Scales, printware@cix.compulink.co.uk, Compuserve 100422,1232
+
+----------------------------------------------------------
+
+Date: Thu, 27 Oct 1994 14:31:49 -0400 (EDT)
+From: Kevin Struck <struckk@iia.org>
+Subject: Re: 10/20/94 - The National Midnight Star ** RETURNS **
+
+I was wondering what happened.  Its been almost two months since I
+received anything from you guys.  I was begining to worry.  I haven't
+received a thing since Sept 3.  If thats when the server when down I
+understand, if not can I get back issues?  You don't know the feeling of
+checking you mail everyday for two months and having nothing from NMS.  I
+kept hoping everyday that would be the day.  Well today was the day.
+Thanks for the good work you've done and I hope this never happens again.
+
+KEVIN
+NJ
+
+----------------------------------------------------------
+
+Subject: Welcome Back
+From: DHUART@midas.sinclair.edu
+Date: 28 Oct 94 11:48:24 EDT
+
+Long time no see,
+
+I hope everyone survived the interim without going crazy-a bonkers.
+It was tough but I wish to thank some of my rush buddies for providing
+enough Rush input to get me through.
+
+And now that the light at the end of the tunnel is visible
+
+Welcome Back to all,  especially rush-mgr.
+
+Thanks to Rush buddies Duane, Art(spotty), Bruce, and last but
+certainly not least Simon.
+
+Adios muchachos
+
+dave
+
+  "Patience my ass...... I'm gonna kill something"  anon
+
+----------------------------------------------------------
+
+From: gpetrosk@cosi.stockton.edu
+Date: Fri, 28 Oct 94 12:44:59 EDT
+Subject: Neil Interview
+
+Thanks for that great interview with Mr. Pratt.  I suppose I should also
+thank you for editing it for this format.  I don't want to sound mean, but
+sometimes Neil does go on for a while.  At least he has something worthwhile
+to say.  I do have a question, and forgive me if this is now common
+knowledge or something, but has the video for "Nobody's Hero" been made yet?
+I try to force myself to watch emptyV, but all they play is rap.  Forgive
+me, but I have been living in a cave, practically, since I was sick in bed
+for two months.  I was amazed that the world just kept on turning...
+
+    [ Yes the video has already been done (and broadcasted, but not on MTV).
+      Most of it (except when they show the band) is shot in black/white
+      and consists of people wearing black masks: schoolteachers, police,
+      astronauts, etc. I doubt MTV will ever show it.		: rush-mgr ]
+
+	Thanks for your information.  Kira
+BTW-I love getting mail, so if anyone out there wants to get in touch and
+keep me up to date, write me @
+		gpetrosk@cosi.stockton.edu
+
+----------------------------------------------------------
+
+Date: Sat, 29 Oct 1994 04:02:58 -0400 (EDT)
+From: Rael <dlazarus@PCS.CNU.EDU>
+Subject: Re: Neil Peart interview
+
+Great interview guys!  Thanks!
+
+It's a bit late to ask the question.  But I was wondering if Neil had any
+plans to do more work with Rheostatics --another Canadian band.  If you
+haven't heard them, I *highly* recommend them.  They're great!  Neil
+plays on 2 or 3 tracks of the album Whale Music.  I believe (I could be
+wrong) he has also played with them on tour.
+
+So, the BR tribute album's already been released, eh?  I'll probably have
+to sqecial order it because I haven't seen it around here.
+
+I know the members of Rush really consider themselves a unit and don't
+really want to dilute themselves (like so many other bands have) by doing
+solo projects.  But I wish they would.  I'd just love to hear their own
+individual tastes and musical directions --I know they don't *all* agree
+on a particular direction all of the time.
+
+Hey!  I have a great idea!  They don't have to do actual *solo* albums.
+Just do a Rush album where each song is written solely by one of the
+three members rather than collectively by all three.  I think that would
+be an ultimate challenge for them.
+
+             O  -->  "Something's changed! That's not   <--  O
+            /|\       your face! It's mine!                 /|\
+             |        It's mine!" -RAEL                      |
+            / \                                             / \
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       129.2.8.114
+
+When you've connected, userid is "anonymous", password is <your userid>.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+Gopher access is now available on syrinx!
+Use this command to access the gopher:
+
+    gopher syrinx.umd.edu 2112
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright (C) 1994 by The Rush Fans Mailing List
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+*********************************************
+End of The National Midnight Star Number 1015
+*********************************************

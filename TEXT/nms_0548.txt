@@ -1,0 +1,595 @@
+From root Wed Oct 28 02:18  1992
+Received: by wake.ncsl.nist.gov (AIX  2.1 2/4.03)
+          id AA00502; Wed, 28 Oct 92 02:18:50 
+Received: by syrinx.umd.edu (5.57/Ultrix2.4-C)
+        id AA09361; Fri, 30 Oct 92 18:30:09 -0500
+Date: Fri, 30 Oct 92 18:30:09 -0500
+Message-Id: &lt;9210302330.AA09361@syrinx.umd.edu&gt;
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list@syrinx.umd.edu
+Subject: 10/30/92 - The National Midnight Star #548
+Status: R
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+          The National Midnight Star, Number 548
+
+                 Friday, 30 October 1992
+Today's Topics:
+		      Administrivia
+                  Dumb Geddy Sayings....
+                      Superconductor
+              Alex singing in Geddy's voice
+           NMS Logo / Rush Convention (repeat)
+I'm booked on the next flight to Kubla's Place, travel advisory please...
+                          IMHO?
+                    Song 'fact files'
+                         Signals!
+              Possible release of MP on MFSL
+                      Lamneth, etc.
+                       World Series
+       Rush and the change from Mercury to Atlantic
+     Re:  10/29/92 - The National Midnight Star #547
+                     'The new Thread'
+                        bad PW CD
+----------------------------------------------------------
+
+Date: Fri, 30 Oct 1992
+From: rush-mgr
+Subject: Administriva
+
+I've moved the tape labeling programs and all the other programs currently
+on syrinx to the /rush/programs directory. There will be a second digest 
+today, an interview (part 1) with Andrew MacNaughtan.
+
+- rush-mgr
+
+----------------------------------------------------------
+
+Date: Thu, 29 Oct 1992 19:57:47 -0500 (EST)
+From: John Michael Santore &lt;jsbh+@andrew.cmu.edu&gt;
+Subject: Dumb Geddy Sayings....
+
+&gt;
+&gt;	I notice that Randall has a quote from something called
+&gt;"Electric Ladyland" in his .sig -- and the quote is from Geddy Lee.
+&gt;Is this a joke?  If not, what does it mean?
+&gt;
+&gt;Thomas Beaudoin
+               |
+               |  IN reference to
+               |
+              \ /
+               v
+&gt;strega@u.washington.edu
+&gt;Randall Haskin
+&gt;**************************************************************************
+&gt;[][][]  []  []  [][][]  []       "Could we have a little less guitar?"
+&gt;[]      []  []  []      []       - Geddy Lee, from "Electric Ladyland"
+&gt;[]      []  []  [][][]  [][][]   "The most endangered species - the honest
+&gt;[]      []  []      []  []  []    man, will still survive annihilation..."
+&gt;[]      [][][]  [][][]  []  []            - Natural Science
+&gt;***************************************************************************
+
+First of all, let me explain that this is from a quasi legal dubbing of
+a Radio Broadcast from the Electric Ladyland studios in NYC in 1974.
+
+I was wondering if we could get a thread about other strange, dumb,
+amusing, whatever, sayings that Geddy (or even one of the other guys)
+says  in concert and is recorded on tape.
+
+For example...(and these are done from memory, but the gist of it is there)
+
+"One likes to believe in the Spirit of Baseball"
+                        -3/15/85 Hollywood, FL
+
+"Hey its sweltering in here, could you lower the heat"
+                        -1974, Electric Ladyland Radio Broadcast
+
+"Ten bucks is ten bucks, eh? "
+                        -Take Off, The Bob and Doug album
+
+Or.. MY FAVORITE !
+"This song is called Working Man... (pause while Alex tunes).. uh, Tuning Man"
+                        -1976 bootleg (don't know exactly when or where)
+
+Anyone else got some neat ones?
+
+                           -John Santore
+
+ORQ-
+"Hassif, Hassif, EEZ A MAH,  Hassif Hassif, ANEEWAH!"
+                           -Geddy, La Villa Strangiato, ESL
+                              (it sounds like this to ME....
+                               My St. Louis boot has him screaming
+                               other stuff during LVS, at different times too)
+
+ ____________________
+/                    \      "We break the surface tension
+\_________     ____   \      with our wild kinetic dreams"
+/             /    \   \               -Rush, Grand Designs
+\_______     /  (*) )   )
+/           / /\___/   /    Go Philadelphia Flyers!
+\_____     / /        /
+/         /  \_______/      John Santore (jsbh@andrew.cmu.edu)
+\________/
+
+----------------------------------------------------------
+
+Date:         Thu, 29 Oct 92 18:58:19 CST
+From: Tracey &lt;TMCCART3@UA1VM.UA.EDU&gt;
+Subject:      Superconductor
+
+You folks are so crazy about dissecting song lyrics, I thought I'd throw
+this one at you. Whom do you think is the target of Peart's barbs in
+"Superconductor?" I have my own theories -- the Material Girl, for one --
+but I'd love to read yours. Or perhaps someone has heard an interview in
+which Peart explains it. Any thoughts?
+
+Oh, and Susie from med school, welcome, welcome, welcome! I enjoyed your
+Coleridge story, and I'm ALWAYS glad to hear from another female Rush
+fan. It's kind of a lonely existence...
+
+Tracey
+
+----------------------------------------------------------
+
+Date: 29 Oct 1992 20:22:07 -0500 (EST)
+From: FISHBOY &lt;AACUNZO@ccmail.sunysb.edu&gt;
+Subject: Alex singing in Geddy's voice
+
+     This is in response to a post by Will Buttram, who mentioned hearing
+Geddy's voice singing harmonies in concert.  I mentioned this on the NMS
+after seeing Rush in March, but I don't think anyone responded.  I saw
+Rush once on the Presto tour and twice on RTB.  I first noticed this
+"phenomena" in December, 1991 at Madison Square Garden, but it was much more
+noticeable to me when I saw them at the Nassau Coliseum in March.  The only
+Rush bootleg I own is Over The Europe, and this same effect is present.  I am
+absolutely convinced that the band uses backing tapes of Geddy singing
+harmonies.  The suggestion Will made about Alex's voice triggering a
+harmonizer sounds plausible, but couldn't they simply be using backing tapes
+(or sequencers, I'm not too knowledgable about the technical side of their
+sound triggering)?  We all know they do this with tons of keyboard sounds, so
+I don't think it should come as a surprise that they, in all probability, do
+the same thing with backing vocals.
+
+                                                - Andy
+
+----------------------------------------------------------
+
+Date: Thu, 29 Oct 92 21:09:53 -0500
+From: meg@syrinx.umd.edu (******* Meg *******)
+Subject: NMS Logo / Rush Convention (repeat)
+
+NMS Logo:
+
+I have put nmslogo.gif and nmsstar.gif in the incoming directory as a
+candidate for an "official" logo. Both are also in the postscript format
+and can be printed on a postscript printer. I would appreciate any feedback or
+comments on how you like the logo -- I think if we have a standard logo it
+would make it easier for people to create t-shirts, fliers, whatever you
+want. What I really need is votes for/against the logo. If others would
+like to submit a logo feel free!
+
+Rush Convention:
+
+This is yet *another* request for e-mail from anyone who is interested
+in attending a Rush convention. No, nothing has been decided, we just need
+a count of how many would be interested.
+
+-Meg
+meg@syrinx.umd.edu
+
+----------------------------------------------------------
+
+Date: Thu, 29 Oct 92 20:10:16 CST
+From: jensen@esd.dl.nec.com	(Tadd Jensen)
+Subject: I'm booked on the next flight to Kubla's Place, travel advisory please
+
+Maybe I'm just full of hot air, but I wanted to submit an opinion for scrutiny.
+
+All this talk of Xanadu and Coleridge's Kubla Kahn reminds me of when I first
+was fascinated by the song and wanted to find out more about it's inspiration.
+I wrongly expected the Coleridge poem to be some wonderful tale upon which
+Peart only touched.  However, a quest throughout used book stores finally
+yielded a Coleridge book, and I must say that I was very disappointed with the
+original work.  (geez, how'd we feel about "A Nice Morning Drive" ?!)  All
+the poem did was just describe Xanadu... and didn't even seem to do a heckuva
+good job at that.  (OK, I admit that I'm comparing things in the wrong order -
+after all, Sam did think it all up way long ago, and in no way has to "live
+up" to the later work.  Plus, I'M SO HOPELESSLY BIASED!  But still...)
+
+It was Peart alone who weaved into this classic-mystical-image of paradise the
+story of a man who searched relentlessly for it, and then upon finding Xanadu,
+was "imprisoned" by it -- this I "quote" because when you think about it,
+couldn't paradise easily be a prison without bars?  You'd never *want* to
+leave!  He becomes immortal in these heaven-like surroundings, and time essen-
+tially stops for him (does he starve for progress?  because in "paradise"
+where all your needs are met, there should be no need for progress!) -- he
+verges on madness.  In the end he barely escapes with his sanity, and Peart
+simply ends with the Coleridgian (!) verse, "For I have dined on honey dew,
+And drunk the milk of Paradise." (yup, it's capitalized!)
+
+I think that the symbolism in the song is incredible!  Think about what you
+can apply this message to, for instance, one's dreams.  If you dedicate your
+life to the pursuit of a dream, finally attaining your dream only to live
+forever in the glory of it, you could become imprisoned by the very dream you
+longed to set you free.  How carefully must we analyze what we wish for and
+consider the consequences?  Also, as far as religion and the notion of heaven
+go, I'm sure you can make your own an equally interesting interpretations of
+Neil's symbolism.  I just hafta wonder: a paradise may seem great from our
+human standpoint, but when you get a chance to stay there awhile, what would
+you think of it then?!?!  (as was mentioned in prior NMS's, I guess I'm
+further expounding the Lamneth/"point of a journey is not to arrive" ideas?
+Sorry -- didn't mean to wax so excessively philosophical...  'awshutup')
+
+The poem may be a classic, but I think that Peart's vision should replace it
+as the classic!  This simply due to the increased depth that Neil has added to
+what I thought was originally an interesting, but simplistic poem.
+Mr. Neil Peart is indeed an spectacular lyricist.
+
+Tanks fer lisnin (and I'd luv to hear other interpretations),
+
+Tadd Jensen    jensen@esd.dl.nec.com           "...warm memory chip..."
+
+PEART FOR PRESIDENT!!  (shouldn't be too hard to modify a Perot bumper
+                        sticker to say this!  get out the X-acto!)
+
+----------------------------------------------------------
+
+From: t_pierog@oz.plymouth.edu (Thomas S. Pierog)
+Subject: IMHO?
+Date: Thu, 29 Oct 92 23:05:45 EST
+
+ 	HI Welcome me to my first post,
+    	I've listened to Rush since I was eight years old and any band
+that holds my interest that long has to be the best. Since I began
+receiving the NMS I've learned immense amounts about this enigma that
+binds us all together and I've figured out most of the
+anacronyms.However, I haven't yet been able to figure out what IHMO
+(or is it IMHO?) means with regard to "Limelight". Forgive me if I
+seem naive (or just stupid) I'm simply uninformed.
+            "When I radiate more heat than light"N.P.
+
+----------------------------------------------------------
+
+Date: Thu, 29 Oct 1992 23:56:18 -0800 (PST)
+From: Eric Askilsrud &lt;redlense@u.washington.edu&gt;
+Subject: Song 'fact files'
+
+  I think it would be a neat idea for the NMS to maintain a 'fact file' on
+each and every Rush song!  Each song's 'fact file' would include the
+band's interpretation, various opinions, literary references, concert
+info, etc.  Such a 'fact file' would be great for when you want to get the
+complete information on _any_ song fast.  Not only will this keep out a
+lot of repition on the NMS, but it will let us do our homework, on the Rush
+we're interested in, at our own pace!
+
+Let me know what you think,
+
+  [ Sounds like a neat idea -- feel like taking on the job? :)	: rush-mgr ]
+
+      REDLENSE     [][][] []  [] [][][] []      Better the pride that resides
+   Eric Askilsrud  []     []  [] []     []        In a citizen of the world
+ @u.washington.edu []     []  [] [][][] [][][]   Than the pride that divides
+    // 14.4KBaud   []     []  []     [] []  [] When a colourful rag is unfurled
+  \X/ AMIGA 1000   []     [][][] [][][] []  []                      -N. Peart
+
+----------------------------------------------------------
+
+Date:           Friday, 30 October 1992, 09:06:16 EST
+From: Charles J McDonald &lt;chuck@geosci.lan.mcgill.ca&gt;
+Subject:        Signals!
+
+Brian Wolf postulates:
+	ANALOG kid and DIGITAL man, is there a connection?
+
+Certainly!
+	Aside from the obvious contrast of _analog_ and _digital_
+(LIUITDIYDK -- I love really obscure acronyms!) I dare say it's a contrast
+of childhood and adulthood.  Kids, generally, have so much new going on in
+their lives that they have a shorter "perception span"  I'm 25 years old
+now and a semester is a reasonably short period of time for me.  (I even
+plan things up to a year or so away.)  When I was a kid, (Hell, when I was
+in High School!) 2 weeks was the distant future!
+
+Brian also asks:
+	Which band member would win in a free-for-all?
+	     (No instruments allowed)
+	That's a toughy. . .  I think Alex would, he seems to have the
+most "schuztpah"
+
+(It means: Look It Up In The Dictionary If You Don't Know)
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+: Charles J McDonald
+: Department of Earth and Planetary Sciences
+: McGill University
+: 3450 rue University				    (514) 398-6767
+: Montreal, Que  H3A 2A7			fax (514) 398-4680
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Acknowledge-To: &lt;chuck@geosci.lan.mcgill.ca&gt;
+
+----------------------------------------------------------
+
+From: becker@areaplg2.corp.mot.com (John Becker)
+Subject: Possible release of MP on MFSL
+Date: Fri, 30 Oct 92 8:34:04 CST
+
+The Chicago Tribune publishes a list of upcoming CD releases in their Friday
+entertainment section every few weeks. In today's listing, they show Moving
+Pictures scheduled for release by Mobile Fidelity on November 10. This is not
+listed in the weekly upcoming releases list posted to rec.music.info, and I
+have frequently found the Tribune's information to be incorrect, but for what
+it's worth I thought I'd pass it along.
+
+John
+
+----------------------------------------------------------
+
+Date: Fri, 30 Oct 1992 09:42:32 -0500
+From: Scott David Daly &lt;skipdaly@wam.umd.edu&gt;
+Subject: Lamneth, etc.
+
+Hello all!
+
+	I don't want to utterly beat a dead horse (too late.)...but
+regarding the 2112 and Lamneth discussions, I would say the
+following:
+
+	1. The "hero" in 2112 DOES kill himself. (This has been
+stated CLEARLY in several places such as B-man's book.)  If you read
+the album sleeve itself, it says stuff to the effect of "I can't bear
+to go on"...the song itself actually says "my lifeblood spills over",
+which means he DEFINATELY dies.  I don't think this is a pro-suicide
+message from Neil, but rather an anti-oppresion message!  He's
+illustrating the desperation a person can be driven to by a lack of
+individual freedom.
+
+	2. The character in the Fountain Of Lamneth does NOT kill
+himself!  He reaches his goal and finds that "the point of the
+journey is not to arrive" so to speak, but rather the point is the
+journey itself!  I don't see him as despairing at the end of that
+song, but rather a little wiser.  He's LEARNED something from his
+quest.  This is something that just about anybody can relate to. Have
+you ever looked forward to something for a long time and then found
+out it isn't that fantastic?  His last statement is "still...I am."
+These are hardly the words of someone who is about to kill themself!
+He is a stronger person for his quest and is affirming his identity!
+
+	Anyway...I think the best advice was Dave Arnold's: "repeat
+to yourself: 'it's just a band...I should really just relax'!"
+
+					Take Care!
+					SKIP
+
+----------------------------------------------------------
+
+Date: Fri, 30 Oct 1992 10:00:13 -0500
+From: Scott David Daly &lt;skipdaly@wam.umd.edu&gt;
+Subject: World Series
+
+Hi there.
+
+	Am I the only one that was actually half-expecting Geddy to
+sing the Canadian national anthem before one of the world series
+games?!  I kept waiting for it to happen...what a bummer!
+
+	I guess it just isn't his idiom...
+
+					Skip
+
+----------------------------------------------------------
+
+Date: Fri, 30 Oct 1992 10:23:34 -0500
+From: bagate!socrates!bfxnd8n (Widener)
+Subject: Rush and the change from Mercury to Atlantic
+
+&gt; ----------------------------------------------------------
+&gt;
+&gt; Date: Wed, 28 Oct 92 17:32:56 HST
+&gt; From: puanani@wana.pbrc.Hawaii.Edu (Puanani Akaka)
+&gt; Subject: Concerning the move to Atlantic Records
+&gt;
+&gt; Rush said they were tired and burnt out and weren't even sure whether
+&gt; they'd even want to continue the band -- all of this after the HYF
+&gt; tour and the mixing for ASOH.  But, during one Rockline interview with
+&gt; Geddy and Alex right after ASOH came out, one guy asked about the move
+&gt; to a new label and Ged said, "No comment at this time", basically
+&gt; indicating they WERE moving to a new label (hence the 'the talks aren't
+&gt; done yet and so we can't say anthing about it', mode).  Now, if they
+&gt; weren't sure about whether the band should continue, why were they in
+&gt; the midst of switching labels?  I know I'm kind of jumping around with
+&gt; this, but I know there are interviews, etc. in which this whole thing
+&gt; is discussed.  I think even Neil mentions something about it in the
+&gt; 'Presto' Tourbook (or somewhere), about the band not being thrilled to
+&gt; death about the band anymore (at THAT time -- ASOH).  But there's also
+&gt; some stuff floating around suggesting that they were in the
+&gt; midst of contract negotiations at the time of ASOH.  So why bother
+&gt; changing labels if you're, "most likely", not going to continue
+&gt; with the band?
+&gt;
+
+Most of the problem that Rush had with Mercury/PolyGram was in the area
+of album promotion - from interviews I have seen, the band felt as though
+Mercury were sitting back and letting Rush's albums sell themselves.  This
+might make sense from the record company's point of view, as Rush are one
+of the few acts that can be counted on to sell X number of records (this being
+due to a solid group of hard-core fans - all NMS subscribers, pat yourselves
+on the back :).  However, you can see why this wouldn't sit too well with the
+band.  Evidently Rush just got tired of Mercury not putting out the effort and
+promotion that they wanted.
+
+&gt;From my perspective, I think they had a point.  Maybe I had blinders on or
+something, but the level of promotional material (ads in magazines, posters
+in record stores, etc) jumped way up with Presto.  Of course, it helped that
+the band was just coming off a live album and therefore supposedly beginning
+another "phase" in their musical history (whether those phases actually begin
+and end with the live albums is another discussion).  But, I've seen more
+promotion from Atlantic for Presto and Roll The Bones than Mercury did for
+P/G, Power Windows, HYF, and A Show of Hands, combined.
+
+So, anyway, I'm sure Geddy, Alex, and Neil were reconsidering their direction
+and their committment to the band.  I think that the treatment they received
+from Mercury might have contributed to those feelings, and that the new deal
+with Atlantic has probably made them feel a lot better about putting so much
+effort into their music.
+
+"Hi, I'm Pat Widener, and..." "...this is the Spirit of Radio"
+ -- Me and Geddy on the air
+
+-------------
+patrick widener :: american management systems, inc. :: arlington va
+pwidener@socrates.bell-atl.com
+"'Coronation', Starscream?  This is BAD COMEDY." -- Galvatron, The Transformers
+
+----------------------------------------------------------
+
+Date: Fri, 30 Oct 92 10:11:49 -0600
+From: saurav@tgevax.life.uiuc.edu (Saurav Misra)
+Subject: Re:  10/29/92 - The National Midnight Star #547
+
+I notice a lot of Fountain of Lamneth discussion going on lately; thought
+I throw in my 57 cents (inflation.aargjh!). I always thought that this was
+the first bit of recorded dabbling by neil in the areas of Greek mythology
+which he subsequently integrated with science fiction in Hemispheres. He
+has got a clever way of subverting the stuff to meet his own didactic ends,
+me thinks. Anyway, the "Panacea" and "Bacchus Plateau" sections of Lamneth
+are definitely evocative of Greek myth to me; they're kind o clever too in
+that the woman serves as a Panacea (that is, a temporary cure) for the
+protagonist, while, in Bacchus plateau, he's of course boozing to forget
+the problems of his quest. Recall also the various "sea voyage" stories in
+Greek myths; Pd whoopls I mean the Odyssey, Jason&the argonauts, etc. Damn,
+One could write a thesis on this1!
+   Also, co?uld it be that (for whoever asked this question) the contrast
+between the Analgue Kid and Digital Man in signals is intentional; i.e. one
+points out the innocence and eagerness of youth to experiene the fullness
+of modern life, while the other hdemonstrates an older individual jaded
+by that same experience into becoming passive, machine-like (digital).
+Neil seemed in the full throes of analyzing the interaction between a techno-
+logical society and man's humanistic tendencies on this album; maybe why
+I like it so much.
+
+--------------------------------------------------------------------------------
+saurav misra                                       "I'd like to fly,
+saurav@tgevax.life.uiuc.edu                         but my wings have been
+                                                    so denied." - Alice in
+                                                    bondage paraphernelia
+--------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+From: cs169063@cs.brown.edu (Jason Rosenberg)
+Subject: 'The new Thread'
+Date: Fri, 30 Oct 92 12:24:21 EST
+
+Well, someone (can't remember who) posted a list of questions to
+start up a new thread, so...
+
+1) The ANALOG "kid"/DIGITAL "man" thing - It seems that the reference in
+   the names is pretty simple - the kid is simpler, earlier, hence, analog.
+   The adult/man in contrast is more advanced - digital.  Also, the songs
+   themselves seem to be talking about simplicity as a child and confusion/
+   whatever as a modern adult.
+   Interestingly, the song inbetween them, Chemistry, talks about connections
+   and changes and how they happen.  Good question.  How do we get from being
+   an analog kid to a digital man?  Seems to me its chemistry...
+
+   (note: I don't care a bit if you don't like my interpretations.  Please
+          keep it to yourself.  If it makes sense to me, and it makes me
+	  happy to think of it this way, then its right.  Unless you're
+	  Neil Peart or God(redundant?) don't tell me whats right...)
+
+4) Neurtica - its about neurotic people!  Maybe people who take themselves
+   a bit too seriously?
+
+5) In a free for all, Neil would win.  No doubt.  Big guy.  Big.
+
+7) Alex has leprosy, Geddy is thinking about getting it, but isn't sure yet...
+
+Well, that was a nice waste of time!  Lets get back to work...
+
+Jason Rosenberg
+
+----------------------------------------------------------
+
+Date: Fri, 30 Oct 92 10:39:56 -0700
+From: Greg Thorwald &lt;thorwald@mars.Colorado.EDU&gt;
+Subject: bad PW CD
+
+A note to Bri Gipson:  My CD copy of Permanent Waves is a.o.k.
+Perhaps if you looked for a used copy you could get one that
+is "squeel" free since used record stores generally check their
+CDs for blemishes like that.  However, I don't see how anyone
+would ever give up such an album  :-)
+
+Greg Thorwald
+thorwald@mars.colorado.edu
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1992.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+********************************************
+End of The National Midnight Star Number 548
+********************************************
+
+
+

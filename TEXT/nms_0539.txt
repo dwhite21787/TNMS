@@ -1,0 +1,1378 @@
+From root Sun Oct 18 19:03  1992
+Received: by wake.ncsl.nist.gov (AIX  2.1 2/4.03)
+          id AA01790; Sun, 18 Oct 92 19:03:40 
+Received: by syrinx.umd.edu (5.57/Ultrix2.4-C)
+        id AA19267; Sun, 18 Oct 92 18:30:07 -0400
+Date: Sun, 18 Oct 92 18:30:07 -0400
+Message-Id: &lt;9210182230.AA19267@syrinx.umd.edu&gt;
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list@syrinx.umd.edu
+Subject: 10/18/92 - The National Midnight Star #539  ** Special Edition **
+Status: R
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+          The National Midnight Star, Number 539
+
+                 Sunday, 18 October 1992
+Today's Topics:
+	  FAQ: Rush Fans Common Questions [2/2]
+----------------------------------------------------------
+
+Date: Sun, 11 Oct 92 00:32:41 -0700
+From: dan@rat.csc.calpoly.edu (Dan Delany)
+Subject: FAQ: Rush Fans Common Questions [2/2]
+
+Rush Fans Frequently Asked Questions List, Part 2 of 2
+Generated: Sun Oct 11 00:30:22 PDT 1992
+
+   This file contains questions that seem to crop up frequently in The
+National Midnight Star and alt.music.rush.  If you received a copy of
+this file in email, other than as an issue of TNMS, it is probably
+because you asked one of these questions.
+
+   This file has been expanded into 2 files because some mailers have
+problems with files that are longer than 60K.  Part 1 contains general
+questions about the band.  Part 2 contains questions inspired by
+specific albums and songs.
+
+   If you want a copy of the current version of this file, email me and
+I'll send you the most recent version.  This set of files is posted on
+the 2nd and 4th Sunday of each month to rec.music.info,alt.music.rush, and
+TNMS.
+
+   If you have any suggestions for additions to the list or corrections,
+please send them to me at dan@rat.csc.calpoly.edu and I'll add them in
+if you have documentation supporting your theory.  Also, don't send
+your suggestions to rush-mgr@syrinx.  I'll repeat that because it's
+important.  Don't send faq suggestions to the moderator of the Rush
+fans mailing list.  He doesn't have anything to do with keeping the
+faq up to date.  Faq suggestions should be sent to me at
+dan@rat.csc.calpoly.edu and not to the mailing list moderator.
+If mail sent to dan@rat bounces, try dan@polyslo.csc.calpoly.edu or
+dan@garden.csc.calpoly.edu - they should work.
+
+I'd appreciate it if people who submit questions submit anything they know
+about possible answers, since I don't have all of the answers myself!
+
+THE FAQ IS A FILE OF FREQUENTLY ASKED QUESTIONS ABOUT RUSH AND THEIR
+ANSWERS.  IT IS NOT AN "OBSCURE RUSH TRIVIA" FILE.
+Please consider this before sending me a suggestion for an addition.
+
+I'll repeat that because it's important and people don't get it.
+THE FAQ IS A FILE OF FREQUENTLY ASKED QUESTIONS ABOUT RUSH AND THEIR
+ANSWERS.  IT IS NOT AN "OBSCURE RUSH TRIVIA" FILE.
+Please consider this before sending me a suggestion for an addition.
+
+I know that it's fun to come up with pet theories for how things
+are related to each other.  But please don't send them to me saying that
+"It *can't* be a coincidence!"  I routinely ignore such email.  Send me
+a reference to an interview or a quote or something from a band member
+that supports what you say, and I'll be happy to add it to this file.
+If you have a pet theory that you want feedback on, post it to TNMS
+or alt.music.rush.
+
+For example:  Don't point out to me that 1001001 in binary is equivalent to
+73 decimal, and 73 decimal is ASCII for the letter "I", and the letter "I"
+was significant to the plot of Ayn Rand's _Anthem_, and Neil Peart read
+lots of Ayn Rand, therefore "The Body Electric" is a reference to _Anthem_.
+Believe me, you won't be the first to point that out.  But Neil Peart has
+never said anything on that particular subject as far as I know, so I'm
+not going to put that into the FAQ.  (Especially since I think it's
+a coincidence!)  Remember, coincidences happen, even in Rush songs!
+
+DISCLAIMER: The information in this file is accurate to the best of my
+knowledge, but I'm not perfect.  If you have an answer to one of these
+questions that doesn't match the one given here that you can verify, let me
+know, and I'll put it in.  But if you make a bet based on this
+information and you lose, don't blame me.
+
+One more thing: If you send me mail and I don't answer right away, please
+be patient.  I eventually read all of my mail.  However, Rush FAQ related
+stuff has a lower priority than my job.
+
+Here are the questions I get asked the most, so I'll put them here at the
+start:
+
+What is The National Midnight Star?
+
+   It's a Rush fans newsletter that is distributed via email.
+   Submissions are all sent to one address, and the moderator goes through
+   the submissions periodically and sends out a digest containing lots
+   of submissions.
+
+   (If you don't know where the name "The National Midnight Star"
+   comes from, that means you don't watch enough Canadian TV.)
+
+How can I subscribe to The National Midnight Star?
+
+   Send email to rush-request@syrinx.umd.edu asking to have your name added
+   to the list.  Don't send email to me - I can't add you!
+
+   I'll repeat that.  I (dan@rat.csc.calpoly.edu) have absolutely nothing
+   to do with the management of TNMS.  I can't add your name to the
+   subscription list.
+
+Latest Word on the next album:
+
+   The band is scheduled to go into the studio in January or February
+   1993.
+
+*********** The following questions are contained in this file: **************
+
+Where did By-Tor's name come from?
+
+In "By-Tor And The Snow Dog" By-Tor is the bad guy, but he's a hero in "The
+Necromancer."  What happened?
+
+Where is Lakeside Park?
+
+What is the significance of May 24?
+
+Has anybody noticed that "Didacts and Narpets" is an anagram for "Addicts
+and Parents"?
+
+Does anybody know the lyrics to "Didacts and Narpets"?
+
+In the COS liner notes, a city is mentioned in small print after each
+song.  Why is this?
+
+What does "Terminat hora diem, terminat auctor opus" mean?
+
+Where did the story of _2112_ come from?
+
+Has anybody noticed that you can hear part of the 1812 Overture in _2112_?
+
+I read that "Xanadu" was based on a famous poem.  Does anybody have a copy?
+
+Where does the name 'Rocinante' come from?
+
+What do the french lyrics in "Circumstances" mean?
+
+What does "La Villa Strangiato" mean?
+
+Ooooh!  I just found out that there is really an intersection of Danforth
+and Pape in Toronto!  Has anybody noticed this before?
+
+Where do the different parts of "La Villa Strangiato" start/end?
+
+Why was the headline on the newspaper on the cover of _Permanent Waves_
+blocked out?  (Note: The Anthem Canadian release does not have this problem.)
+
+Has anybody noticed that the signs on the right side of the _Permanent
+Waves_ cover say Lee, Lifeson, and Peart?
+
+What is the "words of the profits" quote in "The Spirit Of Radio" about?
+
+What is "Free Will" about?
+
+In "Free Will" which lyrics are correct (the ones on the album sleeve or
+the ones Geddy sings)?
+
+Where is "Lotus-Land?"
+
+I heard something about a song called "Sir Gawain and the Green Knight."
+Apparently it was supposed to be on _Permanent Waves_, but was dropped.
+Is there a way to get a tape of it?
+
+What building is on the cover of _Moving Pictures_?
+
+What do the pictures on the MP cover mean?
+
+What is "Tom Sawyer" about?
+
+My _Moving Pictures_ CD is missing the first half second or so from
+"Tom Sawyer".  Can I get a new one?
+
+Who is Pye Dubois?
+
+What is a barchetta?
+
+Where can I get a copy of "A Nice Morning Drive", by Richard S. Foster?
+
+What does "YYZ" mean?
+
+How does Neil play plywood?
+
+At 8:54 and 8:56 in "The Camera Eye," there are some mumblings that I can't
+quite make out.  Does anybody know for sure what is being said?
+
+What is the mob saying at the beginning of "Witch Hunt"?
+
+What is that thing on Neil's chest in the "Vital Signs" video?
+
+Has anybody noticed that the ESL cover photo contains stuff from all of
+the band's previous studio albums?
+
+What does Geddy say, just before "Jacob's Ladder", on ESL?
+
+Who is T.C. Broonsie?
+
+What is the _Signals_ cover supposed to mean?
+
+Who is the writer in "Losing It" about?
+
+Who are Young & Crippen?
+
+Who is Count Floyd?
+
+Is that crackling noise about 10-20 seconds into "Distant Early Warning" on
+the _Grace Under Pressure_ CD supposed to be there, or is my copy defective?
+
+Who was Absalom?
+
+Who is the boy in the "Distant Early Warning" video?
+
+What is "Red Sector A" about?
+
+What songs make up the "Fear" trilogy?
+
+Has this trilogy ever been performed live?
+
+Why do the songs appear in reverse order?
+
+What is the significance of 1001001 in "The Body Electric?"
+
+What is the Omega Concern?
+
+Has anybody noticed that _Power Windows_ is "brought to you by the letter M"?
+
+Why is _Power Windows_ brought to us by the letter M?
+
+What do the three spheres on the _Hold Your Fire_ cover represent?
+
+How many Rush symbols are there in the _Hold Your Fire_ inside photo?
+
+How did Pye Dubois come to be involved with "Force Ten"?  What does
+the title of that song mean?
+
+What film are the clips in the "Lock And Key" video and the _A Show Of
+Hands_ laserdisc, just before "Lock And Key," from?
+
+What is Tai Shan about?
+
+What is happening during the "censored" section of the Show Of Hands video?
+
+In the _A Show Of Hands_ video, does Geddy really say "Catch the fish?"
+
+In the _A Show Of Hands_ video, has anybody noticed that Alex's guitar
+keeps changing?
+
+Does anybody know what stuff Geddy has sitting on the keyboards in the
+_A Show Of Hands_ video?
+
+What is the round thing on Alex's guitar in the _A Show Of Hands_ video?
+
+What are the hands in the "Presto" liner doing?
+
+What is "Chain Lightning" about?
+
+What is "The Pass" about?
+
+What is "Scars" about?
+
+What is the song, "Anagram (for Mongo)" about?
+
+Has anybody noticed that  Anagram (for Mongo) contains lots of anagrams?
+
+What does (for Mongo) after "Anagram" on the "Presto" album mean?
+
+What is "Red Tide" about?
+
+Who does the RTB spoken section?
+
+Who is the boy in the RTB video and on the RTB cover?
+
+Is there a "Gangster of Boats" trilogy?
+
+But why is "Where's My Thing" labelled as Part IV of the trilogy?
+
+Is there a reason for the arrangement of the numbers on the dice on the RTB
+cover?
+
+Has anybody noticed that the "Gangster of Boats" is mentioned in the HYF
+liner notes?
+
+Who is the "Gangster of Boats?"
+
+What does the pattern of skulls and bones at the bottom of the inside
+front cover of the RTB tourbook mean?  Is there a pattern to it?
+
+
+-------- Questions and answers follow. -------
+
+
+Where did By-Tor's name come from?
+
+   Rush's road manager, Howard, came up with the title at a party.  There
+   were two dogs at the party, one was a german shepherd and the other
+   was a tiny white nervous dog.  Howard used to call the shepherd 'By-Tor'
+   because anyone that walked into the house was bitten.  The other dog was
+   a snow-dog (white...).  So from that night on Howard called the pair of
+   dogs "By-Tor and the Snow Dog." -- from scrs_ltd@uhura.cc.rochester.edu
+
+In "By-Tor And The Snow Dog" By-Tor is the bad guy, but he's a hero in "The
+Necromancer."  What happened?
+
+   When asked about this on Rockline, Geddy said something along the lines
+   of, "He saw the light."  Neil commented, "I guess he's like
+   all of us - sometimes good, and sometimes he's bad!" in the Dec.
+   1985 Backstage Club newsletter.
+
+Where is Lakeside Park?
+
+   The consensus of the mail I've received on the subject seems to
+   be that the Lakeside Park Neil refers to is in St. Catherine's,
+   on Lake Ontario.  I don't think any 2 people have yet agreed on
+   how one actually gets to Lakeside Park, so I'll tell you to do what
+   Bruce Holtgren &lt;70724.1622@CompuServe.COM&gt; did for directions,
+   which is to call the St. Catherine's Chamber Of Commerce.
+   (If somebody does that and types in the "official" directions,
+   I'll add them to the FAQ, but I'm not going to put in directions
+   from people who went there once years ago and think they remember.)
+
+What is the significance of May 24?
+
+   It's "Victoria Day", commemorating Queen Victoria's birthday.
+
+Has anybody noticed that "Didacts and Narpets" is an anagram for "Addicts
+and Parents"?
+
+   Yes.
+
+Does anybody know the lyrics to "Didacts and Narpets"?
+
+   Here's the best version I've seen:
+   Deep Voice:  "Stay!"
+   Geddy        "Go!"
+   Deep         "Work!"
+   Ged          "No!"
+   Deep         "Think!"
+   Ged          "Live!"
+   Deep         "Earn!"
+   Ged          "Give!"
+   Deep/Ged     &lt;Wait or Fight?&gt;/&lt;Right&gt;
+   Deep/Ged     &lt;Laugh?&gt;/&lt;Right or Wait?&gt;
+
+                Listen!
+
+   In the October 1991 news release from 'The Rush Backstage Club', Neil
+   says:
+
+   "Okay, I may have answered this before, But if not, the shouted words
+   in that song represent an argument between Our Hero and the Didacts
+   and Narpets - teachers and parents. I honestly can't rememer what the
+   actual words were, but they took up opposite positions like:
+   "Work! Live! Earn! Give!" and like that."
+
+
+In the COS liner notes, a city is mentioned in small print after each
+song.  Why is this?
+
+   "Ah yes.  This goes back to the 'bad old days' when all we did was tour,
+   and consequently had to do most of our song writing on the road, with
+   acoustic guitars and notebooks in hotel rooms.  Not the best method of
+   composition, you may imagine, but the only one available to us at the time.
+   Those cities represent the places in which those songs were written."
+       -- Neil Peart, in the Dec. 1985 Backstage Club newsletter
+
+What does "Terminat hora diem, terminat auctor opus" mean?
+
+   It means something like: "as the hour ends the day, the author ends his
+   work."
+
+
+Where did the story of _2112_ come from?
+
+   "The inspiration behind it was...  It's difficult always to trace those
+   lines because so many things tend to coalesce, and in fact it ended up
+   being quite similar to a book called _Anthem_ by the writer Ayn Rand.  But
+   I didn't realize that while I was working on it, and then eventually as the
+   story came together, the parallels became obvious to me and I thought, 'Oh
+   gee, I don't want to be a plagiarist here.'  So I did give credit to her
+   writings in the liner notes." -- Neil Peart, in the Dec 2 1991
+                                       "Rockline" interview
+
+Has anybody noticed that you can hear part of the 1812 Overture in _2112_?
+
+   Yes.
+
+I read that "Xanadu" was based on a famous poem.  Does anybody have a copy?
+
+   The poem is "Kubla Khan" by Samuel Taylor Coleridge.  Your local
+   library probably has a copy.  It appeared in TNMS issue #88.
+
+Where does the name 'Rocinante' come from?
+
+   In Greek mythology, Rocinante is the name of the horse that Zeus rides.
+   It was the name of Steinbeck's motor home in _Travels With Charlie_.
+   It was also the name of Don Quixote's horse.
+
+What do the french lyrics in "Circumstances" mean?
+
+   "The more that things change, the more they stay the same."
+
+What does "La Villa Strangiato" mean?
+
+   'Weird City' is a rough translation of the title, according to _Visions_.
+
+   Atthe Tossavainen &lt;d37690r@kaira.hut.fi&gt; has told me that
+   "La villa, be it spanish or italian, doesn't mean a village or a
+   city, but rather a HOUSE.   Strangiato is probably just pidgin spanish, a
+   made-up word."
+
+   The song itself is based on several of Alex's nightmares and some cartoon
+   themes.  Much of this music can be heard on a CD called The Carl Stalling
+   Project - "Music From Warner Bros. Cartoons 1936-1958".  Warner Bros -
+   26027-2 (approximately 77 minutes on cd) These are the original soundtracks
+   from Loony Tunes/Merrie Melodies, mostly in the 40s and 50s.
+               -- thanks to jdinkins@polyslo.calpoly.edu for catalog info
+
+   schaaphe@serc.nl (Frank Schaapherder) gave me this information:
+     The first part of La Villa Strangiato, "Buenos Nochas, Mein Froinds"
+     is based on the German song "Gute Nacht, Freunde", written by
+     A. Yondrascheck.  I noted the resemblance between the two songs
+     immediately when I first heard La Villa. The notes until the fast
+     part are almost identical. Also note the similarities in the titles,
+     they have the same meaning, and the reference to German in Rush's
+     title (Mein Froinds).
+
+Ooooh!  I just found out that there is really an intersection of Danforth
+and Pape in Toronto!  Has anybody noticed this before?
+
+   Yes.
+
+Where do the different parts of "La Villa Strangiato" start/end?
+
+   This chart was made up by Brad Armstrong &lt;71161.1313@CompuServe.COM&gt;.
+   Thanks, Brad!
+
+    La Villa Strangiato (An exercise in Self-Indulgence)
+
+                                              Studio    Live (ESL CD)
+    I.    Buenos Nochas, Mein Froinds!        0.00      0.16
+    II.   To sleep, perchance to dream...     0.27      0.49
+    III.  Strangiato theme                    2.00      2.18
+    IV.   A Lerxst in Wonderland              3.16      3.36
+    V.    Monsters!                           5.43      6.09
+    VI.   The Ghost of the Aragon             6.09      6.30
+    VII.  Danforth and Pape                   6.45      7.07
+    VIII. The Waltz of the Shreves            7.26      7.48
+    IX.   Never turn your back on a Monster!  7.52      8.14
+    X.    Monsters! (Reprise)                 8.03      8.24
+    XI.   Strangiato theme (Reprise)          8.17      8.40
+    XII.  A Farewell to Things                9.21      9.14
+
+Why was the headline on the newspaper on the cover of _Permanent Waves_
+blocked out?  (Note: The Anthem Canadian release does not have this problem.)
+
+   "There are always the inevitable last minute crises, such as the Chicago
+   Daily Tribune being still so embarrassed about their 'Dewey defeats Truman'
+   error of more than thirty years ago, that they actually refused to let us
+   use it on the cover!"  -- Neil Peart, in the _Permanent Waves_ tourbook
+
+   To clarify this:  When Truman ran against Dewey for President, Truman
+   lost in most of the states with early returns.  So, it looked like
+   Dewey was going to win.  The Tribune released an early morning paper
+   the next day with a 'Dewey defeats Truman' headline.
+
+Has anybody noticed that the signs on the right side of the _Permanent
+Waves_ cover say Lee, Lifeson, and Peart?
+
+   Yes.
+
+What is the "words of the profits" quote in "The Spirit Of Radio" about?
+
+   It's referring to "Sounds of Silence."  Here are the lyrics:
+
+   Sounds of Silence:
+   "And the sign said the words of the prophets are written on the
+    subway walls,
+    And tenament halls
+    And whispered in the wells of silence"
+
+   Spirit of Radio:
+   "For the words of the profits were written on the
+    studio wall,
+    Concert hall,
+    And echoes with the sound of salesmen..."
+
+What is "Free Will" about?
+
+   "The song is about freedom of choice and free will, and you
+   believing in what you decide you believe in." -- Geddy Lee, in the
+                                              12/4/89 Rockline interview
+
+In "Free Will" which lyrics are correct (the ones on the album sleeve or
+the ones Geddy sings)?
+
+   "That's a funny question.  I've had a few lately from people who are so
+   sure that what they hear is correct, that they disbelieve what I've put
+   in the lyric sheets!  Imagine!  People have quoted me whole verses of
+   what they hear, as opposed to what's printed, sure that they are right
+   and the cover (me) is wrong.  Scary stuff, these ego-centric individuals.
+   I assure you, other than perhaps dropping an "and" or a "but", we take
+   great care to make the lyric sheets accurate."
+      -- Neil Peart, in the Dec. 1985 Backstage Club newsletter
+
+Where is "Lotus-Land?"
+
+   "Lotus-land as it appears in 'Free Will' is simply a metaphor for an
+   idealized background, a 'land of milk and honey'.  It is sometimes
+   also used as a pejorative name for Los Angeles, though that was not
+   in my mind when I wrote it." -- Neil Peart
+
+I heard something about a song called "Sir Gawain and the Green Knight."
+Apparently it was supposed to be on _Permanent Waves_, but was dropped.
+Is there a way to get a tape of it?
+
+   According to _Visions_, it was never recorded.  Some bits from it
+   ended up in "Natural Science."
+
+What building is on the cover of _Moving Pictures_?
+
+   According to rkleiner@alfred.carleton.ca (Ron Kleiner):
+   The building on the cover of Moving Pictures is the current seat of
+   the Government of Ontario, at Queen's Park.
+
+What do the pictures on the MP cover mean?
+
+   "When Hugh Syme was developing the multitude of puns for the cover,
+   he wanted the guys "moving pictures" to have some "moving pictures"
+   to be moving past the people who were "moved" by the "picture" - get
+   it? So he asked us to think of some ideas for these pictures.  The
+   "man descending to hell" is actually a woman - Joan of Arc - being
+   burned at the stake (as per "Witch Hunt") and the card-playing dogs
+   are there because it was a funny, silly idea - one of the most
+   cliche'd pictures we could think of - a different kind of
+   'moving picture'."  -- Neil Peart, in the Dec 1985 Backstage Club
+                                newsletter
+
+What is "Tom Sawyer" about?
+
+   "I've been avoiding most of the question that ask for explanations for
+   different songs, as really the song is meant to do the explaining for
+   me!  But since you ask so nicely... "Tom Sawyer" was a collaboration
+   between myself and Pye Dubois, an excellent lyricist who wrote the
+   lyrics for Max Webster.  His original lyrics were kind of a portrait
+   of a modern day rebel, a free-spirited individualist striding through
+   the world wide-eyed and purposeful.  I added the themes of reconciling
+   the boy and man in myself, and the difference between what people are
+   and what others perceive them to be - namely me I guess."
+                 -- Neil Peart, in the Dec 1985 Backstage Club newsletter
+
+My _Moving Pictures_ CD is missing the first half second or so from
+"Tom Sawyer".  Can I get a new one?
+
+   Yes.  Here's the address for PolyGram QA :
+
+          Cecilia E. Schultz
+          Customer Service / Warranty Department
+          PolyGram Group Distribution, Inc.
+          6220 Churchman Bypass
+          Indianapolis, IN 46203
+
+          Phone:  (800) 428-4437
+          FAX:  (317) 788-1803
+
+Who is Pye Dubois?
+
+   Pye Dubois was the lyricist for Max Webster.  "Tom Sawyer" began life
+   as a Max Webster song called "Louis The Warrior," but Pye gave the
+   lyrics to Neil after "Battlescar" was recorded.  Pye also helped
+   Neil write "Force Ten."
+
+What is a barchetta?
+
+   The barchetta is a type of Ferrari race car - read on for "details
+   till you puke."
+
+   NOTE:  This section of the FAQ will not be changed until somebody
+          volunteers to keep a Rush trivia file for all of the obscure
+          little trivia things like this.  Mail asking me to remove
+          this section will be ignored.  If you have time to send me
+          email complaining about this section of the FAQ, you probably
+          have enough free time to be the keeper of an Obscure Rush
+          Trivia file, which is needed.  Things like the "Has anybody
+          noticed that YYZ is Morse Code" question would probably be
+          more appropriate for a general trivia file than for the FAQ,
+          which I originally intended to not be a trivia file.
+
+   Barchetta is Italian for little boat.
+
+   The history of the Ferrari barchetta:
+   (note the lower case b, it designates a body style like coupe, spyder,
+   cabriolet or berlinetta, not an actual model name)
+
+   Ferrari 166MM -
+
+   V-12, 1995cc, 60x58.8mm, 140 bhp @ 6600 rpm, CR 10:1, single ohc per bank,
+   Weber carbs, 5-speed gearbox integral with engine, double wishbone front
+   suspension, rigid axle rear suspension.
+
+   First shown at the Turin Salon in November of 1948. It's simple but
+   effective barchetta styling became greatly admired and many times
+   copied. The MM designation was added to the 166 model number to
+   designate the 1948 victory of a 166 in the Mille Miglia. A total of
+   46 166MMs were built in Series I & II between 1948 and 1953. 25 of the
+   series I cars (1948-1951) carried the barchetta designation, none of
+   the Series II cars were barchettas.
+
+   Ferrari 195 Sport -
+
+   V-12, 2431cc, 65x58.8mm, 180 bhp @ 7000 rpm, CR 7.5:1, rest same as above
+
+   This car had essentially the same engine as the 166MM bored out to 65mm.
+   The body was very similar to the 275S discussed below. As a hybrid
+   prototype, it is not known exactly how many of these cars were made.
+   Probably at least one barchetta (certainly no more than three) were
+   made in 1950. The one known barchetta finished second in the 1950
+   Mille Miglia.
+
+   Ferrari 275S -
+
+   V-12, 3322cc, 72x68mm, 270 bhp @ 7200 rpm, CR 8:1, rest same as above
+
+   A prototype of the type 340 America series of cars, only two were made
+   in 1950.  Both cars, in barchetta configuration, entered the Mille
+   Miglia in April but retired the race with clutch problems.
+
+   Ferrari 340 America -
+
+   V-12, 4101 cc, 70X68mm (?), 220 bhp @ 6000 rpm, CR 8:1, rest same as above
+
+   This car was a downsized formula 1 racer with a smaller displacement than
+   it's 4.5 liter F1 counterpart. These cars evolved into the 342 America as
+   the GT version and the 340MM as the sport. Of the 25 340s produced in
+   1951, 7 were touring barchettas.
+
+   Ferrari 225S -
+
+   V-12, 2715 cc, 70X58.8mm, 210 bhp @ 7200 rpm, CR 8.5:1, rest same as above
+
+   Considered as the final link to the extremely successful 3-liter 250
+   series of cars, 20 225Ss were built in 1952, but only 1 in the barchetta
+   configuration.
+
+   Since only 35-37 barchettas were built between 1948 and 1953 under various
+   model numbers it's not surprising that few people were even aware
+   they existed.
+
+   Source: "The Complete Ferrari" by Godfrey Eaton 1986 by Cadogan Books Ltd.
+
+   { Interestingly, 2 Italians that I know have independently told me
+    that it's actually pronounced 'barketta'. }
+
+Where can I get a copy of "A Nice Morning Drive", by Richard S. Foster?
+
+   It was printed in the November 1973 issue of "Road & Track" magazine.
+   It is also available for ftp on syrinx.umd.edu in the rush/special
+   directory.
+
+What does "YYZ" mean?
+
+   YYZ is the transmitter code for Toronto's Lester B. Pearson 
+   International Airport.  Every airport is assigned a unique 3 letter
+   code, and that code is always being transmitted so that pilots can
+   tell, roughly, where they are and verify that their navigational
+   radios are tuned properly.  These codes are also written on your
+   luggage tags when you fly.  The intro to the song is Morse code for "YYZ".
+
+How does Neil play plywood?
+
+   "Well you wear gloves so as not to get splinters, you take a piece of
+   1/4" plywood, and smack it down HARD on the top of a wooden stool.
+   Very demanding, technically - took years of practice." -Neil Peart
+
+At 8:54 and 8:56 in "The Camera Eye," there are some mumblings that I can't
+quite make out.  Does anybody know for sure what is being said?
+
+   No.  {The first time I posted this FAQ, I received no fewer than 8
+         emails from people who claimed to know exactly what is being
+         said there.  Unfortunately, none of them agreed with each other,
+         which tells me that at least 7 of them were wrong, so I'm only
+         going to change this answer if somebody can come up with proof
+         that they are right, such as an interview or magazine article.}
+
+What is the mob saying at the beginning of "Witch Hunt"?
+
+   "It is purposely mixed so that you cannot understand what is being
+   said, but the tenor of the situation, the hatred, the ill-will, and
+   the fear comes through loud and clear.  This effect was created by
+   emptying the studio (in the middle of a snowy night) of production
+   staff, road crew and band, and depositing everyone in the cold outside
+   the isolated facility.  With tape recorders rolling, Neil gave his
+   best fanatic's speech, gradually getting more and more whipped up as
+   everyone involved let themselves get carried away."
+         -- from _Visions_
+
+   Here's how Alex Lifeson described that session in an interview called
+   "In The Studio" from the MP era.
+
+   "We went outside of Le Studio and it was so cold, it was really cold;
+   we were well into December by then I think.  We were all out there.
+   We put a couple of mics outside. We started..rauw..raew..wrow
+   (starts mumbling), ranting and raving. We did a couple of tracks of
+   that. I think we had a bottle of Scotch or something with us to keep
+   us warm. So as the contents of the bottle became less and less,
+   the ranting and raving took on a different flavor and you got little
+   lines of...you remember Roger Ramjet (sp?), the cartoon Roger Ramjet?
+   What was the bad guy's name...his gang of hoods, they always had
+   these little things they would say whenever they were mumbling...
+   mrrblaarrr..mrrblaarrr..crauss. It started to take all this...we
+   were in the control room after we had layed down about twelve
+   tracks of mob--in hysterics. Every once in awhile you'd hear
+   somebody say something really stupid."
+
+What is that thing on Neil's chest in the "Vital Signs" video?
+
+   It's a microphone.  A PZM, to be exact.  It was used in an attempt
+   to get the drums to be recorded the way Neil hears them.
+
+Has anybody noticed that the ESL cover photo contains stuff from all of
+the band's previous studio albums?
+
+   Yes.
+
+What does Geddy say, just before "Jacob's Ladder", on ESL?
+
+   "We'd like to do an old song for you right now... This was done a long
+   time ago by the [possibly "that"] old T.C. Broonsie.. This is called
+   'Jacob's Ladder'." -- thanks to Michael Sensor &lt;JPJ103@psuvm.psu.edu&gt;
+
+Who is T.C. Broonsie?
+
+   Terry Brown.
+
+What is the _Signals_ cover supposed to mean?
+
+   "Well, I was given the word "Signals." It was such a broad concept
+   that it was baffling for all of us.  We really had trouble with that
+   one, and I decided that, with such a phenomenally important word with
+   the kind of potency it potentially had, to go with something really
+   dumb, really inane.  But something which would still tie in with songs
+   such as "Chemistry," and the subdivision aspect of the fire hydrants,
+   lawns, and neighborhood dogs." -- Hugh Syme
+
+   In an effort to explain the _Signals_ sleeve, Geddy states: "Well, we
+   wanted the album to sound different and we also thought that the packaging
+   should have a different feel. When we were talking about _Signals_, Hugh
+   had this concept of taking the idea down to a basic human level --
+   territorial or even sexual. So that's how the design with the dog and the
+   fire hydrant came about. The little map on the back features make believe
+   subdivisions, with a lot of silly names and places. The red dots represent
+   all the fire hydrants and basically the whole thing maps out a series of
+   territories." -- from _Success Under Pressure_
+ 
+Who is the writer in "Losing It" about?
+
+   Neil discusses this song in _Modern Drummer_ magazine, in the April 1984
+   issue.  The writer represents Ernest Hemingway.  The dancer "...drew
+   a bit from that film with Shirley MacLaine called _The Turning
+   Point_..."
+
+Who are Young & Crippen?
+
+   They were the astronauts on the first Shuttle flight.
+
+Who is Count Floyd?
+
+   He was a character on the Canadian TV show SCTV.  {similar to "WKRP
+   in Cincinatti", but a TV station.}  The Count Floyd character had a
+   show that featured really bad movies.  {movies so bad that even
+   Elvira wouldn't show them.}
+
+Is that crackling noise about 10-20 seconds into "Distant Early Warning" on
+the _Grace Under Pressure_ CD supposed to be there, or is my copy defective?
+
+   It's supposed to be there.  There is a rumbling at that point on the
+   _A Show Of Hands_ CD and on the _Grace Under Pressure Tour_ video,
+   but people without subwoofers may be unable to detect it.
+
+Who was Absalom?
+
+   He was King David's favorite son, who rebelled against his father,
+   and was killed by Joab, according to my trusty Websters.
+
+   To quote Neil:
+   "Before I ever knew who or what Absalom was, I always loved the sound
+   of it.  I had thought perhaps it was an ancient prayer or something.
+   There is a book by William Faulkner called _Absalom, Absalom_, which,
+   again, I loved the sound of.  I wanted to put it in the song, as a play
+   on words with "absolute" and "obsolete", but I thought I'd better find
+   out for sure what it meant.  So I called my wife and asked her to look
+   it up in the encyclopedia.  When I learned the real story, and its
+   Biblical roots, I decided that it was still appropriate, as it was the
+   ultimate expression of compassion, which is what the song was really
+   about.  "Absalom, Absalom.  My son, my son.  Would God I had died for
+   thee." (Now don't anyone go reading any religion into that!)"
+
+Who is the boy in the "Distant Early Warning" video?
+
+   He is Geddy's son, Julian.
+
+What is "Red Sector A" about?
+
+   Red Sector A is the area the band watched a shuttle launch from.
+
+   On the other hand, the song...
+
+   The inspiration for Red Sector A was indeed the Holocaust.  Neil even
+   read many books on the subject, and was really moved by the fact that
+   some of the survivors of the concentration camps actually DID think
+   that they (and their liberators) were the last people alive on earth.
+   ("That's intense..."  -Neil)
+
+   But Neil specifically does not make any *direct* reference to the
+   Holocaust, just several indirect ones.  The motivation for this was to
+   make the song have "a more timeless quality".  Neil points out that
+   all throughout history, countries, races, and people have been guilty
+   of persecution, and America is no exception.
+
+What songs make up the "Fear" trilogy?
+
+   The "Fear" trilogy consists of:
+      Part 1: The Enemy Within (Grace Under Pressure)
+      Part 2: The Weapon (Signals)
+      Part 3: Witch Hunt (Moving Pictures)
+
+Has this trilogy ever been performed live?
+
+   Yes.  It's on the _Grace Under Pressure Tour_ video.
+
+Why do the songs appear in reverse order?
+
+   "It's really kind of strange how it turned out, and it's not meant to be
+   as mysterious and clever as it looks.  It was more accidental.  At the
+   time of _Moving Pictures_, I had actually sketched out each of the three
+   songs in my notebook and talked to the other guys about them and what I
+   was going to go for, but the easiest one for me to clarify in my mind
+   and in words was 'Witch Hunt,' because it was the simplest concept to
+   deal with, and then 'The Weapon' came next because my thinking led up to
+   that point, but in fact a couple snatches of lyrics and even both of the
+   verses for 'The Enemy Within' were written as long ago as that, and all
+   of the titles and everything were fixed on, and what I wanted to write
+   about, but 'The Enemy Within' was the most difficult one to deal with,
+   so it ended up being the last one done, so they happened to go in the
+   order 3-2-1." -- Neil Peart, in an interview on KGB 101 FM, San
+                                Diego: 10/2/84
+
+What is the significance of 1001001 in "The Body Electric?"
+
+   In the video, the protagonist is a prisoner attempting to escape
+   from some sort of prison.  The number on his uniform is 1001001.
+   Many people have converted this number into decimal and noticed
+   that ASCII 73 is a capital I and read significance into that,
+   but I've never seen anything "official" on the subject.  My
+   _opinion_ is that 1001001 was used because it fits and sounds neat.
+
+   1001001 is also not a valid choice for a California license plate,
+   but UNIT ONE is. (It's taken now.)
+
+What is the Omega Concern?
+
+   As Alex realized that he had to play acoustic guitar for some Rush tunes
+   and then quickly switch to his electric (Closer to the Heart, etc.), he
+   crafted a stand (actually an attachment to a Tama Titan cymbal stand)
+   that holds his acoustic in an adjustable playing position.
+
+   He soon began to sell this as a product (1st to Music Emporium) under the
+   company label "The Omega Concern."  Apparently, Alex's "company" also made
+   Geddy a light-up lyric stand and Neil got a newspaper/book holder so he
+   could read while he eats breakfast.
+
+Has anybody noticed that _Power Windows_ is "brought to you by the letter M"?
+
+   Yes.  We've noticed the similar accreditations in _Presto_ and
+   _Roll The Bones_, too.
+
+Why is _Power Windows_ brought to us by the letter M?
+
+   From the April 1992 Kerrang interview:
+   "That started on 'Power Windows'," recalls Alex, "when we were sequencing
+   the tracks and Neil commented that 50 per cent of the songs began with an
+   'M' - 'Marathon', 'Manhattan Project', 'Middletown Dreams' and 'Mystic
+   Rhythms'. It's as innocent as that. It's nothing to do with 'Sesame
+   Street'!" "We throw a lot of silly little things into the credits,"
+   shrugs Geddy, "little inside jokes. It's just an immature habit we
+   developed!"
+
+What do the three spheres on the _Hold Your Fire_ cover represent?
+
+   "It's so difficult to describe the album cover because you want to
+   leave a little bit of mystery, and you want it to be interpreted by
+   the person who is holding the thing in front of them.  So I'm really
+   not going to say too much about what the cover says to me, but it's
+   nothing extremely mystical or anything.  It has nothing to do with
+   brown rice."  -- Geddy Lee, on Rockline 10/5/87
+
+How many Rush symbols are there in the _Hold Your Fire_ inside photo?
+
+   the fire hydrant from "Signals"
+
+   the TV from "Power Windows"
+
+   the clock indicating 9:12 (21:12 military time)
+
+   the number 15 on the main building... in the "Hold Your Fire"
+   tour book, they mentioned that this was their 15th album to
+   date.
+
+   the juggler is clearly holding his fire.
+
+   at the very far left, underneath the chains is a trunk with
+   the logo from their first album.  This was spotted on a 12
+   inch picture disk from the album.  It cannot be seen in many
+   other versions of the picture.
+
+   The Chinese neon sign above the restaurant reads "Tai-Shan".
+
+   A friend told me that the car is a Mercury, but I don't know this
+   for sure.
+
+   Look right off of the juggler's right shoulder in the open window.
+   There is someone's hand shown holding a pistol.  {People have questioned
+   this one - can somebody who has found it send me a better description
+   of where they see it?}
+
+   In one of the upper right hand windows of the right hand most apartment
+   building you can see part of the head and crown of the Statue of Liberty
+   who we all know holds a burning torch in her right hand.
+
+   The arches on the building are suspiciously similar to the MP cover.
+
+   Special mention goes to nth@cs.brown.edu (Nate Huang) for the most
+   obscure observation yet: "The restaurant sign has the same recognizable
+   font style as the lettering on the Grace Under Pressure cover."
+   {Yes, I know it's not exactly the same.  Please don't tell me that again.}
+
+   Leaning against the trash can in the front is an oxford shoe, just like
+   the one the girl wears on the ESL cover.
+
+   The back side of the owl on FBN is resembled on the lamp post on the far
+   right side.  (Only on the CD and tour book)
+    { I think this is pushing it a little, but I can see how one might
+      see it as an owl...  Dan }
+
+   There is a woman looking out the window next to the Statue of Liberty.
+
+   A copy of the painting on the far left on MP, is wrapped up in cloth and
+   leaning against the front steps.
+
+How did Pye Dubois come to be involved with "Force Ten"?  What does
+the title of that song mean?
+
+   "It was more or less an afterthought in the writing stage.  We took
+   two months to do all of our writing and preproduction, you know,
+   preparation for the making of the record, and we had nine songs, and
+   we had about a day and a half left of time booked before we were
+   supposed to leave and get ready to make the record.  And our producer
+   and all of us were pushing for ten tracks on the album, and some
+   lyrics had been submitted to us by a friend of ours, Pye Dubois, who
+   co-wrote 'Tom Sawyer' with us in years gone by.  And Neil was able to
+   put some of his own thoughts to one of the songs that he had an
+   present it to us in the morning of the last day that we were there,
+   and we loved the results, so we got together and brainstormed for
+   about 2 or 3 hours, and we had Force Ten."  -- Geddy Lee, on Rockline
+                                                                10/5/87
+
+   Gregg Jaeger (jaeger@buphy.bu.edu) sent me this tidbit:
+   In the Presto mailing from the Backstage Club a writer asks: ``What
+   does the title `Force Ten ' refer to?'' and Neil responds: ``The
+   Beaufort Scale -- look it up!''.
+
+   {Yes, I know that the definition of the Beaufort scale could be put
+    here in this file.  It won't be.  Don't bother to type it in and send
+    it to me.  I won't put it in the FAQ.  Why, you ask?  Well, if
+    Neil told us to look it up, who am I to ruin the surprise?  So
+    look it up - you'll like it. }
+
+What film are the clips in the "Lock And Key" video and the _A Show Of
+Hands_ laserdisc, just before "Lock And Key," from?
+
+   It's called _The Last Mile_.  It can be purchased as part of the
+   Video Film Classics series from Video Classics Inc. and Kartes
+   Video Communications Inc.
+
+What is Tai Shan about?
+
+   Tai' Shan (from Hold Your Fire) is the name of an actual "holy mountain"
+   in China.  The mythical (?) emperor Huang Ti had so much power that he
+   was able to summon all the spirits of the world to him on top of
+   Tai' Shan to proclaim his power.
+
+   Legend has it that if you climb to the top of this mountain and
+   "raise your hands to heaven," you _will_ live to be at least 100
+   years old.  Neil wrote these lyrics while sitting at the top of
+   the mountain.
+
+What is happening during the "censored" section of the Show Of Hands video?
+
+   "That's kind of a joke, but it doesn't seem like many people are
+   getting that joke.  Actually, Alex, at certain parts of that song,
+   would just start rambling into the microphone -- all kinds of various
+   nonsense, and it actually never got recorded anywhere.  So no one had
+   any idea, including him, what he had actually said.  But we loved the
+   shot of him just ranting into this microphone, so we decided we would
+   put up this bogus 'radioactive' warning about the fact that we had
+   'censored' what he had said, and we thought we did it in kind of an
+   obvious way -- it looked like it was phony, because we put the
+   radioactivity symbols right on the screen, but nobody seems to be
+   getting that." -- Geddy Lee, in the 12/4/89 Rockline interview
+
+   Alex laughs. "I'm not singing, it's more spontaneous babbling! You get
+   kinda goofy at the end of a show, especially near the end of a lengthy
+   tour. That was just crazy rambling, verbal farting. It was Geddy's
+   idea to put it on the video." -- Alex Lifeson, in the April 1992
+                                    Kerrang interview
+
+In the _A Show Of Hands_ video, does Geddy really say "Catch the fish?"
+
+   Yes, he does.  Nobody knows why.
+
+In the _A Show Of Hands_ video, has anybody noticed that Alex's guitar
+keeps changing?
+
+   Yes.  This has been discussed several times in TNMS.  The _A
+   Show Of Hands_ video was filmed during a 3-night concert series at the
+   National Exhibition Centre in Birmingham, England.  Test footage was
+   shot the first night.  The majority of the video comes from the second
+   night, but several shots were used from the third night's performance.
+   In some cases, this was because the shots taken on the second night
+   weren't quite right, but in a few places, like the beginning of _2112_,
+   it was Geddy having fun in the editing stage.
+
+   Yes, Alex does break a string at the end of "Tom Sawyer", but the
+   guitar changes more than once, so it isn't just Alex swapping in a
+   new guitar.
+
+Does anybody know what stuff Geddy has sitting on the keyboards in the
+_A Show Of Hands_ video?
+
+   The following was posted on Fri, 12 Apr 91 by Dan Dickerman
+                                 GSY 1-447-4425 &lt;dickermn@hpcugsya.cup.hp.com&gt;
+
+   &gt;I have yet to find a clear shot of the dolls, but from what I can decipher
+   &gt;it seems he has 6 dolls and a brandy snifter (with cash, of course)
+   &gt;distributed onto 2 keyboards: nearest the snifter is Boris Badenov
+   &gt;(Bullwinkle fame) and further to our left is a group of 3 consisting
+   &gt;of Rocky the Flying Squirrel (Bullwinkle), a toy robot, and something
+   &gt;that looks vaguely like a cowboy drawing both pistols (knees bent, etc).
+   &gt;
+   &gt;[ I think this last one might be Roger (?) Kneebend, one of Julians old
+   &gt;  toys, which the group sort of adopted as a mascott during the recording
+   &gt;  sessions.  I'll try to find the reference to him....        :rush-mgr ]
+   &gt;
+   &gt;On the other keyboard (facing the front of the stage) is a thinner toy
+   &gt;robot and (this one's really a ballpark guess) a cartoon dog (though
+   &gt;none that I recognize) that is acting the part of the gracious waiter.
+
+What is the round thing on Alex's guitar in the _A Show Of Hands_ video?
+
+   Here's what rjf@maxwell.physics.purdue.edu says it is:
+   That circular "thing" on Alex's guitar is a patrol patch used by
+   some Boy Scouts.  That particular one is the "panther" patrol patch.
+
+What are the hands in the "Presto" liner doing?
+
+   They are making scissors, paper, and stone, like in the children's
+   game.  There is also a discussion of the scissors/paper/stone
+   symbols in the Presto tour book.  This is paraphrased in TNMS #212.
+
+What is "Chain Lightning" about?
+
+   "I'm a weather fanatic - I really love weather, and I watch the
+   weather and look for a good weatherman.  And, one night I was watching
+   it, and there are two incidents in that song that are synchronicity to
+   one weather report, where the weatherman showed a picture of sun-dogs,
+   and described them, and they are just two little points of light that
+   appear at sunset, often in the winter when the sky is clear and
+   crystalline, and they are like little prisms, and they sit about ten
+   degrees north and south of the setting sun, and they are just
+   beautiful little diamonds of light, and often-times there's a circle
+   of light -- one line, that connects them.  So they are a really
+   beautiful natural phenomenon, and I love the name too.  'Sun-dogs'
+   just has a great sound to it.  And in that same weather forecast, the
+   weatherman announced a meteor shower that night, and so my daughter
+   and I went out on the lake in the middle of the night and watched this
+   meteor shower.  So the whole idea of the song was response and how
+   people respond to things, and it's a thing I've found a lot in
+   travelling around the world, too.  It's not enough just to travel and
+   see things.  You have to respond to them -- you have to feel them, and
+   a lot of the thrust of that song is how things are transferred, like
+   chain lightning or enthusiasm or energy or love are things that are
+   contagious, and if someone feels them, they are easily transferrable
+   to another person, or in the case of watching a meteor shower, it's
+   made more special if there is someone else there.  'Reflected in
+   another pair of eyes' is the idea that it's a wonderful thing already,
+   just you and the meteor shower, but if there's someone else there
+   with you to share it, then it multiplies, you know, it becomes
+   exponentially a bigger experience, so response is a theme that recurs
+   in several of the songs and was one of my probably dominant sub-themes
+   in the writing." -- Neil Peart, on the _Rush - Profiled!_ CD
+
+What is "The Pass" about?
+
+   "There was a lot I wanted to address in that song, and it's
+   probably one of the hardest ones I've ever written.  I spent
+   a lot of time on it, refining it, and even more doing research.
+   There was one song previously, called 'Manhattan
+   Project' where I wanted to write about the birth of the nuclear
+   age.  Well, easier said than done, especially when
+   [writing] lyrics, you've got a couple of hundred words to say
+   what you want to say.  So each word counts, and each word had
+   better be accurate, and so I found in the case of the
+   Manhattan Project, I was having to go back and read histories
+   of the time, histories of the place, biographies of all the
+   people involved, and that's not without it's own rewards, but
+   it's a lot of work to go to to write a song - having to read
+   a dozen books and collate all your knowledge and experience
+   just so you can write, you know, if it says the scientists
+   were in the desert sands, well, make sure they were and why,
+   and all that.  So with this song it was the same.  I felt
+   concerned about it, but, at the same time, I didn't want the
+   classic thing of 'Oh, life's not so bad, you know, it's worth
+   living' and all that.  I didn't want one of those pat, kind
+   of cliched, patronizing statements, so I really worked hard
+   to find out true stories, and among the people that I write
+   to are people who are going to universities, to MIT, and collecting
+   stories from them about people they had known and
+   what they felt, and why the people had taken this desperate
+   step and all of that and trying really hard to understand
+   something that, fundamentally, to me is totally ununderstandable.
+   I just can't relate to it at all, but I wanted to
+   write about it.  And the facet that I most wanted to write
+   about was to de-mythologize it - the same as with 'Manhattan
+   Project' - it de-mythologized the nuclear age, and it's the
+   same thing with this facet - of taking the nobility out of it
+   and saying that yes, it's sad, it's a horrible, tragic thing
+   if someone takes their own life, but let's not pretend it's a
+   hero's end.  It's not a triumph.  It's not a heroic epic.
+   It's a tragedy, and it's a personal tragedy for them, but
+   much more so for the people left behind, and I really started
+   to get offended by the samurai kind of values that were attached
+   to it, like here's a warrior that felt it was better
+   to die with honor, and all of that kind of offended me.  I
+   can understand someone making the choice; it's their choice
+   to make.  I can't relate to it, and I could never imagine it,
+   for myself, but still I thought it's a really important thing
+   to try to get down."  -- Neil Peart, on the _Rush - Profiled!_ CD
+
+What is "Scars" about?
+
+   "I think it's part of everyone's experience that a certain
+   record reflects a certain period of their life, and that's a
+   pleasurable scar, you know, there's a mark left on you, a
+   psychological fingerprint left by a very positive experience.
+   And music is an easy one, but it translates to so many other
+   parts of life where it's a given that, for instance, the
+   sense of smell is one of the strongest forces in your memory,
+   where a given smell will suddenly conjure up a whole time of
+   your life, and again, it triggers another scar, it triggers
+   another psychological imprint that was left by a pleasurable
+   thing.  So it was just, again, the metaphor of scars and
+   using it to say that, as the song does, that these are positive
+   and negative aspects of life that have both left their
+   mark.  Trying to make it universal, it's not autobiographical,
+   and I took a whole autobiographical story of my own and
+   made it one line, basically, but there are other things in
+   there, parts of life that I've responded to in a sense of
+   joy, and in a sense of compassion, and there's the exaltation
+   of walking down a city street and feeling like you're above
+   the pavement, and Christmas in New York is the perfect time
+   to feel that, really, where you just get charged up by the
+   whole energy and the positive feelings of it all."
+     -- Neil Peart, on the _Rush -- Profiled!_ CD
+
+What is the song, "Anagram (for Mongo)" about?
+
+   "It doesn't really say one thing; it says a bunch of little things, and
+   I think that's OK as long as it sounds good.  You know, as long as it
+   rolls off the tongue kind of thing?  So I think different songs are
+   different exercises, to a degree, and I think that if they feel like
+   exercises, then there's something wrong with the song.  But if they
+   can slip by in a kind of cohesive and fluid way, or if the effect is
+   to be disjoint, and sometimes that's what you're after.  Sometimes you
+   want it to be jarring and disjointed and nonsensical.  I think it
+   depends on what you're trying to do, and whether you've achieved it in
+   your mind, and whether it actually worked, and 'Anagram,' I think,
+   did work, even though it's a game - the whole song is a game.  The
+   choruses are quite smooth and quite interesting, and they have a nice
+   sound to them and they kind of mock the whole song itself, so I think
+   it was effective there."  -- Geddy Lee, on the _Rush - Profiled!_ CD
+
+Has anybody noticed that  Anagram (for Mongo) contains lots of anagrams?
+
+   Yes.  {I resisted putting this into the faq for a long time, since
+          this seems to be about as shocking as pointing out that
+          "The Big Money" is about, of all things, money, or that
+          "Countdown" is about a launch.  But it shows up in TNMS
+          every once in a while.  Dan}
+
+What does (for Mongo) after "Anagram" on the "Presto" album mean?
+
+   It's a joke from the movie _Blazing Saddles_, referring to the
+   "Candygram for Mongo" scene, according to Geddy on Rockline 12/4/89.
+
+What is "Red Tide" about?
+
+   "It's a bit of a selfish concern, really.  I really love
+   wildlife, and I spend a lot of my time in the outdoors when
+   I'm not working, so that's important to me.  One of my main
+   hobbies is cycling, so air quality kind of becomes of critical
+   importance.  So it is a selfish thing, and it's something
+   I've written about before, on the previous album - the song,
+   'Second Nature'.  So, again, you want to say things in a way
+   that is not only not preachy, but also not boring.  So finding
+   the images like 'Second Nature' - I was really fond of
+   that analogy of saying 'we want our homes to be a second
+   nature', you know.  That was, again, taking a common phrase
+   and being able to twist it to say what you want it to say.
+   So, with 'Red Tide'  it was a little more adamant, because I
+   think the time is a little more critical, and I had to be
+   firmer about it, but still there are ways of getting at it,
+   and to me there are jokes in there, too, that probably no one
+   in the world will ever get, but in the first verse, when I'm
+   talking about 'Nature's new plague' and then 'Lovers pausing
+   at the bedroom door to find an open store' and all that, to
+   me that was obviously referring to AIDS, but it was the irony
+   of modern life, you know, where spontaneous love still certainly
+   does occur, but here are two lovers who have just met
+   in the middle of the night, and they have to go find a store
+   before they can consummate their new relationship, you know,
+   and to me, when I put those things down, I have a smile, but
+   I know that it's one that will never be shared."
+     - Neil Peart, on the _Rush-Profiled!_ CD
+
+Who does the RTB spoken section?
+
+   Geddy Lee, according to Neil on the Dec 2 1991 "Rockline".
+
+Who is the boy in the RTB video and on the RTB cover?
+
+   According to "The New Music Magazine" 11/11/91, his name is
+   Michael Vander Veldt.
+
+Is there a "Gangster of Boats" trilogy?
+
+   No songs other than "Where's My Thing?" are labelled as being part of
+   this trilogy.
+
+But why is "Where's My Thing" labelled as Part IV of the trilogy?
+
+   As far as I know, it's a joke.  No other songs are listed as being
+   part of this "trilogy", and I haven't heard anything about any
+   plans for future additions to the trilogy.  Maybe there will be
+   more sections.  I don't know.
+
+Is there a reason for the arrangement of the numbers on the dice on the RTB
+cover?
+
+   I doubt it.  And if there is a reason, I doubt that it will be
+   made public.  (Much like the significance of the HYF cover)
+   Please don't send me mail saying that "it just has to mean something."
+   Lots of people have theories about that.  But I haven't heard any
+   "official" word on the subject yet.  If you have a theory about
+   this and have to share it, post it to TNMS or alt.music.rush and
+   see if anybody is interested in discussing it.  Don't send me mail.
+   I won't add it to the faq without support from a band member.
+
+Has anybody noticed that the "Gangster of Boats" is mentioned in the HYF
+liner notes?
+
+   Yes.
+
+Who is the "Gangster of Boats?"
+
+   degennar@bmsrs.usc.edu sent me this:
+   According to Neil on the Dec 2 1991 Rockline, it's a running joke.
+   Geddy and Alex keep saying to Neil, "If you don't come up with a name
+   for the album soon, we're going to call it Gangster of Boats."
+   It's also, supposedly, the nick-name given to the Mac they use.
+
+What does the pattern of skulls and bones at the bottom of the inside
+front cover of the RTB tourbook mean?  Is there a pattern to it?
+
+   It's Morse code for "Remember Death".
+
+
+ ##############################################################################
+
+        Please send me your suggestions for additions or corrections.
+         But please read the beginning of this faq file for advice
+        on whether or not your suggestion is appropriate for the faq
+        before sending me mail.  You might be better off posting your
+      idea to The National Midnight Star or alt.music.rush for feedback.
+
+"I sing the Body Electric; The armies of those I love engirth me, and I
+engirth them; They will not let me off till I go with them, respond to
+them, and discorrupt them, and charge them full with the charge of the Soul."
+ -- Walt Whitman                     dan@rat.csc.calpoly.edu (Dan Delany)
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1992.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+********************************************
+End of The National Midnight Star Number 539
+********************************************
+
+
+

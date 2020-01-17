@@ -1,0 +1,526 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 07/25/91 - The National Midnight Star #298
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 298
+
+                  Thursday, 25 July 1991
+Today's Topics:
+                    Geddy going Blind?
+                      catching up...
+                   It's good to be back
+                   Response-o-matic...
+             RUSH party in Batimore/Maryland
+                     origins of 2112
+                  First Single from RTB
+                       mail warning
+                     Chord Inversions
+                         various
+                      New song list
+       Re: Printing on Presto CD is upside down...
+                Presto CD / Columbia House
+----------------------------------------------------------
+
+From: Editor, The National Midnight Star &lt;rush-mgr@syrinx.umd.edu&gt;
+Subject: Administrivia
+
+Due to the fact that I hosed my main mailer on Syrinx (mh), I haven't
+been keeping up with administrative mail for the past couple of days.
+I'm slogging through with Berkeley mail, but it's slower.  If you posted
+something to the admin. address in the last two-three days, have patience,
+I'll get to you eventually!
+
+rush-mgr
+
+----------------------------------------------------------
+
+Date: Wed, 24 Jul 91 17:32:59 -0700
+From: mikes@ucscb.UCSC.EDU (60392000)
+Subject: Geddy going Blind?
+
+	I heard a 'Rumor?' the other day.......Geddy is going blind, because
+of the stage lights.......thus the song Available Light.
+	Can anyone verify or discredit this??   Just a conserned thought.
+			Mike
+	".....making the shadows darker or the colours shine too bright."
+
+----------------------------------------------------------
+
+Subject: catching up...
+Date: Wed, 24 Jul 91 18:51:08 -0700
+From: Michael J. Konopik &lt;zzz@erg.sri.com&gt;
+
+After two weeks of racing for connecting flights (and missing some!), I got
+to catch up on the recent threads in NMS.  Here's some thots...
+
+Why play Van Halen for Bastille Day:
+  Maybe that the core members came from Canada is too simple an answer?
+  (Didn't Eddie and Alex grow up in the GWN?)
+
+Ripping off other groups:
+  If similarities imply ripoffs, then how about the opening chords for
+  "War Paint"?  They sound just like those for U2's "Pride" to me...
+  (I'm not saying there's a ripoff, just that with all the melodies
+  being written, SOME of them have to sound similar - it's all a matter
+  of combinatorics!)
+
+Living in the past:
+  Seems to me that "Time Stand Still" is about holding time still so that
+  more living in the *present* can be done.  Remembering the past is much
+  different than living in it, and the other songs mentioned just talk about
+  remembering past times, friends, or events.
+
+Robots and ASCII codes:
+  Umm, my little ASCII cheat-sheet has 1001001 as "I".  "$" is 0100100...
+  I don't mean to be nit-pickey, just want to avoid having a fellow fan
+  look really stupid by saying, "Hey, that part refers to a dollar sign!"
+  in the company of somebody who likes to give Rush fans a hard time...
+
+Musings on Mission lyrics:
+  "If their lives were exotic and strange ...." - don't these lines refer
+  to people who lead ordinary lives wishing they were famous or had done
+  something extraordinary that would make their lives exciting?  It's almost
+  like Neil's saying that we should be thankful for our ordinary lives,
+  because if they weren't that way we would wish they were.  Just my $.02,
+  in case anybody else found that thread interesting.
+
+It's great to see the NMS volume turn up as the release date nears, eh?
+Thanks to the rush-mgr for continuing the list in spite of other demands!
+
+Trying to keep as busy as possible, to make 9/3 come around more quickly...
+
+				    -Mike
+
+----------------------------------------------------------
+
+Date: Wed, 24 Jul 91 22:03:49 -0700
+From: "Daniel L. McDonald" &lt;danmcd@cs.arizona.edu&gt;
+Subject: It's good to be back
+
+Hey, hey!  Lock me up at IBM for a few months, and look what happens:
+
+   -A new album, "Roll the Bones", due out 9-3
+
+	This is cool that a new Rush album coincides with the beginning
+	of a new school.  When "Hold Your Fire" came out, I was a frosh
+	at U. of Michigan (yes, I used to be danmcd@eecs.umich.edu).
+	Now as a first year grad. student, I get "Roll The Bones".  Not
+	extremely profound or anything, but a rather interesting coincidence.
+
+   -A new "series" called "The Gangster of Boats"
+
+	Hey, I'm game!  One thing though, someone pointed out a possible
+	reference in "Hold Your Fire".  What is it, and is this for real, or
+	another clutch at straws, like the "1001001" actually intended to be
+	the ASCII "$".  Personally, I think he picked "1001001" because it fit!
+
+	For you lyrical interpreters out there, I remember reading in some Neil
+	Peart interview that he'll write lyrics that flow rhythmically.
+	I believe that a lot of our interpretations (my own too) are probably
+	way off the mark.  Look at my signature file, for instance.  "What does
+	that mean?" ask my co-workers.  I usually respond with "It makes more
+	sense if you hear the whole song.  But the words themselves sound cool,
+	just the way they roll."  Someone mentioned that "I don't claim that
+	Neil wrote it to mean that, but that's what I get out of it."  This is
+	a good attitude to take, IMHO.  Now I know why certain power trio
+	lyricists might advise us to get a....  Well, I certainly won't spoil
+	it, right rush-mgr?!?  (p.s. This wasn't meant to flame anyone!  I
+	RESPECT INDIVIDUAL OPINIONS.)
+
+   -A rap section in the new album?!?
+
+	My first reaction was pure shock.  But then I thought, not all rap is
+	the Top-40 drivel that MTV shows in prime time.  Hell, even some of
+	of that Top-40 drivel isn't THAT bad (not taken seriously, of course).
+	Have any of you heard Faith No More's first song (the name of which
+	escapes me)?  Some people would call certain parts of that rap.  But
+	there are no rap cliche's, and it rocks extremely hard.  Listen to
+	"Dangerous" on the new Yes album.  There are parts in it that sound
+	very hip-hop, but it's played WELL.
+
+   -A "gambling" theme for this album?
+
+	This might go along with the lyric section, but I actually agree with
+	this idea.  In the Hold Your Fire tourbook, Neil Peart mentions about
+	writing around a central theme.  Hey, I won't indulge, but it makes an
+	interesting concept.
+
+Enough catching up.  I won't be reading this daily until school actually starts
+in a month (I'm still at IBM, actually).  It's good to be reading TNMS again.
+Catch ya' later!
+
++-----------------------+-----------------------------------------------------+
+| Dan McDonald          |          Internet: danmcd@cs.arizona.edu            |
+| University of Arizona |-----------------------------------------------------|
+| Computer Science      | "rising falling at force ten			      |
+| 1st year Grad. Student|  we twist the world and ride the wind" - Rush       |
++-----------------------+-----------------------------------------------------+
+
+----------------------------------------------------------
+
+Date: Thu, 25 Jul 91 01:39 MST
+From: "Pat E. Perez" &lt;PATEP@ccit.arizona.edu&gt;
+Subject: Response-o-matic...
+
+Hello once again! I've been jotting down little responses to the Star
+for about a week & I think it's about time they were heard/seen/
+whatever....
+
+1. I found another Roll the Bones quote - from Jack Kerouac's _On The
+Road_  &lt;p. 162 Signet edition - near the bottom of the page&gt;:
+&lt;Dean & Sal are in a bar listening to some wild jazz&gt;
+"They were all urging that tenorman to hold it and keep it with cries
+and wild eyes, and he was raising himself from a crouch and going down
+again with his horn, looping it up in a clear cry above the furor. A
+six-foot skinny Negro woman was rolling her bones at the man's
+hornbell, and he just jabbed it at her, "Ee! ee! ee!" "
+
+Heh, I was really excited about finding that one - almost made for
+another instance of You Know You're a...  Speaking of which - I know
+exactly how the Mountain DEW drinker feels - that happens to me all
+the time!!  :-)
+
+2. All of you other Tucsonans *should* go see the Rush laser show at
+the Flandrau - it's really great - even though you have to sit through
+the Yes stuff. I think I'm gonna go again soon & start lobbying for a
+Rush-Only show...
+
+3. I noticed that the one of the last interviews with Geddy was taken
+while they were in Tucson for the PoW tour - wasn't this the infamous
+show where some scuzball threw a rock on stage hitting the Gedster on
+the head? I've only heard vague rumors of this & was never sure which
+tour it was...needless to say, Rush never stop here anymore on their
+tours.
+
+4. I saw that Buddy Rich video w/ Neil on it in a music store recently
+but I couldn't buy it at the time to check it out. So, it's out there
+already....
+
+5. Dave Weiss noted (right? I dunno, I feel weird saying 'Dangerous
+Dave noted...'  ;-&gt; ) a few issues back that:
+
+&gt;Jacob's Ladder...uses alternating 5/4 | 6/4 measures in the beginning.
+&gt;one of the things that alternating time-signatures does is it helps
+&gt;to add a feel of motion to the music even if the tempo isn't all
+&gt;that fast to begin with.  the anticipation of that "extra" beat
+&gt;makes the music exciting.
+
+Not only does this (writing in the alternating time sigs. instead of,
+say, 11/4) aid musicians who are trying to read the music, but it's
+the way most people will 'group' this strange beat section. I tested
+10 people who had never heard this song on it to see if they could
+find a time signature that could handle the 5/4 | 6/4 pattern and only
+1 one saw/heard that 4/4 can describe it adequately (9 out of 10
+non-Rush-fans agree...). Interestingly, when the singing starts ('The
+clouds prepare for battle...'), these people instantly perceived 4/4
+time & totally ignored the continuing odd beat in the background - the
+one that originally created the 'anticipation of that "extra" beat.'
+Actually, most of the people thought I was trying to mess with their
+mind by adding that extra beat - heh.  ;-)
+
+6. I'm gonna finally make a pilgrimage to Toronto in a few weeks
+&lt;looks like I'll be missing the party by a few days though :-( &gt;  -
+could anybody direct me to any previous issues that give interesting
+Toronto points of Rush-interest (besides the obvious Danforth & Pape
+intersection) or something? I'd greatly appreciate it!! &lt;reply to me
+so as not to clutter the List too badly!&gt;
+
+That's all!!
+
+++================================++========================================++
+||Patricia E. Perez               ||"I was lost when I went down to the     ||
+|| &lt;U of Az Linguistics Circle/   ||       ocean" - Reivers                 ||
+||       Coyote Papers&gt;           ||"The coast is out of order" - Horseflies||
+||Internet: patep@ccit.arizona.edu||"Now it's time to turn the tide" - Rush ||
+||BITNET:   patep@arizrvax        ||      &lt;Let's Go Lastros! - Tep&gt;         ||
+++================================++========================================++
+
+----------------------------------------------------------
+
+Date: Thu, 25 Jul 91 09:13 EDT
+From: DEGE@jhuvms.hcf.jhu.edu
+Subject: RUSH party in Batimore/Maryland
+
+Hello out there.  All this talk of RUSH parties makes me anxious for school to
+start,  well at least the party part.  I'm tired of work, how about a RUSH
+party in the Baltimore or MAryland area.  I'm not sure of a place, maybe my
+house, but my housemates might have objections.  Anyway, if there is enough
+interest I'd be glad to work out details.  Just e-mail me at
+dege@jhuvms.jhu.edu.  Well back to work :(  SEEYA!!
+
+							Rio
+
+[ I'll be there!                                                  :rush-mgr ]
+
+
+OBLZQ:"It's been a long time since I did that goove..." -Rock&Roll, untitled
+								album
+
+----------------------------------------------------------
+
+Date: Thu, 25 Jul 91 09:17:21 EST
+From: joezete@wpi.WPI.EDU (Peter John Chestna)
+Subject: origins of 2112
+
+did you know if you take the known age of the universe, add Geddy
+Alex and Neil's birthday in years, divide by the eye color of
+their wives, eat three bananas, sing Tom Sawyer and multiply by
+a fudge factor of 3.45X10-23 the answer is ...
+EXACTLY 2112.  Coincidence?  I think not.
+
+Come on lets not reach beyond our noses.  Sorry I just had to post
+this because it always makes me laugh to see how far pepole go
+to find a meaning in everything RUSH has ever done.
+
+NOTE: for those who have no idea what I'm speaking of, see yesterdays
+NMS.
+
+Pete
+
+----------------------------------------------------------
+
+Date: Thu, 25 Jul 91 09:56:34 EST
+From: joezete@wpi.WPI.EDU (Peter John Chestna)
+Subject: First Single from RTB
+
+Just talked to the record company and the good word is that the
+first single will be released on 14 Aug and the title "Dreamline"
+
+I wonder what 700+ people will be doing Tuesday Aug 13?????
+
+2 WEEKS FIVE DAYS AND COUNTING.
+
+PETE
+
+----------------------------------------------------------
+
+Date: Thu, 25 Jul 91 10:28:00 EST
+Subject: Chord Inversions
+From: DSchmidt.311@postman.gsfc.nasa.gov!the
+
+    The March 1990 Guitar world article had some interesting stuff in
+    it.  For instance, Alex said that he likes to overdub two different
+    types of guitars on some songs; and he often plays different
+    inversions of the chords on each guitar.  He mentioned "The Pass" as
+    an example.  He get's an amazing sound on most songs, and this is
+    probably why!  I would like to learn more about his techniques!
+
+....
+
+    "Roll the Bones" has a rap section???  Could be interesting!  But I
+    have a feeling some people are gonna hate it!
+
+----------------------------------------------------------
+
+Date: Thu, 25 Jul 91 10:47:03 EDT
+From: faulkner@acsu.buffalo.edu (shane p faulkner)
+Subject: various
+
+Someone mentionned going to a record store and enquiring after RTB and getting
+no response.  DONT WORRY.. It's coming out SEP 3..  it's practically written
+in stone.
+
+There are 10 songs on RTB, not 11 (trust me :-)
+
+Neil Peart/Buddy Rich thing:  There is indeed a video coming out very soon
+(may already be out).  Only drawback.. it has a $75+ price tag (ouch.)
+
+I would hazard a guess that the THEME of RTB is fate, chance, and taking
+risks, but this is just wild blind hypothesizing.
+
+///////////////////////// The Gangster of Boats /////////////////////////
+/////////////////////////////////////////////////////////////////////////
+/ Shane P. Faulkner         |   A to B - Different degrees...           /
+/ University At Buffalo     |                          - Rush           /
+/ V127L2QZ@UBVMS.BITNET     |                                           /
+/ faulkner@acsu.buffalo.edu |   Rush - Marillion - Kim Mitchell         /
+/////////////////////////////////////////////////////////////////////////
+
+----------------------------------------------------------
+
+Date: Thu, 25 Jul 91 10:23:15 EDT
+From: david@shadow.ait.com (David Kuznick)
+Subject: New song list
+
+stum@basser.cs.su.oz.au writes:
+&gt;	I was just wondering how excited people are getting about the
+&gt; new album!! Seeing the list of songs gave me a heart-beat for a
+&gt; minute!!
+
+What does your heart normally do the other 59 minutes an hour? :-)
+
+Seriously, I think those are some realy cool sounding titles.  Going
+by just them, it sounds like we are in store for a good album (pretty
+silly way to judge album quality ;-) )
+
+David Kuznick
+david@ait.com
+ORQ: We each pay a fabulous price, for the visions of paradise.
+
+----------------------------------------------------------
+
+From: MICHAEL HACKETT &lt;hackett@gaul.csd.uwo.ca&gt;
+Date: Thu, 25 Jul 91 14:22:41 -0400
+Subject: Re: Printing on Presto CD is upside down...
+
+&gt;         The side printing on my Presto CD is upside down which means I have
+&gt; to turn the disc completely around in my display case so the writing matches
+&gt; all my other discs.  Surely I'm not the only one, but has Atlantic fixed
+&gt; this yet?
+&gt;
+&gt;    Terry Stedman    Internet: stedmant@lonex.radc.af.mil
+
+    I just popped up the tray and then detached the spine part of the back
+cover (it's perforated), flipped it around and _carefully_ placed the tray
+back in.  So far it's holding up fine.  Easy enough solution, but let's hope
+Atlantic gets it right this time.
+
+Mike Hackett
+hackett@gaul.csd.uwo.ca
+
+----------------------------------------------------------
+
+Date: Thu, 25 Jul 91 16:06 EST
+From: HE WHO IS &lt;JCRABTREE@DESIRE.WRIGHT.EDU&gt;
+Subject: Presto CD / Columbia House
+
+Howdy! (Whoops, wrong opera house)
+
+stedmant@LONEX.RADC.AF.MIL (Terrance A. Stedman) writes:
+
+&gt;Subject: Printing on Presto CD is upside down...
+&gt;
+&gt;        The side printing on my Presto CD is upside down which means I have
+&gt;to turn the disc completely around in my display case so the writing matches
+&gt;all my other discs.  Surely I'm not the only one, but has Atlantic fixed
+&gt;this yet?
+
+I have the same problem, although I only have five CD's of which 4 are RUSH.
+It may be just the way Atlantic does their printing.
+
+ano@csres.cs.reading.ac.uk (Adrian N Ogden) writes:
+
+&gt;Subject: New Album: Kerrang gives us the full scam!
+&gt;
+&gt;      ------------begin quoted text---------------
+&gt;
+&gt;"Dreamline", "Bravado", "Roll The Bones" (which is the first Rush
+&gt;track ever to feature a rap section!), "Face Up", "Where's My Thing?"
+			 ^^^
+This should be extremely interesting if true!
+
+&gt;(an instrumental), "Big Wheel", "Heresy", "Ghost Of A Chance",
+&gt;"Neurotica", "You Bet Your Life".
+
+&gt;      -------------end quoted text----------------
+&gt;
+&gt;A Rush song featuring A RAP SECTION???!!! What is this, The Revenge
+&gt;Of The Sampled Tom Sawyer? :-) Whatever, it sounds very interesting:
+&gt;I'm starting to expect big things of this album.
+
+I'm hoping for the best.
+
+&gt;&lt;&lt; Adrian Ogden   _ . _ _   _ . _ _   _ _ . .   ano@uk.ac.rdg.cs.csres &gt;&gt;
+&gt;
+
+"Reidar Bjorhovde" &lt;bjorh1@unix.cis.pitt.edu&gt; asks:
+
+&gt;	Also, does anyone out there know what Rush CD's COLUMBIA HOUSE's
+&gt;club has to offer?
+
+Unfortunately, Columbia House only has Presto which it labeled as RUSH's
+club debut.  I don't have too high an opinion of Columbia House, but they
+are prompt in delivering orders.  (I still haven't gotten my CD's from BMG,
+and it's been a couple of weeks now!)
+
+&gt;
+&gt;	I know that BMG has 2112, Presto, ASOH, and Chron.
+&gt;
+&gt;	Thanks-
+
+Hey, I'm happy I can actually answer a question in this crowd!  :-)
+
+&gt;
+&gt;	Ian D. Bjorhovde
+&gt;	bjorh1@unix.cis.pitt.edu
+
+Well, I guess I could bow to the pressure and toss in my $2E-02 on 'jewel
+boxes'.  As I mentioned above, I only have 5 CD's and the first one I bought
+was broken (I have not bothered to replace it as I don't listen to it often).
+I kind of like their convenience.  THey can be stored and transported
+relatively easily.  I have little problem reading the printing even though I'm
+legally blind(Hey, four-eyes, nice triple-coke-bottle glasses!).  I don't see
+too much of aproblem with them, but then I am relatively new to CD's and I
+have not experienced other p[ackaging techniques yet, so....
+	Now that I've added my meaningless comments to a potentially
+meaningless topic, I'll say good day (night, whatever) and sign off.  Talk to
+you later.
+
+Jason D. Crabtree		| "I can't believe you're saying
+Wright State University  	|  These things just can't be true"
+jcrabtree@desire.wright.edu	|		-RUSH
+
+	"Buck D'arma is God"   - Anonymous (a friend of mine)
+
+[ I thought it was Buck Dharma?  (I was a BOC fan back before _Agents of 
+  Fortune_ ...                                                  :rush-mgr ]
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 298
+********************************************
+
+

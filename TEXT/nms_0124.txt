@@ -1,0 +1,454 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 12/10/90 - The National Midnight Star #124
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 124
+
+                 Monday, 10 December 1990
+Today's Topics:
+                     T.O music Awards
+                          (none)
+                     Rush Tablatures
+                    Rush on Flow Rack
+      The NMS content woes continue... film at 11...
+      ... the pictures that give pleasure to your I
+                       Samples:Neil
+                      server update
+           "In the End" Transcription problems
+                        My e-mail
+                         WEINRIB
+Re: 12/07/90 - The National Midnight Star #123 ** Special Edition **
+             Re: Rolling Stone Album Reviews
+----------------------------------------------------------
+
+Unnecessery administrative note:   I'm glad to see discussion instead
+of flames WRT the discussion of contents of postings here.  I fully 
+encourage the posting of thoughts & opinions; I only ask that you do 
+it in a constructive tone.
+
+Also, on a non-related subject, please refrain from starting any line 
+with "From" as the first non-blank characters on the line.  I thought
+it only affected lines which had "From" in column one, but the first 
+post here tday highlighted the bug very nicely.  I was able to fix it,
+but keep it in mind, please.  (No, this isn't a flame at you, Kerry!)
+
+rush-mgr
+
+----------------------------------------------------------
+
+From: yackob@eeserv.ee.umanitoba.ca
+Date:  7 Dec 90 10:35 -0600
+Subject: T.O music Awards
+
+        From this morning's Winnipeg Free Press, the Toronto Music Awards
+(held Wednesday night?) gave best group award to Rush.  I forget if this was
+for the year or for the decade.  Geddy Lee won best bassist, Neil Peart
+won best drummer.  Best female vocalist was Lee Aaron (grew up in the
+Winnipeg suburb of Transcona, also home of far too many lawn flamingoes and
+a place near and dear to my heart!) and male vocalist was Sebastien Bach
+from Skid Row.  There was no mention of whether anyone from Rush attended the
+ceremonies.
+        just keeping you informed (creating a buzz buzz buzz), Kerry.
+
+--
+Kerry Yackoboski 	&lt;yackob@eeserv.ee.umanitoba.ca&gt;
+The Scanning Tunneling Microscopy Laboratory in the Cellar
+U of Manitoba, Winnipeg, Canada
+
+----------------------------------------------------------
+
+From: rlr%bbt@rti.rti.org (rader)
+Subject: Rush Tablatures
+Date: Fri, 7 Dec 90 10:00:56 EST
+
+&gt; Third, I mentioned awhile back that I am interested in trading licks
+&gt; from Rush songs, and possibly even maintaining an archive of tablature
+&gt; from different songs.  Anyone interested?
+&gt;
+&gt; Jason Bold - Madison,WI= [(rutgers||ames)!uwvax||att!nicmad]!astroatc!bold *
+
+  My appy-polly-loggies (remember A Clockwork Orange?) to the list in advance.
+For some reason, I can't get email through to Jason.  I promise to keep it
+short.
+
+  Count me in, Jason.  I would _love_ to access a nice big collection of
+Rush guitar tabs.  Tell us how it goes, can you get a tablature mail server
+up and running at your site?
+
+--
+ron rader, jr               rlr%bbt@rti.rti.org = Opinions are my own and do not
+| |  i gotta six-    rlr%bbt$rti.rti.org@CUNYVM = necessarily reflect those of
+ | | pack, & nothin' to do ...!mcnc!rti!bbt!rlr = BroadBand Tech. (SO THERE!)
+*** Punk ain't no religious cult, punk means thinking for yourself - DKs ***
+
+----------------------------------------------------------
+
+Date: Fri, 7 Dec 90 12:52 EST
+From: DG8150%ALBNYVMS.BITNET@UACSC2.ALBANY.EDU
+Subject: Rush on Flow Rack
+
+Hello Rush Folk,
+I may have told you this before, but I work for a large CD/TAPE/VIDEO
+distributer called TRANSWORLD MUSIC.  Anyway, they have this thing called
+FLOW RACK.  FLOW RACK is about 60 tiltes that sell a lot of copies every week.
+I am not sure what a lot is, probably around ten, in each store(RECORD TOWN and
+TAPE WORLD).  Well I was messing around on our department's terminal, and
+looked up what RUSH was on FLOW RACK.  Well, I must say I was pleasantly
+surprised.  The list is,
+                        'Presto'
+                        'Moving Pictures'
+                        'Hold Your Fire'
+                        'ASOH'
+                        'Fly By Night'
+                        'Hemispheres'
+                        'AFWTK'
+                        'Perminate Waves'
+Just goes to show you that RUSH is still gaining fans, who are interested in
+their older stuff(WOW 'Moving Pictures' has been out for almost 10 years!) as
+well as the new stuff.
+One More thing before I'm gone.  There is a really cool record store here in
+
+[ What happened to this sentence?  It came in like this...        :rush-mgr ]
+
+Anyway, I am outta here.
+
+                                Later
+                                      Dean
+
+----------------------------------------------------------
+
+From: rlr%bbt@rti.rti.org (rader)
+Subject: The NMS content woes continue... film at 11...
+Date: Fri, 7 Dec 90 13:24:20 EST
+
+  Hi all.  It seems that I've caused more than a bit of consternation and
+confusion amongst the denizens of NMS-land.  I see that my recent post
+about "expecting more from Rush fans" was slightly misunderstood, and I
+hope to clear the confusion and get us back to more important topics. ;)
+Jeez, I didn't think my article was _that_ obtuse! ;)
+
+  When a significant majority of articles in NMS are devoted to what I
+feel are trivia, i.e. bunnies, Neil's organ size ;), Geddy's favorite breakfast
+cereal, etc., and this goes on and on, I'm perfectly happy to read it all
+and instantly forget what I don't care about.  Come on, I _like_ lots of
+trivia!  I've posted my share of trivia-articles as well:  pentacles,
+magick, good/evil, 2112 logo, friends' opinions of Rush.  I'm not coming
+down on any of you for posting the 100th bunny article.
+
+  When overtones of debate surface, I join in wholeheartedly.  After all,
+I assume all Rush fans are quite witty and intelligent ;)!  The rap/
+sampling debate rages on, not only in the NMS or Net, but in the courts and
+homes and studios.  This is an important issue, folks.  New developments
+often meet with resistance when they first come into play, and this affects
+Rush both directly (Rush using sampling in their work), and peripherally
+(rappers sampling Rush tunes).
+
+  So when I see things like:
+
+    "a rap version of Tom Sawyer?  My God, these foul cretins DARE to 
+     transgress the work of our idols?  It's theft, pure and simple!  It
+     certainly can't be music; after all I don't like it!  There oughta' 
+     be a law!" 
+
+I feel compelled to disagree.  Yes, I came out in full support of rap.  And 
+I was immediately castigated in NMS and also email for, among other things,
+abusing NMS with non-Rush-related material.
+
+  My "expecting more from Rush fans" post pointed out that it's downright
+hypocritical for us to mutely accept line after line of nonstop trivia,
+but then come down hard on those who attempt debate.  Yes, we're all a
+friendly audience, and share at least some measure of musical taste.  That's
+why discussion should work better here than in a general newsgroup.  I
+"expect more from Rush fans" because we are Rush fans, and given the abuse
+heaped upon Rush by the unknowledgeable, should understand the pitfalls of
+ignorant flaming.  Rush fans should be able to discuss controversial topics
+without getting weeds up their asses.  I'm starting to wonder, though.
+
+  My real feelings on the NMS content issue?  Post whatever you like, when-
+ever you like, so long as it's Rush-related.  And keep an open mind, after
+all, your feelings are not necessarily natural law!
+
+  Sorry to ramble on like this, but I needed to make myself clear.  Hope
+this helps things out, and thanks for reading this far.
+--
+ron rader, jr               rlr%bbt@rti.rti.org = Opinions are my own and do not
+| |  i gotta six-    rlr%bbt$rti.rti.org@CUNYVM = necessarily reflect those of
+ | | pack, & nothin' to do ...!mcnc!rti!bbt!rlr = BroadBand Tech. (SO THERE!)
+*** Punk ain't no religious cult, punk means thinking for yourself - DKs ***
+
+----------------------------------------------------------
+
+Date:    Fri, 7 Dec 1990 14:14:36 EST
+From: STU_SMMCDANI@VAX1.ACS.JMU.EDU (There can be only one.)
+Subject: ... the pictures that give pleasure to your I
+
+&gt;. . .
+&gt;in finals week here at Northwestern and had to give a Big High-Five to Ron
+&gt;Rader for pointing out the need to stick to non-trivial topics like the
+&gt;listing of equipment presently being used by the Canadian Trio.  Being a
+&gt;musician and electrical engineer myself (as well as true Rush fan) I have a
+&gt;tremendous interest in matters both acoustical and electrical.  Yeah, it's
+&gt;o.k. to hear once in a while about Neil's haircut or some fans throwing beer
+&gt;bottles at Geddy's head (anyone remember that one?) but let's try and stick to
+&gt;the interviews and concert dates and album releases and equipment updates.
+
+That's a pretty narrow list of things to write about.  Equipment updates
+are relevant, I guess, but not being a musician I find them quite boring.
+In fact, I do what you *should* do to all of the bunny and sampling postings:
+skip them.  I'm not interested in nearly all of the posts on this list,
+but obviously somebody else is, so why not let them have their fun?  If
+we try to come up with only topics that all 400+ list members agree are
+fit for posting, we'd have virtually nothing to talk about.  However,
+I would agree that after any topic has been beaten to death, our esteemed
+Rush mgr could ask that it be moved to mail.  Like perhaps this topic.
+
+The artlicle focusing on Hemispheres was quite interesting because that
+happens to be my personal favorite Rush album, and also because Bill
+Bruford is the other drummer that I consider best in the field.  On
+my CD for 2112, all of the different parts are indexed, but none of the
+different parts on "La Villa Strangiato" are.  Where do each of the
+12 parts begin and end?  (I have figured out where the first one begins
+and where the last one ends, tho  :^)  ).
+
+ORQ: a word sounding similar to a fairly low level D&D monster.
+
+                          Scott McD.
+
+"We've taken care of everything, the _words you hear, the songs you sing_..."
+
+----------------------------------------------------------
+
+Date: Fri,  7 Dec 90 15:00:46 -0500 (EST)
+From: "William F. O'Dell" &lt;wo04+@andrew.cmu.edu&gt;
+Subject: Samples:Neil
+
+WAIT!!! Don't go! This has nothing to do with the sample debate. I am
+honestly curious if any of you musicians out there (drummers in
+particular--or even computer types) know how Neil's sampling set up
+works.
+    I know he uses an Akai sampler, but how does it work? For example,
+during the show  he uses his Kat keyboard to play a number of different
+sounds. (Marimba, keyboard etc.) Does he physically switch the sounds,
+or is a computer programmed before hand to switch the sounds. Does he or
+a stagehand change disks during the show? Someone's got to know. Does
+anyone know what type of computer he (they) use to manipulate the
+sampled sounds?
+
+Sorry to be so ignorant, but this computer/music thing is kind of new to me.
+
+Furman
+ORQ: "I can't wait until the new album! '91 tour, here I come" -me
+
+----------------------------------------------------------
+
+Subject: server update
+Date: Fri, 7 Dec 90 17:08:09 CST
+From: Keith E. Ford &lt;infonode!fordke@uunet.UU.NET&gt;
+
+The email archive file server now replies to your request with
+a subject of "RE: &lt;your subject&gt;".  Should make sorting your
+email an (cough) easier task.
+
+Changes to index of server@ingr.com since Thu Nov 29 02:30:14 1990
+
+ BYTES  FILENAME             CHANGE DESCRIPTION
+------- -------------------- -------------------------------------------
+  28123 rush/digest/112      :added Thu Nov 29 02:30:14 1990
+  25468 rush/digest/113      :added Fri Nov 30 02:30:15 1990
+  20947 rush/digest/114      :added Tue Dec  4 02:30:20 1990
+  38514 rush/digest/115      :added Tue Dec  4 02:30:20 1990
+  22375 rush/digest/21       :added Tue Dec  4 02:30:20 1990
+  12300 rush/digest/5        :added Tue Dec  4 02:30:20 1990
+  29046 rush/digest/64       :added Tue Dec  4 02:30:20 1990
+  20947 rush/misc/rstone_ivs :3 Rolling Stone interviews/articles '80-81
+  38077 rush/digest/116      :added Wed Dec  5 02:30:15 1990
+  22059 rush/digest/117      :added Wed Dec  5 02:30:15 1990
+  20275 rush/digest/118      :added Wed Dec  5 02:30:15 1990
+  11852 rush/digest/120      :added Fri Dec  7 14:21:57 1990
+   9849 rush/digest/121      :added Fri Dec  7 14:21:57 1990
+  20404 rush/digest/122      :added Fri Dec  7 14:21:57 1990
+   9849 rush/misc/sounds78   :1978 article from British magazine SOUNDS
+
+----------------------------------------------------------
+
+Date: Fri, 7 Dec 90 17:16:33 -0800
+From: bancroft@iris.eecs.ucdavis.edu (Steven Bancroft)
+Subject: "In the End" Transcription problems
+
+Hello RUSH fans,
+
+This question is directed to all 6-stringers out there.. I'm trying to
+figure out some of the chords for the intro to "In the End" off of Fly by
+Night.  Here is what I have so far:
+
+C -&gt; F/Bb -&gt; ???? -&gt; ????
+
+I can't for the life of me figure out what the ???? chords are.
+
+I tried it in another key (G), and it works out great:
+
+D -&gt; G -&gt; F -&gt; C
+
+but I want to know what the original chords are.
+
+Any help would be appreciated of course..
+
+Steven "I love my 6-string" Bancroft	    There is no safe seat at the feast
+University of California, Davis		    Take your best stab at the beast
+					    The night is turning thin
+Internet  bancroft@iris.eecs.ucdavis.edu    The saint is turning to sin
+BITNET    smbancroft@ucdavis.BITNET
+UUCP      ..!ucdavis!smbancroft				--RUSH
+
+----------------------------------------------------------
+
+Date: Fri, 7 Dec 90 20:31:13 -0500
+From: supriya (Supriya Goyal)
+Subject: My e-mail
+
+Hey RUSHites,
+	I received e-mail the other day from someone who
+claimed to be Neil Peart.  When I tried to respond to the
+e-mail address, it came back to me with the message "Host
+Unknown"ch leads me to believe that the mail was fake.
+Have any of you has a similar experience or can you tell me
+who the Neil impersonator is?  Look forward to hearing from you
+all.
+
+--Supriya Z. Goyal
+
+"Rearrange me until I'm sane."--Floyd
+
+To the fake N.P.  Please send me e-mail as yourself.  I'd
+really like to know who you are.
+
+[ Gee, there seem to be people out there who have learned how to fake
+  mail items (reeeeely tough in Unix :-) ).                   :rush-mgr ]
+
+----------------------------------------------------------
+
+Date:         Sat, 08 Dec 90 21:54:48 EST
+From: mike spiegel &lt;H97SI@CUNYVM.CUNY.EDU&gt;
+Subject:      WEINRIB
+
+I sort of feel responsible for all this confusion with Geddy's real last name,
+since I brought it up to begin with.  I would like to reiterate my source: it
+was one of his high school classmate.  Now from this point alone I can not prov
+anything, but after I knew this piece of information, I saw the name Weinrib on
+'The Big Money' Video/CD(5 1/2inch)version.  What it says directly is:
+                             Producer:
+                            Alan Weinrib
+
+Now I do not know who Alan is, but anyone with this CD can verify that the name
+Weinrib does exist and is now part of TNMS's vocabulary(period).
+
+                                    ...UNTIL LATER...
+                                        Mike
+
+P.S. I hate to bring up pentagrams (I know I am going to regret this), but did
+anyone notice the semi?-star right under the LE of Chronicles?  I am not trying
+to be a sh**-stirrer.
+
+----------------------------------------------------------
+
+Date: Sun,  9 Dec 90 13:33:23 -0500 (EST)
+From: Barry Lowell Brumitt &lt;bb1v+@andrew.cmu.edu&gt;
+Subject: Re: 12/07/90 - The National Midnight Star #123 ** Special Edition **
+
+What does Rolling Stone have against Rush?
+
+I think every interview hacked on Geddy's voice, or on Neil's Lyrics...
+
+Very odd.
+
+Comments?
+
+Barry
+
+ps. Why is R.S. so concerned about "dancibility" ? Rush isn't designed to
+be danced to.... I think R.S. has a warped concept of music...
+
+"The evening plane rises up from the runway,
+ over constellations of light.
+ I look down at the millions of houses,
+ and wonder what you're doing tonight." -We all know where it's from.
+
+----------------------------------------------------------
+
+Date: Mon, 10 Dec 90 09:08:14 PST
+From: lutanist@EBay.Sun.COM (Dennis Richards Montgomery)
+Subject: Re: Rolling Stone Album Reviews
+
+&gt;oppressive. In addition, Alex Lifeson is not a particularly
+&gt;interesting lead guitarist,
+
+That sounds like what I'd expect from Rolling Stone...This brings
+up a subject I've been wanting to explore for some time.  Namely, Alex!
+A fellow Rush fan (but non-musician) asked me what I thought Alex's
+contribution was.  My answer was creativity.  His chord voicings are
+unusual.  He seems to love adding 9th's and using odd inversions.
+He also has this knack for creating chords (check out the haunting
+ending of "Cygnus X-1")...and his solos are totally bizarre with respect
+to phrasing and his use of harmonics.  Give a good listen to his solos
+from "Tom Sawyer", "Chemistry", and "Kid Gloves" to see what I mean.
+Speaking as a guitarist, I find Alex's creativity and ability absolutely
+inspirational!
+
+"Apollo was astonished
+  Dionysus thought me mad..."
+   Dennis
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions & changes), send
+mail to:
+
+    rush-request@syrinx.umd.edu
+
+To obtain previous issues of The National Midnight Star (in it's current
+incarnation), lyrics, individual articles, and more are now available at an
+archive file server accessible via email.  For more info, send email with
+the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+[ NOTE: the address "htodd@gmuvax2.gmu.edu" is no longer available for
+  back issues of the NMS, due to disk space problems at their site.  This
+  address may or may not become active again for this purpose; stay tuned
+  here for details.                                                       ]
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the management.
+
+List Management
+
+*********************************
+End of The National Midnight Star
+*********************************
+
+

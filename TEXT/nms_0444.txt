@@ -1,0 +1,1075 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 03/09/92 - The National Midnight Star #444  ** Special Edition **
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+          The National Midnight Star, Number 444
+
+                   Monday, 9 March 1992
+Today's Topics:
+     Frequently Asked Questions List (FAQL) - Part 1 of 2
+----------------------------------------------------------
+
+Date: Sun, 23 Feb 92 19:30:38 -0800
+From: ddelany@nike.calpoly.edu (Dan Delany)
+Subject: Frequently Asked Questions List (FAQL) - Part 1 of 2
+
+                             The National Midnight Star
+                           Frequently Asked Questions List
+                                 Part 1 of 2
+                      Generated: Sun Feb 23 19:25:09 PST 1992
+
+
+   This file contains questions that seem to crop up frequently in the Rush
+Fans Digest.  It will be posted on or around the first of each month, or
+whenever too many of these questions start to pop up in the Digest.  If
+you received a copy of this file in email, other than as a part of a
+Digest, it is probably because you asked one of these questions.
+
+   This file has been expanded into 2 files because some mailers have
+problems with files that are longer than 60K.  Part 1 contains general
+questions about the band.  Part 2 contains questions inspired by
+specific albums and songs.
+
+   If you want a copy of the current version of this file, email me and
+I'll send you the most recent version.
+
+(Polyslo/Blackbird/Zeus users: look in ~ddelany/Info/faql.1
+and ~ddelany/Info/faql.2 - they are both world readable, although
+the version on Zeus is more likely to be current.)
+
+   If you have any suggestions for additions to the list or corrections,
+please send them to me at ddelany@eros.calpoly.edu and I'll add them in.
+I'd appreciate it if people who submit questions submit anything they know
+about possible answers, since I don't have all of the answers myself!
+
+THE FAQL IS A FILE OF FREQUENTLY ASKED QUESTIONS ABOUT RUSH AND THEIR
+ANSWERS.  IT IS NOT AN "OBSCURE RUSH TRIVIA" FILE.
+Please consider this before sending me a suggestion for an addition.
+
+DISCLAIMER: The information in this file is accurate to the best of my
+knowledge, but I'm not perfect.  If you have an answer to one of these
+questions that doesn't match the one given here that you can verify, let me
+know, and I'll put it in.  But if you make a bet based on this
+information and you lose, don't blame me.
+
+Here's the question I get asked most often, so I'll put it right here
+at the start:
+
+One of my friends gave me this file.  How can I subscribe to The National
+Midnight Star?
+
+  Send email to rush-request@syrinx.umd.edu asking to have your name added
+  to the list.  Don't send email to me - I can't add you!
+
+*********** The following questions are contained in this file: **************
+
+What albums has the band released?
+
+What are the catalog numbers for LP/Cassette?
+
+When was &lt;album&gt; released?
+
+Are any videotapes of the band available?
+
+Are these tapes available on laserdisc?
+
+What songs has the band made videos for?
+
+How many copies did &lt;album&gt; sell?
+
+Can anyone list everything else that the members of Rush have ever appeared on?
+
+What was the first single released by the band?
+
+I just bought the CD of &lt;Exit...Stage Left | All The World's A Stage&gt; and
+it's missing a track! Is a complete version of this CD available?
+
+Has &lt;song&gt; ever been performed live?
+
+What is Battlescar/Max Webster, who plays on it, what is the label/catalogue
+number for the Universal Juveniles CD? Where can I write to get it?
+
+Have any books been written about the band?
+
+I heard something about a Rush comic book. What comic book was it?
+
+Somebody posted &lt;item&gt; in the Digest. I missed it - could somebody
+please send me a copy? Does anybody have the lyrics to &lt;song&gt;?
+
+What issue of the Digest is &lt;item&gt; in?
+
+I've been seeing &lt;acronym&gt; used in the Digest. What does it mean?
+
+I've heard about the "Rush Backstage Club." What is it, and how do I join?
+
+What about "The Spirit of Rush"?
+
+What is the marital status of the band members?
+
+I've heard &lt;rumor&gt; about &lt;band member&gt;. Does anybody know anything about
+the truth of it?
+
+What are the birthdays of the band members?
+
+What are the real names of the band members?
+
+How is "Peart" pronounced?
+
+I heard that Neil Peart has a PhD in &lt;field of study&gt;. Is this true?
+
+Does anybody have an address I can use to write to the band?
+
+Who says &lt;phrase&gt; in &lt;song&gt;?
+
+What is a Lerxt?
+
+Do the other band members have nicknames?
+
+Where did the name "Rush" come from?
+
+Whatever happened to John Rutsey?
+
+=========== Questions and answers follow: ==========
+
+What albums has the band released?
+
+   A more complete version of this discography is available for FTP at
+   vacs.uwp.wisc.edu.  (131.210.1.1)
+   {according to datta@vacs.uwp.wisc.edu, at least.  I haven't looked.}
+
+   These catalog numbers are the ones I read from my CDs & videotapes.
+
+   Mercury  822-541-2 (1974) [AAD] Rush
+   Mercury  822-542-2 (1975) [AAD] Fly By Night
+   Mercury  822-543-2 (1975) [AAD] Caress Of Steel
+   Mercury  822-545-2 (1976) [AAD] 2112
+   Mercury  822-552-2 (1976) [AAD] All The World's A Stage
+   Mercury  822-546-2 (1977) [AAD] A Farewell To Kings
+   Mercury  822-547-2 (1978) [AAD] Hemispheres
+   Mercury  822-548-2 (1980) [AAD] Permanent Waves
+   Mercury  800-048-2 (1981) [ADD] Moving Pictures
+   Mercury  822-551-2 (1981) [AAD] Exit...Stage Left*
+   Mercury  810-002-2 (1982) [ADD] Signals
+   Mercury  818-476-2 (1984) [AAD] Grace Under Pressure
+   Mercury  826-098-2 (1985) [DDD] Power Windows
+   Mercury  832-464-2 (1987) [DDD] Hold Your Fire
+   Mercury  836-346-2 (1989) [ADD] A Show Of Hands
+   Atlantic 7 82040-2 (1989) [DDD] Presto
+   Mercury 838 936-2 (1990) Chronicles
+   Atlantic 7 82293-2 (1991) [DDD] Roll The Bones
+
+   Additionally, several collections are available: {sorry - no catalog 
+                                        numbers, as I don't have these.}
+
+   Archives (includes _Rush_,_Fly By Night_, and _Caress Of Steel_)
+   _RUSH_ Through Time
+   _Everything Your Listeners Ever Wanted To Hear By Rush But You Were 
+   Afraid To Play_ - this collection was targeted at radio stations.
+   It was never officially released, and is extremely rare. It's a
+   selection taken from FBN, CoS and 2112.
+
+   _Rush - Profiled!_ - This CD was released to radio stations and
+                        is rather rare.  It contains things like band
+                        members saying "Hi, this is * of Rush, and
+                        you're listening to radio magic."  (Paraphrased
+                        from memory.)  It also contains quite a few tracks
+                        of band members answering questions.  The questions
+                        are printed in the liner notes, so a DJ can ask a
+                        question and play the CD of the appropriate
+                        person answering that question.  The questions
+                        are mostly about _Presto_, since this CD was
+                        released shortly after _Presto_.
+
+  * The Anthem release of ESL, available in Canada is [ADD], but
+    the US CD is [AAD].
+
+What are the catalog numbers for LP/Cassette?
+
+          LP             CD             Cassette       8-track
+   R      SRM-1-1011     822 541-2 M-1  MCR-4-1-1011   MC-8-1-1011
+   FBN    SRM-1-1023     822 542-2 M-1  MCR-4-1-1023   MC-8-1-1023
+   COS    SRM-1-1046     822 543-2 M-1  MCR-4-1-1046   MC-8-1-1046
+   2112   SRM-1-1079     822 545-2 M-1  MCR-4-1-1079   MC-8-1-1079
+   ATWAS  SRM-2-7508     822 552-2 M-1  MCT-4-2-7508   MCT8-2-7508
+   AFTK   SRM-1-1184     822 546-2 M-1  MCR-4-1-1184   MC-8-1-1184
+   H      SRM-1-3743     822 547-2 M-1  MCR-4-1-3743   MC-8-1-3743
+   PeW    SRM 1-4001     822 548-2 M-1  MCR4 1-4001    MC8 1-4001
+   MP     SRM-1-4013     800 048-2      MCR41 4013
+   ESL    SRM-2-7001     822 551-2 M-1  MCR-4-2-7001   MC-8-2-7001
+   S      SRM-1-4063     810 002-2      MCR-4-1-4063   MC-8-1-4063
+   GUP    818 476-1 M-1  818 476-2      818 476-4 M-1
+   PoW    826 098-1 M-1  826 098-2 M-1  826 098-4 M-1
+   HYF    832 464-1 Q-1  832 464-2 Q-1  ?
+   ASOH   836 346-1      836 346-2      836 346-4
+   P      82040-1        7 82040-2      7 82040-4
+   
+   Chr                   838 937-2      838 936-4
+                         838 938-2
+   RTB                   7 82293-2
+
+
+When was &lt;album&gt; released?
+
+   Rush - Aug 1974
+   FBN - Feb 1975
+   COS - Sept 1975
+   2112 - April 1976
+   ATWAS - Sept 1976
+   AFTK - Sept 1977
+   Archives - April 1978
+   Hemi - Oct 1978
+   PeW - Jan 1980
+   MP - Feb 1981
+   ESL - Nov 1981
+   Signals - Sept 1982
+   p/g - April 1984
+   PoW - Oct 1985
+   HYF - Sep 1987
+   ASoH - January 1989
+   Presto - November 1989
+   Chronicles - Sep 1990
+   Roll The Bones - September 1991
+
+Are any videotapes of the band available?
+
+   Polygram Music Video 60285 (1981) Exit...Stage Left
+   includes: Limelight
+             Tom Sawyer
+             The Trees
+             Instrumental
+             Xanadu
+             Red Barchetta
+             Free Will
+             Closer To The Heart
+             YYZ (with voice over)
+             By-Tor and the Snow Dog/In The End/In The Mood/2112 Finale
+
+   PMV 60607 (1986) Grace Under Pressure Tour 
+   includes: The Spirit Of Radio
+             The Enemy Within
+             The Weapon
+             Witch Hunt
+             New World Man
+             Distant Early Warning
+             Red Sector A
+             Closer To The Heart
+             YYZ/2112: Temples of Syrinx/Tom Sawyer
+             Vital Signs/Finding My Way/In The Mood
+             The Big Money {video}
+
+   PMV 0741 760-3 (1989) A Show Of Hands 
+   includes: The Big Money
+             Marathon
+             Turn The Page
+             Prime Mover
+             Manhattan Project
+             Closer To The Heart
+             Red Sector A
+             Force Ten
+             Lock And Key (laserdisc only)
+             Mission
+             Territories
+             The Rhythm Method (drum solo)
+             The Spirit Of Radio
+             Tom Sawyer
+             2112/La Villa Strangiato/In The Mood
+
+   PMV 60466 (1985) Through The Camera Eye (video compilation)
+   includes: Vital Signs
+             Tom Sawyer [live, from Exit...Stage Left]
+             Subdivisions
+             Countdown
+             Distant Early Warning
+             Afterimage
+             The Enemy Within
+             The Body Electric
+
+   PMV 082 765-3 (1990) Chronicles (video compilation)
+   includes: Closer To The Heart [live]
+             The Trees [live]
+             Limelight [studio]
+             Tom Sawyer [live, from ESL with some minor changes]
+             Red Barchetta [live, from ESL]
+             Subdivisions [from _Through The Camera Eye_]
+             Distant Early Warning [from _Through The Camera Eye_]
+             Red Sector A [live, from the p/g tour video]
+             The Big Money [the shortened MTV version, not the complete one
+                            from the p/g tour video]
+             Mystic Rhythms
+             Time Stand Still
+             Lock And Key
+
+Are these tapes available on laserdisc?
+
+   I don't know about Chronicles, but the other 4 of them are.
+
+What songs has the band made videos for?
+
+   Anthem
+   Fly By Night
+   A Farewell To Kings
+   Closer To The Heart %
+   Xanadu
+   Circumstances
+   The Trees %
+   La Villa Strangiato
+   Tom Sawyer
+   Tom Sawyer [live, from ESL] %#
+   Red Barchetta [live, from ESL] %
+   Limelight %
+   Limelight [live, from ESL]
+   Vital Signs #
+   Subdivisions %#
+   Countdown #
+   Distant Early Warning %#
+   Afterimage #
+   The Enemy Within #
+   The Body Electric #
+   The Big Money %&
+   Mystic Rhythms %
+   Marathon [live, from ASoH]
+   Time Stand Still %
+   Lock And Key %
+   Show Don't Tell
+   The Pass
+   Superconductor
+   Roll The Bones
+
+    % These videos appear on the _Chronicles_ videotape.
+    # These videos appear on the _Through The Camera Eye_ videotape.
+    & This video appears in it's complete form on the end of the
+      _Grace Under Pressure Tour_ videotape.  The shortened MTV version
+      appears on the _Chronicles_ videotape.
+
+   Videos with the 'live' comment are concert videos; all others have
+   studio soundtracks.  Some of these have minor edits to the soundtrack.
+
+How many copies did &lt;album&gt; sell?
+
+   &gt;From Billboard's Book of Gold and Platinum Records (1990):
+   
+   Release Date  Cert.  Date of Cert.  Chart Peak  Title
+   
+   3/76          G      11/16/77       61          2112
+                 P      2/25/81
+   
+   10/76         G      11/16/77       40          All The World's A Stage
+                 P      3/4/81
+   
+   8/77          G      11/16/77       33          A Farewell To Kings
+   
+   10/78         G      12/14/78       47          Hemispheres
+   
+   1/80          G      3/17/80        4           Permanent Waves
+                 P      11/9/87
+   
+   1/81          G      4/13/81        3           Moving Pictures
+                 P      4/27/81
+                 2P     10/12/84
+   
+   10/81         G      1/5/82         10          Exit...Stage Left
+                 P      11/9/87
+   
+   9/82          G      11/10/82       10          Signals
+                 P      11/10/82
+   
+   4/84          G      6/26/84        10          Grace Under Pressure
+                 P      6/26/84
+   
+   10/85         G      12/18/85       10          Power Windows
+                 P      1/27/86
+   
+   9/87          G      11/9/87        13          Hold Your Fire
+   
+   1/89          G      3/9/89         21          A Show Of Hands
+   
+   &gt;From Billboard's Book of Top 40 Albums (1991):
+   
+   Date      Peak  Weeks  Cert.  Title
+   
+   11/20/76  40    2      P      All The World's A Stage
+   10/8/77   33    5      G      A Farewell To Kings
+   2/9/80    4     15     P      Permanent Waves
+   3/7/81    3     29     2P     Moving Pictures
+   11/14/81  10    14     P      Exit...Stage Left
+   10/2/82   10    11     P      Signals
+   5/5/84    10    12     P      Grace Under Pressure
+   11/2/85   10    14     P      Power Windows
+   10/3/87   13    14     G      Hold Your Fire
+   2/4/89    21    5      G      A Show Of Hands
+   12/9/89   16    11     G      Presto
+   
+Can anyone list everything else that the members of Rush have ever appeared on?
+
+   This is not a complete list.  Please send me your additions!
+
+   "Universal Juveniles" by Max Webster (Rush in "Battlescar")
+   1980 (ANR-1-1027 Anthem)
+   
+   &lt;Lifeson-produced for "Wireless" around 1981.  Can anyone I.D.?&gt;
+   
+   "Great White North" by Bob and Doug McKenzie (Geddy singing "Take Off")
+   1981 (ANR-1-1036 Anthem)
+   
+   "Vignettes" by Marie Lynn Hammond (Lee on 2 tracks)
+   1983 (BTR 1002 Black Tie Records)
+   
+   "Boys Brigade" by Boys Brigade (Lee produced)
+   1983 (ST 12278 Capitol)
+   
+   "We Are the World" by USA for Africa with Lee in Northern Lights singing
+   "Tears are Not Enough"
+   1985 (40043 Columbia)
+   
+   "Alien Shores" by Platinum Blonde (Alex on 2 tracks)
+   1985 (PCC-80105 Columbia)
+   
+   "Champion" by Jeff Berlin (Peart on 2 tracks)
+   1985 (Passport Jazz PJ 88004 A)
+   
+   "Beyond Borders" by Canadian Guitar Summit (with Alex)
+   July 1987 Guitar Player Magazine (flexidisc)
+   
+   "Pieces of Eight" (Peart percussion compilation)
+   May 1987 Modern Drummer Magazine (flexidisc)
+   
+   "Serious Business" by Greenway (Alex doing solo in "In the Danger Zone")
+   1988 (81827-1 Atlantic)
+   
+   "Clean Slate" by Clean Slate  (Alex produced)
+   1988 (ANM-1 5002 Anthem) (5 song EP)
+   
+   "Dream on the Horizon: A Tribute to the Olympic Spirit" by The Big Picture
+   1988 (WSC-331 Chartwell Records)  (Alex on 2 tracks)
+   
+   "Smoke on the Water" (Mega-Rock Re-Mix)/Paranoid, by Rock Aid Armenia and
+   Black Sabbath, (Alex on guitar)
+   1989 UK ARMENT 001, ARMENTR 002, ARMENT 002
+   
+   "Lost Brotherhood" by Larry Gowan (Alex on all tracks)
+   1990 (80160 Anthem)
+
+   CASSETTES:
+   
+   "Star Jam Series: Neil Peart Style"
+   
+   "Starlicks Guitar Lesson: Alex Lifeson Style"
+
+   In the January 1986 issue of _Modern Drummer_ magazine, while discussing
+    his appearance on the Jeff Berlin album, Neil says that he "...did a
+    similar thing with a musician named Ken Ramm in Toronto.  That record
+    was released in Canada."
+
+   VIDEO:
+
+   "1991 Buddy Rich Memorial Scholarship Concert"  (Neil on a few songs)
+   DCI Music Video
+
+What was the first single released by the band?
+
+   The A side was a cover of a Buddy Holly song called "Not Fade Away."
+   The B side was a Lee/Rutsey song called "You Can't Fight It."
+   These songs are not on any Rush albums.
+
+I just bought the CD of &lt;Exit...Stage Left | All The World's A Stage&gt; and
+it's missing a track!  Is a complete version of this CD available?
+
+   No.  But if you absolutely have to have everything on CD, the 2 missing
+   tracks are on _Chronicles_.
+
+Has &lt;song&gt; ever been performed live?
+
+   The 1st anniversary issue of TNMS contains song lists for each tour
+   Rush has done up to _Presto_.  This is issue 99, available for ftp at
+   syrinx.umd.edu.
+
+What is Battlescar/Max Webster, who plays on it, what is the label/catalogue 
+number for the Universal Juveniles CD?  Where can I write to get it?
+
+   Max Webster is a Canadian band that used to open for Rush.  Battlescar
+   is a song from their _Universal Juveniles_ CD that was done as a duet
+   of the 2 bands.  
+
+    Max Webster - Universal Juveniles  1980
+                  Mercury SRM-1-3855 [6337 144]
+                  Distributed by Polygram Distribution, Inc.
+                    Polygram
+                    810 Seventh Avenue
+                    New York, NY 10019
+
+                  Write:  Anthem Records
+                          Oak Manor  P.O. 1000
+                          Oak Ridges, Ontario
+                          Canada  L0G 1P0
+
+   One more note:  "Battlescar" has a subscript:  "recorded live July 28th,
+   1980 Phase One Studios -Toronto-".
+
+Have any books been written about the band?
+
+   Rush - Visions: The Official Biography (c) 1988
+   By Bill Banasiewicz (The B-Man)
+   ISBN: 0-7119-1162-2    94 pages
+   From: Omnibus Press
+   Distributor: Music Sales Corporation
+                24 East 22nd Street
+                New York, NY 10010
+   
+   Success Under Pressure (c) 1984
+   By Steve Gett
+   ISBN: 0-89524-230-3    48 pages
+   From: Cherry Lane Books
+         110 Midland Avenue
+         Port Chester, NY 10573
+   
+   Rush  (c)1982
+   By Brian Harrigan
+   ISBN: 0-86001-934-9    80 pages
+        The Putnam Publishing Group
+        200 Madison Avenue
+        New York, NY 10016
+
+   People have sent me the names of sheet music books about Rush, but
+   I'm not going to include those because there are too many of them
+   and this file is getting far too large.  Besides, they really aren't
+   about the band.
+
+I heard something about a Rush comic book.  What comic book was it?
+
+   That was Defenders #45. It was dedicated to Geddy, Alex, and Neil of
+   Rush on the first page. The story has an anti-collectivist theme to it.
+   Since it was printed Mar 77 it makes sense that it would draw from
+   2112 (however vaguely).
+
+   The villian (Red Rajah) says, at one point, "Truth is false and logic
+   lost, seek the Rajah at all cost".
+
+Somebody posted &lt;item&gt; in the Digest.  I missed it - could somebody
+please send me a copy?  Does anybody have the lyrics to &lt;song&gt;?
+
+   An archive server is running at server@ingr.com.
+
+   The address of this archive file server is:
+   
+      UUCP'ish:  ...!uunet!ingr!server
+      ARPA'ish:  server@ingr.com
+   
+   This archive file server currently supports the following commands:
+   
+      GET     - request a specific file listed in the index
+      SEND    - (same as GET)
+      HELP    - request the help file (this file)
+      INDEX   - request list of requestable files
+      MESSAGE - this is a message to server keeper (do not process)
+      NOTE    - (same as MESSAGE)
+   
+   Commands and file names are not case sensitive.  The body of the
+   email is _ignored_ unless the command is MESSAGE (or NOTE), then
+   it is passed on to the keeper of the server, currently me.
+   
+   To make something available on the archive server, send it with
+   the MESSAGE command so the server keeper can respond appropriately.
+   
+   The server is limited to sending one megabyte of text a day.  If
+   your request is processed after this limit is exceeded, you will
+   be notified that your request failed.  You will also be notified
+   if your request contains an invalid command, unknown file name,
+   or other problem.
+   
+   Use the MESSAGE command for questions.  Do not contact anyone at site
+   INGR.  This might cause problems and will put the existence of the
+   server at risk.
+
+
+   Additionally, an FTP site has been established.  There are several
+   read-only directories containing informational files, plus a directory
+   for uploading files into.
+
+    The address to ftp to is:
+
+    syrinx.umd.edu
+
+       or
+
+    128.8.2.114
+
+   for those of you who don't have name resolution.  Once here, you will be
+   prompted for a name (userid) and password.  Use "anonymous" for the userid
+   and your userid for the password.
+
+    Once you're logged in, 'cd' into the "rush" subdirectory.  Once there,
+   you can list the files in the directory.  There is actually only one file
+   (README) currently, the others being subdirectories.
+
+    The directories available now are:
+
+    "digest" - Contains back issues of the current incarnation of the
+                digest from issue # 1 to the current issue;
+
+    "lyrics" - Contains the lyrics for all the albums up through _Roll The
+               Bones_.
+
+    "names"  - Contains a recent (thought not always the latest-and-greatest)
+               version of the subscription list; and
+
+    "images" - Contains GIF and Rast format pictures of album covers and
+               photos of the band members.
+
+    "sounds" - A directory containing sound files in NeXT .snd or Sun .au
+               format.
+
+    "MacSounds" - A directory containing Macintosh-format sounds.
+
+    "c64-sounds" - A directory containing Commodore-64-format sounds.
+
+    "tab" - A directory containing guitar and bass tabs for various songs.
+
+    "incoming" - A directory that's world-writable for uploading files to
+                 Syrinx to be moved (by the digest manager) to one of the
+                 other directories.  (If you upload something, PLEASE send
+                 mail to the Syrinx administrative address to let the list
+                 manager know!)
+
+    "special" - Contains the longer items - interviews, articles, tour 
+                lists, etc.  Any item warranting it's own file but doesn't
+                fall into any of the other categories.
+
+   Any files in the subdirectories with a suffix of ".Z" are compressed; 
+   you'll have to uncompress them on your end.  There is a Unix Shell Archive
+   (shar) format file in the main directory named "compress.shar" which
+   contains the source for the compress/uncompress commands.
+
+   If you wish to submit something for a special edition posting, send it to
+   the 'rush-request' address; if it's of general interest, it'll be a 
+   special edition, and then placed in the "special" dir.  The same effect
+   is created by uploading something to the "incoming" directory and sending
+   mail to the 'rush-request' address and informing the rush-mgr it's there.
+
+   Remember, if you don't have ftp capabilities at your site, there is still
+   the mail server at "server@ingr.com".
+
+What issue of the Digest is &lt;item&gt; in?
+
+   This list isn't complete, and it probably contains errors.  Let me
+   know, so I can fix them!
+
+      Item                                                 Issue
+      ----                                                 -----
+   Neil's reaction to the Digest                              5
+   Analysis of "The Pass"                                    21
+   Neil's editorial on Satanism                              22
+   Explanation of the map in "Signals"                       26
+   A Nice Morning Drive                                      34
+   Grace Under Pressure tour book                            42
+   2112 tour book                                            47
+   Permanent Waves tour book                                 48
+   1978 Article/Story on Rush                                59
+   Alex interview: Music Express #132, 1989                  62
+   "Kubla Khan"                                              64
+   Modern Drummer interview with Neil (Dec 89)               68
+   HYF tour book                                             69
+   Rockline interview 4/30/90                                72
+   Peart Q & A                                               74
+   Definition of "peart"                                     80
+   Chronicles essay                                          81
+   "Kubla Khan"                                              88
+   Rush special from "The Source"                            91
+   _Success Under Pressure_ (Part 1 of 4)                    93
+   _Success Under Pressure_ (Part 2 of 4)                    94
+   _Success Under Pressure_ (Part 3 of 4)                    96
+   Anniversary issue (Part 1 of 2)                           98
+   Anniversary issue (Part 2 of 2)                           99
+   _Success Under Pressure_ (Part 4 of 4)                   101
+   Interview with Alex 11/20/90                             107
+   Updated Rush tour dates listing                          108
+   "In The Studio" interviews/MP era                        110
+   _Rolling Stone_ interviews: 5/15,80,6/26/80,5/28/81      114
+   Guitar World, March 1990                                 118
+   1978 _Sounds_ article                                    121
+   Rolling Stone album reviews
+    (Hemispheres,PeW,ESL,Signals,p/g,PoW,ASoH,Presto)       123
+   Dec 18, 1983 _Sounds_ article                            125
+   "The Source" interview: 2/27/83                          131
+   Modern Drummer interview with Neil (April 84)            134
+   Moving Pictures tour book                                136
+   Neil Peart drumset giveaway from _Modern Drummer_ 3/87   142
+   Neil Peart: "The Quest For New Drums" (5/87 MD)          145
+   Neil Peart: drumset giveaway results (10/87 MD)          145
+   Neil Peart: "Getting The Drum Part" (8/88 MD)            145
+   Neil Peart: "A Real Job" (2/87 MD)                       151
+   Interview: SOUNDS, April 5, 1980                         206
+   Rush discography                                         209
+   Discussion of scissors/paper/stone symbols               212
+   Geddy Lee interview: _Keyboard_ magazine, Sept '84       217
+   Geddy Lee interview: _Keyboard_ magazine, March 89       220
+   Alex Lifeson interview: _Guitar for the Practicing
+                             Musician_: July '84            220
+   Neil Peart interview: _Metal Hammer_, April 25 1988      227
+   _Presto_ tour press release                              229
+   _Only Music_ article                                     229
+   Presto concert review: _Kerrang_ #282: March 24,1990     234,262
+   Picture Disc interview with Alex: HYF era                238
+   PoW tourbook transcription                               250
+   Hemispheres tourbook transcription                       257
+   Signals tourbook transcription                           260
+   Geddy Lee interview: _Bass Player_ mag - Nov/Dec 1988    264
+   _Creem_ interview with Neil                              274
+   Alex interview: 4/86 _Guitar Player_                     277
+   Geddy Lee interview: 4/86 _Guitar Player_                285
+   Neil Peart interview: 1/27/88 Houston Post               287
+   Rush crossword puzzle                                    292
+   Neil Peart interview: April '86 _Canadian Composer_      294
+   March 1990 _Guitar World_ article                        297
+   _Signals_ tourbook crossword puzzle                      302
+   Neil Peart interview: Jan '86 _Modern Drummer_           305
+   Neil Peart release: Roll The Bones                       311
+   Neil Peart interview: _Guitar_: Oct '86                  312
+   Geddy Lee interview: Aug 19, 1991: Frank Lancaster       320
+   Neil interview:Oct '86 Guitar for Practicing Musician    325
+   Geddy interview: In The Listening Room - from GFPM 6/87  325
+   Neil/Alex interview: Feb 1990 Music Express              342
+   TNMS 2nd anniversary issue                               378
+   "Row the boats" article by Neil Peart                    390
+   10/91 "Canadian Musician" interview: Geddy, Neil         392
+   Nov 1 1991 Chicago Tribune article                       406
+   Gold Rush: Canadian Composer article                     408
+   Aug 19 1991 Geddy Lee interview                          408
+   Neil Peart Rochester Times Union article: 10/24/91       408
+
+I've been seeing &lt;acronym&gt; used in the Digest.  What does it mean?
+
+   FBN           Fly By Night
+   COS           Caress Of Steel
+   ATWAS         All The World's A Stage
+   AFTK          A Farewell To Kings
+   PeW           Permanent Waves {PLEASE! NOT just PW!}
+   MP            Moving Pictures
+   ESL           Exit... Stage Left
+   GUP           Grace Under Pressure
+   p/g           Grace Under Pressure
+   PoW           Power Windows {PLEASE! NOT just PW!}
+   HYF           Hold Your Fire
+   ASoH          A Show Of Hands
+   TTCE          Through The Camera Eye {rare, but it shows up}
+   RTB           Roll The Bones
+
+   IMHO          In My Humble/Honest Opinion
+   WRT           With Respect To
+   ORQ           Obligatory Rush Quote
+
+   AHO:    Anyone Heard Of...
+   ALTP:   Avoid It Like The Plague
+   BBB:    Blah, Blah, Blah
+   BFD:    Big F*ckin Deal
+   BMA:    Blew Me Away
+   BTW:    By The Way
+   CIU:    Crank It Up!
+   DAU:    Donning Asbestos Underwear
+   EMOMC:  Even More Obligatory Musical Content
+   FIOTNC:  Frisbee It Off The Nearest Cliff
+   GAALMAYS:  Go Away And Leave Me Alone You Slimeball
+   GMAW:   Gave Me A Woody
+   GSM:    Good Sex Music
+   ICF:    I Can't Find...
+   IGAGBAYCDTI:  It's Got A Good Beat And You Can Dance To It
+   IHRI:   I Highly Recommend It
+   IMHO:   In My Humble Opinion
+   IMHTTO: In My Holier Than Thou Opinion
+   IMO:    In My Opinion
+   ISTBO:  It Sucked The Big One
+   LTIS:   Listen To It Stoned
+   MMG:    Makes Me Gag
+   MMW:    Made Me Wet  (female version of GMAW)
+   MOMC:   More Obligatory Musical Content
+   NAFW:   Not Another Flame War!!
+   NFP:    No Flames Please
+   NIDPA:  No! I Don't Play Accordion
+   NKOTB:  No Kissing Or Tongue Badminton
+   OMC:    Obligatory Musical Content
+   ONNATT: Oh, No! Not Another Top Ten
+   PMO:    Piss Me Off
+   POS:    Piece Of Sh*t
+   RCS:    Real Cool Shit
+   SJA:    woj  ;-)
+   TAV:    Take A Valium
+   TBE:    Their Best Ever
+   TOS:    Totally Orgasmic Shit
+   WOM:    Waste Of Money
+   WFM:    Works For Me
+
+I've heard about the "Rush Backstage Club."  What is it, and how do I join?
+   
+   It's an outfit that sells Rush souvenirs (t-shirts, posters, etc) and
+   occasionally releases a newsletter.  (I'm not a member, so I don't
+   really know.  Could a member send me some details?)  To join the
+   backstage club, just send $12.95 ($10 to join plus $2.95 shipping and
+   handling) to:
+   
+   Rush Backstage Club
+   951 Toni Ave.
+   Las Vegas, NV 89119
+
+   Membership obligation is to purchase 1 item of merchandise each year to
+   stay on the mailing list.  Also, they will answer any inquiries if you
+   include a self addressed stamped envelope.  For those international
+   people, pay in U.S. money (NO CASH!!!) and include postage coupons with
+   information requests.
+
+What about "The Spirit of Rush"?
+
+   Published 4 times a year. Subscription for the next 4 issues:
+    U.K.: #6.80, Europe: #10.00, Australia/N.Z.: #12.00
+    U.S.A/Canada: $20.00
+    (# = Pounds Sterling. All prices include postage.)
+   
+   Back issues:
+    U.K.: #1.50 each, Europe: #2.00, Australia/N.Z.: #3.00
+    U.S.A./Canada: $4.00  (all prices include postage)
+   
+   Address for back issues, and U.K./Europe/Australia/N.Z. subscriptions:
+    23, Garden Close,
+    Chinbrook Road,
+    Grove Park,
+    London, SE12 9TG
+    England
+   
+   Address for U.S.A/Canada subscriptions:
+    Ray Wawrzyniak
+    110 Red Oak Drive
+    Williamsville, NY  14221
+    U.S.A.
+   
+   U.K. readers should pay by crossed cheque or postal order, NOT CASH.
+   Overseas readers should pay by bank draft or International Money Order,
+   in STERLING ONLY please.  If these are unavailable, cash sterling or cash
+   dollars only.  Personal cheques in foreign currency cannot be accepted.
+   Cheques/postal orders/I.M.O/B.D. payable to 'The Spirit Of Rush'
+   
+   U.S.A. readers should pay by personal cheque payable to Ray Wawryzniak.
+
+What is the marital status of the band members?
+
+   In _Visions_, there is a group picture of all 3 band members and
+   their wives.
+
+I've heard &lt;rumor&gt; about &lt;band member&gt;.  Does anybody know anything about
+the truth of it?
+
+   These rumors have been popping up for quite some time now.  Here
+   are some of the ones that have been shown to be wrong over the
+   years by the activities of the band:
+
+    - Alex is dying of cancer
+    - Neil is dying of cancer
+    - Geddy is dying of cancer
+    - Geddy has throat cancer; he's not dying, but can never sing again
+    - Geddy is going blind from stage lights.
+    - Neil is gay.
+
+   {Send me more!  - Dan}
+
+What are the birthdays of the band members?
+
+   Geddy Lee          July 29,1953 {according to _Visions_}
+   Neil Peart         September 12, 1952
+   Alex Lifeson       August 27, 1953
+
+What are the real names of the band members?
+
+   Geddy Lee          Gary Lee Weinrib
+                     { The book "Heart of Gold", a history of Canadian rock,
+                       provides this as Geddy Lee's real name.
+                       In 1971, Gary Lee Weinrib, Alex Zivojinovich, and
+                       John Rutsey all joined CAPAC, the Canadian
+                       writers/publishers/composers guild. }
+   Neil Peart         Neil Peart
+   Alex Lifeson       Alex Zivojinovic
+
+How is "Peart" pronounced?
+
+   It rhymes with "near", according to Neil on the "Rush - Profiled!" CD,
+   so I assume that's the correct pronunciation.  That also agrees with
+   the way Geddy pronounced "Peart" when introducing Neil's solo during
+   RTB shows.
+
+I heard that Neil Peart has a PhD in &lt;field of study&gt;.  Is this true?
+
+   In _Visions_, Neil is quoted (on page 65) as saying that he is
+   a high school dropout.  I don't see how he would have had time to
+   go to school and get a degree, what with being in Rush and all.
+
+Does anybody have an address I can use to write to the band?
+
+   This address was posted to the Digest, but I can't vouch for the
+   correctness of it.
+
+                RUSH
+                41 Britan St. (#200)
+                Toronto, ON
+                M5C 1R7, CANADA
+
+   The Backstage Club will probably forward mail as well.
+
+   _Modern Drummer_ magazine will forward mail to Neil. (or other drummers,
+   for that matter!)
+
+                Modern Drummer
+                870 Pompton Avenue
+                Cedar Grove, NJ 07009
+
+Who says &lt;phrase&gt; in &lt;song&gt;?
+
+    Geddy says "One...Two...Buckle my shoe" in "In The End" on ATWAS.
+    Neil does the narrative during "The Necromancer".
+    I've never seen anything definitive saying who whispers in
+      "The Twilight Zone."
+    Neil does the "Attention all planets of the Solar Federation - We have
+      assumed control" bit at the end of "2112".
+    The deep voice at the beginning of "Cygnus X-1" is none other than
+      Terry Brown.
+    Neil says "Subdivisions" in the song of the same name,
+      even though Alex is shown in the video and does it live.
+    Alex says "That's nice" at the end of "Chain Lightning".
+    We don't know who says "I will be the judge" and "Give the jury
+      direction."  I did receive the following email on April 11, 1991
+      on just this very subject:
+
+    { Begin quoted text }
+   &gt;Good day. I am a Rush fan who has access to an Amiga and a good quality
+   &gt;digitizer.  I noticed that in the "Who says what" section of the FAQL you
+   &gt;wrote that you don't know who says "I will be the judge" and "Give the
+   &gt;jury direction."
+   &gt; 
+   &gt;Out of curiousity, I digitized that section of Show Don't Tell, and then
+   &gt;played it back at the 'proper' speed. Although the main vocal track
+   &gt;(Geddy's voice) was obviously too high, I could now hear the background
+   &gt;vocals that were intentionally slowed.
+   &gt; 
+   &gt;The task was fairly difficult because of two reasons:
+   &gt;1. The background vocals are very weakly mixed in comparison to the main
+   &gt;   vocals, which makes it hard to distinguish the voice.
+   &gt;2. The phrases are actually whispered, sampled, and then slowed down by
+   &gt;   some factor.
+   &gt; 
+   &gt;All above statements coming to a conclusion with my submission to the
+   &gt;FAQL issue: Neil whispers "I will be the judge" and "Give the jury
+   &gt;direction" during Show Don't Tell.
+   &gt; 
+   &gt;Yoav Gershon
+   &gt;ygershon@ucdavis.edu (or ygershon@deneb.ucdavis.edu)
+   &gt;UC Davis.
+   { end quoted text }
+
+   According to Neil on the Dec 2 1991 Rockline, Geddy does the RTB
+   "chat" section.
+
+What is a Lerxt?
+
+   A Lerxt is an Alex Lifeson.
+
+Do the other band members have nicknames?
+
+   Ged and Neil also have nicknames, Dirk and Pratt. Hence "Lerxtwood Mall",
+   "Old Dirk Road" and "Pratt & Co." on the map on the back cover of Signals.
+      -- from ano@uk.ac.rdg.cs.csres
+
+Where did the name "Rush" come from?
+
+   Paraphrased Background: In August of 1968 the band's formal lineup
+   was Alex on guitar, John Rutsey on drums, and Jeff Jones on bass and
+   vocals. They got a job to play at the "Coff-In", a coffee house
+   in the basement of an Anglican Church [Great name, eh?] for $25/night.
+   
+   "The band was excited, but they had a big problem. While
+   they had been dreaming of playing, they had neglected to come up with
+   a name for their group. So a few days before the gig they sat around in
+   John's basement trying to come up with an appropriate monicker. They
+   weren't having much luck when John's older brother Bill piped up,
+   'Why don't you call the band Rush' and Rush it was."
+                           -- from _Visions_
+
+Whatever happened to John Rutsey?
+
+   "John's still around.  I see John quite often.  He gave up playing
+   shortly after he left the band and went into bodybuilding.  He
+   competed on an amateur level for a while, doing that for a few years,
+   and has sort of been in and out of that, but he still works out, and I
+   work out with him a few times a week at a local gym - at a Gold's,
+   here in Toronto." -- Alex Lifeson, in the 2/6/89 Rockline interview
+
+ ##############################################################################
+
+        Please send me your suggestions for additions or corrections.
+
+Dan Delany                                             ddelany@eros.calpoly.edu
+  "If Bob can't figure out his VCR, he'll never be able to figure out women."
+
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1992.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+********************************************
+End of The National Midnight Star Number 444
+********************************************
+
+

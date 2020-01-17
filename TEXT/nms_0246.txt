@@ -1,0 +1,637 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 05/24/91 - The National Midnight Star #246
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 246
+
+                   Friday, 24 May 1991
+Today's Topics:
+                      Administrivia
+                  Rolling the Bones....
+        MD Reader's Poll and unsubscribe posts...
+      Re: 05/17/91 - The National Midnight Star #242
+                  "thinking man's band"
+                        bass stuff
+                  Vital Signs bass solo
+                 Y & C, Female Rush fans
+                server@ingr.com LIVES ???
+              Red Barchetta, Roll the Bones
+   Young, Crippen & you know you're a Rush fan when...
+                  Re: Love Songs & Stuff
+                      Women and Rush
+                          (none)
+                          (none)
+      Red Barchetta, Available Light, Roll the Bones
+----------------------------------------------------------
+
+Subject: Administrivia
+Date: Fri, 24 May 91 09:13:20 EDT
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+Well, thanks to all of you who sent me mail offering help/information on
+mail servers I could set up on Syrinx.  I think the "winner" has to be
+Dave Datta (the keeper of the discography) who sent me a list of several
+mail servers and ftp sites where I can get them.  Of course, mucho thanks
+to all the others who offered help - your replies were greatly appreciated.
+
+I'll be considering the alternatives in the weeks to come, and consider
+installing something after the new hard disk goes in.
+
+Also, the mail server at Ingr.com looks like it may not go away next week
+as earlier indicated.  (See Keith's post below for details)  This means
+that mail service for back issues, etc. should be uninterrupted.
+
+rush-mgr
+
+----------------------------------------------------------
+
+Date: Thu, 23 May 91 13:35 EDT
+From: Lewis A Bernstein &lt;V087N562@ubvmsc.cc.buffalo.edu&gt;
+Subject: Rolling the Bones....
+
+I think I blew it when I said that Entre Nous was written by Geddy,
+it should have been the other psuedo-love song, Different Strings.
+
+One more thing is that Rolling the Bones could be allusion to
+drug use.  Sometimes 'bones' are joints (ie, marijuana cigarettes)
+So that rolling the bones could be rolling joints to get ready for
+a party or something.  (I really doubt it, but who knows????)
+
+                                     Lew
+
+----------------------------------------------------------
+
+From: stedmant@LONEX.RADC.AF.MIL (Terrance A. Stedman)
+Date: Thu, 23 May 91 16:38:04 EDT
+Subject: MD Reader's Poll and unsubscribe posts...
+
+        Ok, the '91 Modern Drummer Reader's Poll results are in.  I just
+got the magazine a couple of days ago.  Unfortunately, the only place
+that Neil shows up is in the Honor Roll section.  They don't let us
+vote for him anymore (as well as certain other drummers) because he
+has won best Rock Drummer and Multi-Percussionist too many times.  Neil is
+eligible for the Recorded Performance award but alas, Presto won last year
+and Rush has yet to come out with anything new.  Like I predicted,
+Dave Weckl's Master Plan took top honors in that category, and IMO rightly
+so.
+        Also, the amount of unsubscribe posts to this digest seems to
+be on the rise despite the attempts of rush-mgr and other NMS members
+to get them sent to the administrative address (rush-request@syrinx.umd.edu).
+Obviously, those attempting to unsubscribe aren't even reading the digest!
+
+[ *sigh*  What can ya do ...                                     :rush-mgr ]
+
+------------------------------------------------------------------------------
+  I_) I I &lt;~ I_I          Terry Stedman           ORQ: "if I could wave
+  I \ I_I _&gt; I I   (stedmant@lonex.radc.af.mil)         my magic wand..."
+------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Subject: Re: 05/17/91 - The National Midnight Star #242
+Date: Thu, 23 May 91 16:08:42 WET
+From: Moschops &lt;M.ODonnell@computing-services.thames.ac.uk&gt;
+
+*/Date: Thu, 16 May 91 14:06:11 PDT
+*/From: djabson@UCSD.EDU (The God of Balance)
+*/Subject: 2112 sound
+*/
+*/	My question is this. In "Oracle", right after the line "...dream
+*/can't you show me light..." there is that funky sound.  What makes that
+*/sound? My roommate wanted to say that it was a keyboard but I was under
+*/the impression that Rush didn't use any keyboards on the album. Is it some
+*/other kind of synth sound besides a keyboard or what? My roommate used
+*/that song for his paper since I had it on CD so he could listen to the
+*/part over and over but he left out that little section since we weren't sure.
+*/
+*/	Dave
+
+I believe that this is a real strange effect that you can get if you use
+a delay unit of some sort.
+Basically, if you turn up the number of repeats to infinite, you get
+the signal feeding back on itself with all the added noise and stuff and
+it amplifies itself in to the sound that you hear in " Oracle ".
+
+Hope this helps.
+
+Mos
+===
+
+--
+
+ I Don't Believe in Love, I never have I never Will
+ I Don't Believe in Love, I'll Just pretend she never was real
+ I Don't Believe in Love, I need to forget her face I see it still
+ I Don't Believe in Love, It's never worth the pain that you feel
+
+ Mike O'Donnell - M.ODonnell@uk.ac.thames.csc - Thames Poly - London
+
+----------------------------------------------------------
+
+Subject: "thinking man's band"
+Date: Thu, 23 May 91 16:03:37 -0700
+From: Michael J. Konopik &lt;zzz@erg.sri.com&gt;
+
+Ever since I first heard the rumors of Rush disbanding (oh, about 4 albums
+ago!) I've wondered which other band(s) could possibly take their place.
+Since then I've found that Living Colour satisfies some of the same pleasure
+receptors in my aural nerve network.  But now I keep hearing that this group
+called Queensryche is kinda like Rush.  I'm curious enough now to take a
+chance on one of their discs.  Can the Queensryche fans on the list send me
+e-mail recommendations as to:
+
+	        1) which QR disc is the most Rush-like
+	    and 2) which QR disc is the 'best'  (if different from #1)
+
+Always ready for good new tunes,
+				    -Mike
+
+		   zzz@erg.sri.com  (or)  zzz@nic.ddn.mil
+
+----------------------------------------------------------
+
+Date:    Thu, 23 May 1991 19:13:50 EDT
+From: RH2@JAGUAR.UCS.UOFS.EDU (Rebel, Runner, Restless young Romantic)
+Subject: bass stuff
+
+	halloo!
+
+	i read staff music, so i dont  bother looking for tab.
+
+	i Can however, transfer staff to tab in limited quantites, or
+
+	by request...
+
+	i guess ill just have to take my new blond rick out again...
+
+	troubles....
+                                              r,r,ryr
+                                                     rose
+
+----------------------------------------------------------
+
+[ Yo, Frank/Jason, check this out!!                         :rush-mgr ]
+
+Date: Thu, 23 May 91 18:54:40 -0600
+From: habbinga@tramp.Colorado.EDU (erik habbinga)
+Subject: Vital Signs bass solo
+
+here is the tab for the Vital Signs bass solo:
+
+                                                            ~ ~
+|-------|-------------|--------|--------|--------12-10|--8-7-8-7----|
+|-------|-------------|--------|--------|8-10-8-------|---------10-8|
+|3------|------5--8-10|-10-11--|------11|-------------|-------------|
+|-------|-------------|--------|----11--|-------------|-------------|
+
+|-------|-------------|--------|
+|6----5-|6-5----------|--------|
+|-------|----8--8-6-5-|3-3-----|
+|-------|-------------|--------|
+
+These are the correct notes, and I think most of the positions are
+correct, after checking with the video.  However , you can always
+move the notes where they are comfortable to play.  In the sixth
+measure, the '~' 's stand for a trill, actually those are sixteenth
+notes, but the rhythm is hard to show in ASCII.
+
+Erik
+
+----------------------------------------------------------
+
+From: alib@iastate.edu
+Subject: Y & C, Female Rush fans
+Date: Thu, 23 May 91 20:54:26 CDT
+
+Good day, eh.
+
+If memory serves me correctly, Neil talks about the boyz witnessing
+the  launch of Columbia in the Signals tourbook (which I've noticed
+is not at the syrinx ftp site). I believe I've still got that tourbook,
+but it's packed away somewhere. (Ah, the life of a student; *sigh*.)
+Anybody out there with a copy? And again, from fuzzy memory, on the
+Signals tour shows I saw in Wichita, KS, and Kansas City, MO, I recall
+the performance of Countdown featuring shuttle launch footage on the
+projection screen, which was, quite simply, _awesome_. I've always felt
+that the ability to hurl such a massive, complex piece of machinery into
+orbit, safely (well, except for once :(, what a bummer of a day that was),
+with humans aboard, and bring it down again, is some of the most moving
+testament to the ingenuity of the human mind, and that song kinda gets to
+me (as does Manhattan Project, in a darker sort of way). Brings to mind
+the scene in "2001: A Space Odyssey", where the monkey tosses the bone
+in the air in slo-mo, and they cut to the space station... but my story
+grows tiresome, and I fear I may not touch your monkey. (Saturday Night
+Live reference)
+
+In TNMS #244,  Opus &lt;BEVINS@CEBAF2.CEBAF.GOV&gt; writes:
+
+&gt; ....
+&gt;There does seem to be (for some reason) a disproportionately small
+&gt;number of female RUSH fans.  We all thought that this was kind of funny and
+&gt;...
+
+Well...deja vu, dude.
+
+	A friend and I were discussing the same topic recently, and we
+both had made the same observation independently. We both have female
+friends/acquaintances who just go "Ewwwwwww, you like _RUSH_!?!?" at
+the first mention of the band. However, there are exceptions. Which brings
+me to my female Rush fan/"bRush with greatness" story...
+
+	My most rabid years of Rush fandom were in high school ('80-'83),
+and as I
+had played guitar since 7th grade, I was in the habit of playing any/every
+tune by the boyz with fellow musicians/Rush-heads at any/every opportunity.
+Well, some friends and I were approached by the faculty organizer of a lunch-
+time talent/fashion show to play some tunes for the show. Our only question
+was "Can we play _whatever_ we want?", to which the answer was "yes." Now,
+as near as I could tell, there were just *not* that many Rush fans at our
+school, but, hey, they said we could play _whatever_we_want_, right? (Wicked
+Grin...) So we
+did Freewill, Red Barchetta, and Limelight. The bassist and drummer were
+some of the best musicians I've ever played with, and, if you'll pardon my
+immodesty, I do a pretty fair Alex imitation myself. So the songs came off
+great, nobody dropped a beat or hit a sour note (it sounded even better
+than I remembered on tape), and, to our collective incredulity, the crowd
+_really_ got into it. Which brings me to the female Rush fan observation.
+My last class of the day was English, and when I walked in and sat down,
+a quiet girl with whom I seldom talked sat down next to me and said "You
+guys were _great_; you sounded just like Rush!" Yes, they do exist, those
+female fans. How was this a brush with greatness? Well, she just happened
+to be one of _the foxiest_ ladies in the whole school (purrrr, reowrrrr!).
+And no, I didn't scam a date out of it; at the time I was going out with
+a lady who was pretty foxy in her own right (and who was also a Rush fan,
+come to think of it). Then I went to college and became an engineering
+geek. B^( (Can you say "not gettin' any?" And BTW, it's _even worse_ in
+grad school.)
+
+ORQ: WooYah! (The Geddhiemer, in By-Tor (ATWAS), just before Alex's
+              wild echo/wah-wah solo)
+
+----------------------------------------------------------
+
+Subject: server@ingr.com LIVES ???
+Date: Thu, 23 May 91 22:13:42 CDT
+From: keith@dragon.b23b.ingr.com (Keith Ford)
+
+Thanks to TJ Higgins and Robert Bisbee, there is a chance that
+the mail based archive server for Rush will survive my leaving
+Intergraph.  TJ has also stepped in as the redistribution point
+for all Intergraph TNMS readers.  You will be hearing more about
+the server as it happens.  BTW, one fellow did call me and offer
+to help.  I'm sorry I can't remember his name (are you listening?)
+but he deserves a slap on the back for his effort.
+
+[ Thanks from me, too!  Both to TJ & Robert, and also to Keith for setting
+  this up to begin with.                                         :rush-mgr ]
+
+--
+ __
+/  \ Micro Magic  1:373/12  (205)830-2362  keith@umagic.fidonet.org
+\__/ home of OCAT/OBUL/OASWAP/Arkalog and the Rush archives
+[__] "He knows changes aren't permanent, but change is" -Rush
+
+----------------------------------------------------------
+
+Date: Thu, 23 May 91 17:52:06 hst
+From: Hinano Akaka &lt;bigtuna!hinano@uhccux.uhcc.Hawaii.Edu&gt;
+Subject: Red Barchetta, Roll the Bones
+
+Oh, well... hope I didn't screw up the subject...
+
+Personally, I've always loved the ending to R.B.  It's one of my
+favourite endings of any song (RUSH or otherwise).  I don't know why.
+It's just neat.
+
+I dunno.... "Roll the Bones" makes me think of something Spock would
+say about McCoy... (!).
+
+[ What do you do with a drunken medic... (sorry, couldn't resist)  :rush-mgr ]
+
+Hmmm, well, usually Rush's album titles usually reflect the album
+in some way (FBN, AFTK, P have title-cuts and PoW, 2112, GUP, P and
+others reflect the songs on the albums).  Maybe they've gotten into
+religious hymns, lately (they've been Enlightened!).  Maybe instead of
+an instrumental (which would've been a chorus of pipe organs, anyway)
+they'll sing a capella in the tradition of old Baroque church hymns
+sung by monks.  (I just had an urge to laugh hysterically.)
+
+No no no ... this isn't a flame or anything, I'm just joking around
+and being uncontrollably silly.  But it does make you wonder!!!
+
+puanani akaka
+
+----------------------------------------------------------
+
+Date: Fri, 24 May 91 09:44:58 BST
+From: ano@csres.cs.reading.ac.uk (Adrian N Ogden)
+Subject: Young, Crippen & you know you're a Rush fan when...
+
+Puanani Akaka &lt;bigtuna!hinano@uhccux.uhcc.Hawaii.Edu&gt; writes:
+
+&gt;Young and Crippen were the
+&gt;first Shuttle astronauts, and of course, as Fate would have it,
+&gt;I've forgotten their names.
+
+John Young and Bob Crippen.
+
+faulkner@acsu.buffalo.edu (shane p faulkner) writes:
+
+&gt;You Know you're a Rush fan when...
+
+ - You can identify songs from one drum fill.
+
+ - Every time you tap your fingers on your beerglass it comes out as
+   the intro to YYZ.
+
+ - You remember Ged, Alex and Neil's birthdays, but forget your SO's.
+
+&lt;&lt; Adrian Ogden   _ . _ _   _ . _ _   _ _ . .   ano@uk.ac.rdg.cs.csres &gt;&gt;
+
+    "If we get a chance," whispered Rincewind, "we run, right?"
+    "Where to?" asked Nijel.
+    "From," said Rincewind, "the important word is _from_."
+
+----------------------------------------------------------
+
+From: rstark@aipna.edinburgh.ac.uk
+Date: Fri, 24 May 91 11:09:50 BST
+Subject: Re: Love Songs & Stuff
+
+ Opus &lt;BEVINS@CEBAF2.CEBAF.GOV&gt; writes:
+
+&gt;   All this talk about Rush Love songs got me thinking about something
+&gt;one of my friends said about them once.  A couple of us were sitting
+&gt;around listening to music and he said that it was his theory that guys
+&gt;are searching for women who like RUSH.
+&gt;   There does seem to be (for some reason) a disproportionately small
+&gt;number of female RUSH fans.  We all thought that this was kind of funny and
+&gt;I pointed out that all the women I've dated _have_ been RUSH fans.  I was
+&gt;just interested to know if anyone out there might have an interesting
+&gt;story about this.
+
+I have found that most of the women I have dated have *become* Rush
+fans while they were with me....gee I wonder why?
+
+My highschool sweetheart and I, in the late seventies, used to
+make love to _2112_ quite a bit.  She was a calligraphist, and made
+me very nice wall hangings with the lyrics to "Something for Nothing" and
+"Freewill" (after _Permanent Waves_ came out, of course).
+
+I had another girlfriend in highshool who didn't like Rush, but she called
+me up one day about seven or eight years after we broke up to say that
+she had become a Rush fan, that she "finally knew what I was talking about"!
+
+I have had the experience more than once of having a girlfriend who is
+quite cool to Rush, who listens to them because I do perhaps.  Inevitably
+comes the day when I come home to find them playing Rush when I am not around,
+all the women I have lived with for any length of time (3) have become big
+fans eventually (buying albums, going to concerts, etc.)
+
+Once I met a woman in LA at a party and impetuously invited her up to spend
+a weekend with me in Santa Cruz, where I lived at the time. I didn't
+know her at all, and was wondering if it was such a good idea.  I
+picked her up from the airport and drove to my place.  She walked in and
+looked through my 200-disc colection of music for a few minutes; when
+she got to "R", she stopped and said "Oh goody, RUSH" and put on
+_Moving Pictures_ REAL LOUD.  I knew we were in for a fun weekend!  She
+always liked _Signals_ best for sex...
+
+Which reminds me of atime when I was in the dorms at UCSC, right
+after _Signals_ came out.  I was in my room, listening to it LOUD.
+When I came out, there was a note on my door, in a very feminine
+handwriting, saying "Rush is the ultimate to make love to".  You can bet
+I spend a lot of time trying to find out who wrote that note!  I eventually
+figured it out!
+
+My current SO was a fan in the late seventies, _Caress of Steel_, _2112_,
+and _A Farewell to Kings_.  In College the guys next door used to
+play side 1 of _Moving Pictures_, so she knew that too.   She hadn't
+listed to them in years when we got together, I had a good time introducing
+her to the last five albums (and _Permanant Waves_).  She now listens
+to Rush more than I do, its the _only_ thing she'll listen to, I like
+to mix it up a bit..no more than 4/5 of what I listen to is Rush! :-)
+
+Well, there's my "Rush and Girls" stories...I think women don't listen to
+Rush much for a number of reasons, but they are amenable to *becoming*
+fans if someone they care about is one.
+
+-Randall
+
+----------------------------------------------------------
+
+Subject: Women and Rush
+Date: Fri, 24 May 91 08:49:23 EDT
+From: David Arnold &lt;davida@syrinx.umd.edu&gt;
+
+I too have noticed the mostly-male following of Rush.  It's evident when
+I go to shows; about 3/4 to 4/5 of the crowd are guys, and most of the
+women are (dragged?) there with a guy.  For some reason, Rush seems to
+really attract the young (14-18) SWM* crowd; they make up most of the
+audiences at shows.  I must confess, I too fit the category (or did when
+I discovered them - I was about 16 and AFTK was the latest disk out).
+
+&gt;From my limited experiences with SO's, only a few could deal with Rush,
+and fewer than that actually liked them.  Luckily my wife was one of those
+who could deal with them, and likes some of their (more pop-oriented)
+stuff.  She also went to two shows with me, MP and either PoW or HYF.
+
+I have yet to figure out the male/female ratio of the list, but it would
+be an interesting excersise ... when I have some spare time.  (hah)
+
+* Single White Male
+
+David Arnold       Keywords:    Rush, Jethro Tull, Crack the Sky, Squeeze, BOC,
+                                 Neville Brothers, Peter Gabriel, Pink Floyd,
+Inet: davida@syrinx.umd.edu       Talking Heads, King Crimson, Rolling Stones,
+UUCP: uunet!syrinx.umd.edu!davida  Police, ELP, Grass Roots, Hollies, Guess Who
+
+----------------------------------------------------------
+
+Date:       Fri, 24 May 91 13:22:52 BST
+From: CP_PWM%CMS.BRISTOL.AC.UK@CUNYVM.CUNY.EDU
+
+Hi,
+
+a) Does anyone out there know what a Didact or Narpet is...from The
+   Fountain of Lamneth on Caress of Steel?
+
+b) Does anyone know where Neil Peart got the name for the 'Tobes of Hades',
+
+[ This is something Neil picked up from a friend's father; the guy used to
+  say "Hotter (or was it colder?) than the tobes of hell."  It stuck with
+  Neil, and he used it.  Source: Backstage Club newsletter Q&A from around
+  1989 (ASOH edition?).                                          :rush-mgr ]
+
+  the 'sign of Ath' (...is rising in the air) or 'By-Tor'? Did he just make
+   them up, or are they based on Legends???
+
+[ Actually it's "The sign of Eth...  If you check out the file "peart.q+a"
+  at the Syrinx ftp site (dir='special'), it answers some questions about
+  By-Tor.                                                      :rush-mgr ]
+
+    "...swimming against the stream"
+
+       PM
+
+----------------------------------------------------------
+
+Date:       Fri, 24 May 91 13:30:04 BST
+From: CP_PWM%CMS.BRISTOL.AC.UK@CUNYVM.CUNY.EDU
+
+Hi,
+
+   I'm sure that occasionally Geddy sings lyrics which are different
+   (sometimes only subtly) from those printed in the lyric sheets.
+
+    For example in Freewill, the lyrics state:
+      "If you choose not to decide you've still _not_ made a choice"
+
+    but I'm sure GL sings "...you still _have_ made a choice".
+
+[ Apparently this is a mistake in the original printing of the lyric sheet
+  for the American (Polygram) release of _Power Windows_.  The original
+  Anthem (Canada) version and the later US version jive with the lyrics.
+  The orignal US version is retained in the ftp lyrics for the sake of
+  perversity.                                                 :rush-mgr ]
+
+    Also in Mission, the lyrics state:
+
+         "We each pay a fabulous price, for our visions of paradise..."
+
+     But I'm sure GL doesn't say "visions". It sounds more like "building
+     our paradise"???
+
+     Am I right? Does anyone else out there know of any other anomalies
+     like these?
+
+     "...swimming against the stream..."
+
+----------------------------------------------------------
+
+Date: Fri, 24 May 91 10:48 EST
+From: Opus &lt;BEVINS@CEBAF2.CEBAF.GOV&gt;
+Subject: Red Barchetta, Available Light, Roll the Bones
+
+     Red Barchetta is one of my favorite songs.  I have to disagree
+(politely of course :-) with those who feel let down by the ending.
+I agree that it is somewhat abrupt, but I always thought of that
+transition as being a kind of relief.  There's this tension that
+builds up and climaxes in the chase.  Then, instead of a gradual
+letdown, there's a sudden release at the moment of escape.  It always
+seemed kind of appropriate to me for the way that someone might feel
+just after a very narrow escape.  Just MHO.
+
+[ I still like Patrick's allusion to sex! (NMS #244)              :rush-mgr ]
+
+     Another of my favorite songs is Available Light.  Someone asked
+what it was about in the last digest and I think that would be a
+really interesting discussion.  (Unless it's been hashed out before.  I
+haven't been able to read TNMS as regularly as I would've liked for a
+while.)  I think that the song is ambiguous enough that there will be
+MANY interpretations, so please take I anything I say about it with a
+grain of salt.
+     I find the song to be kind of inspiring, but it is difficult to
+say exactly why.  I sort of imagine the available light as a metaphor
+for the idea that we only have so much time in the world to experience
+life.  There's so much to see and so little time to see it all in.
+To me the song says there isn't enough time to do/see everything we
+want to because the world is such a mind-bogglingly huge place.  This
+realization might make some people give up out of frustration, but the
+song seems to say, "Even though I can't do everything, I still want to
+do everything I can."
+     " I want to look at life, in the available light."
+
+     As far as _Roll the Bones_ being the possible new album title, my
+first reaction was to think that somebody was playing with us.  Maybe
+this is reaching a little bit, but when I compared _Throwing the Stones_
+to _Roll the Bones_ the first phrase that came to mind was Rolling Stones.
+I thought briefly that this interplay of titles might be somebody's little
+joke about about the less-than-entirely-positive relationship that RUSH is
+supposed to have with either the band the Rolling Stones or the magazine
+Rolling Stone.  Like I said, I think this is reaching a bit, but it just
+faintly smacks of the kind of subtle joke I might expect from RUSH to
+give out a series of fake (or interim) album titles with some common
+allusion.  Just a random thought.
+     Considering for the moment that _Roll the Bones_ might really be
+the title (for lack of anything better to do :-), I don't think it's
+a bad one.  I wouldn't put too much emphasis on the voodoo/shamanism
+connection.  I think it could just be a more general sort of reference
+to the idea of trying to divine the future.  This would seem to me
+to fit in with what I see as a kind of trend in the later music toward
+a more introspective and kind of reflecting-on-life tone.  The title
+kind of has overtones of the randomness of future events and how none
+of us ever really knows what lies ahead for us personally.  I guess I'm
+saying it might be more of a statement about the futility of trying to
+guess the future.
+
+     I didn't intend for this become so long, but with the volume so far
+down and all I hope nodody minds.  I hope I might have inspired somebody
+to start a new discussion about some of these ideas.
+
+Brian
+bsb2u@virginia.edu
+
+ORQ "Chase the sun around the world..."
+    "Gentle hands that promise me comfort through the years."
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+NOTE: This e-mail service may or may not continue after May '91!
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 246
+********************************************
+
+

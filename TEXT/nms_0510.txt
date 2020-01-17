@@ -1,0 +1,761 @@
+From root Tue Sep  8 10:28  1992
+Received: by wake.ncsl.nist.gov (AIX  2.1 2/4.03)
+          id AA00247; Tue, 8 Sep 92 10:28:20 
+Received: by syrinx.umd.edu (5.57/Ultrix2.4-C)
+        id AA27970; Fri, 11 Sep 92 18:30:07 -0400
+Date: Fri, 11 Sep 92 18:30:07 -0400
+Message-Id: &lt;9209112230.AA27970@syrinx.umd.edu&gt;
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list@syrinx.umd.edu
+Subject: 09/11/92 - The National Midnight Star #510
+Status: R
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+          The National Midnight Star, Number 510
+
+                Friday, 11 September 1992
+Today's Topics:
+                     Random Sample..
+               First time, wishful thinking
+                          (none)
+                  First Rush Experience
+              First Rush, Next Setlist, etc
+                       Ramblings...
+                Re: First exposure to Rush
+                      rush factoids
+                        first time
+              Suggestion for NMS convention
+                     YES group group
+                  Tour Gripes and Hopes
+                      Dream Theater
+                     Re: First times
+                 rush ranting and raving
+             1st Rush in High School Drumline
+                       Women & Rush
+             Battlescar -&gt; Scars -&gt; War Paint
+                      Studio Videos
+      Re: 09/10/92 - The National Midnight Star #509
+              First Time/Comment about Jimmy
+----------------------------------------------------------
+
+Date: Fri, 11 Sep 92 17:20:11 -0400
+From: jlang (~ Rush Fanatic ~)
+Subject: Random Sample..
+
+&gt;From ericl@ocean.washington.edu Thu Sep 10 20:26:59 1992
+&gt;Date: Thu, 10 Sep 1992 17:19:42 -0700 (PDT)
+&gt;From: Eric Lundquist &lt;ericl@ocean.washington.edu&gt;
+&gt;Subject: First Time/Comment about Jimmy
+&gt;
+&gt;Anyway, after just reading the last NMS, and having my prediction of Jimmy
+&gt;getting in the last post turn up correct, I've gotta ask:  How/Why?  Are you
+&gt;doing that on purpose, or do you just happen to send in your mail right
+&gt;before the cutoff?
+
+The cron job on syrinx runs at 18:30 EDT, the 2nd cron job if there are
+more than one issue runs at 21:30 EDT.  Meg and I start working on the
+digest at about 16:00-16:30 EDT every day.  After all the admin stuff
+of subscribing new users and unsubscribing old users and changing email
+address requests, I do a reply to the previous day's digest, and finish
+around 18:00-18:30 EDT.  Then I just mail it in.  Then Meg (or I) run a
+script that clears out all the queue, and edit the digest, clear out
+flames, shorten long .sigs, etc..etc.  The final product then is the
+digest, which then gets picked up and distributed by the cron job.  So
+yes, because of the scheduling and the way the digest is run, my post is
+usually the last one to come in the queue.  But of course, during the
+editing, I could really just stick the post in any order really.  I just
+usually leave the order up to the script that runs which puts articles
+in chronological order in which they appear in the mail queue.  But now
+that you know what time the cron jobs run, if you want your post to be
+last, make sure and mail it in before the cron runs at 18:30 EDT.
+
+&gt;I don't really care WHAT they put in the set list, since anything would
+&gt;please me.  I must say that Jimmy and others wouldn't be *QUITE* so bored
+&gt;of Tom Sawyer and Closer To The Heart if they didn't manage to go to so
+&gt;many concerts!  Lucky dogs!
+
+Yes, you are correct.  I am just thinking that maybe it's time we hear
+other material in concert?  The band always talks about not wanting to
+play a song where they are not 100% committed to the way it fits.  If
+they can't put 100% into a song or not enjoy it anymore, then it's time
+to move on.  Geddy and Alex have said time and again that this is the
+main reason why set list changes occur, on top of wanting to play new
+material.  They simply get tired of playing them and don't feel they
+give the fans the 100% conviction if they do play those songs.  Looking
+through the older tours and the countless bootlegs out there, Tom Sawyer
+has been performed on every tour since its inception, as well as Closer
+to the Heart.  With this in mind, I just wonder how much longer they can
+continue to carry those songs live and still retain the 100% conviction
+they talk about.  On top of the whole thing, I think that the radio play
+of those songs really kills any enjoyment left.  "Tom Sawyer" has become
+Rush's "Stairway to Heaven" where FM waves are concerned.   So when next
+tour comes around, I wouldn't be surprised if Tom Sawyer or Closer to
+the Heart comes up as possible candidates to "get the axe".  The
+question is really, how many more tours will it survive, and can Rush
+play those songs with 100% conviction?  Maybe they won't be gone this
+next tour but as the tours come and go, I'm sure songs like TS and CttH
+will prop up again.
+
+You're probably right, I'd be less bored (if you can call it that, I'm
+never bored at a Rush show) if I saw them less.  Lucky dogs, yes, but
+then you've probably got even more money in the bank now that the tour is
+over than I ever did, *especially* now that the tour is over.  I wasn't
+in too good a shape that's for sure.  :)
+
+-Jimmy
+jlang@syrinx.umd.edu
+PS.  Ok, here's one for the person who started the trivia game.
+     Posted a long time ago, I don't think anyone really got it.
+     Although several were close.  Which movie inspired "The Body
+     Electric" and who was the famous producer/director?  (Hint it was
+     his first movie)
+
+----------------------------------------------------------
+
+From: jrlaurit@eos.ncsu.edu
+Subject: First time, wishful thinking
+Date: Thu, 10 Sep 92 18:11:02 EDT
+
+After reading what I still consider a suprising number of responses to the
+first time thing (a great idea, though I'm afraid I've forgotten whose it was)
+I can no longer stand feeling left out.
+
+The first time I heard Rush was in eighth grade.  A couple of my friends
+picked me up and we were headed out to find something (anything) to do.  We
+ended up cruising back to someone's house who had 2112 and Moving Pictures on
+eight-track (if I'm not mistaken, because my car still had an eight track
+player in it at the time).  And, just as someone else was quoted as saying on
+the issue, the first chord of Tom Sawyer absolutely blew me away.  I've never
+been one to listen to the radio, unless by force, so I had heard maybe a
+couple times before.  I saved up my lunch money for a week and a half and
+purchased Moving Pictures on LP and wore it out.
+
+Another first was a truly touching momemt for my mother and me.  I walked into
+the kithcen ( I was home for the weekend ) after taking a shower (where I
+always ... sing???) and I was still humming the chords to "Cry Me a River",
+one of my mom'm favs, when I overheard familiar strains coming from the
+kitchen.  I turned the corner just in time to hear mom singing "We are the
+priests of the Temples of Syrinx..." and almost died.
+
+As far as Jimmy's request for predictions...I'm sure that it won't be played,
+but has anyone ever had the privilege to hear "In the End" performed live in
+concert.  I love the ATWAS version, but I've always always always wanted to
+hear them perform it.  I don't ever plan on it, but there's that little part
+inside of me that can't help but dream.
+
+Later,
+
+jrlaurit@eos.ncsu.edu
+John Lauritzen
+4101 Deep Hollow Dr. #272
+Raleigh, NC 27612
+
+-------------------------------------------------------------------------------
+|                                                                             |
+|This message has been brought to you by the numbers 6, 2 and 9 and by the    |
+|letter E.                                                                    |
+-------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Thu, 10 Sep 1992 17:12:20 -0500
+From: Jason Crawford &lt;me12792@camelot.bradley.edu&gt;
+
+Hello...I am writing for some type of list concerning RUSH!!...I
+think its a mailing list...I have been following Rush for years and
+have recently found out about this service, so here I am...Mail me
+anything you can about Rush...Thanks...
+
+----------------------------------------------------------
+
+Date: Thu, 10 Sep 92 18:29:05 -0400
+From: ba080@cleveland.Freenet.Edu (Jim B. Stevenson)
+Subject: First Rush Experience
+
+Hullos all!
+
+	Well, with all the talk of 1st Rush listening experiences,
+I thought I'd share mine.
+
+	The first time I ever heard Rush was the first time I went
+over to my now-best-friend's house.  He had Temples of Syrinx playing,
+and I immediately loved the song!  I asked him who the group was, and
+he simply said it was Rush, and the album was 2112.  I had never
+even HEARD of Rush (I know...what a sin!), so I thought they were a
+new group.  So I went out that very night and got 2112.  When I looked
+on the back of the tape, it said (c)1976!!  Let's just say I was a bit
+surprised!!!
+
+	Now, nearly 3 years later, I have all of their CDs, several
+bootlegs, posters and other neat Rush stuff all over my walls, and
+a near-mint Archives on LP.
+
+	It was Alex Lifeson's style that convinced me to play guitar,
+and the 1st song I learned was Closer to the Heart.  Now I can play
+many, many of their songs, and my group "TimeLapse" is a Rush-inspired
+group (though we're also a garage-Rush-tribute band when we're not
+working on original material).  Who knows, maybe we'll open for
+Rush someday :)
+
+	Keep on rockin' and rollin' dem bones!!!
+
+--
+[][][]  []  []  [][][]  []     ba080@cleveland.Freenet.Edu |"Why are we here?
+[]      []  []  []____  []____   Jim `SnowDog' Stevenson   | Because we're
+[]      []  []  ~~~~[]  []~~[] HAIL DIRK,LERXST,AND PRATT! | here!
+[]      [][][]  [][][]  []  [] "Nowhere is the dreamer..." | Roll dem bones!"
+
+----------------------------------------------------------
+
+Date: Thu, 10 Sep 92 18:55:08 -0500
+From: irsman@iastate.edu
+Subject: First Rush, Next Setlist, etc
+
+The first time I heard Rush was in the car with a friend of mine when I was a
+soph. in HS.  The radio station played "Presto" and "Superconductor" and I
+was instantly in awe (cliche tho it sounds :).  Right after that I ran out
+and got Presto, and then HYF, and so on and now I have all the CDs and the
+ASOH and Chronicles videos, plus the B-Man's great book.  I finally got to
+see the boys in concert for the first time this summer at the St. Louis show
+June 12.  I was completely blown away all over again...I couldn't hear anything
+'wrong' with the songs vs the studio versions.  And "Analog Kid"...one of my
+favorite songs (as an album I -love- Signals!).
+
+Songs I'd like to hear on the next tour: The Weapon, AFTK, Kid Gloves,
+In The End, Tears, and Avalible Light.  (no, I'm not really expecting any
+of these to turn up, this is a wish list! :)
+
+Ian Schmidt
+irsman@iastate.edu
+
+ORQ: "I will choose a path that's clear, I will choose free will."
+
+----------------------------------------------------------
+
+From: jewright@mtu.edu (JASON WRIGHT)
+Subject: Ramblings...
+Date: Thu, 10 Sep 92 20:47:16 EDT
+
+'ello again...
+
+Let's see...The first time I heard Rush?  Well, I must have been early 80's
+Tom Sawyer was fairly big on the radio.  I never thought much about the band,
+just that I thought it was a cool tune.  Then, in 12th grade (1989), I was
+going out to lunch with a friend and he put MP on the tape deck in his car
+(I could go on for hours about this car, but that's another story).  As soon
+as Tom Sawyer came on, I was instantly hooked, screaming "That's Rush isn't
+it??!??!?!?!?"  Later that week, I went and bought 2112 on tape and fell in
+love.  Before I got 2112 on CD, I played the tape so much that its quality has
+deteriorated to the point that it's hard to listn to.  :)
+
+Someone mentioned their favorite albums.  I'd have to say that my top five
+are #1 2112, #2 MP, #3 PeR, #4 HYF, and #5 PoW.  My least favorite album still
+has to be FBN and not the over-critcized Cos.  Sorry folks, I LIKE CoS.  The
+Fountain of Lamanth (sp?) is a very well-written song.  I'd even go so far as
+to say that it's better than Hemispheres.
+
+To whoever said it:  I think you're right, By-Tor will be the song to be
+revived next tour.  Personally, I'd like to see In the End brought back...
+
+This is getting a bit long.  I was going to spit out a tour story, but I've
+gone on long enough.  Perhaps next time.  Roll 'em...
+
+                                             -PeeWee
+
+      "My god...It's full of fish!!"  -Geddy Lee's interpretation of 2010
+                     What crawls on maggots when they die?
+                Email: jewright@mtu.edu   Phone: (313) 656-0946
+             Math undergrad from Michigan Technological University
+        "The worst sex I ever had was still pretty good."  -Woody Allen
+
+----------------------------------------------------------
+
+Subject: Re: First exposure to Rush
+Date: Thu, 10 Sep 92 17:46:42 PDT
+From: Bob Joslin &lt;bobj@hpindhc.cup.hp.com&gt;
+
+I'll try to keep this short...
+
+Back in the summer of 1978, I was spending a few weeks with my good
+friend Tom, in LA.  One night, were both going to sleep, and at about
+1AM in the morning we hear 2112 on the radio (KMAX I think.)  My
+friend exclaimed "It's a song about a guitar."  I thought what a
+stupid thing to sing about, though I did like the song.  But being the
+first time, I didn't really understand the full story.
+
+About the time of Signals, several years later, I met a new friend,
+Greg, who was into Rush and had the 2112 album.  I remembered the song
+from that night several years ago, so I decided to read the lyrics.
+After reading them, I became a dedicated fan.
+
+Bob
+
+----------------------------------------------------------
+
+From: lobaugh@VOTH6.CHEM.UPENN.EDU
+Subject: rush factoids
+Date: Thu, 10 Sep 92 21:07:44 EDT
+
+I discovered a few things obscure rush trivia facts that I think
+could be safely added to the FAQ (Dan, are you reading this?)
+
+1. In the Woody Allen movie "Everything you you wanted to know
+about sex but were afraid to ask" there is a sketch that parodies
+Italian films in which Woody is married to a women who can only have orgasms
+if she has sex in public. One of the last lines in the sequence is where
+Woody says in italian "... something something villa strangiato" which is
+translated in the subtitles as "...my wife,  she is weird city"
+So there you have it folks. I beleive the film was released several
+years before "Hemispheres".
+
+2. The National Midnight Star is a sketch in an episode of the TV show SCTV.
+I saw an old rerun of it just a few weeks ago. I pretty sure the episode
+predates the release of p/g so I'm guessing Neil borrowed the title
+from the show. The sketch is obviously a television parody of
+the National Enquirer. The television host wears a loud obnoxious
+plaid suit and interviews "friends" of famous stars.
+There are, of course, a number of other connections between Rush and
+SCTV. Geddy  in sang "Take Off", the Bob and Doug song which came about
+because Geddy went to high school with one of the fellows who played
+Bob or Doug and subsequently stayed in contact with him over the years.
+Someone with _Visions_ can fill us in on who it is that Ged knew (?).
+
+--
+John
+lobaugh@a.chem.upenn.edu
+
+----------------------------------------------------------
+
+From: robertg@cs.umbc.edu (Robert Gottlieb)
+Subject: first time
+Date: Thu, 10 Sep 92 22:40:06 EDT
+
+Hi all,
+
+This is my first post and is also regarding my first time hearing
+rush.  I have a sister who is now 30, that got me into "hard rock"
+back in 4th and 5th grade.  By 6th grade I was listening to
+Rush.  My first album was Hemispheres.  I liked La Villa
+Stragiato (sp?) right out, but wasn't too thrilled with the
+rest of the album at first.  Now (a few years later :) ) I
+really like the entire album.  I also like alot of the older
+rush.  Oh, Hemispheres was my first album owned.  My first
+album I ever heard was 2112.  I liked the entire album. :)
+I also like how Rush has evolved.  My sister, on the other hand,
+doesn't like how their sound has mellowed a little bit.  She's
+more into Heavy Metal now, and has her own band, and she's
+pretty good on guitar (if I don't say so myself :) ), so I guess
+she can criticize. :)  But overall there is very few Rush songs
+I don't like.  Well there is Caress of Steel, but I still like
+Lakeside Park, and I Think I'm Going Bald is pretty funny. :)
+
+See ya!
+
+Robert Gottlieb
+gottlieb@umbc4.umbc.edu
+"Not gonna do it.. wouldn't be prudent..."
+Not umbc's opinion.
+
+----------------------------------------------------------
+
+Date: 10 Sep 1992 22:16:13 -0500 (CDT)
+From: I program in BASIC &lt;TBEAUDOIN@VAX1.UMKC.EDU&gt;
+Subject: Suggestion for NMS convention
+
+	How about a series of panel discussions/debates on different
+Rush-related topics .. and the final night, a big RUSH BINGO game,
+with cards full of Rush trivia?  COOL.
+
+Thomas Beaudoin
+
+----------------------------------------------------------
+
+Date: 10 Sep 1992 22:17:58 -0500 (CDT)
+From: I program in BASIC &lt;TBEAUDOIN@VAX1.UMKC.EDU&gt;
+Subject: YES group group
+
+	Dear Whoever-posted-about-the-Yes-discussion-list...
+I have tried to reach "Cathy" at the address you gave 
+(v111pbxx@ubvms.cc.buffalo.edu) but my mail was returned.  You sure that's the 
+right address? Or did i just copy it wrong?? Thanks..
+
+Thomas Beaudoin
+
+----------------------------------------------------------
+
+Date: Thu, 10 Sep 92 23:34:00 -0400
+From: cwg@acpub.duke.edu (CLAY GOLDWEIN)
+Subject: Tour Gripes and Hopes
+
+I was extremely pleased to see Subdivisions and The Pass retired in favor of
+The Trees, The Analog Kid, and Vital Signs on this past leg of the tour.
+That was only my 3rd time seeing the band, and already I was getting tired of
+some songs and ready for new ones.  I'd love to see Tom Sawyer, Closer to the
+Heart, and Time Stand Still retired--they're about due.  What to replace them
+with?  Well, I'd love to see Natural Science!  To keep it fair to HYF, I'd
+have them play Prime Mover.  And to round things out...I'll predict they'll
+dredge up A Passage to Bankok.  Oh, I almost forgot to get rid of Show Don't
+Tell (IMHO the weakest song on Presto).  I'd love to hear War Paint again or
+Red Tide would be great.
+
+As for the opener, Force Ten is dead.  I'd move it towards the end of the set
+(although I wouldn't make it an encore) and open with either something from
+the next album or Dreamline.  I'm partial to openers with weird intros, such
+as the "ratchet" sound in FT, the car in Dreamline, etc.  Another good opener
+would be Ghost of a Chance if they speed it up a bit.  Here's hoping they come
+to North Carolina...
+
+------------------------------
+Clay Goldwein                 "Now's the time to turn the tide.
+cwg@raphael.acpub.duke.edu     Now's the time to fight.
+cwg@majors3.cs.duke.edu        Let us not go gently
+                               To the endless winter night."
+                                    -Neil Peart
+
+----------------------------------------------------------
+
+Date: Fri, 11 Sep 92 01:01:35 -0400
+From: cwg@cs.duke.edu (Clay W. Goldwein)
+Subject: Dream Theater
+
+Sorry for the non-Rush content, but this is the only place I could possibly
+think of asking this question...
+
+My roommate bought the Dream Theater album _Images and Words_ that was
+recommended by a fellow NMSer.  At the end of the first song, "Pull Me
+Under", the song ends abrubtly.  He thinks that it's the way it's
+supposed to be, but I think it's a skip.  The CD player also says that
+2 seconds still remain when this occurs.  Anyone who has the album know
+if their copy does that?  Thanks.
+                                -Clay
+
+----------------------------------------------------------
+
+Date: Fri, 11 Sep 1992 00:01 MST
+From: HAGBERG@CCIT.ARIZONA.EDU
+Subject: Re: First times
+
+Oh boy!  My first submission as an NMS neophyte!  As far as the
+first-time thing goes, I actually really started to kick off on Rush
+about 2 years ago, but my first serious exposure was about 5 years ago
+when one of my friends was getting into ASOH.  He insisted that I
+sit down and listen while he played Marathon and a few other tracks
+(now one of my favorites on that album).  I was heavily into Jethro
+Tull at the time--had all the albums, etc. etc.  Decided that Rush was
+comparatively worthless, and promptly disregarded it until my Junior
+Year when I was finally Tull Fried.  I bought ASOH and was hooked.
+Gee, this was almost better than "Thick as a Brick."  ESL, Chronicles,
+and 2112 followed (I had to see what the Rand thing was about).  What
+totally blew me away was seeing them live in Worchester last
+winter/spring.  Now it's an Album a month whether I can afford it or
+not (not easy on a grad student budget).  The NMS has definitely
+helped shape my "wish list."
+
+"I see the hand of man arise,       -=-   D. J. Hagberg
+ with hungry mind and open eyes."   -=-   hagberg@ccit.arizona.edu
+         -- Neil Peart, 2112
+
+----------------------------------------------------------
+
+Date: Thu, 10 Sep 92 12:48:19 PDT
+From: qsp!danb@uunet.UU.NET (Daniel Benbenisty)
+Subject: rush ranting and raving
+
+Yo,
+
+This is my first time breaking the energy barrier
+of posting to this group (pop!) after reading it awhile.
+
+I just want to say that RUSH used to be my favorite
+band for about four or five years.  Their [older] material
+was so much more bold, imaginative, refreshing, original, etc.
+than 99% of the stuff out there, and more rocking than
+99% of the progressive/interesting stuff I had heard up to
+that point (Yes, Floyd, Crimson, etc.)...
+
+&gt;..I had no choice but to listen to RUSH non-stop.
+
+My love for RUSH was borne from listening to 2112, Permanent
+Waves, MP, FtK, CoS - essentially just about everything from MP and before.
+
+Eager for more RUSH, I went out and bought their 'later' material:
+Signals, Power Windows, etc.  I was severely disappointed.  It is my
+contention that there is not much original music after Moving Pictures.
+They have become a different band, with not much to offer besides good
+musicianship.  They've lost:
+
+	- original rhythms/ odd time signatures (with one or 2 exceptions)
+	- original chord progressions.
+	- thematic development
+	- epic length touch
+	- lyrical/emotional range
+	- the free time to compose (they're family men now)
+
+- basically everything I listened to them for.  Now that I've heard all
+their pre-1982 stuff about 5000 times over, I listen to it only occasionally.
+Well, sorry for the negativity, but I had to get some honest feeling
+off my chest.
+
+[now donning asbestos suit]
+
+So rather than regret the lack of good RUSH, dammit, a couple of years
+ago I formed my own band!
+
+Come check us out - we've been called "bad-ass RUSH," and studio
+musicians say that we "put RUSH to shame" (sorry, but that's not
+hard to do nowadays, material-wise).
+
+Send me your address, and I'll put you on our mailing list, e-mail
+or snail mail.
+
+&gt;&gt;&gt;===Pan-Handle-Dan===&gt;	danb@qsp.com
+Daniel Benbenisty		ph: 310 410-0303
+Guitarist for EARWURM		fx: 310 410-0124
+
+----------------------------------------------------------
+
+Date: Fri, 11 Sep 1992 10:03:22 CDT
+From: quinn@uchep.uchicago.edu
+Subject: 1st Rush in High School Drumline
+
+Hey all,
+
+	Along the lines of the first Rush experience, are there any of you
+that were first exposed joining the drumline of your school band?  After
+my first week of drum camp before ninth grade, I and just about every other
+Freshman drummer were complete Rush fans.  This indoctrination almost had the
+feel of ancient tribal wisdom being passed down to younger generations.  But
+I guess I'm exaggerating a bit.  Anyway, it was definitely something you were
+exposed to and 'taught' when you became a member of the drumline.
+	We were quite devoted - even forced the Director to cancel the
+rehearsal three days before a marching contest because the Rush concert
+(Grace Under Pressure) was that night.  The whole drumline threatened to quit
+when he said we couldn't go.  A very tense confrontation between the drum
+captains and the Director ensued in his office, but he finally backed down,
+we went to the concert, and won the contest (including the Percussion Trophy)
+three days later!  It didn't hurt to have Neil's inspiration by example
+pumping us up for the event.
+	Well talk to you later,
+
+			-Breese
+
+----------------------------------------------------------
+
+Date: Fri, 11 Sep 1992 11:04:05 -0400 (EDT)
+From: Anna Matyas &lt;am2x+@andrew.cmu.edu&gt;
+Subject: Women & Rush
+
+Since I'm a woman and a brand new Rush fan, maybe I'm qualified to talk
+a bit about why women don't like Rush.
+
+I think there's some truth to the line of thought that voice has a lot
+to do with it.  Geddy's voice is the probably the #1 reason why I always
+hated them.  I couldn't get past it to concentrate on the lyrics.  This,
+plus the fact that their songs seemed to be repetitious.  Personally, I
+find it difficult to get past an unpleasant voice.  I like a lot of
+Chris Rea's lyrics, for instance, but I don't listen to him that often
+because I don't like his voice.
+
+I'm not sure about the harshness of Rush being a reason, though.  Heavy
+metal is certainly harsh, and heavy metal bands seem to have large female
+followings.  However, part of the attraction to heavy metal is not the
+music but the whole aura of the guys in the bands.  There's a physical or
+sexual attraction to these men.  Let's face it, not many women would want
+to swoon over Geddy or throw their underwear at him!  I don't know what
+Rush was like in the 70s but I just can't imagine them having the same
+kind of female following as someone like Duran Duran, simply because
+they don't look the part.
+
+This is not meant to be a commentary on why women like rock music.  There's
+more than one reason, and attraction to the guys in the band is certainly
+one of them.  I admit that when I was in my 20s this was a big part of it
+for me.  But this had nothing to do with Rush -- it was their sound I
+didn't like.  I liked Led Zeppelin, Pink Floyd, et. al. (supposed "guy"
+bands) -- without knowing what they looked like.  I should also point
+out that in the early 70s both my brother and my boyfriend at the time
+liked these bands and probably served to influence my musical tastes.
+I was very into driving guitarists such as Jeff Beck and Rory Gallagher,
+and still listen to them a lot today.  I can also remember my boyfriend's
+friends telling him how envious they were that HIS girlfriend was into
+this kind of music and THEIR girlfriends were off listening to Crosby,
+Stills, and Nash.  (Interestingly, many of these girls quit listening to
+CS&N when Neil Young joined them!)
+
+I guess I just never knew anyone, guys included, who liked Rush enough
+to try to turn me on to them.
+
+As far as Roll the Bones being a record that attracts women, well, it
+certainly worked for me.  I mentioned in my original post that "Ghost of
+a Chance" is the song that did it for me.  However, I should note that
+as much as I like RTB, it pales in comparison to 2112.
+
+So there's my 2 cents on the subject.
+
+Anna
+
+----------------------------------------------------------
+
+Date: Fri, 11 Sep 92 11:02:29 PDT
+From: changed%robotics.Berkeley.EDU@ucbvax.Berkeley.EDU (Chang... Ed Chang.)
+Subject: Battlescar -&gt; Scars -&gt; War Paint
+
+&gt;&gt;     In my mind, I can't think of a real explicit reference to a female until
+&gt;&gt; we get the song Battlescars on Presto.
+
+&gt; You mean ``Scars'' on Presto. Nope, not the first female persona.
+
+Actually, he probably means "War Paint."  (You should have caught that
+one, Gregg... :-)  "War Paint" is one of those songs for which I've always
+wanted to produce a video, if I had the time and money.  Speaking of
+videos, I don't like most of Rush's videos -- I think the concert footage
+doesn't do justice to the energy in the live concerts, and I dislike
+the blue-screen overlay stuff (e.g. "Distant Early Warning" and "Time
+Stand Still").  I really liked the section of the RTB video they played
+at the concerts, though.
+
+Back to women and Rush, I think the main reason there are so few women
+fans is that, due to lack of airplay, most non-Rush-listeners classify
+them as "just another heavy metal band."  The airplay of RTB is changing
+that, as people have noted at the concerts...
+
+Ed
+
+----------------------------------------------------------
+
+Date:         Fri, 11 Sep 92 14:38:32 EST
+From: "Hans G." &lt;PY297HG%UVMVM.BITNET@mitvma.mit.edu&gt;
+Subject:      Studio Videos
+
+One more try:  I am interested in finding out which studio Rush videos are
+cool (that are not on the Chronicles Video) and where one might find them.
+Someone mentioned some cool vids on the Camera Eye, are any of them studio?
+Are any of the Presto/RTB videos available? etc.  Thanks in advance.
+                                                      -Hans G.
+
+----------------------------------------------------------
+
+Date:         Fri, 11 Sep 92 16:35:58 EDT
+From: Raistlin &lt;PL911141%PACEVM.bitnet@CUNYVM.CUNY.EDU&gt;
+Subject:      Re: 09/10/92 - The National Midnight Star #509
+
+     Dear RUSH fans,
+
+     as i'm sure you all agree... you don't have to be an old RUSH fan to be a
+RUSH fan at all....... Whether you first heard RUSH on the original RUSH albulm
+or you were introduced to them after the release of Roll The Bones.... it 
+really doesn't matter..... You like RUSH now... and that's all that counts!!!!!
+   My first introduction to RUSH was the HEMISPHERES way back when it was 
+originally released...... I was only 6 years old when my dad put on CYGNUS x-1 
+Book II.... i heard intro, apallo, and dionysus... and that's all it took.....
+   i listlened to that albulm so much i wore out the needle on the phonograph..
+My favorite albulm has to be HEMISPHERES.... then i would say MOVING PICTURES...
+and SIGNALS.... the older albulms such as Fly-By-NIGHT and CARRESS OF
+STEEL being more along the storybook line are my favorites when i just want to
+lie back and "zone out" (legaly or illegaly induced)... because of their 
+transient fluid movement thoughout the songs......
+     i honestly don't think i've ever seen a band more quoted by high school st
+udents in their yearbooks as RUSH............ Neil certainly has the gift....
+          oh well... gotta go now......... have to do work...
+    all: thanx for the info that was sent on the cd recordings i sought and the
+ exit stage left video...... by for now.....   Jim Foster.... ( roccinante )
+
+----------------------------------------------------------
+
+Date: Thu, 10 Sep 1992 17:19:42 -0700 (PDT)
+From: Eric Lundquist &lt;ericl@ocean.washington.edu&gt;
+Subject: First Time/Comment about Jimmy
+
+The first time I ever heard Rush?  It was just after ESL came out, and my
+older brother had a crappy copy of Tom Sawyer on tape.  I was instantly
+hooked, and started getting all their albums.  A few months later, I had
+just gotten Hemispheres and my eldest brother came into my room.  He goes,
+"Oh, so you like Rush too.  Hemispheres would have been my first concert,
+but Mom said, 'Rush?!?  Isn't that a drug?  I don't want you going to
+that!' ".  What a bummer!
+
+Anyway, after just reading the last NMS, and having my prediction of Jimmy
+getting in the last post turn up correct, I've gotta ask:  How/Why?  Are you
+doing that on purpose, or do you just happen to send in your mail right
+before the cutoff?
+
+   [ See Jimmy's post above...				: rush-mgr ]
+
+I don't really care WHAT they put in the set list, since anything would
+please me.  I must say that Jimmy and others wouldn't be *QUITE* so bored
+of Tom Sawyer and Closer To The Heart if they didn't manage to go to so
+many concerts!  Lucky dogs!
+
+--------------------------------------------------------------------
+Eric Lundquist                           102 Ocean Research Building
+Unix Technician, School of Oceanography                        WB-10
+University of Washington, Seattle, WA, USA                     98195
+ericl@ocean.washington.edu                            (206) 543-0594
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1992.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+********************************************
+End of The National Midnight Star Number 510
+********************************************
+
+
+

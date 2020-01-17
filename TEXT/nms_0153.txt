@@ -1,0 +1,178 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 01/17/91 - The National Midnight Star #153
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 153
+
+                Thursday, 17 January 1991
+Today's Topics:
+                      Administrivia
+                        poetry?!?
+                Re: Interpreting "In Awe"
+                          (none)
+                        Hometown!
+----------------------------------------------------------
+
+From: The National Midnight Star Editor &lt;rush-mgr@syrinx.umd.edu&gt;
+Subject: Administrivia
+
+One quick note:  does anyone on the list have any *definite* information
+on copywrite issues WRT guitar TAB notation distribution?  If yes, please
+send mail to the administrative address.
+
+Hmm, things are a bit 'thin' today - I hope new album news comes soon! :-)
+
+rush-mgr
+
+----------------------------------------------------------
+
+Subject: poetry?!?
+Date: Wed, 16 Jan 91 9:21:38 PST
+From: Doug Grumann &lt;dougg@hpptc16.rose.hp.com&gt;
+
+Since everybody enjoyed my Limericks last year (insane laughter erupts
+from the peanut gallery), and we've been on the subject of Rush poetry,
+I thought I'd throw up a few new ones into your email mbox:
+
+There once was a student in Des Moines
+who'd play Rush at the drop of a coin
+his roommate would say:
+"I'm more fond of Tchaikovskay..
+and you're really a pain in the groin!"
+
+There once was a Rush fan in Alabama
+who's license plate said "RUSHKA"
+He couldn't make friends
+with the local born-agains
+who named him a Satan Worshippin Sinna
+
+There once was a Rush fan musician
+who'd spent hours just listenin'
+with his ear to the grille
+to the chords in Freewill
+proclaimed "Surely its done in F Lydian!"
+
+----------------------------------------------------------
+
+Date: 	Wed, 16 Jan 1991 11:54:20 PST
+From: crenshaw.osbu_north@xerox.com
+Subject: Re: Interpreting "In Awe"
+
+I feel like this is getting a little bit away from Rush and more
+into a poetry seminar, so I'd rather not explain my poem here.  If
+you'd like, I'll email a reply to Bob's letter.  If you insist, I'll
+post it.  Bob, I'm having trouble emailing to you...I'll keep trying,
+but do you have an Arpanet version of your address?
+
+Cheryl
+
+"When I was in high school the one group I couldn't hang out with was
+the Rush group...'cause the lyrics were too intelligent for me.  I
+like the Ramones, man."
+     --approximation of Big Rick Stewart, DJ on the local modern rock
+       station (yeah, I listen to that, too).
+
+"What happened to his nose?  Did he get hit by a baseball or something?"
+     --approximation of Steve Masters, another DJ on the same station,
+       talking about a certain bass player we all know and love.  It
+       was an interesting conversation....  :-)
+
+----------------------------------------------------------
+
+Date: Wed, 16 Jan 91 18:29:30 EST
+From: jek@egrlab.ac.duke.edu (James Kittock)
+
+Wow... poetry AND analysis.  Starts to remind me of why I'm
+a computers major, not an english major... :-)
+
+Making me think about words like that-- it's not nice!
+
+James Kittock
+Duke University Class of 1992,  Computer Science/Math/Russian Major
+jek@egrlab.ac.duke.edu    PO Box 5750 DS, Durham, NC 27706 USA
+"Another war-- another waste land-- and another lost generation..."
+
+----------------------------------------------------------
+
+Date: Wed, 16 Jan 91 18:18 CST
+From: Blue Steel &lt;UCSKRT@ucs.UWPLATT.EDU&gt;
+Subject: Hometown!
+
+     I just got back to school, was was browsing through my mail since then,
+when my eyes caught the address that people sent drum solos to for that Neil
+Peart giveaway:
+
+&gt;Mail entry forms to:
+&gt;Modern Drummer, Attn: Neil Peart Drumset Giveaway
+&gt;870 Pompton Ave.,Cedar Grove, NJ 07009
+
+Now this isn't Rush-related, but my hometown is perhaps the only other Cedar
+Grove in the world, located in Wisconsin. Population is approximately 1400, so
+you can imagine my surprise at finding another such town. Is this, by the way,
+Modern Drummer's normal mailing address?
+
+Trivially yours,
+================================================================================
+Kevin Tipple, aka Blue Steel, By-tor       University of Wisconsin - Platteville
+Bitnet: UCSKRT@UWPLATT.BITNET              Platteville, Wisconsin  USA
+Internet: UCSKRT@UCS.UWPLATT.EDU
+--------------------------------------------------------------------------------
+"Oh dear, the penguin's exploded." - Monty Python
+================================================================================
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 153
+********************************************
+
+

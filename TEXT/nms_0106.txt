@@ -1,0 +1,459 @@
+Errors-To: rush@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 11/20/90 - The National Midnight Star #106
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 106
+
+                Tuesday, 20 November 1990
+Today's Topics:
+                     Concert Science
+                   Archive File Server
+               Tom Sawyer rap-off; YYZ flub
+                    Bits and pieces...
+               Re:  Good deal on Rush CD's
+           A Show of Hands and thanks Joe Kung
+                     Lee on Keyboards
+                         ASOH LDs
+                 Anthem on P/G? Pentagram
+                       Import info
+----------------------------------------------------------
+
+Date: Mon, 19 Nov 90 17:52:40 +0100
+From: bijan@chorus.fr (Bijan Forutanpour)
+Subject: Concert Science
+
+Yo RushHeads,
+
+What always blew my mind at Rush concerts was the lazer works.
+I've always wanted to know more about the behind-the-scenes set up
+of the lazer and lightwork.  Each time that I've seen them (always
+in the San Diego Sports Arena), they've had mirrors around the arena
+corners, sides, etc and create a web of lazer light via reflections.
+In addition, they created images on the screen behind them, much in
+the style of Lazerium shows (how many people have seen the RUSH versions?)
+Incredible stuff here, I WANT DETAILS!!   What sort of soft/hardware
+is going on behind the scenes?! Who does it for them?
+Can I send Rush my resume (yeah, right).
+
+Actually, I can answer one of my own question:  The lazer work for
+the Lazerium shows is done by Lazer Images, based in Santa Monica, Calif.
+
+At one particular Rush show (in San Diego), they had MAJOR electrical
+problems, and the concert had to be stopped 3-4 times, as they fixed
+a fuse, etc, whatever.....it was great fun, because the Arena lights went
+on and Alex started to tap dance while "problems" were being fixed. It was
+too funny.  PS. From what I saw, Alex is turning into Mr. G.Q. on stage.
+Relax dude, wear a T-shirt.
+
+Anyway any info anyone can share with me/us on the questions asked in
+part II of paragraph I  is highly appreciated.
+
+'Later
+
+bijan@chorus.fr
+
+----------------------------------------------------------
+
+Subject: Archive File Server
+Date: Mon, 19 Nov 90 11:05:37 CST
+From: Keith E. Ford &lt;infonode!fordke@uunet.UU.NET&gt;
+
+Hello fello Rush fans.  Here is the full scoop on the archive file
+server that I'm running.  By sending email with the proper Subject
+line, you can receive digest back issues, lyrics, the Frequently
+Asked Questions, articles, transcriptions of tourbooks, and other
+items.  I would also like to provide the raster bitmaps and GIFs
+if someone would send them to me.  PUH-LEEZE!  If you have something
+which I'm missing, please send it along.  See below for how-to.
+A list of what is currently available is at the end of this posting.
+
+The address of this archive file server is:
+
+   UUCP'ish:  ...!uunet!ingr!server
+   ARPA'ish:  server@ingr.com
+
+This archive file server currently supports the following commands:
+
+   GET     - request a specific file listed in the index
+   HELP    - request the help file (this file)
+   INDEX   - request list of requestable files
+   MESSAGE - this is a message to server keeper (do not process)
+
+Commands and file names are not case sensitive.  The body of the
+email is _ignored_ unless the command is MESSAGE, then it is passed
+on to the keeper of the server, currently me.
+
+To make something available on the archive, send it with the MESSAGE
+command so the server keeper can respond appropriately.
+
+I am limited to sending 1 megabyte of text a day.  If your request
+is processed after this limit is exceeded, you will be notified that
+your request failed.  You will also be notified if your request
+contains an invalid command, unknown file name, or other problem.
+
+Use the MESSAGE command for questions.  Do not contact anyone at site
+INGR.  This might cause problems and will put the existence of the
+server at risk.  As a *LAST* resort, post a message to the list and
+I will reply accordingly.
+
+Enjoy, and thanks to all who have helped me to build this collection.
+
+ BYTES  FILENAME             DESCRIPTION
+------- -------------------- -------------------------------------------
+   1295 help                 :help for using mail server
+    167 incoming             :new files since Sun Nov 18 11:13:05 1990
+   5394 index                :index of requestable files
+  71854 misc/calendar        :misc calendar entries
+    597 misc/faces           :ASCII faces for email
+  36028 misc/ibm_faq         :frequently asked questions for IBM pc's
+   7591 misc/net_mail        :how to email from one network to another
+  46489 misc/unix_faq        :frequently asked questions for Unix
+   2384 misc/using_simtel    :how to use list servers for Simtel
+
+        rush/digest/#        :back issues of the digest where # is
+                              23-56, 58-63, 66-71, 73-104
+
+   9599 rush/lyrics/2112     :2112
+   4930 rush/lyrics/aftk     :A Farewell To Kings
+   1049 rush/lyrics/batlscar :Battlescar, from Max Webster
+   7649 rush/lyrics/cos      :Caress Of Steel
+   6015 rush/lyrics/fbn      :Fly By Night
+   6393 rush/lyrics/gup      :Grace Under Pressure
+   5586 rush/lyrics/hemis    :Hemispheres
+  10295 rush/lyrics/hyf      :Hold Your Fire
+   6318 rush/lyrics/mp       :Moving Pictures
+  11956 rush/lyrics/presto   :Presto
+   5229 rush/lyrics/pwaves   :Permanent Waves
+   8463 rush/lyrics/pwindows :Power Windows
+   7522 rush/lyrics/rush     :Rush
+   7868 rush/lyrics/signals  :Signals
+  16306 rush/misc/3told_tale :Thrice Told Tales, Rush history by Neil
+  13202 rush/misc/alex_intvw :'89 Music Express interview with Alex
+  11043 rush/misc/barchetta  :A Nice Morning Drive, from Road & Track
+   9160 rush/misc/chron_info :text from Chronicles
+   3716 rush/misc/cos_pk     :'75 COS press kit
+  31118 rush/misc/discograph :Rush discography, music list
+   5694 rush/misc/equipment  :hardware used by Rush
+  25375 rush/misc/gup_tb     :GUP tourbook
+  13141 rush/misc/hyf_tb     :HYF tourbook, Fireworks, making of HYF
+   2993 rush/misc/kubla_khan :the poem, for Xanadu
+  10641 rush/misc/neil_25qna :'85 25 questions to Neil
+  54544 rush/misc/neil_intvw :'89 Modern Drummer interview with Neil
+  19624 rush/misc/presto_tb  :Presto tourbook, Paper Scissors Stone
+  20404 rush/misc/pw_tb      :PW tourbook, Personal Waves
+  16320 rush/misc/red_rose   :'78 story about Rush (and a red rose)
+  24868 rush/misc/rush_faq   :frequently asked questions about Rush
+  14640 rush/misc/rush_spec  :'83 from The Source, Rush Special radio-view
+   6634 rush/misc/satanism   :Neil Peart's editorial on satanism
+  78196 rush/misc/successup  :Rush, Success Under Pressure, the book
+   1718 rush/misc/uncovers   :text which songs were based on or inspired by
+  41328 rush/misc/word_list  :word count from all lyrics
+-EOF-
+--
+| ...!uunet!ingr!fordke    OR    fordke@ingr.com
+| "and the Trees are all kept equal by hatchet, axe, and saw." -Rush
+
+----------------------------------------------------------
+
+Date: Mon, 19 Nov 90 14:45:17 -0500
+From: John W Connelly &lt;connelly@unix.cis.pitt.edu&gt;
+Subject: Tom Sawyer rap-off; YYZ flub
+
+Attention all planets...
+
+	Lately I've been hearing some pretty disturbing news from some
+pretty reliable sources.  Apparently, someone was taken our beloved "Tom
+Sawyer" and put it to _RAP MUSIC_ (pardon the oxymoron).  I have yet to
+hear this myself, but it appears to be true.  The 7/8 solo section
+figures prominently, from what I understand.
+
+	Please, say it isn't so!  First there was the M.C. Hammernuts
+ripoff of "Superfreak", then someone did a dance music bastardization of
+Yes' "Owner Of A Lonely Heart", and now ... THIS?!?  Why?  Why RUSH???!
+
+	In other news, someone mentioned Alex breaking a string during
+YYZ here in Pittsburgh, on the _Power Windows_ tour.  Someone else said
+he broke it during the same song, right before the solo, in another
+city.  Well, I was listening to a bootleg last night of _Power Windows_
+in Pittsburgh, and he broke it *right before the solo* here.  Just
+thought I'd add that little tidbit.
+
+(Forgive me if this is old news; I'm still behind in reading my TNMS's)
+
+--JC
+
+P.S: As to "who we are", I'm a grad student in psychology.  Cognitive,
+	psychology, that is.
+P.P.S: Forgive the Trek .sig ...
+
+:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:
+| John Connelly, 511 LRDC | connelly@unix.cis.pitt.edu |"Klingon sons, you've |
+| University of Pgh	  |=+=+=+=+=+=+=+=+=+=+=+=+=+=+|  killed my bastard!" |
+| Pittsburgh, PA  15260   |   CONNELLY@Pittvms.BITNET  |     --STIII (almost) |
+:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:_:-:
+
+----------------------------------------------------------
+
+Date: Mon, 19 Nov 1990 14:49:46 EST
+From: Mark "Crimson" Friedman &lt;friedman@cis.ohio-state.edu&gt;
+Subject: Bits and pieces...
+
+"Yes, John Connelly..."
+	...I too am a Rush keyboardist!  In fact, the guitarist (who happens
+	and my to be my brother, Bob) and bassist/vocalist ("Hey Joe!") from
+	my "latest old band" are also NMS subscribers.  3/4 of W + Z, eh?
+
+"Techno-Geeks"
+	Well, I used to be in the Audio Recording department here at The
+	OSU, Inc., so I suppose I'm part music major.  But they eventually
+	canned the program ("The bastages!") and I somehow drifted into
+	Computer Science.  The rest is history!
+
+"Cancer!"
+	I heard Geddy had nose cancer!  BWAHAHAHAHA!!!!  ;-)
+
+"Chronicles CDs"
+	I can find them for $25.  Anybody beat that somewhere else?
+
+"Look how fast I can play arpeggios!"
+	I wouldn't put Mr.Big high up on my "best band" list.  Actually,
+	I know they wouldn't even put in an appearance!  :-)  I believe
+	that these "speed freaks" are very juvenille in their musicianship.
+	I remember when I was early in my guitar career how I'd do all
+	this fret tapping arpeggio bullsh*t and would play really fast just
+	for fun ("Hey! Call me Mr.Sloppy!").  Heck, for one solo I even
+	tapped with my hands over the top of the fretboard!  But eventually
+	I realised it was all crap and started concentrating on some solid
+	technique.  I'm so happy that I did.  However, I'd still love to
+	tap a Chapman Stick any day!  :-)
+
+"Rush's 'Anthem' satanic?"
+	Mark Stemm and Bill "Axeman" Colyer (an old pal-o-mine. "Hey BBBill!")
+	both think that "Anthem" was the song the "family channel" 'exposed'
+	as being satanic.  Well, it could have been, now that I think back
+	on it, but "the point remains the same!"  I know it was off of the
+	p/g video, as Axeman confirms, so all you folks with a copy check if
+	"Anthem" is on the video!
+
+"Rush influenced Hackers"
+	Adam Williams mentions ESI's inclusion of Rush quotes in their
+	cracks.  I've seen one example with their quoting of "Mystic
+	Rhythms" on a C=64 game.  I even think one of ESI uses "By-Tor"
+	as his handle.
+
+Oh well, that's it fer now...
+
+					- Crimson
+
+OBRQ - "Whoaaa!!!"  -- from 2112  :-)
+
+[ Geez, dude, lighten up - don't be so serious!  :-)           :rush-mgr ]
+
++----====&gt;&gt;&gt;))) Mark Friedman is friedman@cis.ohio-state.edu (((&lt;&lt;&lt;====----+
+|  "There is nothing former  |  (Disclaimer : the opposite of Datclaimer)  |
+|     about King Crimson."   |    "I used to have a photgraphic memory     |
+|   - Robert Fripp, 5/11/90  |       but it was never developed..."        |
++----------------------------+---------------------------------------------+
+
+----------------------------------------------------------
+
+Date: Mon, 19 Nov 90 12:32:41 -0800
+From: Douglas V. Simpkinson &lt;douglips@ocf.Berkeley.EDU&gt;
+Subject: Re:  Good deal on Rush CD's
+
+$8.99 is not a bad deal, but shopping around pays off.  Rasputin's here in
+Berkeley and San Lorenzo have good deals periodically - I paid $7.99 for the
+first 4 studio albums at Rasputins, Tower and Leopold (fancy name for Where-
+house) and $7.99 for Moving Pictures at Target (yes, Target - and you thought
+they only had New Kids and Tiffany).  Also, used CD's are often a bargain -
+most of the time they are in good shape (some stores are more reliable than
+others) and always cheaper than new.  The Rush Albums I've bought used are
+P/G for $8.00, Hold Your Fire for $9.00.  So, be patient, and you will save
+beaucoup $$$.
+
+Doug
+
+If you can't trust Milli Vanilli, what's the sense in living?
+
+----------------------------------------------------------
+
+Date: Mon, 19 Nov 90 19:29:47 -0500 (EST)
+From: "William F. O'Dell" &lt;wo04+@andrew.cmu.edu&gt;
+Subject: A Show of Hands and thanks Joe Kung
+
+Does any one out there know if the album A Show of Hands was recorded
+digitally or analoge? Do the boyz record all of their shows?
+
+Also, I would like to thank Joe Kung, wherever you are, for the song sheets.
+
+Furman
+
+"Children growing up, old friends growing older."    :-(
+
+----------------------------------------------------------
+
+From: whocares@jhunix.hcf.jhu.edu (Neil W Cohen)
+Subject: Lee on Keyboards
+Date: Mon, 19 Nov 90 20:07:18 EST
+
+   O.K. I'm a big fan of Rush for both their music and their lyrics.
+But I don't think Geddy Lee is an "incredible" keyboard player. (He
+is an "incredible" bass player).  But when you go to the show, everytime
+Geddy does a simple little keyboard solo, the audience erupts as if
+it were Peart doing a drum solo. Go figure! Yeah, I know-everyone at these
+shows is all wound up (or stoned) and will cheer anything, but still...
+
+Only slightly related, I had this vision with a bunch of people in suits 
+(expensive suits) - the whole auditorium is filled these guys, it's like 
+the theatre - and on stage Rush is playing. The audience cheers and whistles 
+and yells - not at the drum solo, not at the bass or keyboard or even guitar
+solo. They are cheering the lyrics.  "Well done! Well done! How poetic! 
+Allusions, more allusions!" Kind of like Monty Python's "Novel Writing",
+ayy.
+
+  Oh, by the way, since I'm rambling on here, someone mentioned Paul
+Gilbert of Mr. Big last week.  Just a note - he's considered one of the
+hottest young guitar virtuosos today (meaning he's in every other issue
+of every Guitar magazine).
+
+----------------------------------------------------------
+
+Subject: ASOH LDs
+Date: Tue, 20 Nov 90 14:01:50 +0900
+From: tana@lauda.ee.sophia.ac.jp
+
+I got my copy of the laser disc for ASOH (not Chronicles :-). I looked
+for the import print (US print) but I couldn't find any. It turns out
+that the Japanese print didn't have `Lock and Key' as it was mentioned
+here before :-(.  But it had CD quality digital sound, and I really
+enjoyed it!
+
+Talking about breaking strings, I noticed Alex broke a string at the
+end of Tom Sawyer in the video. It got tangled on the other strings
+and made a small buzzing noize, but Alex pulled it off and played the
+last chord while arming down to keep the pitch. Small precise techniques..
+
+Techno Geek? I'll hopefully get my Masters in Electronic Engineering
+this year.  I'm working an a file system on the DAT. I sit before my
+Sparcstation1 most of the day..
+------------------------------------------------------------------------
+                             Yoshiyuki Tanaka
+                             Sophia University, Tokyo Japan.
+                             Dept of Electrical & Electronic Engineering
+                             Deiters Laboratory.
+                             Email: tana@bob.ee.sophia.ac.jp
+------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Mon, 19 Nov 1990 15:33 CST
+From: By-tor &lt;UCSKRT@ucs.uwplatt.edu&gt;
+Subject: Anthem on P/G? Pentagram
+
+Just a few items:
+
+&gt;accused Rush of being Satanic. It was likely the same group for they also used
+&gt;a live song "Anthem" also off of P/G video. They too put the "satanic" lyrics
+
+Now I haven't seen the P/G tour video lately, but I am *pretty* sure that
+"Anthem" isn't on it. For that matter, I don't remember ever seeing them do
+that song live, so where did this footage come from?
+
+ &gt;[ They also claim that the star from _2112_ is a pentagram, and therefore
+ &gt; satanistic.  For one, it *isn't* a pentagram, and two, pentagrams have
+ &gt; been around a lot longer than the ideas of Satan/Christianity!  :rush-mgr ]
+
+This is getting picky, but on the _Exit- Stage Left_ video, at the very end of
+the tape, after the finale of "2112," the red star floating in water that I
+assume was projected on the back screen was in the form of a pentagram. I also
+have a 2112 bumper sticker that has the full inner-star lines drawn also. Not
+that this means anything, but it's kinda interesting. What I heard once, and
+promptly got rather upset about, is when some metalhead told me that Rush had
+stolen Motley Crue's logo. Arrrggh!
+
+By the way, keep those interesting "I ran into Rush" stories coming. I love to
+read those most of all, and hope to have my own some day.
+
+&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;
+Kevin Tipple, aka Blue Steel, By-tor       University of Wisconsin - Platteville
+Bitnet: UCSKRT@UWPLATT.BITNET              Platteville, Wisconsin  USA
+Internet: UCSKRT@UCS.UWPLATT.EDU
+================================================================================
+"Oh dear, the penguin's exploded."  - Monty Python
+================================================================================
+
+----------------------------------------------------------
+
+Subject: Import info
+Date: Tue, 20 Nov 90 00:27:53 -0500
+From: david l brewster &lt;brewster@cis.ohio-state.edu&gt;
+
+What info do you have on imports that are of 'decent' quality.
+
+BuB
+
+- ----------------------------------------------------------------------------
+*A middle-aged madonna calls her neighbor on the phone.  Day-by-day the season's
+pass, leave her life alone.  But she'll go walking out that door, on some bright
+afternoon.
+*
+- -----------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions & changes), send
+mail to:
+
+    rush-request@syrinx.umd.edu
+
+To obtain previous issues of The National Midnight Star (in it's current
+incarnation), send a request containing your name, e-mail address, and
+the digest number(s) to:
+
+    htodd@gmuvax2.gmu.edu
+
+Please specify The National Midnight Star (the RUSH Digest), as she handles 
+archiving for other lists also.  These requests are processed in a batch
+fashion once a week.
+
+Lyrics, individual articles, some Digest back issues, and more are now
+available at an archive file server accessible via email.  For more info,
+send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the management.
+
+List Management
+
+*********************************
+End of The National Midnight Star
+*********************************
+
+

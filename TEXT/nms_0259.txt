@@ -1,0 +1,252 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 06/11/91 - The National Midnight Star #259
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 259
+
+                  Tuesday, 11 June 1991
+Today's Topics:
+                      Administrivia
+      Re: 06/06/91 - The National Midnight Star #254
+        06/10/91 - The National Midnight Star #258
+                       Red Tidbits
+           You know you're a Rush fan when ...
+                    Stuff since-passed
+----------------------------------------------------------
+
+Subject: Administrivia
+Date: Tue, 11 Jun 91 16:14:53 EDT
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+Just a couple of things; there are a couple of new image files in the
+'rush/images' directory; a reworking of the gif of "The Pass" in a few
+different renderings.  Also, a a partial transcription of the tourbook
+from the _2112_ tour has been placed in the 'rush/special' directory.
+See the "CONTENTS" file in the apropriate directory.
+
+rush-mgr
+
+----------------------------------------------------------
+
+Subject: Re: 06/06/91 - The National Midnight Star #254
+Date: Mon, 10 Jun 91 18:35:05 WET
+From: Moschops &lt;M.ODonnell@computing-services.thames.ac.uk&gt;
+
+/* On Jun 6 At  6:35pm,
+/* The Very Excellent : Andy Douglass
+/* Rambled on about : Epic Songs
+
+*/For Example, Imagine this, see here, etc, etc...
+*/
+*/   1. The Lord of the Rings
+*/   -Tolkie deserves more recognition among todays youth. His works have
+*/    captivated millions. Wouldn't it be great if the boys could give us
+*/    that story, along with a kick ass bass line...
+*/
+
+The Lord of the Rings would make a truely excellent song - Mind you
+it would probably be a long ( I mean &gt; 50mins ) they would be going
+to Operatic proportions with it.
+
+*/   2. Dune
+*/   -Not that great of a movie, but a great book. Neil could stick in a few
+*/    messages about the dangers of drug addiction as well as presenting us
+*/    with an exciting and intriguing tale.(sorry if I'm losing some of you.
+*/    read the book! :')
+
+Dune has got a good Sci-Fi feel to it ( I thought the film was quite good )
+never read the book.
+
+[ The book made the movie look feeble, IMHO.  It's just too great an epic
+  to do well on screen.                                           :rush-mgr ]
+
+Try this one.
+
+        How about the Legend of Camelot - you know King Arthur and that
+lot......
+
+or
+
+        Neuromancer by William Gibson - If you haven't read this one
+do yourself a favour and go buy it tommorrow...!!
+
+Oh BTW I want to kill the presenters of "New Music"!!!
+
+Moss
+=-=-
+
+--
+
+ I Don't Believe in Love, I never have I never Will
+ I Don't Believe in Love, I'll Just pretend she never was real
+ I Don't Believe in Love, I need to forget her face I see it still
+ I Don't Believe in Love, It's never worth the pain that you feel
+
+ Mike O'Donnell - M.ODonnell@uk.ac.thames.csc - Thames Poly - London
+
+----------------------------------------------------------
+
+Date: Mon, 10 Jun 91 23:20:03 edt
+From: "Dylan Kaufman" &lt;morgan@chaos.cs.brandeis.edu&gt;
+Subject: 06/10/91 - The National Midnight Star #258
+
+Date: Mon, 10 Jun 91 12:52:11 EDT
+Troy Karhoff wrote about SPARC sounds
+
+	I successfully ftp'ed the audio files from sciences.sdsu.edu. Sounds
+pretty good. I would like to thank the people responsible for sampling and
+storing these files for public use. I would encourage anyone with a SPARC
+station to ftp these to your machine.
+----------------------------------------------------------------------------
+
+Anyone know if it's possible to play sparc sounds on an IBM? ;)  I'm
+sure they wouldn't be as good without some kind of extra sound
+capabilities... like a sound blaster or a self-constructed one...
+
+[ On a related topic, are these playable on a NeXT machine?  Can they
+  be translated into a format NeXTs can understand?  Ed?  :-)
+                                                             :rush-mgr ]
+
+-&lt;&gt;Dylan&lt;&gt;-                     MA EMT-M, CA EMT-1A, BEMCo 107
+Dylan Kaufman 			Major in Computer Science
+morgan@chaos.cs.brandeis.edu	Brandeis University, Waltham, MA
+------&lt;&lt; Support your local Emergency Medical Services &gt;&gt;-------
+One can never have too much RAM or too much disk space.
+			-- Ancient American Proverb, c. 1980
+
+----------------------------------------------------------
+
+Date: Tue, 11 Jun 91 11:01:02 EDT
+From: jaeger@buphy.bu.edu (Gregg Jaeger)
+Subject: Red Tidbits
+
+Hello Everyone,
+
+I was just sniffing around in the early 80's of the digest and noticed
+some nice discussions about ``Red Tide'' (check 'em out!). No-one seems
+to have given an interpretation of ``Let us not go gently into the endless
+winter night''. It seems to me Neil is talking about a nuclear holocaust
+because what would be more of an endless winter night than a `nuclear
+winter' (a post-nuclear-war environmental hypothesis championed by
+Carl Sagan and others). What do you think?
+
+Gregg
+
+-----------------------------------
+Gregg Jaeger    (jaeger@buphy.bu.edu) ``Dedicated to the investigation of the
+Dept. of Physics                      philosophical problems of quantum theory
+Boston University, Boston MA 02215    and the promotion of individualism.''
+------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Subject: You know you're a Rush fan when ...
+Date: Tue, 11 Jun 91 14:04:27 EDT
+From: Christopher A. Briggs &lt;briggs@ksgbbs.harvard.edu&gt;
+
+ &gt; ... you hear a clap of rolling thunder and say "And the meek shall
+ inherit the earth."
+
+-cb, briggs@ksgbbs.harvard.edu, lerxst@wpi.wpi.edu
+"Hear the echoes of the centuries
+ Power isn't all that money buys"
+
+----------------------------------------------------------
+
+Date:         Tue, 11 Jun 91 15:17:16 CDT
+From: The Neck Romancer &lt;MV012791@VM1.NoDak.EDU&gt;
+Subject:      Stuff since-passed
+
+Hi, I've got a few comments on the Red Barchetta ending and also women
+and Rush.  (I know . . . let's wear out something, eh.)
+
+But first, I want to say, "I finally bought Chronicles to finish my
+Rush CD collection, and I'm working on the Exit...Stage Left video."
+
+Now--I know everyone has their opinions, but I love everything about
+Red Barchetta.  For one thing, it is sometimes a sweet, beautiful
+piece, and other times (like after the solo) it is energetic and
+trashing.  I think they built the song conciously to fit the feeling
+of riding in a car.  I recently experimented with this in the country,
+which is about 100 feet away in any direction.  Let me tell you, you
+have to try going for a drive with MP blasting.  Hell, why not do it
+every week.  (wink, wink)
+
+The subject of Rush and women brought to mind something that Harry
+Anderson said in his role as Judge Harold T. Stone in probably one
+of the first Night Court episodes:  "I own every record Mel Torme
+ever made...I'm going to marry the girl that's impressed by that."
+I know precisely how he feels.  Well, ladies, did you notice my
+earlier statement?  ;-)
+
+That's enough feeling lonely for now.  I think I'll go and try to
+find the ESL video somewhere near Middletown.  (I think I was the
+best friend who was far away...and still am.)
+
+Craig Rindy   mv012791@ndsuvm1.bitnet
+******************************************************************
+Harry had just gained a little of her respect.
+   Miss Wagner:  It would be an honor to call you...Harry.
+   Judge Stone:  ...And it's fortunate I have that name.
+******************************************************************
+BTW, is there only one person here in the upper midwest?
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 259
+********************************************
+
+

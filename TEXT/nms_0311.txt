@@ -1,0 +1,869 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 08/09/91 - The National Midnight Star #311
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 311
+
+                  Friday, 9 August 1991
+Today's Topics:
+                      Administrivia
+             MACINTOSH DIGITIZED MUSIC FILES
+   Since I, like others, haven't heard the new stuff...
+               The Dreamline sampling. . .
+                        Gif files
+              Roll The Bones / YES / and MTV
+                 I SING THE BODY ELECTRIC
+       Neil Peart's release info on Roll The Bones
+                Jumping on the bandwagon..
+                        RUSH Hour
+        "SDT" Video; silly persons; non-rush faves
+                 Manhattan Project Video
+                   Sun to Mac converter
+                        Dreamline!
+                   unsubscribe? NEVER!
+                       Rush worship
+                          Albums
+                     Fly in the Night
+                       Ne?l Peart?
+----------------------------------------------------------
+
+From: Editor, The National Midnight Star &lt;rush-mgr@syrinx.umd.edu&gt;
+Subject: Administrivia
+
+If you know how to translate Sun/NeXT audio format to something that can
+be played on a PC or Mac, send mail to me and I'll post it here.  Thanks!
+
+rush-mgr
+
+----------------------------------------------------------
+
+Date: 8 August 1991 15:04:51 CDT
+From: "RUSH HEAD  " &lt;U24129@UICVM.uic.edu&gt;
+Subject: MACINTOSH DIGITIZED MUSIC FILES
+
+Hi everyone. Is it just me, or is Sept. 3 approaching very slowly?
+Just wondering if anyone has or if there exists Digitized Sound files
+for the MAC for Rush of course.? I just got a new program that will play
+them back for my HP 95LX. :) Can't stand them MACs. I'm a IBM person myself.
+Mr. Riker, bet your Casio or Dar's Wizard can't do that eh? :P Gotta show
+ya some of them sound files. Not exactly DAT quality but not bad either.
+Well, time to hit the road. Talk to everyone later. bye.
+
+RUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSH
+P                                    Internet:U24129@uicvm.uic.edu P
+-        Patster                     Bitnet: U24129@uicvm.bitnet   -
+G                                    Genie:  P.Choy                G
+P                                                                  P
+-  OBRQ: "Memory banks unloading, bytes break into bits            -
+G         unit one's in trouble, and its scared out of its wits"   G
+RUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSHRUSH
+
+ps: You Know You're a Rush Fan When.... "you go to a Chicago Sox VS Blue Jays
+    game and you CHEER FOR THE JAYS and you are bummed out when the game is
+    6 mins to ending and the Sox are about to win and you haven't bumped into
+    Ged yet. :( " Oh, well time and a place for everything....
+
+----------------------------------------------------------
+
+Date: Thu, 8 Aug 1991 18:46 CDT
+From: INDE54Q@Jetson.UH.EDU
+Subject: Since I, like others, haven't heard the new stuff...
+
+In Houston, I haven't had much success in being able to hear any cuts
+off RTB (if any of you near me have, please let me know which stations).
+Therefore, I'd like to post my most recent top ten listening selections:
+
+1. D.Bowie--Sound+Visions
+2. Jimi--Essential V.1&2
+3. REM--Outta Time
+4. Stevie Ray Vaughan--In Step    (Stevie, Rave On)
+5. Concrete Blonde--Bloodletting
+6. B.Marley, et al.--Legend
+7. P.Gabriel--Passion (Theme from Last Temptation...)
+8. T.Heads--True Stories
+9. Sting--Soul Cages
+10. Steely Dan--Decade of S.Dan
+11. (oops) The Presidents--With Guns and Cannons and the Book
+           ^^^^^^^^^^^^^^ Local Austin/Houston World Beat Stuff
+
+Okay, so you caught me...alot of these are greatest hits type discs.  Sorry.
+
+Daryl Santos
+University of Houston
+Department of Industrial Engineering
+
+
+----------------------------------------------------------
+
+Date:    Fri, 9 Aug 91 01:30 EDT
+From: &lt;MXP122@PSUVM.PSU.EDU&gt;
+Subject: The Dreamline sampling. . .
+
+OK, for all us PC users there has to be a way to listen to the sound file.
+I found a shareware program in the archives here that will play 8 bit sound
+files through a PC's internal speaker.  It sounds amazingly good.  There
+is a sample data file that has HAL talking. . .good good but I digress. . .
+so I'm assuming that the data is stored in a relative level between 0 and 255
+&gt;. . .and the data file is just a whole lot of bytes like this. . .my question
+is this-- is the sampling already at Syrinx convertable to a simple 8 bit
+pattern?  I would be eternally ecstatic if between the 800 readers we can
+figure out how to get a taste of Dreamline through our PC's. . .can
+someone else come up with a scheme to play the sampling on the PC?  I'm
+going to try to upload a file to the \rush\sounds\ directory with this
+8 bit self-unzipping executable file...if anyone does figure this dilemma
+out the 8 bit sampling can be zipped for ease of downloading. . .maybe
+I'm the only one using a PC?  I hope not-- let's pull this thing together--
+I'm dying to here Dreamline-- why should we have to wait two weeks?
+
+[ If you want to upload a file to Syrinx, it can only go in the directory
+  'rush/incoming' - the other directories are only writable by the list
+  account and the administrative account.  If you upload something to
+  Syrinx, please send mail to the administrative account to let me know
+  so I can do what needs to be done with it.                   :rush-mgr ]
+
+Later.
+
+----------------------------------------------------------
+
+Subject: Gif files
+Date: Thu, 8 Aug 1991 16:59:25 -0800 (PDT)
+From: lance@cynic.wimsey.bc.ca (Lance Neustaeter)
+
+   Hi.  I rec'd one of the gif pictures from the listserver (2112) and
+upon decoding it and viewing it, it appears to be only one quarter of
+a complete picture.  The image fills up my screen, but it's cut off
+and looks as if I'm only being shown the top left quarter of the full
+picture.  I'm baffled because the resolution is still quite sharp,
+which I wouldn't expect on a blown-up quarter of an image.  I'm
+viewing the gif with "hamgif" on an Amiga.  Can anybody explain this
+phenomenon?  Is it just this gif file or should I try others?
+
+[ Using the Unix utilities the full picture is displayed, so the file
+  seems to be fine.  Can someone help with figuring this out?  I'm not
+  a PC person...                                              :rush-mgr ]
+
+Lance
+
+----------------------------------------------------------
+
+Subject: Roll The Bones / YES / and MTV
+From: vinnie@darkside.com (Vindicator)
+Date: Fri, 09 Aug 91 01:12:08 PDT
+
+  Well it has been a while since I was on here, but I really have to get
+some things out in the open here.  Not bad things but good ones!!!
+
+  First like everyone else I can't even believe that a new album is
+comming out.  10 new tunes from the boys, it just hasn't sunk in yet.
+And everytime I hear a song on the radio i think, this could be it it
+could be it!  But as I have seen on here I guess it sorta slipped out!
+
+  Now to the topis of YES.  I just got back from their final concert on
+this tour and my ears are still ringing.  It was beyond belief!  First of
+all Wakeman at one point in the concert put on the guitar style
+keyboard (don't know the official name) and went out into the audience.
+It was cool because we were in the second official row, dead center!
+Perfect seats!
+
+   We had also made a huge killer banner with our names on it and the
+logo reading "YESShows 91"  Well they put it on the video screens and
+when the band came out for the encore Jon Anderson looked straight at us
+and pointed at all six of us right on down the line.  Having a connection
+like that was all we wanted, I really made the show.
+
+   During the intro to "Saving my heart" the road crew marched across the
+stage with Bud 12 pack boxes over their heads.  They also lit sparklers
+during the encore and were having an ice fight across the stage.  It was
+wild!  I'm still recovering!
+
+        Well I would blab about that any more, but I do hope that MTV
+splits up into specialized stations.  It would make viewing more
+enjoyable.  There is so much pop crap on.
+
+        Oh well I am tired and have a dental appointment tomorrow.  So I
+will see you all later!  Keep the dream alive!
+
+        (could someone give me some info on how to access these sound
+files and what I need to play them, thanks!)
+
+[ If you have ftp and a Sun/NeXT system available, just grab it off Syrinx
+  and play it. Sorry, don't know how to convert to other formats. :rush-mgr ]
+
+  "...we read about the exceptions, in the paper every day!"
+                                -Rush
+
+        Dan-
+
+----------------------------------------------------------
+
+Date: Fri, 9 Aug 91 03:37:24 PDT
+From: WHAT THE #$&% &lt;vaghini@scoman.enet.dec.com&gt;
+Subject: I SING THE BODY ELECTRIC
+
+  Doug,
+
+      You're wrong, _I_Sing_the_Body_Electric_ was made into an
+
+    episode of _The_Twilight_Zone_. Just thought I'd let you know
+
+                                         John
+
+                                  Who Has Still Only Heard Half of
+
+                                           Dreamline
+
+OBRQ: He's old enough to know what's right, but young enough not to choose it
+
+----------------------------------------------------------
+
+Date: Fri, 9 Aug 91 13:08:44 +0200
+From: tools!fl (Frank Lancaster)
+Subject: Neil Peart's release info on Roll The Bones
+
+[ This is interesting; I'll probably pull it out and make it available
+  at the ftp site.  Keep your eye on the administrivia for details.
+                                                             :rush-mgr ]
+
+This was distributed by Atlantic (East-West here)
+to reviewers and interviewers.
+
+ROW THE BOATS
+
+by Neil Peart
+
+_We're only immortal for a limited time_
+
+Musicians are sometimes said to be immature. Not _us_ guys, you
+understand, but some of the other musicians we know.  Like them,
+we spent our adolescent years welded to our instruments, obsessed
+by music to the exclusion of nearly everything else in normal
+"life". And maybe that youthful seriousness, which in a way is
+growing up too fast, means that the adolescent sense of
+immortality and irresponsibility stays with us a little longer,
+into the time when we're supposed to be adults. This is called
+the "artistic temperament".  This is also called a good excuse.
+
+The point is, each of us experiences a time when we feel
+immortal, when time is not passing and we're never going to die.
+But it's a limited-time offer --- time _does_ pass, and soon
+enough the realities of life come crowding in on us, whether
+we're ready for them or not, and we have to get serious. This is
+called "facing the real world."
+
+_We're only at home when we're on the run._
+
+Being mature doesn't have to mean being dead. You just have to
+get out there and rock, keep your bones _rolling_, and stay out
+of the ruts.  That has been true for Rush as well; we have
+continued to learn and grow and change, but behind all that the
+important thing was just to keep moving. Rolling bones gather no
+rust.
+
+Through seventeen years and umpteen albums and tours together, we
+seldom stopped to look back, but neither did we look ahead much
+beyond the next album or tour. We just kept doing what seemed
+right, without worrying about the future --- it would take care
+of itself. That is called being philosophical. _That_ is also
+called a good excuse.
+
+But suddenly it's different --- all at once it seems obvious that
+we have a long creative partnership ahead of us. Maybe we're
+growing up a tiny bit; I'm not sure; but I do know that we are
+excited about this band in a whole new way. Each of us feels it,
+and _Roll The Bones_ was the catalyst --- this record was so
+enjoyable to make, and the process was so satisfying through each
+of its stages that suddenly we feel a new conviction, a sense of
+rebirth. We cut our holidays short in order to start the record
+sooner, we finished it in "record" time, and now we're eager to
+get it out so people can hear it. We're even cutting our holidays
+short again in order to start a tour, then get on to the next
+record.  We are _psyched_. And still immortal...
+
+_We will pay the price, but we will not count the cost._
+
+A line from John Barth's _The Tidewater Tales_ (he said I could
+use it) which echoed around inside me for a long time after I
+read that book.  To me, it just means _go for it_.
+
+"There are no failures of talent, only failures of character."  I
+think that's often true too. Sure there are a lot of talented
+people who don't achieve artistic or worldly success, but I think
+there's usually a reason --- a failure _inside_ them. The
+important thing is: if you fail once, or if your luck is bad this
+time, the dream is still there. A dream is only over if you give
+it up --- or if it comes true. That is called irony.
+
+We have to remember the oracle's words, from Nike, the Greek
+goddess of victory and lumpy athletic shoes: Just do it. No
+excuses.
+
+_The night has a thousand saxophones._
+   And nary a clarinet between us.
+
+_Turn it up --- or turn that wild card down._
+
+The line that started it all... On a rainy day in late summer,
+cool enough to draw me close to the fire, I sat on the floor of
+my cottage with a pile of papers around me --- notes from the
+previous two years, lines and phrases collected on the road, or
+in that dream-like moment before sleep. I began playing with the
+phrases "turn it up" and "turn it down", thought of turning a
+_card_ down, as you do in some game I forget the name of, and
+then I started to think more about the "wild card" idea. I guess
+that's called inspiration.
+
+So many wild cards we are dealt in life --- where we're born, the
+genes we wear, the people we meet along the way, and the
+circumstances of the world around us. Sometimes we even _choose_
+a wild card: Faith is like that, and so is Trust --- one of the
+biggest chances you can make in life is trusting somebody, and
+yet most of us take that chance, at least once or twice. Some of
+us pursue ambitions where the odds against success are great (and
+where we might have to stay adolescents all our lives.)  That is
+called bravado.
+
+There is truth in homilics like "the harder I work, the luckier I
+get" and "luck is when preparation meets opportunity," but they
+are only tendencies, not _laws_. The best-laid plans, et cetera.
+No matter how intelligent, talented, and beautiful we might be,
+we still don't know what the hell's going to happen next. But we
+_can_ improve the odds by the choices we make.  I am _not_ an
+existentialist, I am a _free_ man!
+
+_Where's my thing?_
+
+Where indeed. No deep meaning here, I'm glad to report --- just
+one of those people say: "Where's that... um... oh, _you_ know...
+where's my --- _thing_?"
+
+We had lot of fun with this one, putting so much stuff into it
+there wasn't even room for a _small_ kitchen sink. And for once,
+the lyrics are guaranteed politically correct. We've been meaning
+to do another instrumental (exercise in self-indulgence) for a
+few years, but something always seemed to derail our good
+intentions --- as soon as Geddy and Alex would come up with a
+good musical part, it would fit with some lyrics I'd just
+written.
+
+This time I outsmarted them: I wouldn't give them any more words
+until they'd finished an instrumental! It worked.
+
+_Playing the game, but not the way the big boys played._
+
+Yo DJ --- spin that wheel!
+
+Sorry. You lose. Life is so unfair. I mean, shuffling around this
+mortal coil, this vale of tears, playing the cosmic game show and
+waiting for the party-at-the-end-of-the-world, taking commercial
+breaks and flicking through the channels --- then suddenly the
+show is _over_? If you played well and gave it all you had,
+you're certainly a true winner, but sometimes the winner takes
+nothing. That is called tragedy.
+
+_Do we have to be forgiving at last?_
+
+I suppose. The deconstruction of the Eastern Bloc made some
+people happy; it made me _mad_. For generations those people had
+to line up for toilet paper, wear bad suits, drive nasty cars and
+drink bug spray to get high --- and it was all a _mistake_? A
+heavy price to pay for somebody else's misguided ideology, it
+seems to me, and that waste of life must be the ultimate heresy.
+
+The drum part in this song was inspired by a different part of
+the world.  One hot night I lay under the stars on a rooftop in
+Togo, and heard the sound of drums from across the valley. Even
+on the edge of sleep the drumming moved me, the rhythm stayed in
+my head, and while working on this song I used variations of it
+and other West African infuences. Depending on your
+point-of-view, that is either called cultural cross-pollination,
+or plundering the Third World...
+
+_Somehow we find each other, through all that masquerade._
+
+The timeless quest --- find somebody to love, and make it at
+last. We know the odds are not good, but most of us keep trying.
+Some of us get lucky.  Some of us don't. _C'est la vie_.
+
+Some great guitar stuff in this song, I think, but don't tell him
+I said so.  This is the kind of song that _we_ always think ought
+to be a massive hit single, but by this time we've learned that
+it won't be, because we're too weird.
+
+_Life is a diamond you turn into dust._
+
+Some people can't deal with the world-as-it-is, or
+themselves-as-they-are, and feel powerless to change things ---
+so they get all crazy. They waste away their lives in delusions,
+paranoia, aimless rage, and neuroses, and in the process they
+often make those around them miserable too. Strained friendships,
+broken couples, warped children. I think they should all just
+stop it. That is called wishful thinking.
+
+_Be-bop or a one-drop or a hip-hop its-pop-metallist._
+                                 [ ^^^ couldn't read this word, so...]
+
+Yep --- no matter what kind of song you choose to play, you're
+betting your life on it, for good or ill, and what you believe is
+what you are.  So there. However you slice it, you're taking a
+chance, and you _might_ not be right. (Just this once.) No one
+can ever be _sure_, in this best of all possible random
+universes.
+
+That's why the essence of these songs is: if there's a chance,
+you might as well take it. So what if some parts of life are a
+crap shoot? Get out there and shoot the crap. A random universe
+doesn't have to be _futile_; we can change the odds, load the
+dice, and roll again.
+
+And there's no escaping the dice; even if you try to take the
+sting out of a random universe by embracing the prefab structure
+of Faith, you still have to gamble that it's the _right_ one. Say
+the secret word and win a hundred dollars. For anyone who hasn't
+seen Groucho Marx's game show "You Bet Your Life," I mean that no
+one but Groucho knows the secret word, and one guess is as good
+as another. You might have lived a good long life as an exemplary
+Christian, only to be met at the gates of heaven by _Mohammed_...
+
+Anything can happen. That is called fate.
+
+_Why are we here? Because we're here._ Row the boats.
+
+----------------------------------------------------------
+
+Date: Fri, 9 Aug 91 9:37:16 EDT
+From: Elizabeth Fike &lt;betsey@cunixf.cc.columbia.edu&gt;
+Subject: Jumping on the bandwagon..
+
+I feel an uncontrollable compulsion to submit my own most-listened-to
+non-RUSH albums.....
+
+In no particular order:
+
+Meat Loaf/Bat Out Of Hell (cheezy, but fun)
+Elvis Costello/Girls Girls Girls Disc 2
+Adam Ant/Manners and Physique
+REM/Eponymous
+Billy Joel/Greatest Hits Vol. 1
+Roxy Music/Avalon
+Elton John/Sleeping With the Past
+Jesus Christ Superstar, Disc 1 (the Original Cast edition, of course)
+Eric Clapton/Timepieces
+Rampal & Bolling/Suite No. 2 for Flute & Jazz Piano Trio
+
+You'll notice that many of these are greatest-hits
+compilations.  It's the most economical way for me to get all of
+my favorite songs :-)  I usually go back and buy the albums,
+because I find that sometimes my favorite songs are the ones that
+never get any airplay and don't make it on to greatest-hits
+collections, but that takes $$$ that is non-existent in my bank
+account :-(
+
+Anxiously awaiting Sept. 3,
+
+/tbear
+
+OBRQ:  A spirit with a vision is a dream with a mission...
+
+******************************************************************************
+Betsey Fike &lt;betsey@cunixf.cc.columbia.edu&gt;
+CC '93/SEAS '94, Computer Science/Electrical Engineering
+Columbia University Marching Band, the Cleverest Band In The World (tm)
+***********************************G(TB)^2************************************
+
+----------------------------------------------------------
+
+Date: 9th August 1991, 11:34pm EST.
+From: "Mark Connell" &lt;markcon@sydvm1.vnet.ibm.com&gt;
+Subject: RUSH Hour
+
+For all you RUSH fans in he Austin Texas area, KPEZ Z102 at 102.3 have
+just started a RUSH Hour. One whole hour of RUSH music each Thursday
+between 10 and 11pm. They also take phone requests for the songs !!
+
+Cheers,
+Mark
+
+Mark Connell                           E-Mail:markcon@sydvm1.vnet.ibm.com
+Melbourne, Australia
+
+----------------------------------------------------------
+
+Date: Fri, 9 Aug 91 09:46:26 -0400
+From: abramsc@knoc.dnet.dupont.com
+Subject: "SDT" Video; silly persons; non-rush faves
+
+Getting back to the MTV subject, i DO remember when "Show Don't Tell" was on
+the call-in countdown for a few days, and i remember thinking the director of
+that video shot too many close-ups of geddy and not enough of alex and neil...
+
+i have to thank Michael J Konopik for a good laugh in the last issue--not that
+his post itself was funny was funny; i think he's 100% right, but J sicolo's
+post right after his just made my day...i laughed and laughed....
+
+here are some non-rush albums i really enjoy listening to (NPO):
+
+_Fun and Games_, _One Simple Word_ -- The Connells
+_Fragile_, _Close to the Edge_, _Classic Yes_, _90125_ -- Yes
+_Surfing with the Alien_ -- Joe Satriani  (Long live Norrin Radd!)
+_Synchronicity_ -- The Police
+_War_, _The Unforgettable Fire_, _Rattle and Hum_ -- U2
+_Dark Side of the Moon_, _Momentary Lapse of Reason_ -- PF
+_Lincoln_ and _Flood_ -- They Might Be Giants
+_Social Distortion_ -- Social Distortion
+and _The Beethoven Sonatas_ by Horowitz
+
+&gt; ...and yes i will try some King Crimson soon...
+
+later
+--cam
+
+"The Future belongs to analog loyalists;  F*ck digital." -- off the
+Big Black _Songs About F*cking_ album cover (hey james you're not the only
+one!)
+
+----------------------------------------------------------
+
+From: rjjuba@ATHENA.MIT.EDU
+Subject: Manhattan Project Video
+Date: Fri, 09 Aug 91 11:00:58 EDT
+
+When I first saw the video for Manhattan Project on the SOH video, I wondered
+who the scientists shaking hands after the test detonation were. About a 
+month ago I was walking through a hallway at MIT when I noticed the exact
+same picture in a picture case documenting the history of MIT. The scientists'
+names are Vannevar Bush and James B. Conant. Needless to say, I was excited
+to see that MIT scientists appeared in a Rush Video.
+
+I just subscribed to NMS last Friday  and I am damn glad I did. I wouldn't
+even have known about RTB or _Dreamline_, since I had previously heard a
+rumor that the next album was due in October.
+
+It appears that listing your top ten non-Rush albums is a must, so here they
+are:
+
+1. Def Leppard - Pyromania
+2. Styx - The Grand Illusion
+3. The Police - Every Breath You Take The Singles
+4. The Phantom of the Opera (what can I say :-) )
+5. Scorpions - World Wide Live
+6. Yes - 90125
+7. David Bowie - Changes
+8. Paul McCartney - Tripping the Live Fantastic
+9. Iron Maiden - Live After Death (Gee, guess I like live albums)
+10. Def Leppard - High N' Dry
+
+Damn I can't wait for September 3rd
+---
+Rob Juba    rjjuba@athena.mit.edu    "The Superconductor"
+
+P.S. Special TKPhi to joezete, cygnus and bigal and any other Zetes from Poobah
+     and Rodeo Clown of PA.
+
+----------------------------------------------------------
+
+Subject: Sun to Mac converter
+From: Ted_Batey@HyperMail.apple.com
+Date: Fri, 9 Aug 1991 09:21:23 PST
+
+If anyone has the software to convert "Dreamline" from Sun to Macintosh
+PLEASE let me know!!
+
+[ And drop me a line here also, please.                         :rush-mgr ]
+
+Ted Batey
+
+----------------------------------------------------------
+
+Date: Fri, 9 Aug 91 13:10:10 EDT
+From: pmw3y@acacia.cs.Virginia.EDU
+Subject: Dreamline!
+
+I've heard it.  The first couple of times I played it, I really didn't get
+into it, but it has grown on me quickly....come on 9/3!!!!
+
+Dreamline sounds to me like a curious blend of Manhattan Project with
+Chain Lightning.  Anyway, here's to the boyz:  looks like they've done
+it for us again :)
+
+ORQ:  "i been down so long, i lost count of the years
+       i sang some sad songs - i drank 12 beers"
+
+----------
+Patrick Widener                  Internet:  pmw3y@virginia.edu
+Department of Computer Science	            patrick@dirac.physics.jmu.edu
+University of Virginia           ICBM_Net:  38.02 N, 78.30 W
+"I watched Lassie for 4 days before I figured out why the short furry
+ kid never talked."
+
+----------------------------------------------------------
+
+Date: Fri, 9 Aug 91 14:23:54 EDT
+From: adam@paix.sw.stratus.com (Mark Adam)
+Subject: unsubscribe? NEVER!
+
+with the recent group of unsubcription requests (thought crimes), i
+surprised i haven't seen anybody give the correct response: flood
+their mailbox! i am suggesting a very simple thing. if you see some
+"please take me off this list" mail send that person a letter with the
+following subject line:
+
+Mail rush-request@syrinx.umd.edu to unsubscribe!
+
+include no text in the letter body. come on, don't get snippy. a
+righteous flame is still a flame and a flamer is an asshole. period.
+end of sentence.
+
+with any luck even the threat of being bombarded will make people think.
+
+[ No, please don't do this.  I'd rather not have our list known as the one
+  where people get ganged-up on.  I can't tell people what to do, but I'd
+  like to go on record as saying I don't agree with this practice.  Hopefully
+  seeing their post in this public forum will help get the idea across.  I
+  have only seen a couple that posted more than once.             :rush-mgr ]
+
+mark ----------------------------
+
+		"Logic is a wreath of pretty flowers that smell bad."
+		"I am NOT a merry man!"
+
+----------------------------------------------------------
+
+Subject: Rush worship
+Date: Fri, 09 Aug 91 14:29:28 EDT
+From: mynhier@crabcake.cs.jhu.edu
+
+In TNMS #309, Atthe Tossavainen &lt;d37690r@kaira.hut.fi&gt; responds:
+
+	I won't flame you for the religious reference but instead
+	for the idiot-like attitude of Rush WORSHIP that prevails
+	amongst us fans. They're just a couple of blokes who make
+	some really good music, but that doesn't make them the
+	ultimate masters of their instruments and even less gods.
+
+	To conclude, I AM a Rush fan and a quite rabid one at that,
+	even though it may seem otherwise. I just know that they
+	aren't gods or the ultimate musicians to ever walk upon the
+	earth, and feel compelled to make everyone see that.
+
+Ich bin ein Rushfan, auch.  (Or is that, "Ich bin Rushfan." ? :-)  I
+was first introduced to Rush about 5 years ago.  I went through the
+traditional Rush worship.  Then, a couple of years later, and I know I
+should probably be crucified on a big red star for this, I went through
+a period of not particularly caring for the music.  (It didn't have
+enough emotion, was too cold, blah blah blah.)  Now I've reached a happy
+medium, I consider them to be an excellent group of musicians with great
+songs and (Gott sei dank!) intelligent lyrics.
+
+Anyway, I just wanted to get that off my chest.  The real reason I sent
+this was to include my top ten favorites, non-Rush, obviously.
+
+In no particular order:
+
+	1.  Jeff Beck's Guitar Shop with Terry Bozzio and Tony Hymas
+		-Wonderful, wonderful, wonderful, wonderful, wonderful.
+
+	2.  Bill Frisell _Is That You?_  (I think that's the title.  I just
+		think of it as Bill Frisell.)
+		-Delightfully different.  (Nice cliche, huh? :-)  An
+		 instrumental album, I don't really know how to describe it,
+		 it's sort of jazz/fusion/avant-garde, although I really
+		 hate labels, especially that last one.
+
+	3.  Steve Morse _High Tension Wires_
+
+	4.  Mark Whitfield _The Marksman_
+
+	5.  Jimi Hendrix _Axis:  Bold as Love_
+		"Little Wing" gets my vote for most beautiful thing done
+		with a guitar, although some of Frisell's stuff comes close,
+		but in a different way.  Please let's not start a flame war,
+		it's just an opinion.
+
+	6.  Pink Floyd _The Wall_
+		ObTTFAPFInclusion
+
+	7.  Eric Johnson _Ah Via Musicom_
+		It's probably just my ears, but EJ's the only guitarist
+		I've heard whose tone is (to me) really distinguishable.
+		Also, I got to sit on an interview with EJ, and he's a
+		really wonderful person.  About the same as what somebody
+		else said about Living Colour.  And speaking of which,...
+
+	8.  Living Colour _Time's Up_
+		Amazing.  Let me modify my "Little Wing" statement to
+		include the possibility of "Solace of You".
+
+	9.  Fleetwood Mac _Rumours_
+
+	10. Sting _...Nothing Like the Sun_
+
+	(Kinda guitar heavy, ain't it?)
+
+		Chad Mynhier	mynhier@crabcake.cs.jhu.edu
+				mynhier@jhunix.hcf.jhu.edu
+
+		OBRQ:"...the..."
+
+----------------------------------------------------------
+
+Date: Fri, 9 Aug 91 14:54:07 -0400
+From: supriya (Lyricist)
+Subject: Albums
+
+I just wanted to add in my list of 11 non Rush albums
+that I've been listening ot lately.  Here they are:
+
+(no particular order)
+
+Yes--Union
+Depeche Mode--Violator
+Smithereens--11
+U2-Joshua Tree
+Pink Floyd--The Wall
+Sting--The Soul Cages
+Robert Plant--Manic Nirvana
+Led Zeppelin--Disk II of the Anthology
+INXS--Kick
+Metallica--Master of Puppets
+X--Under The Big Black Sun
+
+Well there you have it..:-)
+
+--Supriya
+
+----------------------------------------------------------
+
+Date: Fri, 9 Aug 91 15:05 EDT
+From: Richard Andrew Zehel Sofranko &lt;RASST18@vms.cis.pitt.edu&gt;
+Subject: Fly in the Night
+
+Hey, everybody.  I picked up an import CD the other day
+called "Fly in the Night".  It is on an Italian label called
+Rarities and Few, released 1991.  The songs on the CD were
+recorded live in Montreal 1980.  Stand back.  Here's the song
+list:
+
+Intro/Xanadu
+A Farwell to Kings
+Closer to the Heart
+Something for Nothing
+Cygnus-X
+Working Man
+Fly by Night
+In the Mood
+Cinderella Man
+
+The Cygnus-X is *their* typoe not mine.  The cover of the CD
+depicts the underside of a four engine plane.  The sound
+quality on this CD is not too good (i.e. it makes Red Stars of
+Solor Federation sound good).  There isn't much bass to it and
+you can hear a bit of echo.  I would swear it was a bootleg to
+boot but I can't believe a *real* boot could make it to CD
+(also it seems a shade fast).  The cover of the CD says "Limited
+release 1000 copies").  I'm glad I bought it regardless of the
+sound quality (at least the sound quality is better than "Looking
+Through a Window").  For those of you in the Pittsburgh area, I
+bought the CD at Eide's.  Good luck.  BTW they also sell "Success
+Under Pressure" and "Rush: the official biography" there too.
+
+Later
+
+Rich
+
+ORQ "Merci!  Merci beaucoup!"  Geddy  -Looking Through a Window
+
+----------------------------------------------------------
+
+Date: Fri, 9 Aug 91 13:28:27 -0600
+From: erik habbinga &lt;habbinga@tramp.Colorado.EDU&gt;
+Subject: Ne?l Peart?
+
+   The reason I didn't call the most excellennt Rush-mgr on his spelling of
+"Neal", is that is the Phonogram alternative spelling found on my PeW cassette
+liner.  "All Lyrics by Neal Peart except 'Different Strings' by Geddy Lee".
+
+These are the same guys, who on my ESL cassette, decided to rename that great
+tune "Xanadu" to "Zanadu" on both the liner and the cassette.  I remember
+I had the earlier release of that cassette, but it was faulty.  The record
+store was going to replace it, but they didn't have any, so they had to wait
+for a shipment.  The new one finally came in, but was also faulty as well.  They
+wouldn't let me get a new one with the correct spelling, since I had caused them
+enough trouble by purchasing a faulty cassette from their store.
+
+[ Gee, I don't know how I'm supposed to take being compared to that - should
+  I be incredibly insulted?  :-)                                  :rush-mgr ]
+
+I'm getting of listening to the radio, waiting for "Dreamline".  There was a
+close call two nights ago, when the DJ said, "I've got some new music to play
+from....Procol Harum"  My friends were quite disappointed at that.  Time seems
+to stand still before the single comes out.  Hopefully it'll still be released
+on the 14th.
+
+-----------------------------------------------------------------------------
+Erik Habbinga            "And on bass, The Doc of Shock, The Duke of Spook!"
+habbinga@tramp.colorado.edu
+U-niversity of
+C-olorado between         "Time to make the doughnuts, you bastards!"
+L-ongmont and
+A-rvada                        "Do not taunt Happy Fun Ball"
+-----------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 311
+********************************************
+
+

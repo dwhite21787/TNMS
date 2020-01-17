@@ -1,0 +1,876 @@
+Errors-To: rush@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 11/09/90 - The National Midnight Star #98
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 98
+
+                 Friday, 9 November 1990
+Today's Topics:
+              Anniversary Issue - Part 1 of 2
+---------------------------------------------------------
+
+                                   *********
+                             *******  ***  *******
+                          ****       ** **       ****
+                        ***          *   *          ***
+                      ***           **   **           ***
+                     **            **     **            **
+                   **              *       *              **
+                   *****************       *****************
+                  ** ***                               *** **
+                 **    ***    RUSH 1st ANNIVERSARY   ***    **
+                 *       ****       SPECIAL       ****       *
+                 *          ***      ISSUE      ***          *
+                 *            **               **            *
+                 **           **     Part 1    **           **
+                  **          *                 *          **
+                   *         **      *****      **         *
+                   ***      **     ***   ***     **      ***
+                     **     *   ****       ****   *     **
+                      ***  ** ***             *** **  ***
+                        *******                 *******
+                          ****                   ****
+                             *******       *******
+                                   *********
+
+*********************************************************************
+			Table of Contents
+			-----------------
+Mailing 1:
+I.  	A word from your founding member.
+II.  	A word from your humble rush-mgr.
+III.  	Collection of thoughts from old veterans.
+IV. 	A sample of the early-day Rush mailing list.
+
+Mailing 2:
+V.	The Rush Tour Dates Listing.
+VI.	Songlist from Past Tours
+
+*********************************************************************
+
+*****************************************************************
+*	I.  A Word From Your Founding Member.			*
+*	Greetings everyone out there on the list!		*
+*****************************************************************
+
+	Today, is the 1st anniversary of this Rush mailing list.
+Some of you, if you've been around long enough, may remember me from
+last year or even years before that when I used to post quite a bit
+on rec.music.misc.  Anyway, our nice friendly humble rush-mgr (that's
+David in case you just joined us) has allowed me the pleasure of
+submitting this article as a Special Edition of the National Midnight
+Star.  Some of this may be boring but I just thought it would be nice
+to reflect back on this last year (and maybe a little beyond).
+	It started all really around 1987-1988 when I was relatively
+active on the USENET in rec.music.misc (and later in alt.rock-n-roll).
+Discussions of Rush would frequently pop up in those newsgroups and
+I found there are quite a few fanatics like myself out there who are
+really into Rush.  After numerous posts throughout the years and
+various flame-fests here and there, I would find myself thinking,
+wouldn't it be great to start some kind of a a newsgroup or forum
+where much Rush-talk would take place, and none of these negative
+criticism from people who don't fully appreciate Rush or flame them
+without knowing much about their music?  Constructive criticism is
+ok, but I find people complaining about things just because they
+have nothing better to do.
+	Well, so I decided to post about starting rec.music.rush and
+got a few responses but not much.  It seems that though people seemed
+willing to discuss Rush, many thought the idea of a newsgroup would
+not be feasible.  And so it was that rec.music.rush never got off
+the ground.  I tried again the following year but like previous
+attempts, nothing came out of it.
+	So last year, I finally thought to myself, I want to go
+somewhere where there's Rush discussion on various aspects of their
+music, rather than flames about trivial things like Geddy's voice.
+	How to work this was another problem.  What I really wanted
+was a site where I could have an account and mass-mail daily entries
+into the so called "digest" at the time.  But of course, not having
+any root privileges I couldn't do that.  I figured, the simplest way
+to do this would be through private email and a shared .mailrc by
+some members of the list.  So now, I had to recruit some people.
+That was easy enough - just read the newsgroups until I find a post
+by someone who seemed to be interested enough in Rush to discuss it
+on a different level than a public newsgroup.
+	After a week or so of reading newsgroups and sending out
+requests to people asking if they were interested in a mailing list,
+I find myself with around 13 or so people.  My .mailrc was something
+like this:
+
+alias r1 rushmember1@machine.org
+alias r2 rushmember2@machine.org
+alias r3 rushmember3@machine.org
+...
+alias r12 rushmember12@machine.org
+alias r13 rushmember13@machine.org
+alias rushgroup r1 r2 r3 ... r12 r13
+
+	Then everytime I wanted to distribute something out on the
+list, I'd have to type it in and use:
+
+%mail rushgroup &lt; file
+
+	Needless to say this was kind of a pain, though it did work,
+I'd have to keep on adding new aliases to the .mailrc everytime I
+got a new user and then add that alias to the rushgroup alias!
+	In order to keep a good count of all the current members of
+the list, I'd have to also mail out my .mailrc file to everyone so
+that they too could send mail to bounce off everyone else on the
+list.
+	Though the method seemed primitive to say the least, I had
+achieved basically what I wanted - a mailing list full of Rush fans
+talking about Rush.  After a few weeks or so, I find my .mailrc file
+getting very big!!  Soon I was up to 50 or so users!
+
+The .mailrc was looking rather horrid with addresses all around the
+world.
+
+alias r1 rushmember1@machine.org
+alias r2 rushmember2@machine.org
+alias r3 rushmember3@machine.org
+...
+alias r49 rushmember49@machine.org
+alias r50 rushmember50@machine.org
+alias rushgroup r1 r2 r3 ................ r49 r50
+
+	I soon began to wonder how big it would grow.  People would
+continually mail me asking about a "supposed Rush Mailing List -
+please add me".  As if he could read my thoughts, I one day got a
+letter from my friend David Arnold (your current rush-mgr) asking if
+I needed a site!  Imagine that, someone writing a letter and asking
+if you wanted to use their machine.  It was a blessing all right.
+Now we could have a REAL mailing list.  I, of course, was fully for
+the idea.  Now all we had to do was wait for Dave to activate the
+programs and set the clouds in motion.  (or something like that *&lt;:-)
+	All this time behind the scenes while David and I were
+talking about how to get the Rush mailing list over to Syrinx, more
+talk emerged on the mailing list about starting rec.music.rush and
+whether or not they liked the idea of going to a digest or
+continually getting mail from the .mailrc reflector idea.  I was for
+the digest format as one of the drastic side effects of my .mailrc
+idea was the biff command.  ARGH!!!  Although I didn't mind all the
+talk about Rush it seemed a bit annoying at times when I'm working
+and the "biff y" would interrupt with a letter every 10 or so
+minutes!!  The digest-format I thought would be wonderful and also
+get rid of the biff annoyances.
+	Before I go into the transition of the mailing list over to
+syrinx, I thought it'd be nice to say some things about David.
+(Heh, always nice to talk about him behind his back..*&lt;:-)
+	During the times I had been reading on the USENET, I had met
+quite a few people with whom I've managed to still correspond with.
+Probably the 2 the stick out the most (aside from Erland - my ever
+so favorite Rush fan .. sic.. sic) are Karen Post and David Arnold.
+Some of you may recall who Karen Post is if you've kept up with the
+newsgroup all these years.  She was dubbed "Rush-Goddess" and worked
+down in Ohio State University.  I've never really met anyone quite
+like her who knew probably as much if not more Rush trivia than I
+do!!  (and I am quite good mind you *&lt;:-) .  So dedicated she once
+drove up to Toronto to find Geddy's house and came back without even
+remembering the address!! heh.  I talked to her quite a few times
+and exchanged some Rush stories for a year or so, then no one seems
+to know but no one could ever locate the Rush-Goddess again.  Gone
+was she from USENET and her .signature ("...yet it was for me, not
+you, I came to write this song..)  I'm sure even David has wondered
+from time to time whatever happened of the Rush-Goddess.
+	David, on the other hand, I met by chance coincident.  I had
+seen many of his posts on Rush in rec.music.misc back in 87-88 but
+didn't really do much besides followups on his postings.  Then one
+day, I saw him posting something about some tapes (ahem...of the
+collectible nature) and having a few collectibles and rarities myself,
+I wrote him some email asking if he'd like to get together and do some
+trading over USnail Mail.  That was how I met the rush-mgr.  After
+trading through the summer over mail he informed me of a trip out to
+California (LA area) and mentioned we should get together.  I thought it
+was a great idea.
+	It was on a weekend that I met David.  I forget what hotel
+it was but I do remember going to the wrong one!!  I had to call
+around to get the correct hotel where he was staying at.  (There
+happened to be more than one hotel on the Wilshire Blvd. down in
+LA. and apparently this one - was it the Hilton?  had about 2-3 on
+the same street.)
+	Don't really remember much about the meeting, I think I wore
+my Hold Your Fire tour shirt (the red one) and David found me first
+down in the lobby of the hotel asking where a "Mr. Arnold from
+University of Maryland" was..
+	We walked to my car and I remember asking him if he could
+guess which car was mine (I had several Rush bumper stickers all
+over the back bumper) but I don't think he got it right.  heh.
+Earlier that week, I was down in Hollywood where I got some Rush
+banners and a Rush symbol (man with the star) made of some metal
+intended to be a necklace.  I bought an extra banner and the symbol
+just in case David might want to bring some souvenirs back with him
+*&lt;:-).
+	The whole thing lasted probably 2-3 hours, we went driving
+around Wilshire and stopped off at a Burger King where we sat and
+talked for a while.  Driving over the 101 freeway, I was playing
+By-Tor and The Snowdog (from ATWAS I think it was) and while I was
+humming a flawless version of Alex's guitar solo, David was
+air-drumming to Neil's every beat.  It was a pretty funny sight now
+that I remember it. *&lt;:-)  And soon it was over.  On first
+impression, I had envision some Phd looking professor who was to be
+very professional and stern in nature but I was much surprised by a
+rather nice down-to-earth fellow with good tastes in music and very
+friendly-natured from my chat with him over an order of fries and a
+whopper at Burger King!!  It was hard not to get along with him, so
+I'm glad the trip was worth it.
+	We would have met again this past year but alas, due to
+scheduling, Presto tour tickets went on sale the very same weekend
+that David was down in LA and there was no way I could go unless I
+wanted to miss the concert!!  So I'm sure he could understand my
+reasoning behind that.  *&lt;:-)  Maybe this year again eh??
+	Well, now that you know a little bit about the background as
+to how David and I met and how the list got formed, you could
+understand that I was more than willing to move the list to a real
+machine like syrinx and have David handle the overhead and the
+distribution.  It was a great gesture on his part to ask, for I
+could not live with a .mailrc with over 500 entries!!!!!  Thanks
+again David for doing the great job you've done this past year.
+You certainly deserve a lot of credit and I'll see to it you get a
+batch of rewards soon yes?  (hope your tape deck still works!! heh
+*&lt;:-) hint hint..
+	A lot of thanks have to go out to some of the very original
+members who were a big help in keeping the conversation going!  Special
+personal thanks have to go to people like Dan Delany has always contributed
+a lot ever since I can remember and to Chris Michael (from Ted's account)
+who posted the Presto tour dates back when everyone was looking for them!
+These 2 guys really help keep it going in the early days.  Even today,
+they continue to contribute and I can certainly appreciate their efforts.
+You'll get a chance to hear from Dan and see a sample of an old mailing
+list to see what I mean talking about the starting days.
+	I haven't met Dan myself but then again, that one is in the
+works and we'll probably hit it off come Thanksgiving.  (Looking
+forward to it Dan!)
+	Ok, enough of that now, hopefully people are still with me
+(some probably bored no doubt) but as I close out this section, I
+wanted to thank everyone on the list for keeping the list alive.
+I really don't post much anymore but you can be sure I'm still
+reading and I hope to post more in the future.  And now, here's some
+thoughts and comments from David himself, followed by words from some
+of the original members of the Rush Mailing List.
+	Once again, thanks for the past year, and looking forward to
+an even better year.
+				-Jimmy Lang
+
+*****************************************************************
+*	II.  	A Word From Your Humble Rush-Mgr.		*
+*****************************************************************
+
+    Well, this is my section to ramble on about the list.  I don't know
+how long this will turn out, but I'll try to keep it short.
+
+    I first must say that this list has been a real experience for me, in
+several ways.  For starters, little did I know when I suggested to Jimmy
+we use Syrinx for this that it would balloon to over 500 people!  The sheer
+number of RUSH fans staggers me; I had no idea there would be so many.  At
+the same time, with a list that large, there are certain problems I've had
+to overcome; more on these later.  Also, the wealth of knowledge I've gained
+through this list never ceases to amaze me!  I thought I was a big RUSH-head,
+but many of you out there have astounded me with your knowledge and con-
+nections.  Lastly, there are the the people I've met, both electronically
+and in person - all of you wonderful, interesting people.  I like to believe
+I'm a better person for it.
+
+    The people of r.m.m and the Digest - an interesting crowd!  I too remember
+the "RUSH Goddess" Karen Post, ex-operator at Ohio State (anyone know where
+she is now??).  She knew quite a bit, and soon made me realize (though her
+posts) that while I knew some trivia, she was in a whole different league!
+I have to say at that time, Jimmy also impressed me both with his knowledge,
+and also his fervor in spreading the word and defending the band to various
+flamers.  Then, there was the actual meeting between Jimmy and I.  Boy, was
+that an experience.  I had reservations about it - it was my first time I'd
+arranged to meet a person based entirely on mail contact, it was my first
+time in LA, or on the west coast, for that matter.  I had no idea what he
+would be like, or if we would hit it off.  On top of that, he was driving
+up from San Diego (~2 hours) just to meet for a couple of hours!  He'd be
+spending more time on the road than talking with me!  I told him I'd be at
+the Hilton hotel on Wilshire Blvd; just ask for me at the desk.  Good enough
+directions?  Nooooo, there are *two* Hiltons on Wilshire!  We finally got
+together, and still remember to this day, "What does (did) he think about
+me?"  I felt so out of place, not knowing what to say; I'm basically a shy
+person, which is why e-mail is so great.  It turned out to go pretty well,
+in spite of my verbal clumsiness.  Jimmy was a nice guy, easy to talk to.
+I don't know why I would have expected different.  He'd even given me a
+banner and a medallian (which I'm looking at as I type), and on top of that,
+he loaned me a couple of bootleg albums to take back and make copies of!!!
+"Here, take these - my tape deck isn't so good; you could probably make
+better copies.  Just mail 'em back when you're done."  I was floored, not
+to mention terrified that I might damage his albums.  I couldn't have packed
+eggs more carefully in my suitcase for the return flight.  They made it tho,
+and thus began the growth of my tape collection.
+
+    But enough mush for now - time for some observations.
+
+    In response to Jimmy's statements above, I must say in reading them that
+I waxed a bit nostalgic reading of 'the early days', and am amazed at his
+memory too.  I remember those early days of the shared .mailrc - sheesh, how
+ungainly can you get?  When a new member joins, everybody has to get a new
+copy, and you never know if yours is the latest edition.  At the same time
+it was clunky, it did give us an opportunity to be able to discuss RUSH and
+related issues without the flames that cropped up from time to time in the
+rec.music.misc group.  It was both painful and wonderful at the same time.
+
+    Finally, it got to be a bit much, and I decided to stick my neck out.
+You see, I'd recently acquired a DECstation 3100 (14 mips, RISC) machine
+which I'd dubbed 'Syrinx'; one of the perks of working at a University,
+since I couldn't brag about salary! :-)  (I'd previously had a hand in
+naming another of our VAXs 'Cygnus'.)  Now, I'm no great UNIX wiz, but I
+did know some stuff - enough to teach an introduction course in UNIX, but
+not enough to administer a system without help.  I also had some experience
+with figuring out mail headers & problems through my job as consultant
+here at the Univ. of Maryland CSC.  So, like they say, a little knowledge
+can be dangerous, and so armed, I sent the mail to Jimmy.
+
+    Originally, I'd set this list up as a reflector; you sent mail to the
+main address, and it re-sent it out to the whole list.  I did this because
+I knew how to, and I didn't have any software to create a 'fancy' digest.
+This soon turned out to be a bad idea, with between 20 and 40 messages
+coming in each day!  Finally, after a month or so of this, I sat down and
+set up some (not quite as clumsy) shell scripts to take my mailbox and
+put it into a pseudo-digest form.  Then I switched over to this format,
+and it seemed to work passingly well.  It didn't quite *look* like the
+other digests out there, but hey, we were up & running.
+
+    At the same time, I began to realize the pain mail administrators go
+through every day; bounces, machines disappearing & reappearing, machines
+with 'personality disorders' ("I refuse to talk to myself" - really!) - you
+name it, I ran into it.  Then, the strangeness started - everybody got two
+copies of the Digest.  Well, not everybody, and the same people didn't get
+doubles on the same days!  After beating my head on the problem for a while,
+I figured out there was a problem with the mailer on my machine.  If you sent
+a mail item &lt;so large&gt; to &lt;so many people&gt;, it sat in the outgoing queue too
+long, and the mailer thought it needed to be re-initiated.  Finally, I split
+the list into two, and that seemed to solve the problem.  For the time being.
+Then after a couple of attempts to get 'real' digest software, I got a copy
+that worked on my machine, and the new version of the Digest evolved.  Later
+came more changes; the list is now four lists, the software has been poked
+and prodded and changed so much it would only work on a machine like mine
+without major changes, and we now have a name.  We've come a long way, baby!
+
+    I want to close by thanking all those who have helped make this a
+possibility - Jimmy (of course), the memory of Karen Post, and the many list
+members who have offered help, tips, encouragement, and services.  To name
+a few, Helen for archival, Dan for the FAQL, David for the discography, the
+old-timers (you know who you are), Barry (my connection to 'the biz' and
+sounding board), and all the list members, without whom all this would be a
+waste of time.
+
+David Arnold,
+Editor, The National Midnight Star
+(RUSH Fans Digest)
+
+*****************************************************************
+*	III.  	Collection of thoughts from old veterans.	*
+*		Dan Delany Speaks!! (and others)		*
+*****************************************************************
+
+&gt;From ddelany@raven.calpoly.edu Sun Nov  4 13:24:57 1990
+Date: Sun, 4 Nov 90 13:21:56 PST
+From: ddelany@raven.calpoly.edu (Dan Delany)
+Subject: Rush anniversary issue..
+
+   It's hard to believe that the trusty Rush fans group has been running
+for a year, isn't it?  I think that all of the people who have been going
+out of their way to keep this going deserve thanks, and I'll buy any of
+them lunch (or at least a beer) if I meet any of them.
+
+   The trusty rush-mgr definitely deserves thanks!
+
+   Jimmy deserves something for starting this thing.
+
+   (Do I deserve something for keeping the FAQL?)
+
+   Most recently, Helen started making my life easier by keeping the
+   archives of old Digests, so I've stopped getting mail asking for
+   articles!  (Well, I'm happy about that...)
+
+   Anyway, it has been an interesting year, hasn't it?  How many people
+remember all of the "That's Nice" messages when _Presto_ came out?  (I'm
+guilty too - I posted one of them!)  We've had a tour go by.  We've even
+seen Neil Peart's reaction to the Digest.
+
+   We've seen messages from new members several times a month telling us
+what "YYZ" really means.  "The Pass" has been analyzed to within an inch of
+it's life.  (Look for the definitive word on this in a future FAQL, thanks
+to a tape I recently received.)  I finally got to read "A Nice Morning
+Drive."  I got to meet some real interesting people as well.
+
+   And now, we're starting to get rumors about a new album!  Looks like the
+Digest will have a good second year...  (or is that a second good year?)
+
++------------------------------------------+----------------------------------+
+|   "Rising falling at force ten           |   ddelany@polyslo.calpoly.edu    |
+| we twist the world and ride the wind..." |       Daniel Alan Delany         |
++------------------------------------------+----------------------------------+
+*****************************************************************
+
+&gt;From sasak_ee@jhunix.hcf.jhu.edu Fri Oct 26 08:53:10 1990
+Subject: Fond Rememberences?
+Date: Fri, 26 Oct 90 11:48:24 EDT
+
+Hey Jimmy --
+.....   I'm an original member...
+
+	I remember really enjoying the list at its inception because I
+got to kind of "know" everyone on it - and it was a lot easier to hold
+lengthly discussions.  Now, there are a lot of requests for explanations
+for old topics (which is to be expected, I know), but it kind of breaks
+up the continuity of some of the discussions.
+......
+
+		-- Erin Sasaki
+		   sasak_ee@jhunix.hcf.jhu.edu
+*****************************************************************
+
+&gt;From burian@barney.bgsu.edu Thu Nov  8 16:36:51 1990
+Date:  Thu, 8 Nov 90 19:36:20 -0500
+From: John M. Burian&lt;burian@barney.bgsu.edu&gt;
+Subject: Re: Rush list
+
+&gt;From my end, the list hasn't changed much.  Sure, it's picked up a header,
+a footer (and a _big_ ol' disclaimer, which is kinda sad that we have to
+include one), and about 3-4 hundred readers.  The digest is better than
+the billions of individual mailings we used to get - it's more organized
+in general.  While I'm not wild about someone editing posts, it seems
+the best way to keep out bashers, and it says something about the
+people on the list that the rush-mgr has only had to edit one or two
+posts.  For the future, I say keep up the good work, and keep the list
+friendly - too often a good idea gets impersonal as it grows.
+
+There you are, later days.
+						john
+						burian@barney.bgsu.edu
+
+[ Quick note: there have never been any 'bashing' posts while I've been
+  moderating - keep it up!                                    :rush-mgr ]
+
+*****************************************************************
+
+&gt;From mjahnke@sdcc13 Thu Nov  8 03:47:45 1990
+Date: Thu, 8 Nov 90 03:47:40 PST
+From: mjahnke@sdcc13 (******* Meg *********)
+Subject: remembering
+
+   Well it's been a year already has it? Amazing! I haven't been on
+the list since the VERY beginning; I hadn't even really heard of
+Rush until Jimmy (my boyfriend and founder of this list) started
+talking about them just last year. I had seen two of their videos
+("The Big Money" played incessantly on MTV when I was watching it)
+and my dad had bought _Power Windows_, but that's as far as I knew
+Rush. But since Jimmy kept talking about them, I decided to see
+what was up, and when I went back to Japan for Christmas I listened
+to them. Okay, so it was only a tape of _Power Windows_ that I had,
+but after listening to them on infinite repeat, I kept wondering how
+come I hadn't heard of them before? These guys were great! (Now I
+know, no radio air time!) Before I left for Christmas though, I
+began to read some of the original posters' mail (when it was just
+a mailer sending out individual articles to people) and found it
+very interesting. Even though I didn't know who Rush were. At first
+I signed up so I'd have something to read, as I didn't know much
+about them (and I really liked the idea of having individual mail
+sent around to everyone, but by the time I got on the list it had
+become the digest). Thanks to the list I've learned quite a bit about
+them, and I can listen from _A Farewell to Kings_ onward (the first 5
+albums I'm still getting used to!).
+   I really like the digest and the different discussions that keep
+it going. They're quite interesting and fun to read (even if I just
+ask questions about them and don't really discuss anything -- by the
+way, anyone know how tall Geddy, Neil or Alex is? :) ). I thought the
+individual aritcles mailed around were even more fun, since everyone
+got the letter right away and could respond. Too bad it's impractical
+though.
+   I wondered at first how long this digest would go on (I figured
+come summer and it would disband) and here it is a year. Here's to
+the digest and the 500+ people that keep it going nowadays! Enough
+of my rambling, I'm outta here. Keep up the good work everyone!
+
+-Meg
+
+*****************************************************************
+
+&gt;From tedi@apple.com Fri Nov  9 01:24:20 1990
+Date: Fri, 9 Nov 90 01:21:49 -0800
+From: Ted Ives &lt;tedi@apple.com&gt;  (Chris Michael actually)
+To: jlang%sdcc13@ucsd.edu
+Subject: essay
+
+Jimmy,
+  I somehow found the time to write a little essay for you:
+
+Thoughts from a Rush Mailing List "veteran":
+
+  I began tuning into the Rush talk on the various internet SIGs
+a few years ago.  After awhile it became obvious that much of the
+talk concerned Rush.  Most of it was either important Rush info,
+discussions or "Rush bashing".  A few folks talked about setting
+up a Rush SIG or mailing list.  As you may recall, the "bashing"
+was definitely a problem and was probably a major factor in
+creating the "Rush Mailing List".  A typical flame-throwing
+incident would usually involve an ignorant-sounding "non-Rush
+fan" putting down the band or a fan.  The result was an
+uncontrollable avalanche of "bashing" from both sides which only
+resulted in our mailboxes getting clogged.  (Personally, I never
+let "bashing" get to me).
+
+  To make a long story short, by October 1989 a short list had
+been put together.  By November 1st the list totalled 22 fans!  1
+month later, the December 1st posting, we had grown to 36 fans.
+That day's message read:
+
+  ...Hi all, and welcome to the 'official opening' of the
+new-improved Rush mailing list!  This is brought to you by an
+initial effort from Jimmy Lang and via a machine donation from
+yours truley......Thank you for your support, and let the games
+begin!   - The Rush Mailing List Management
+
+  At that time, the bulk of the mail was in the form of
+transcribed interviews, tourbooks and articles.  It took awhile
+for the "chemistry" to develop between the contributors.  Things
+were slow at first and there were a few minor differences between
+members, (I'm don't recall exactly why).  Things picked up and
+membership grew steadily.  I definitely noticed a decline in the
+frequency of "typed-in" published interviews and articles.
+Personally, I see this as one of the best features of a mailing
+list like this one.  I hope folks continue to post items like
+this.  There are plenty of rare, pre-80 articles out there which
+we would all like to read.  Local newspaper concert reviews are
+always interesting, too.  It's important that things remain
+"interesting" or we will risk losing members and won't attract
+new ones.  I feel that "quality" is more important than
+"quantity".
+
+  As the membership gets larger, so does filesize of each issue.
+I'm sure I'm not the only one who has often not had time to read
+particular issues and thought, "damn.  I wonder what I
+missed....".  The "table of contents" idea was fantastic and
+really solved this problem!
+
+  Well kids, that's the story of how I became a "Rush Mailing
+List Veteran".  Here's to another successful year!
+
+                                                 Take care,
+                                             - Chris Michael
+
+*****************************************************************
+*	IV. A sample of the early-day Rush mailing list.	*
+*	    I thought it might be neat looking back through my	*
+*	    old mbox's and finding some of the early mail from	*
+*	    the "original" mailing list.  Here's a small	*
+*	    sample of how it was:				*
+*****************************************************************
+-----------------------------------------------------------------
+&gt;From pa1216 Sun Nov 19 02:47:23 1989
+Date: Sun, 19 Nov 89 02:46:01 PST
+Subject: Hello Fans
+Status: R
+
+Guess what?  The new CD is out, in case you haven't heard..
+Picked it up today but got caught up in things and never got around
+to listening to it!  (What?  What's this?  The Rush moderator of the list
+not having time for a new album?  Blasphemy!  Hang him!)
+
+Anyway, I'll give a report later.
+So go out and get it if you haven't done so yet!  Looks good.
+bye all
+and let's hear from some people eh?
+
+&gt;From ddelany@polyslo.CalPoly.EDU Sun Nov 19 08:42:47 1989
+Date: Sun, 19 Nov 89 08:37:54 -0800
+Subject: Presto
+Status: R
+
+Well, I'm pretty pleased with it.  (Now that's an understatement...)
+
+"Thaaaaaaaat's Niiiiiice."
+(After listening to "Chain Lighting", you'll know why I typed that.)
+
+Here's some information of interest to those of you who are in Southern Ca:
+2 ticket places are accepting deposits for Rush tickets
+in the LA times this morning:
+
+Ticket Time:
+
+(213)202-0053
+9925 Venice Blvd.  Los Angeles, CA 90034
+
+(714)832-5800
+17395 17th St., Suite F, Tustin, CA 92680
+
+(818)783-1033
+16060 Ventura Blvd, #103, Encino, CA 91436
+
+(818)440-9700
+150 S. Los Robles Ave., #2, Pasadena, CA 91101
+
+Front Row Center Ticket Service:
+
+(213)488-0020
+404 So. Figuero #105, Los Angeles CA 90071
+
+(213)478-0848 or (213)879-6957
+1355 Westwood Blvd., W. Los Angeles, CA 90024
+
+(714)751-9800
+675 Paularino St. #6, Costa Mesa, CA 92626
+
+(213)427-7488
+3393 Atlantic Ave., Long Beach, CA 90807
+
+(818)701-5995
+8454 Reseda Blvd., Northridge, CA 91324
+___ddelany@polyslo.calpoly.edu________________________________________________
+Elvis Sucks!
+
+&gt;From xenitec!wolf@watmath.waterloo.edu Sun Nov 19 15:32:56 1989
+Date: Sun, 19 Nov 89 13:24:54 EST
+Subject: Re: Hello Fans
+Status: R
+
+	I've listened to it quite a few times now and like it more each
+time. Nice proggression from Hold Your Fire, I think. Geddy's vocal
+performance on Available Light is perhaps the best he's done on record.
+I'm looking forward to hearing a lot of it live, should be interesting
+to hear how the background vocals are handled. They are superb on cd.
+
+                                           -Dave
+
+&gt;From tedi@apple.com Wed Nov 22 15:07:00 1989
+Date: Wed, 22 Nov 89 14:38:05 PST
+Subject: LOTS OF RUSH NEWS
+Status: R
+
+I'd like to post this to the RUSH mailing group for my friend Chris.
+PLEASE DO NOT inundate me with questions for Chris unless it's really
+important or unless you have information...I can, however, be
+reached at tedi@apple.com
+
+					11-20-89
+
+Rush bulletin:
+
+  Hi Rush fans,
+
+  I have a few tidbits of information to post this week.  I assume
+ you have all heard Presto!  Pretty neat, eh?  I have three main
+ news items: My recent visit to the Backstage Club, the official
+"Chronicles" news release, and the latest Rush tour itinerary.
+
+   Starting with my trip.... While working at the Poqet booth
+ at Comdex, I took a brief trip to the Rush "Backstage Club"
+ office in Las Vegas, NV.  There, I had a chance to chat with
+ Dot, the woman who runs the place.  It's really a small
+ operation but they had tons of merchandise!  She also
+ had a few platinum records.  Apparently, she and her
+ son used to to promotional work for the band as early
+ as 1971 and she is still at it!  It makes an exciting little
+ trip if you are ever in Las Vegas.
+
+    About Chronicles...  Apparently the rumor is false
+ that there would be a 58 minute long track on the
+ album.  Here is a transcription of the original Mercury
+ press release.  Notice that no vinyl album is planned:
+
+	&lt;Mercury Logo&gt;
+                 RUSH
+            CHRONICLES
+
+&lt;Album photo: H.Y.F. "RUSH" font in big letters across
+ top third of cover.  Along the bottom, "C H R O N I C L E S".
+  The cover is shaded and darker on the bottom&gt;
+
+Cassette 838 936-4  2R
+CD 838 936-2  2G
+PRICE CODE  2CT/2CD
+
+- Chronicles, the first ever RUSH compilation, compiles 28
+ tracks from one of the most influential bands of the
+70's and 80's.  All phases of the band's career are
+represented.
+- Chronicles features 3 non-CD tracks -
+         - What you're Doing (Live)
+         - A Passage to Bangkok (Live)
+         - Take Off featuring Geddy Lee
+	     (from Bob & Doug - Great White North)
+         - Chronicles features an essay by noted rock
+ historian John Swensen.
+         - Chronicles was prepared from the original
+ master tapes.
+
+					SONG TITLES:
+DISC 1 - Find my Way/Working Man/FLy By Night/
+Anthem/Bastille Day/Lakeside Park/2112 (a) Overture, (b) Temples of Syrinx/What You're Doing/A Farewell To Kings/
+Closer To The Heart/The Trees/La Villa Strangiato/
+Freewill/The Spirit Of Radio
+DISC 2 - Tom Sawyer/Red Barchetta/Limelight/
+Take Off featuring Geddy Lee/A Passage To Bangkok (Live Version)/Subdivisions/New World Man/
+Distant Early Warning/Red Sector A/The Big Money/
+Manhattan Project/Force Ten/Time Stand Still/
+Mystic Rhythms (Live Version)
+
+			UPC BAR CODE NUMBERS
+		422 838 936-4(CT)/422 838 936-2(CD)
+			IN STORE OCTOBER 3
+
+Here is an exact copy of a fax sent to the Backstage
+ Club from Rush's home office, (in very messy handwriting):
+
+February
+17th	Greenville, SC
+19th	Jacksonville, FL
+20th	St. Petersburg, FL
+22nd	Miami, FL
+23rd	Orlando, FL
+25th	New Orleans, LA
+26th	Houston, TX
+29th	San Antonio, TX
+
+March
+1st	Dallas, TX
+2nd	Kansas City, KS
+5th	St. Louis, MO
+6th	Cincinatti, OH
+8th	Detroit, MI
+9th	Detroit, MI
+20th	Edmonton, ALB
+21st	Calgary
+23rd	Vancouver, BC
+25th	Seattle, OR
+26th	Portland, OR
+28th	Sacramento, CA
+30th	Oakland, CA
+31st	Oakland, CA
+
+April
+2nd	Los Angeles, CA
+3rd	Los Angeles, CA
+5th	San Diego, CA
+6th	Costa Mesa, AZ
+8th	Phoenix, AZ
+9th	Tucson, AZ
+
+Please note that this is a tentative itinerary and
+ changes will be made as they are received.
+
+How about that, folks???!  Please, if anybody gets any
+ updated information, post it!  Also, I haven't heard
+ anything about the Bar dates.  However, I do know
+ for a fact, (a very reliable source), that they will be
+ warming up for this tour at Radio City in NY.  If
+anybody has any dates, post them ASAP before we
+ all miss it!  This tour should be very different for
+ the group and crew.  SRO productions cancelled
+the retainers for all of Rush's long-time roadies
+except for Liam and Howard.  Well, here's to a
+great tour and hopefully some great videos, too!
+Oh, I would appreciate it if somebody could send
+me (via TEDI@apple.com) IN ONE FILE everything
+ ever posted on the subject of RUSH.
+ Somebody recently mentioned
+that they had all the old postings on disk.  (However,
+ don't eveybody bombard Ted with a million copies
+ of everything!).  This is Chris, signing off....  P/G
+- This is Ted.  If you're going to send me anything big,
+ please run StuffIt on it or something (or whatever
+the UNIX utility it is that squashes stuff - I forget.)
+
+&gt;From pa1216 Mon Nov 27 21:04:44 1989
+Date: Mon, 27 Nov 89 17:50:34 PST
+Subject: Presto
+Status: R
+
+Hi folks, hopefully by now you've already gotten Presto and listened to
+it about 100 times.. Well, as with the last couple of Rush albums, first
+listening all songs sounded kinda the same..then after repeated listening
+I could discern all the different things that was going on!  and come to
+the conclusion that Neil Peart is a genius...
+
+heh
+
+Favorites on the album so far has got to be "Scars" (dig that bass and the
+drums!!  and strong Alex guitar).. and "Show Don't Tell"
+The drums are just awesome in "Scars" definitely a standout from the rest
+of the tracks.  Lyrics seem to be up to par though I didn't particularly
+care for "THIS IS NOT A FALSE ALARM..THIS IS NOT A TEST", which I think
+sounds kinda weak..hehe..but at least it's cool to see another return of a
+"RED" song eh?  How many is that now?  Red Barchetta, Red Lenses, Red Sector A
+and Red Tide right?  Hmm..seem to be losing some memory here..anyways, the
+vocal range on "Available Light" is pretty good.. I don't care what
+ERLAND the Rush-Basher says, Geddy's voice has definitely improved.
+OH well.. time for me to get out of here so hope everyone's doing ok..
+time to catch "the boys" on tour now!  boy am I excited!
+
+-Jimmy
+(Let's here some more from you guys out there..hopefully if everything goes
+ok, the Rush mailing list will be a bit different - you get to work on that
+one David! on a new machine too.. could it be syrinx?  I hope so!  anyway
+more details as I get them.)
+bye
+awaiting more reviews from you Rush fans..
+
+&gt;From livia@blake.acs.washington.edu Thu Nov 30 00:46:21 1989
+Date: Thu, 30 Nov 89 00:45:40 -0800
+Subject: Re:  Mailing list
+Status: R
+
+_Presto_ ROCKS!
+
+Really.  I haven't stopped listening to it since I got it.  I put it on about
+twice a day.  My
+favorites so far are "Chain Lightning", "Scars", "Presto", "Superconductor",
+"Red Tide", and "Hand Over Fist"--hell, I like everything on there.  Especially
+things like the acoustic guitar on "Presto", Neil's neat drumming on "Scars",
+the choruses to "Chain Lightening" and "Anagram", Geddy's mellow voice on some
+of the tracks ("Red Tide", "Available Light"), and the lyrics to "Anagram" are
+just a kick!
+
+Now if they'd just tour and make a date for the Seattle area...
+
+[ End of part one of the anniversary edition of The National Midnight Star ]
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions & changes), send
+mail to:
+
+    rush-request@syrinx.umd.edu
+
+To obtain previous issues of The National Midnight Star (in it's current
+incarnation), send a request containing your name, e-mail address, and
+the digest number(s) to:
+
+    htodd@gmuvax2.gmu.edu
+
+Please specify The National Midnight Star (the RUSH Digest), as she handles 
+archiving for other lists also.  These requests are processed in a batch
+fashion once a week.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the management.
+
+List Management
+
+*********************************
+End of The National Midnight Star
+*********************************
+
+

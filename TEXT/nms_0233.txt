@@ -1,0 +1,948 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 05/07/91 - The National Midnight Star #233
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 233
+
+                   Tuesday, 7 May 1991
+Today's Topics:
+                      Administrivia
+             Yo:BBS:unsubscribing:encounters
+           chords, rare EPs, various questions
+                     Mr. Big (again)
+               What makes Rush innovative?
+                        More stuff
+                          Stuff
+                          Gibson
+      Re: 05/03/91 - The National Midnight Star #232
+                 an antiquity speaks :-)
+           Camel, Rupert Hine, and Rush videos
+            an omen, or just random weirdness?
+                     Just dreaming...
+                      Album patterns
+                        Newsgroup
+     Re:  05/03/91 - The National Midnight Star #232
+                 Big Money in F# and FBN
+     Re:  05/01/91 - The National Midnight Star #230
+                     Unreleased songs
+                     Re: Meeting Rush
+                       Fly by Night
+                  Mystic Rhythms on TV?
+                         Comments
+                 Signals/Permanent Waves
+                   server & bbs access
+             Blue Oyster Cult & Rush, Mr. Big
+----------------------------------------------------------
+
+From: Editor, The National Midnight Star &lt;rush-mgr&gt;
+Subject: Administrivia
+
+FYI, there was no NMS mailed for Monday, 5/6.
+
+Also, for all of you with questions/problems with the mail server at Ingr,
+pay attention to Keith Ford's two posts in this issue.
+
+----------------------------------------------------------
+
+Subject: Yo:BBS:unsubscribing:encounters
+Date: Fri, 3 May 91 13:32:30 CDT
+From: keith@dragon.b23b.ingr.com (Keith Ford)
+
+&gt; that the version of M.R. was from ASOH.  Hopefully things are straightened
+&gt; out now (yo, Keith, fix it on your server!!), and I can slink away...
+
+Yo, it's fixed.
+
+&gt;   services to get computer/network/mail access.  Losing your account doesn't
+&gt;   have to mean losing your NMS.  There's always Compuserve... (Sorry Jimmy,
+&gt;   I couldn't resist!  :-)                                         :rush-mgr ]
+
+I also post TNMS on my BBS and have started moving some of the archive
+files there.  See my .sig for information.  Everyone is welcome to visit.
+
+Kindly suggestion.  When subscribing to TNMS, you know you will be losing
+your account on a certain date, inform Rush Mgr of that when you send him
+email.  Might I suggest that you include in your message text, on a line
+by itself, something to the effect of:
+
+KILL-DATE:  01-JAN-92
+
+A program or shell script could utilize this information to automatically
+remove you from the list.  Perhaps that would keep some of the clutter out
+of TNMS.  Whaddaya think?
+
+About meeting one of the boyz, why not ask them for a quick comment to
+post in TNMS to be viewed by &gt;800 active and hungry fans.  Be sure to
+offer to send them a copy of the text and any follow-ups.
+
+--
+ __  fordke@ingr.com, ...!uunet!ingr!{fordke,infonode!umagic!sysop}
+/  \ Micro Magic BBS  1:373/12  (205)830-2362  sysop@umagic.fidonet.org
+\__/ home of OBUL and the Rush archives, running Opus+DV+UFgate+X00
+[__] "He knows changes aren't permanent, but change is" -Rush
+
+----------------------------------------------------------
+
+Date: Fri, 3 May 91 14:49:12 EDT
+From: Doug White &lt;dwhite@dsys.ncsl.nist.gov&gt;
+Subject: chords, rare EPs, various questions
+
+Howdy! I'm new to the NMS, but having browsed thru the last issue, wanted
+to make a few comments & questions.
+
+With regard to Alex, Geddy or Neil leaving - God forbid! A third of the
+band gone would mean a BIG change.
+And as to split-ups, what with all the Pink Floyd name wars, and the Yes
+and ABWH bands mixing & matching, who (if anyone) owns the rights to the
+Rush name? Could (for example) Geddy leave the band, and reform a band
+called Rush? (Yipes!)
+
+I remember an interview where all the guys agreed that it was good that
+there were only 3 in the band; it meant that the worst odds in a fight
+were 2 against 1.
+
+I have a 12" platter with Subdivisions, Countdown and parts of an interview.
+I could have sworn that there was a series of such releases (from Signals,
+not PW!) - anybody know if I'm right?
+
+I saw someone looking for the first two chords of Fly By Night ...
+try this:
+
+|---:--3:---:---
+|---:---:--4:---		1st chord  (just plain D)
+|---:--2:---:---
+|---:---:---:--
+
+|---:---:--3:---
+|---:---:--3:---		2nd chord
+|---:--2:---:---
+
+(by the way, ever seen the sheet music for La Villa Strangiato? The opening
+bars are almost solid black with 64th & 128th notes!)
+
+I saw Rush in the Capital Center (hockey & basketball stadium) against my
+usual judgement - I hate humongous places like that - but they sounded
+great. I've heard stories that from Permanent Waves on, they've been
+using some spiffy digital equipment that can reproduce the studio sound
+with all sorts of spectral analyzers and gizmos. Which, supposedly, means
+that you'll hear exactly what was on tha album if they play in your living
+room or Shea Stadium. (Any roadie/backstage folks wanna correct me? I'd
+love to get a yea or nea on this) 'Course, that's the THEORY.
+
+I also heard part of Different Strings used as a lead-in on a Maryland
+Public Radio story. It's nice to know these people listen to real tunes.
+
+Thought: Is it coincidence that my 3 favorite bands (Rush, Yes, the Who)
+all have/had rock's premier drummers (Peart/Bruford/Moon), guitarists
+(Lifeson/Howe/Townshend) and bassists (Lee/Squire/Entwistle)?
+
+------------------------------------------
+ Douglas White, National Institute of Standards & Technology
+ Bldg. 225, Rm A216, Gaithersburg, MD 20899
+ dwhite@dsys.ncsl.nist.gov /  Voice: (301) 975-2182 / FAX: (301) 590-0932
+
+ "The only reason some people get lost in thought is because it's
+  foreign territory." - Paul Fix
+
+P.S. Whatever DID happen to Rutsey?
+
+----------------------------------------------------------
+
+From: hcappell@ucdavis.edu (Heather Appell)
+Date: Fri, 3 May 91 11:59:09 PDT
+Subject: Mr. Big (again)
+
+Gosh, as much as I hate to give this band much more attention (although I will
+grant that I do like their bass player), I must correct a post that said Presto
+was their first tour.  Unfortunately not.
+As much as I hate to admit this I saw them open for Winger, uh, I mean a friend
+saw them open for Winger....yeah, that's it....during the summer of 89 in San
+Jose, Ca.  Then to see them again at the Presto concert, well, let me tell 
+you,I just couldn't control my enthusiasm (not:)
+Well, midterms call.  Pity us on the quarter system!
+Heather
+"...what I want is the deadliest weapon...that is truth"
+                                       ~Marillion
+
+----------------------------------------------------------
+
+Subject: What makes Rush innovative?
+Date: Fri, 03 May 91 13:36:39 +0100
+From: gimper@leland.Stanford.EDU
+
+For anyone out there who hasn't been following the flame wars on
+alt.rock-n-roll, the question has come up (many, MANY times) about
+what makes Rush such an innovative band.  Most of the replies I've
+seen have not had a lot of substance.  Mostly, they're like me --
+I can't really put my finger on it, but Rush IS innovative.
+
+I have just corresponded with one of the opponents to this view,
+Hamish Reid, via e-mail (I refuse to perpetuate the flame war on
+alt.rnr).  I said that Rush was innovative, Hamish countered my points.
+My point was that for a three-piece band, Rush is extremely innovative
+(e.g. Taurus pedals hooked up to the Oberheim, Neil's back-to-back
+kits, Geddy's Rickenbacker double-neck bass/guitar).  But Hamish
+says that *muscially* Rush is not innovative.  And in the big picture,
+I can see where he is coming from.  Compared to Brahms, Chopin, etc.,
+Rush probably *isn't* innovative.
+
+But I replied to him that Rush is innovative in terms of a rock band,
+particularly for a rock *trio*.  But once again, I am kind of at a
+loss for words.  What makes Rush so innovative musically?  I'm going
+to e-mail Hamish at least once more, so do any of you out there have
+any input for me?
+
+On another note:  I posted another question a few weeks ago, and
+haven't seen an answer yet.  What made "Witch Hunt" such a studio
+production that the Boyz could not originally reproduce it onstage?
+
+-- Stuart
+
+ORQ:  "One...  Two...  Buckle...My...Shoe..."
+
+----------------------------------------------------------
+
+From: atz@clmqt.marquette.MI.US (dweezilbub)
+Subject: More stuff
+Date: 3 May 91 13:36:55 EDT (Fri)
+
+&lt;la@doc.imperial.ac.uk&gt; scribes:
+
+&gt;I've read in some music publications articles about Rush which quite
+&gt;worried me. The writers describe Rush as "crypto-fascists", "nazis",
+&gt;"right-wing extremists", etc.
+&gt;
+&gt;Is this true? What basis do these writers have for these allegations.
+
+The people who usually write junk like that are crypto-fascists,
+nazis, and right-wing extremists.  ;)
+
+Makes terrible toilet paper too
+
+--
+      \_._____._____._____.    ====  ====  ===== .____._____.___.___/
+  \__The Enterprise BBS      ==  ==  ==   ,===~   This space for rent!__/
+       __-__________-__     ==~~==  ==   =====    ____-_____-___-__
+         \          \  \atz@clmqt.marquette.mi.us/    /     /   /
+
+----------------------------------------------------------
+
+From: atz@clmqt.marquette.MI.US (dweezilbub)
+Subject: Stuff
+Date: 3 May 91 13:20:49 EDT (Fri)
+
+&lt;jahnke@joplin.biosci.arizona.edu&gt; wrote:
+&gt;They then played Green Bay for quite a while. Then I had to drive
+&gt;down to Sun Valley to see them. Now I gotta drive to Pheonix. I
+&gt;do it, but it is a pain driving back.
+
+I wish they still played Green Bay nowadays...  I live in the northern
+upper peninsula of Michigan, and the wife and I have to drive to
+Milwaukee or Alpine Valley, which are both around 400 miles.  We would
+usually book it back after the show, but for Presto we had a babysitter
+that spent the night so we stayed overnight there.  The babysitter was
+only 80 bucks!  6ha.
+
+Anyways...  I have noticed alot of new names around here lately.  Since
+I have pretty much wrapped up the sending of these GIF's I have (to over
+50 people), I thought I would like to mention it again.  If anyone wants
+GIF's (they are on the server thingy or whatever, thanx David!) but if
+you dont have the capability to get them from there send mail to me.
+
+atz@clmqt.marquette.mi.us  or  ged@lopez.UUCP
+
+When I saw Mr. Big open for the boyz they did a song ABOUT rush (I think
+it was the last song).  Does anybody relate?  If you know any of the
+words, I would appreciate seeing some.  Chanx.  Yabba dabba do.
+
+--
+      \_._____._____._____.    ====  ====  ===== .____._____.___.___/
+  \__The Enterprise BBS      ==  ==  ==   ,===~   This space for rent!__/
+       __-__________-__     ==~~==  ==   =====    ____-_____-___-__
+         \          \  \atz@clmqt.marquette.mi.us/    /     /   /
+
+----------------------------------------------------------
+
+From: Robert B Simmon &lt;presto@rpi.edu&gt;
+Date: Fri, 3 May 91 18:33:21 EDT
+Subject: Gibson
+
+	William Gibson is awesome!!!
+	As far as the relationship between Digital Man and Neuromancer -
+One was published in 1982 (Signals) the other either 83 or 84 (my copy is at
+home) and won all the awards in 84.
+	Zion & Babylon were associated with a rastafarian colony, while
+digital man was written when Rush was exploring Reggae, a musical form
+associated with the Rastafarian movement.
+	Maybe Gibson was inspired by Rush (wouldn't that be cool, after all
+he is Canadian)  but more likely the two terms are either symbols found 
+throughout the Rastafarian "cult" or Jungian archetypes - words which have 
+aquired a meaning above and beyond a mere place.
+	By the way, this is all conjecture, and I know next to nothing about
+either Rastafarians or Jungian psychology.
+	If I had a modem, I'd go home, listen to Digital Man, and flip
+through Neuromancer, and do a little bit of a better job.  Oh well.
+	Have you read the new Sterling/Gibson novel "The Difference Engine"?
+Any of Sterling's stuff?  (I've read a lot of Sterling, but didn't have the
+money to by the hardcover of The Difference Engine, but my birthday's soon,
+and I may get $$$$ (Yippee, a new Gibson Novel is as good as a new Rush or Yes
+album, to me.)
+	How about the various Cyberspace/Cyberpunk newsgroups?  Some of them
+are good, but I don't have the time to read at all regularly.  Oh Well.
+-rob simmon (or) redline (or) cinnamonhead
+
+----------------------------------------------------------
+
+Subject: Re: 05/03/91 - The National Midnight Star #232
+Date: Fri, 03 May 91 18:54:51 EDT
+From: ddl683@csc.albany.edu
+
+On the subject of Rush's popularity...
+
+It's clear that a lot of people like the band.  They go platinum with
+every album, and sell out nearly every venue they play.  So why aren't
+they considered a "regular" act?  That is, why aren't their videos in
+rotation on MTV a little more often, why don't AOR stations play them
+with the same frequency as Floyd or Zep or the latest clone band?
+
+Well, some of it can be linked to the band itself.  They don't do TV
+interviews much, or create high-visibility images (anything from
+clothing to hair styles to breaking guitars on stage), or do benefit
+concerts.  But still, they DO produce videos which are standard
+mid-budget MTV fare, judging from what's on _Through the Camera Eye_
+and _Chronicles_: "Big Money" and "Mystic Rhythms" are both good
+examples.  They do make songs that are singable and "accessible," such
+as "Time Stand Still" and "The Pass" (both of which did get some airplay).
+
+A lot of it can be traced to the fans, who are seen as elitist, loud
+and long-winded (or alternately, educated, vocal and well-spoken).
+Face it, most of us, myself included, treat most of the music industry
+with scorn.  Rush, we feel, is one of the only acts extent with the
+true "spirit of radio," or of music.  This translates to aloofness.
+People react to that attitude -- read rec.music.misc if you can, to
+see examples of it (some people just like playing with Rush fans' heads).
+
+This isn't a flame, of course, and I'm not saying what's right or
+wrong here, just what I see.
+
+But one question for you 800-or-so devotees:  How do you think you'd
+feel if a Rush song hit it _really_ big?  Say "The Pass" made it to
+number one on the Billboard charts, or even in Top40 radio.  Suddenly
+there'd be a whole new deluge of interested fans, of stories on the
+band, of posters and t-shirts (which I really MISS having a lot of, so
+I wouldn't be sad to see them!).  How would you react?  How would the
+band react?  Maybe when you complain about Rush's lack of "respect" or
+whatever you want to call it, you're actually looking a gift horse in
+the mouth...
+
+						Derek L.
+--
+       derek@albnyvms.bitnet       &lt;&gt;      ddl683@sarah.albany.edu
+====}=---------------`  Fencers love to touch  '-----------------={====
+               "Cinderella man... hang on to your plans..."
+
+----------------------------------------------------------
+
+Date: Fri, 3 May 91 20:06:21 EDT
+From: Ken Dykes &lt;kgdykes@watmath.waterloo.edu&gt;
+Subject: an antiquity speaks :-)
+
+&gt;Date: Sat, 4 May 91 01:35:51 NST
+&gt;From: carl%fivegl@mercury.gen.nz
+&gt;Subject: How old is the NMS?
+&gt;
+&gt;BTW, who is the oldest member on our list (age)? And how long have you been
+&gt;listening to RUSH? Come on, own up!:)! Is there anyone on the list who
+&gt;saw their first concert? Where was it, and what did they play?
+
+first concert? well not a concert as such, but i remember seeing them
+when they were still doing the bar circuit... i was young and my mind
+has faded, i presume the bar circuit had some overlap with their first
+couple years of "real concerts" too.
+
+&gt;  (eventually) answered by the poll I'm currently considering.  As for age
+&gt;  of members, the survey will hopefully answer this; I can tell you that
+&gt;  we have at least one or two members who have crossed that big 3-0 mark,
+
+ *shudder* sez me pushing 33 this july...
+
+   - Ken Dykes, Thinkage Ltd., Kitchener, Ontario, Canada    [43.47N 80.52W]
+         kgdykes@watmath.waterloo.edu  [129.97.128.1]        watmath!kgdykes
+
+----------------------------------------------------------
+
+Date: Fri, 3 May 91 17:28:43 -0700
+From: David Conley &lt;dmc@u.washington.edu&gt;
+Subject: Camel, Rupert Hine, and Rush videos
+
+Hello fellow NMS members!  I know, long time, no post! :-)
+
+Two items to add to discussion today:
+
+1.) Are there any Camel fans among this group? My guess is yes.
+Anyhow, Camel has been a very popular, influential band in
+England since the early '70. To be honest I don't know if they
+are still together, as I haven't heard anything from them in
+years. Their style is a bit hard to describe, similiar to early
+Genesis and not unlike Rush in that they are very innovative and
+shall I dare say it "Progressive" !!
+To get to the point: Camel CD's are a bit rare, but I spied an
+import copy of their 1979 "I Can See Your House From Here" release.
+I had never noticed it before, but the record was produced by
+none other than Rupert Hine. I don't think he produced any other
+Camel albums, but the liner notes listed the many other groups
+he had worked with. He also has recorded some solo work. Has
+anyone heard any of Rupert's music?
+
+2.) I recieved a copy of the Chronicles video for my birthday
+(I won't reveal which number this was). I enjoyed seeing some
+of the bands early videos, especially the live version (although
+it wasn't in front of any audience I don't think) of The Trees.
+I wish Neil would grow his handlebar out again!! hee-hee
+
+I was not as impressed with the later Rush "MTV" style videos,
+"The Big Money" and "Time Stand Still" in particular. Frankly,
+I felt a bit embarassed!! I have always been of the opinion that
+videos should add something useful, some special imagery or
+thought provoking ideas to supplement a song. I despise most
+videos because it seems that some bands feel obligated to crank
+out a video for a song no matter how simple minded or foolish they
+appear. I won't mention any band in particular.
+The Rush videos weren't all that bad, but they left my wondering
+why the Boyz felt they were necessary. Just having some fun or
+what?? I guess I can do without them. Anyone else have similar
+feelings??? Comment??
+
+Just one man's opinion :-)
+
+Cheers,
+Dave
+-----
+David Conley     "The DIgital Anatomist"     dmc@milton.u.washington.edu
+University of Washington School of Medicine, Seattle
+
+----------------------------------------------------------
+
+Date: Fri, 3 May 91 23:17:21 EDT
+From: vanth!jms@amix.commodore.com (Jim Shaffer)
+Subject: an omen, or just random weirdness?
+
+When I went to the local record store Wednesday night to pick up a copy of
+Union, I noticed that  1: Cassettes of "Presto" were selling for $3.99, and
+		       2: copies of every Rush album were in stock.
+The first was surprising, the second was just plain unheard-of.  I know
+that the next album isn't supposed to be out until the end of the summer,
+at least, but if I *didn't* know that I'd say its release was right around
+the corner!  (Then again, maybe they're just being weird.  Cassettes of
+"Union" were selling for an unheard-of $6.99.  I thought I'd fallen victim
+to a time warp!)
+
+[ It's just a jump to the left...  :-)                           :rush-mgr ]
+
+Then that night, I had a dream about the new album (I'm not kidding!)
+Unfortunately I can't remember anything at all about it.  (Believe me, I
+tried!)
+
+*  From the disk of:  | jms@vanth.uucp		     | "You know I never knew
+Jim Shaffer, Jr.      | amix.commodore.com!vanth!jms | that it could be so
+37 Brook Street       | uunet!cbmvax!amix!vanth!jms  | strange..."
+Montgomery, PA 17752  | 72750.2335@compuserve.com    |		     (R.E.M.)
+
+----------------------------------------------------------
+
+Date: Sat, 4 May 91 02:12:51 EDT
+From: chuckles@egrlab.ac.duke.edu (Charles L. Hamilton)
+Subject: Just dreaming...
+
+Well, its getting close to the end of the semester, so I was dreaming about
+how my grades would turn out, which led me to dream of other things...
+Like...
+What would happen if Rick Wakeman went into the studio with RUSH?
+
+Hmmm...shivers up my spine just thinking about it.  But, would there be
+possibly, ahem, _too much_ music?  Dunno... but I think they could do
+an impressive 20 to 30 minute epic...[shiver!]
+
+Chuck Hamilton
+
+ObRQ: For best results play at maximum volume.
+
+----------------------------------------------------------
+
+From: lopez!ged@sharkey.cc.umich.edu (Ged)
+Subject: Album patterns
+Date: 3 May 91 14:08:50 EDT (Fri)
+
+From: Craig Rindy &lt;MV012791@VM1.NoDak.EDU&gt;
+
+&gt;Good day, has anyone ever noticed the patterns in Rush's live albums?
+&gt;For one thing, they have consistently released four studio albums,
+&gt;then a live one.  Coincidenccccce? . . . I think not.
+
+This is something I noticed awhile back, in fact figured that's what
+they were going to do cause in ATWAS, it says "This album to us,
+signifies the end of the beginning, a milestone to mark the close
+of chapter one, in the annals of Rush."
+
+So I guess Presto is the beginning of Chapter 4...
+
+The part about starting off with the first song from 2 albums ago is
+pretty interesting.  Vooba!
+
+--
+       ===.  =====  ===.    ____/ __/ __/______\__ \_____ \_____
+     == __  ==--   ==  )   Chase the sun around the world, I want
+ ___ ~== / =====__====~_  ----- --- ---  ------  --- ------ - ---- ___
+/    ged@lopez.UUCP   /  to look at life - in the Available Light!    \
+
+----------------------------------------------------------
+
+Date:     Sat, 04 May 91 04:26:20 EDT
+From: bsb2u@prime.acc.virginia.edu
+Subject:  Newsgroup
+
+I'm not quite sure about this, but wasn't this list started from a
+newsgroup in the very dim past?  I seem to remember something like
+this from the early days.  If so, if there's anybody out there who
+remembers the change to mailing list format I'd like to hear about
+the reasons for making the change back then.
+
+[ We got to know each other in rec.music.misc (before there was an 
+  alt.rock-n-roll!).  We decided it would be a good idea to exchange
+  views in a "cooler climate", i.e., a mailing list.       :rush-mgr ]
+
+Actually I think a newsgroup is a great idea!!!  Screw all those
+(many many) people who aren't on Unix machines and have no access
+to Usenet!  They don't really matter anyway! ;)
+
+I may have an even better idea.  How about if the rush-mgr just
+puts a new file on syrinx each day and we can all FTP it ourselves!
+Yeah!  I'd just love to have another excuse to run FTP, uudecode,
+tar, zip, etc... each and every day!! &gt;:)
+
+Seriously, a newsgroup is IMHO a VERY bad idea.
+
+Brian
+bsb2u@virginia.edu
+
+ORQ "Chase the sun around the world."
+
+----------------------------------------------------------
+
+Date: Sat, 4 May 91 09:17:59 EDT
+From: patzerk@cps.msu.edu (Kurt E Patzer)
+Subject: Re:  05/03/91 - The National Midnight Star #232
+
+   Please remove me from the mailing list.  I just got moved to a site which
+doesn't have internet access, so I won't be able to keep up with my old
+account.
+
+Thanks
+KEP
+
+----------------------------------------------------------
+
+Date: Sat, 4 May 91 12:09 EDT
+From: Shane Faulkner &lt;V127L2QZ@ubvmsc.cc.buffalo.edu&gt;
+Subject: Big Money in F# and FBN
+
+Well, both times I tried to post the 2nd chord to fly by night, it got
+messed up, probably had something to do with starting a line with a minus
+sign, I don't know.  Anyway, David Sandberg beat me to it and posted the
+correct chord.
+
+The Big Money is DEFINITLEY played with Alex's guitar tuned UP a whole step
+to F#, as he mentioned both in a '88 Guitar World article, and the recent
+'91 GFTPM article.  Geddy, however, keeps his bass tuned standard.
+
+If you don't turn your guitar to F#, you can''t play the opening to the
+solo using harmonics, you'd have to use fretted notes.  For example, the
+first guitar phrase in the solo is 5 notes, all played as natural harmonics
+on the 12 fret, on the D, G, and B strings.  The 2nd phrase is 5notes played
+as natural harmonics on the 7th fret.  Try this on a standard tuned guitar
+and it'll be too low.  Of course, you could keep the guitar in E and play
+them as fretted notes, but you lose the ringing quality of the harmonics.
+
+-Shane
+
+----------------------------------------------------------
+
+Date: Sat, 4 May 91 17:16:27 CDT
+From: wadew@eng.auburn.edu
+Subject: Re:  05/01/91 - The National Midnight Star #230
+
+Someone asked last week if anyone had heard Rush clips in strange contexts,
+like TV commercials.
+
+The strangest I`ve heard is for the Atlanta Braves.  The Braves have often
+played Rush clips as the teams run on and off the field between innings when
+the TV station is going to commercial.
+
+Wade
+
+----------------------------------------------------------
+
+From: Andrew Brooks &lt;arb@computing.lancaster.ac.uk&gt;
+Date: Sun, 5 May 91 18:48:13 +0100
+Subject: Unreleased songs
+
+How far did Rush get with recording the following songs?
+Did they just write them, or actually record them and lock
+the tape away somewhere?
+
+  Sir Gawain and the Green Knight
+  Wessex Tales
+  Holy Walter  (or was that Holy Water?)
+
+  for Permanent Waves, Moving Pictures, and Hold Your Fire
+respectively.
+
+Andrew.
+
+----------------------------------------------------------
+
+Subject: Re: Meeting Rush
+Date: Mon, 06 May 91 01:17:49 PDT
+From: Isaac &lt;Isaac.Salzman@Eng.Sun.COM&gt;
+
+&gt;cfabrams@eos.ncsu.edu writes:
+
+&gt;In 228, Brett Jenkins discussed whether or not meeting the members of
+&gt;Rush would be as magical as many fans first think it would be.
+
+from personal experience, i'd say, yeah, it's pretty intense! :-)
+
+ok, i know this is going to sound too good to be true, but it is true. i
+have a friend, Jon Sutherland, who used to write for a (now defunct)
+magazine called "Record Review" (he now writes for BAM in LA, and all sorts
+of other rock magazine). he'd interviewed Alex and Geddy a few times before
+i met him (which was sometime around when Signals came out).  well, he
+calls me up one day and says "hey, Polygram called me today and asked if i
+want to interview Neil after the P/G show at the Forum. want to come
+along?".  gee, tough question. :-) needless to say, i was a happy camper!
+even with my backstage pass it wasn't a definite go. the stage manager (i
+can't remember the guys name) had to ask Neil if it was ok for me to sit in
+on the interview and he said it was OK. so on Wed. May 30, 1984, Jon & i
+spent over an hour with Neil Peart in a small room deep in the bowels of
+the LA Forum.
+
+so, how can i describe this experience. it really was a dream come true for
+me, and my memory of it is as if it were a dream (kind of hazy - like it
+didn't really happen - but it did!). as one would expect, Neil is a pretty
+intimidating person (especially since i was only 20 at the time). it was a
+somewhat formal interview. the stage manager brought us down to this little
+room, then brought Neil in, introduced us, and off we went.
+
+one thing i definitely learned about him is that he is extremely passionate
+about music (not just his own - in general). this shouldn't surprise
+anyone, but he's more intense about it then anyone else i've ever met. Jon
+asked him about his choice of producer for P/G. the rumor was that Steve
+Lillywhite (sp?), who produced U2, was the first choice to produce P/G. Jon
+commented that U2 had a very raw sound while Rush is so polished, and that
+he didn't understand why they wanted him. Neil took some offense to this.
+Neil basically called Jon a musical snob, and then Jon called Neil the same
+later in the interview. so it got a little "warm" in the room every now and
+then. :-) i got in to the conversation every once in a while, and asked a
+few questions here and there. at some point i said something really stupid,
+but luckily Jon bailed me out. i wish i were a bit older at the time and
+maybe i would've had something more intelligent to say. ah well....
+
+Neil was smoking cigarettes during most of the interview. :-( he keeps 'em
+in a little gold cigarette case. about 1/2 way through the interview he
+pulled something out of there that was already 1/2 smoked. care to guess
+what it was? it sure wasn't tobacco! hint: Passage to Bangkok. he offered
+me a hit saying "would you like a puff?". that's one thing i remember
+distinctly - and the way he said it was so nonchalant. i replied "no thank
+you". what a fool i was. it would've helped me relax and maybe i would've
+said something intelligent! ;-)
+
+another interesting comment he made was how he felt about the that night's
+show. Jon and I both went the night before and we both thought that they
+played better that night (of the interview). at least Ged & Alex seemed
+more up. Jon mentioned that to Neil at the beginning of the interview and
+he said "tonight it was just a job" and that it clicked for him the night
+before.  it's amazing how different the band's perspective is from the
+audience's in terms of how good the performance was. but to hear him say
+"it was just a job". it's not all that surprising to hear him say that -
+it's just the way he said it....
+
+so to answer the question, "is meeting Rush as magical as many fans first
+thing it would be". i'd say - YES! of course this was more then a meeting -
+and it was defintely magic. i didn't get to meet Geddy or Alex (and i'm a
+guitarist so that would've been cool), but if i had to pick one person to
+meet, it would be Neil. did my opinion of him change after meeting him? if
+anything, i have more respect for him now then i did before. he is truely
+an artist and a craftsman, and approaches his work with more honesty and
+integrity then anyone i will ever meet (well, then anyone i've met so far).
+
+now some of you are probably wondering "where can i get a copy of this
+interview". the bad news: the magazine went under just before the article
+was to be published. :-( the good news: i still have a copy of the
+transcript (the first draft Jon wrote) lying around somewhere. in fact,
+it's already typed in but i have to go through a backup tape from my old
+job to find the file. when i find t, i will post it.  however, i'm going
+ask Jon first since he really owns it. i'm sure he'll say it's ok, but i
+want to check with him first anyway.
+
+so that's my "Meeting Rush" experience -- and what an experience it was!!!! :-)
+
+"Though his mind is not for rent don't put him down as arrogant
+ His reserve a quite defense riding out the days events ..."
+
+--
+* Isaac J. Salzman, Sun Microsystems Inc.                     ----
+* Multi Media Platforms -- Audio Tools & Integration         /o o/  /
+* 2550 Garcia Ave., Mt. View, CA 94043-1100, MS: MTV23-03    | v |  |
+* AT&T      : +1 415-336-4338                               _|   |_/
+* Internet  : isaac.salzman@Eng.Sun.COM                    / |   |
+* UUCP      : ...!uunet!sun!isaac.salzman                  | |   |
+
+----------------------------------------------------------
+
+From: bold%astroatc.UUCP@cs.wisc.edu (Jeff Beck)
+Subject: Fly by Night
+Date: Mon, 6 May 91 8:43:34 CDT
+
+Hi all,
+`
+There seems to be a lot of argument about Fly by Night.  The first two
+chords are:
+
+--2-----3----
+--3-----3----
+--2-----2----
+--0-----2----
+-------------
+
+OBRQ:  This is Neil Peart.  This is Neil Peart on the drums.
+
+Any questions?
+
+:-)
+
+--
+ ******************************************************************************
+ * Jason Bold - Madison,WI= [(rutgers||ames)!uwvax||att!nicmad]!astroatc!bold *
+ * "A strawberry mind, a body that's built for two" - Michael Hedges          *
+ ******************************************************************************
+
+----------------------------------------------------------
+
+From: stedmant@LONEX.RADC.AF.MIL (Terrance A. Stedman)
+Date: Mon, 6 May 91 11:13:48 EDT
+Subject: Mystic Rhythms on TV?
+
+        Ok, who can answer this one for me?  Several years ago there
+was a show on one of the big networks (ABC,NBC, or CBS) that used
+some instrumental sections of "Mystic Rhythms" as its theme song.
+I believe the show was broadcast on a weekly basis, but the name of
+the program eludes me.
+
+[ Without double-checking, I think it was "1986".  If I'm wrong, I'm sure 
+  there will be plenty of people to correct me!  :-)             :rush-mgr ]
+
+Cheers!
+-Terry
+------------------------------------------------------------------------------
+  I_) I I &lt;~ I_I          Terry Stedman           ORQ: "if I could wave
+  I \ I_I _&gt; I I   (stedmant@lonex.radc.af.mil)         my magic wand..."
+------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date:     Mon, 6 May 91 23:17 EST
+From: &lt;NIDSTER%JHUVMS.BITNET@CUNYVM.CUNY.EDU&gt;
+Subject:  Comments
+
+In response to someone's (Glenn?) question about the education of the members
+of Rush, I read in the biography "Visions" that Neil was a high-school
+drop-out.  Who knows what he did afterwards.  As far as Geddy and Alex go,
+"Visions" doesn't say whether they graduated high school or not, but I'm pretty
+sure I can go with the theory that they didn't make it to the "college scene."
+(wise decision on their parts, IMO)
+        Speaking of "Visions,"  a friend and I had a hell of time finding a
+copy, but eventually found one in a mall record store in the sheet music rack.
+I read it through (instead of studying for finals, of course), and found a lot
+of cool info.  Including the fact that Mr. Big is indeed Peter Collins.
+(Something we all pretty much know by now.)  It also mentions early use of
+pot by the Trio, and I'm wondering if anyone out there knows when (or if) they
+stopped using substances of that nature.  (Just wondering.)
+        Other observations.  Concerning Rush airplay, here in Baltimore they
+tend to play a good amount, especially noontime and afternoon on classic rock
+stations.  Sometimes, on 98-Rock (for those who care) they have a half-hour
+long Rush block at noon and usu. play "Tom Sawyer" "Spirit of Radio" "Freewill"
+"YYZ" and "Limelight."
+        More opinions.  No newsgroup...please, for reasons already mentioned by
+many subscribers. It would only tarnish the good thing we already have.
+        Also, I agree with Doug Grumann's comment in TNMS 231 about meeting the
+memebers of Rush.  I'm sure they'd much rather prefer fans who were willing to
+deal with them as people and musicians and not as gods especially when meeting
+them face to face, as Doug says.
+        I also saw last week's episode of 60 minutes with the festival seating
+and the deaths at the AC/DC concert.  Although I like 60 Min. as a show, I'm
+getting sick and tired of the way the media gives such a biased view whenever
+they deal with the music (esp. heavy metal) industry.  Their report was so
+obviously pointing the finger at AC/DC and other bands when they should have
+been hounding the promoters who set up the concert.  Although they added
+little disclaimers at the end of the report, to the viewer it seemed like
+heavy metal bands and their fans were at fault. If anyone has any other ideas
+about this topic, please discuss them.
+        To the person asking about Star Wars mailing lists a few issues back:
+please let us (or at least me) know if you are successful in finding such a
+list.  I'm too much of a computer-idiot to find out for myself.
+        One last thing.  Does anyone know where you can get good oversize or
+uncommon Rush posters around the Baltimore area?  Or for that matter, the
+Bergen County, NJ area?
+        Sorry, to be so lengthy, but, hey... I'm procrastinating!
+
+"For the spirit ever lingers
+Undemanding contact
+In your happy solitude"
+****************************************************************************
+
+----------------------------------------------------------
+
+Date: Tue, 7 May 91 02:13:54 EDT
+From: William_MacDonald@mts.rpi.edu
+Subject: Signals/Permanent Waves
+
+Yo!
+
+First off, I was quite surprised when I learned that WQBK 104 was playing,
+as part of their 6 CDs on Sunday program, the entire album of Permanent
+Waves!  Even the "not-so-well-known" songs such as Different Strings and
+Natural Science.  I thought it was a good opportunity for the rest of the
+FM radio community to hear what Rush has to say other than through The Spirit
+of Radio and Freewill.  It was nice to hear...
+
+I was listening to Signals the other day, and as I glanced at the album cover,
+something hit me.  Could the songs The Analog Kid and Digital Man be related?
+Think about it...around the time the album was produced, Rush was making
+a transition from analog recordings to digital recordings, and these two
+songs could demonstrate what the band feels about the process.
+
+   "and a bright and aimless vision has him longing to depart..." -
+   "the boy pulls down his baseball cap and covers up his eyes..." -
+      these statements could reflect a departure from analog recordings...
+
+Plus think of this...Analog KID, as opposed to Digital MAN...a clue that
+digital technology is far more advanced than that of analog.  I don't know,
+I might be reaching here, but it was just a thought.  Good day all....
+
+   Bill, the EE stud at RPI
+
+"he know's changes aren't permanent, but change is..."
+   Rush. MP 1981
+
+----------------------------------------------------------
+
+Subject: server & bbs access
+Date: Sun, 5 May 91 12:37:24 CDT
+From: keith@dragon.b23b.ingr.com (Keith Ford)
+
+In my previous posting, I mentioned that my bbs has TNMS available.
+If you have questions, you can address them to sysop@umagic.fidonet.org.
+That's me.  As you can see, usenet email is also available here.
+
+Now, about the email archive file server I'm running.  Some people have
+had problems with email gremlins eating the items they request.  I keep
+logs here and can determine who ordered what, when and where it was
+sent to.  If you have problems, let me know.
+
+One problem was that some mailers were giving bad From: lines.  If you
+can add a Reply-To: header, do so and provide a valid email address for
+yourself.  Domain/ARPA style addresses are best.  If you cannot add
+such a header, you may now do so within your server request.  In the
+body of your request, simply add a line like the following:
+
+REPLY-TO: user@site.domain
+
+It is case insensitive but must be in the left-most column.  I hope
+this helps some of you.  The server is here for your benefit.  FYI,
+the server is not run on Micro Magic BBS.
+--
+ __  fordke@ingr.com, ...!uunet!ingr!{fordke,infonode!umagic!sysop}
+/  \ Micro Magic BBS  1:373/12  (205)830-2362  sysop@umagic.fidonet.org
+\__/ home of OBUL and the Rush archives, running Opus+DV+UFgate+X00
+[__] "He knows changes aren't permanent, but change is" -Rush
+
+----------------------------------------------------------
+
+Date:     Tue, 7 May 91 11:41 EST
+From: &lt;SICILIAN%JHUVMS.BITNET@CUNYVM.CUNY.EDU&gt;
+Subject:  Blue Oyster Cult & Rush, Mr. Big
+
+     I was reading 'Visions' the other day and noticed that in the
+early days of Rush, they opened for Blue Oyster Cult, as well as
+a number of other bands.  I found this interesting, since on the
+Power Windows Tour, BOC opened for Rush in Philadelphia.  Did anyone
+else see the show or know of any other place where BOC opened for Rush?
+Anyone know why they opened?
+     Secondly, Peter Collins was called Mr. Big, but I seem to remember
+that on one of the videos (I think on Marathon from PW), a computer
+generated man has 'Mr. Big' on his chest.  Am I remembering correctly
+or did that last final ruin me for good?
+
+                                - Tom
+
+** illusions are painfully shattered right where discovery starts **
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 233
+********************************************
+
+

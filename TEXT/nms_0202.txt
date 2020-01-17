@@ -1,0 +1,937 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 04/01/91 - The National Midnight Star #202
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 202
+
+                   Monday, 1 April 1991
+Today's Topics:
+                      Administrivia
+               Power Windows Reappreciated
+                    Taurus bass pedals
+                    Ged's guitar bits
+                     puzzling mumble
+                          (none)
+                       Fancy Dancer
+                 Re: parallel development
+                      rupert hine +
+                      PRESTO POLL!!
+          Alex's guitar playing in "The Trees."
+                     Re: Presto poll
+                     Thank you letter
+                      Taurus pedals
+                     Rush cover band
+                        LaserRush
+             ftp lyrics for _Permanent_Waves_
+                       Broon's Bane
+      Re: 03/27/91 - The National Midnight Star #201
+                       Moog pedals
+           Rush: Exit Stage Left concert video
+      Re: 03/27/91 - The National Midnight Star #201
+                      By-Tor Banter
+      Re: 03/27/91 - The National Midnight Star #201
+      didacts and narpets II (the horror continues)
+                  Living for ones' self
+                PRESTO POLL LAST CHANCE!!!
+           **RUSH FAVORITES POLL RESULTS** &...
+                      RUSH Profiled
+                       Hemispheres
+----------------------------------------------------------
+
+Subject: Administrivia
+Date: Mon, 01 Apr 91 15:31:31 EST
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+Hi there folks,
+
+    First of all (and most obviously), there was no NMS for Thursday 3/28/91
+or Friday, 3/29/91.  Sorry folks, I got distracted by spring-cleaning-type
+stuff.
+
+    Secondly, I've gotten mail from a list member who noted there was a
+section of lyrics missing from the "Hemispheres" lyrics.  I checked, and sure
+enough, they weren't there.  I also noticed a note in today's NMS, concerning
+the lyrics to "Freewill".  (More on that in the particular item.)  The upshot
+of this is that I'm going to review all the lyrics as compared to my album/CD
+versions.  With any luck, this will pick up any remaining anomolies.
+
+rush-mgr
+
+----------------------------------------------------------
+
+Date: Wed, 27 Mar 91 17:43:55 EST
+From: Anand Rangarajan &lt;rangarajan-anand@CS.YALE.EDU&gt;
+Subject: Power Windows Reappreciated
+
+I've been listening to Power Windows more intently than ever before
+and I really think that it has been underrated compared to Moving
+Pictures or 2112.
+
+The boyz seem to be stretching themselves much more than in Grace
+Under Pressure (which resembles Power Windows the most). There are
+tremendous instrumental surges in this album. Notably:
+
+The intro to Big Money is *GREAT* and so is the sophisticated production
+leading up to the vocals.
+
+Alex's solo is accompanied very effectively by the keyboards finishing
+up with a good jam.
+
+The orchestra and the transition to Geddy singing ``The big bang.took and
+shook up the world'' is marvelous. Check out Geddy's bass accompanying his
+vocals.
+
+The mellow, sweet jam in Marathon culminating in ``you can do a lot in
+a lifetime..'' is very inspirational. The jam starting at about 2:43 to
+4:10 also features a dextrous combination of bass, gtr and keyboards,
+quite possibly the best Rush has ever done in marrying gtr + kbds.
+
+Territories starts off with  a nice touch; the Far Eastern inflection
+on Alex's gtr. Watch for the neat way in which Alex follows the sequencer
+with his gtr. Even if you don't like sequenced music and Territories has
+a lot, this is a particularly innovative way of using sequencers. The finish
+to Territories has to be played *LOUD* in order to hear the ominous
+tone of Geddy's bass.
+
+The ringing tone in Alex's gtr in the beginning of Middletown dreams
+is reminiscent of Time by Pink Floyd. At 2:00 the kbds kick in. If you
+listen carefully, there's a layer of doubled scratch gtr underneath
+the kbds with the bass even further below. The kbds give way to a very
+different kind of solo. Listen to Geddy's bass towards the end of
+the song.
+
+Emotion detector has the sweetest opening of any song in Power Windows.
+This song was meant to be a ballad. A particularly long and satisfying
+solo by Alex (from 3:30 to 4:15) is also noteworthy.
+
+Finally, Mystic Rhythms with its jungle drums and acoustic gtr in the
+middle of a mystical instrumental. Aaah. A perfect ending to a perfect
+album.
+
+Anand Rangarajan
+rangarajan-anand@cs.yale.edu
+ORQ:``They are liable to stand outside your house and throw stones
+at you...until you're dead''
+
+----------------------------------------------------------
+
+From: yackob@eeserv.ee.umanitoba.ca
+Date: 27 Mar 91 18:30 -0600
+Subject: Taurus bass pedals
+
+&gt;X-Mailer: Mail User's Shell (7.2.1 10/31/90)
+
+	Yesterday BJENKINS@ecs.umass.edu asked what
+anyone knew about Taurus bass pedals.  The bad news
+is they don't make them anymore,  but the good news
+is they don't make them anymore!!! Nowadays you can
+buy MIDI bass pedals that trigger *any* MIDI  synth
+but the Taurus pedals were *hardwired* to their own
+synth that  generated only  boring (almost useless)
+sounds.   To get his neat sounds, Geddy Lee had his
+pedals ripped from the synth unit  and hardwired to
+an Oberheim unit (model Xa or something like that).
+A primitive system compared to what's for sale now,
+but state-of-the-art way back when.
+
+--
+Kerry Yackoboski 	&lt;yackob@eeserv.ee.umanitoba.ca&gt;
+The Scanning Tunneling Microscopy Laboratory in the Cellar
+U of Manitoba, Winnipeg, Canada
+
+----------------------------------------------------------
+
+Date: Wed, 27 Mar 91 16:33:45 -0800
+From: David Conley &lt;dmc@u.washington.edu&gt;
+Subject: Ged's guitar bits
+
+If you listen to the quiet part near the big finish at the end of Xanadu
+on ESL, a most distinctive second guitar part can be heard....must be
+Geddy strumming along.
+
+While on this subject:  I have always wondered if Geddy plays the classical
+guitar in "Rivendell" on FBN. I think in the album credits it says that
+Ged plays classical guitar (does memory fail me????). I can't think of any
+other classical pieces on the album (I don't think the acoustic bit on
+"Making Memories" counts).
+
+Anybody out there received a Backstage Club newsletter recently?? The last
+one I have was put out when Presto was released. I am still a member in good
+standing....I can't wait for Neil's  Q & A session, there should be some good
+questions as evidenced by this years discussion on the NMS!!
+
+It's spring break at the UW....I wish us faculty types could go on holiday!!
+Cheers.
+Dave
+-----
+
+David Conley     "The Digital Anatomist"     dmc@milton.u.washington.edu
+University of Washington School of Medicine, Seattle
+
+----------------------------------------------------------
+
+Subject: puzzling mumble
+Date: Wed, 27 Mar 91 17:07:18 -0800
+From: zzz@erg.sri.com
+
+It's not mentioned anywhere in the FAQL, so...
+
+Has anybody got ALL the words spoken by the astronauts in the end of
+Countdown?  There's a phrase right after "Glad you enjoyed it" that I can't
+quite make out, and it's been bugging me for years!  It sounds almost like
+"Yeah, we ate it all up"; but for that matter it sounds almost equally like
+"Naah, we made it all up", or even "aaaaeeeeeaaaaaaaiiiooouuuu" (like maybe
+one astronaut just puked inside his space suit or something!).
+
+I know it isn't really Rush lyrics, but it is a featured part of one of their
+tunez...  So anyone know for sure?
+
+[ This was discussed at length a while ago - would somebody be kind enough
+  to volunteer to compile the list concensus of what is said?     :rush-mgr ]
+
+				    -Mike
+
+----------------------------------------------------------
+
+Date: Wed, 27 Mar 91 20:13:43 PST
+From: Eric Rescorla &lt;rescorla@rtnmr.chem.yale.edu&gt;
+
+On the subject of Parallel development,
+I noticed on listening to RUSH(first album) that two tracks sound
+suspiciously like other tracks I know.
+1) Take a Friend contains a riff that sounds suspiciously like
+the major riff in Zep's "Whole Lotta Love", which, BTW, is identical
+to the riff in "Hey Joe." I can only assume that RUSH stole or picked
+this one up.
+
+2) By contrast, "In the Mood" sounds suspiciously like Skynyrd's
+"What's Your Name" but it was written before "What's Your Name?"
+Curiouser and curiouser....
+-Eric
+
+-------------------------------------------------------------------------------
+Eric Rescorla                                      rescorla@rtnmr.chem.yale.edu
+Yale University Department of Chemistry             rescorla@psun.chem.yale.edu
+
+----------------------------------------------------------
+
+Date: Wed, 27 Mar 91 19:39 EDT
+From: "Meakin, William James" &lt;WMEAKIN%drew.bitnet@pucc.PRINCETON.EDU&gt;
+Subject: Fancy Dancer
+
+                                        Date:      27-Mar-1991 07:19pm EST
+                                        From:      Meakin, William James
+                                                   WMEAKIN
+                                        Dept:
+                                        Tel No:    (201)-408-4456
+
+TO:  Remote INTERNET Address              ( _IN%RUSH@SYRINX.UMD.EDU )
+Subject: Fancy Dancer
+
+Well, here's what I know about the song 'Fancy Dancer' from _Stellar
+Dynamecs_.  According to _Visions_, 'Fancy Dancer is an original from when
+Rush was still a bar band before the first album.  Some other songs the bio
+mentions are 'Garden Road', 'Sing Guitar', 'Morning Star', 'Margarite',
+'Feel So Good', 'Number 1', 'Keep in Line', 'Run Willie Run', 'Mike's
+Idea', 'Tale', 'Slaughterhouse', 'Child Reborn', 'Losing Again',
+and 'Love Light' .  I doubt these exist anywhere, but then again I never
+thought I'd get to hear 'Fancy Dancer' either!!  So if anyone has any of
+these, let me know!
+                                        Bill
+
+--------------------------------------------------------------------------------
+wmeakin@drew.bitnet :"I had a woman not too long ago,
+                    : all I wanted was to treat her good..."- Fancy Dancer
+--------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date:         Wed, 27 Mar 91 20:04:15 EST
+From: Steve Kilpatrick &lt;ST402658@brownvm.brown.edu&gt;
+Subject:      Re: parallel development
+
+This is amazing, Chris! I was just thinking of posting a very similar query
+when I read your post. I find the Led Zeppelin influences all over early Rush
+music. LZ is one of my other all-time favorites, and I started getting into
+both at about the same time (1979) so it was easy to compare. I find the
+general early Rush style very reminiscent of early to mid-period Zeppelin
+(1969-73), and the Chronicles liner notes seem to confirm this. I have a few
+'this Rush song &lt;-&gt; that LZ song' comparisons, but most escape me at the
+moment. There's one, on FBN I think, where the riff is very similar to the
+"Whole Lotta Love" riff. Anyway, I can think of two real examples now:
+    1. The closing to "Working Man" (Alex strumming a single chord, John Rutsey
+       (I almost said Neil) bashing away) is virtually identical to the closing
+       of LZ's "How Many More Times", which is in turn virtually identical to
+       the closing of Jeff Beck's "Beck's Bolero". Same chord!
+    2. FBN's "Rivendell" is based on the elven city which provides safe haven
+       in Tolkien's 'Lord of the Rings'. In the late '60's - early '70's, all
+       the rock musicians read Tolkien, so this is probably an instance of both
+       Rush and LZ being influenced by Tolkien. LZ's "Ramble On" mentions
+       Mordor, the land of evil in the books. (Does this mean that LZ is evil
+       and Rush are the good guys?)
+Please note that I am in no way implying that Rush was or is not an original
+band - I think their 18+-year career speaks for itself. I'm anxious to hear
+how others see influences in Rush's music. I've read where they've admitted
+they've been influenced by bands like the Police, leading to a greater
+synthesizer role in the music, but I don't see any clearly direct comparisons.
+Anyone have an opinion on that?
+
+For what it's worth, a good deal of this is IMO. I welcome private and list-
+posted responses.
+                            Steve
+
+ORQ : "Every nerve is torn apaaaaaaaaaarrrrrrrrtttt!!!!!...." - Cygnus X-1
+
+----------------------------------------------------------
+
+Date: Thu, 28 Mar 1991 14:34 +1000
+From: Rush are Gods &lt;C9036973@WOMBAT&gt;
+Subject: rupert hine +
+
+i was wondering if anyone out there has any of Rupert (rush producer) Hine's
+stuff and if so what is it like? i talked to someone who claimed to have owned
+some prev. and all the guy said was `he's that really ambient guy'.
+will i find his stuff to be of the depth of rush?
+a show of hands from me for marillion also.
+
+ ********  =====================================================================
+ * ^  ^ *  |"The space around the stars is something that you know.            |
+/ (O)(O) ? | A million miles of darkness left you feeling low."-Marillion      |
+ |  ^^  |  |"Dreamers tend to steer by the stars."-Rush                        |
+ (------)  |"I'm an urban guerilla, I make bombs in my cellar."-H'wind //AMIGA |
+  `|  |'   | ADAM WILLIAMS (SELF PORTRAIT WITH ASCII AND EGGS)       \X/unbound|
+   `__'    =====================================================================
+
+----------------------------------------------------------
+
+Date: Thu, 28 Mar 91 16:14:43 +1000
+From: Stuart Raymond Mills &lt;stum@cs.su.oz.au&gt;
+Subject: PRESTO POLL!!
+
+Good response so far, and mixed at that!!
+As an optional extra, if you want to include up to 4 songs in order
+of preference I will give them les points respectively for each. Some
+people have done this already.
+Keep em flowing!!
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+***********	   stum@minnie.cs.su.OZ.AU            ***********
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+***********	  UNIVERSITY     OF      SYDNEY       ***********
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+***********   "Todays Tom Sawyer, mean mean guy....." ***********
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+
+----------------------------------------------------------
+
+Date: Thu, 28 Mar 91 02:00:33 -0500
+From: jtkung@caf.MIT.EDU (Joseph Kung)
+Subject: Alex's guitar playing in "The Trees."
+
+The part in "The Trees" that's before Alex's solo is a very
+interesting guitar part that uses open strings G, B, and E
+with him just fingering two adjacent notes on the D string.
+It goes like this :
+
+-------------0---------------------------0--------
+------0----------0-------------0------------------
+----0------0---0------0------0------0------0----0-
+-12-----11---------11-----12-----11---12-----11---
+--------------------------------------------------
+
+and this is repeated over and over. Alex loves to use open-strings to
+create a textural backdrop, much like drone notes on a synth part.
+Another example would be the last chord in "The Trees" which is an A
+maj add 9, both live and in the studio, but on ESL, he then follows it
+up with a B maj add 11, then ends by arpeggiating an Emaj add 9 [a
+beautiful chord] :
+
+-0----0----0----
+-6----8----1----
+-7----9----4---- that blends perfectly with the synth as it goes into the
+-7----9----2---- intro of "Xanadu."
+-5----7----0----
+
+These along sus2 chords make up a lot of what Alex plays ...
+
+- Joe
+
+----------------------------------------------------------
+
+Subject: Re: Presto poll
+Date: Thu, 28 Mar 91 8:13:57 CST
+From: a106d!tj@uunet.UU.NET (T.J. Higgins)
+
+[I couldn't get mail through to Australia, my apologies for abusing
+ list bandwidth.]
+
+My favorite song from Presto is "Available Light."
+----------------------------------------------------------------------
+T.J. Higgins    205-730-7922  |  higgins@ingr.com    (Internet)
+Mapping Sciences Division     |  uunet!ingr!higgins  (uucp)
+Intergraph Corp.  M/S IW17A5  |  b17a!tj  (Intergraph internal)
+Huntsville, Alabama, U.S.A.
+
+	"Television is a medium because anything well done is rare."
+						-- Fred Allen
+
+----------------------------------------------------------
+
+Date: Thu, 28 Mar 91 09:18 EDT
+From: "Douglas G. Schwabe" &lt;DGSST4@vms.cis.pitt.edu&gt;
+Subject: Thank you letter
+
+Hey folks, thanx again for the lists and the birthday greetings.  I appreciate
+your thoughts and your ideas.  As stated last Friday, the poll will run
+until the beginning of May so there is plenty of time to send in your list.
+
+Now for the good News:
+
+PITTSBURGH PENGUINS, 1991 PATRICK DIVISION CHAMPIONS!!!!!!!!
+
+There, I feel much better now.  Hope this excitement doesn't offend some
+people in the Baltimore/D.C. area.  We just might play the Caps in the first
+round (By the way, Rush-Mgr, are you a Caps fan?)
+
+Happy Easter Everybody!!
+
+Doug
+
+----------------------------------------------------------
+
+Subject: Taurus pedals
+From: MGOODWIN@maine.maine.edu (J. MICHAEL GOODWIN)
+Date:    Thu, 28 Mar 91 10:08:39 EST
+
+What are these, and could someone point out where they appear in
+a couple of songs?  Is it just a guitar synthesizer?  I tried to
+mail this question to the guy from Buffalo, but my mail bounced.
+
+ORQ - ... "Innocence gave me confidence to go up against reality".
+
+Mike Goodwin
+
+----------------------------------------------------------
+
+Date: Thu, 28 Mar 91 11:31:40 EST
+From: joezete@wpi.WPI.EDU (Peter John Chestna)
+Subject: Rush cover band
+
+Last weekend Cygnus(Marshall Robin) and myself saw a band called
+Subdivisions.  They are an all Rush cover band.  This is part of their
+playlist from that night along with some other songs that they do.
+
+Spirit of Radio
+Natural Science
+2112 - all parts including Oracle!
+Hemispheres - first 3 parts
+I think I'm Going Bald
+Xanadu
+Anthem
+In the Mood
+By-Tor and the Snow Dog
+Tom Sawyer
+YYZ w/drum solo
+
+and many more!
+
+Anyway the point I'm trying to make is that it was like seeing
+Rush in the off-season.  They were so good in fact that I'm going
+to have them play at my fraternity house in Worcester, Ma. on
+April 13th.  This is a Saturday and I figure they will go on at
+about 10 or 11pm.  This is an open invitation to anyone on the list.
+Unfortunately because of the rules of our school, the party is strictly
+BYOB, but you may bring as much as you want.  When I talked to the
+bassist/keyboardist he said they would probably play for about 4 hours
+maybe longer and he told me to provide him with a playlist and they
+would learn it, this of course means that anyone who cares to come to
+my shindig would be graced with a live version of NECROMANCER!!!!!!
+Anyone who wants to crash at my place is welcome.  Now's your opportunity
+to hear all those RUSH songs that they don't play anymore or don't play
+completely anymore.  They are a great band and are very faithfull to
+the music.
+
+I would like some idea of how many of you are interested, so please mail me
+@ joezete@wpi.wpi.edu.  I will give directions out directly unless there
+is a big enough response, then I will put them on the list.
+
+A good time to be had by all.
+
+Hope this makes your day.
+
+Pete
+
+----------------------------------------------------------
+
+Date: Thu, 28 Mar 91 08:52 PST
+From: RAGUNTON@WATER.llnl.gov
+Subject: LaserRush
+
+Ted Ives &lt;tedi@apple.com&gt; writes:
+
+&gt;Off the topic, while I have your attention, did anyone try to
+&gt;attend the very last showing of the Rush Laserium Show in San
+&gt;Francisco, a few weeks back?  Fortunately, I called ahead.  It
+&gt;was cancelled!  I called the head office for an explanation.  It
+&gt;urned out that some "organization" actually bought up both Rush
+&gt;shows for $6000, because they were having a meeting in one of the
+&gt;other halls.  They apparently didn't want the likes of Rush fans
+&gt;in the same building during their meeting.  I was pissed.  Also,
+&gt;they said that the Rush Laser show will not be revived in the
+&gt;future but that it will be showing for a short time longer in San
+&gt;Diego, (this may be your last chance, if it's not too late).
+
+Whew!  Well first, I was at the very last showing of the Rush Laserium
+show in San Francisco.  I went with a couple of friends of mine(one of
+them being the author Kevin Anderson(name dropper!)).  We just decided
+to go at the very last minute.  We had no idea that when we got there
+it was the very last showing.  The "emcee" announced it.  The room wasn't
+even half full!  We just walked paid for our tickets at the door and
+walked right in!  The emcee also said that there *are* plans to revive
+the show in the future.  In fact, he said that if there were any songs
+that weren't performed that night that anybody wanted to hear, just
+let the emcee know at the end of the show, and they would forward the
+requests to the corporate office who plans the laserium shows.  He said
+that the corporate office wanted the audience's imput because they had
+no idea what Rush songs would be popular among Rush fans.  When it comes
+back, I will run, not walk, to see it!  It was the best laserium show I've
+ever seen!!!
+
+Ben Ragunton                                  _
+RAGUNTON1@LLNL.GOV                       _   /|
+Lawrence Livermore National Laboratory   \'o.O' Ack! Barf! Pfffttt!
+Livermore, California                    =(___)=
+Voice: (415)422-2461                        U
+       (415)449-7687
+
+----------------------------------------------------------
+
+Date: Thu, 28 Mar 91 15:30 EST
+From: THE VAX BANDIT &lt;JCRABTREE@DESIRE.WRIGHT.EDU&gt;
+Subject: ftp lyrics for _Permanent_Waves_
+
+Greetings and salutations,
+	I have a question about the lyrics I received from the anonymous ftp
+site at syrinx.  In the lyrics for Freewill, it is printed as the following:
+	"If you choose not to decide, you still haven't made a choice"
+						^^^^^^^
+However, when I listen to the song, it sounds like Geddy sings the following:
+	"If you choose not to decide, you still have made a choice"
+						^^^^
+I have further reason to believe my ears in this case (I usually do not trust
+them ;-) because the person is choosing not to decide, therefore he has made
+a choice.  Any help that anyone can provide is greatly appreciated.  Thanks
+in advance.
+
+[ Hmm, well, this is double-trouble.  The answer is sort of "we're both
+  right."  The lyrics *sung* are "you still have made a choice", and on my
+  sleeve from PeW it says "you cannot have made a choice".  When Neil was
+  asked about this discrepency in the Backstage Club newsletter a few issues
+  ago, he said that all lyrics were sung just as they are in the lyric sheet.
+  Bzzzz.  Not quite Neil!  Then again, he said Rush had no singles that were
+  not on one of the studio albums, but we know *that's* wrong also!  (Maybe
+  he only counted songs since he was with the band?)  See note in the first
+  (administrivia) item in this issue WRT the lyrics on the server; changes 
+  are apparently in order...
+                                                                  :rush-mgr ]
+
+Jason Crabtree			| "I can't believe you're saying
+Wright State University  	| These things just can't be true"
+jcrabtree@desire.wright.edu	|		-RUSH
+
+----------------------------------------------------------
+
+Date: Thu, 28 Mar 91 14:06:38 MST
+From: fpeabody@isis.cs.du.edu (Fred Peabody)
+Subject: Broon's Bane
+
+   David Sandberg was absolutely right on the ending chord to Broon's
+Bane. In an earlier post I said that it ended on G minor. Minutes later,
+I realized my mistake. G minor is the first chord in the song.
+
+[FP]
+
+----------------------------------------------------------
+
+Date: Thu, 28 Mar 91 16:24 EDT
+From: AARON_KP@jhuvms.hcf.jhu.edu
+Subject: Re: 03/27/91 - The National Midnight Star #201
+
+In NMS, no. 201, Ted Ives asks for some musical or lyrical parallels to the
+music of the Boyz...perhaps the largest lyrical parallel lies in Xanadu. It is
+almost taken verbatim from Samuel Taylor Coleridge's poem 'Kubla Khan'. I
+remember reading it in an English class in high school a long, long time ago
+and being shocked at the similarity!
+
+To stum@minnie, I'd have to say that The Pass is my favorite track off of
+Presto. Another lyrical tour-de-force for Neil!
+
+Well, that just about ends my first post. Thanks for giving me the opportunity
+to talk Rush...I haven't met very many Rushheads here at Johns Hopkins. See ya!
+
+--ken
+
+----------------------------------------------------------
+
+Date:         Thu, 28 Mar 91 17:30:38 EST
+From: dave &lt;GCPURNEL%ECUVM1.BITNET@ncsuvm.ncsu.edu&gt;
+Subject:      Moog pedals
+
+Brett Jenkins asked about Moog pedals in NMS 201.  I saw some pedals in
+as store  a few years ago that weren't Moog but did the same thing.  They
+were a one octave pedal board with an analog synth built in.  I didn't get
+'em 'cause they didn't have midi and 'cause there were overpriced.  A few
+years later I did purchase some midi pedals that have no internal synth
+ciruitry. I got 'em along with one of those midi-bass sample player units.
+I didn't want the midi-bass, but the guy was only selling 'em as a set.
+What a boob!  Anyway, it is pretty cool to play guitar and trigger a
+simple keyboard part with the pedals.  Charles Grogan and I play together
+like this quite a bit and we're still working on it.  It's kinda' hard.
+Like singin' and playin' together.  Also it's hard to change guitar effects
+patches at the same time you're playin' the pedals.  If you're thinkin' about
+buying some I'd say get ones with Midi. The moog pedals have that great moog
+sound but all they can do is play bass.  You can't add in any of those high
+string parts that ya' find all over the place in old Rush stuff otherwise.
+
+                                              David Purnell
+
+OFRQ-"As the Maples scream 'Spooge!' and the Oaks just shake their heads"
+
+b.s.-Where's the Roland guitar synthesizer in Hemispheres anyway?
+
+----------------------------------------------------------
+
+Subject: Rush: Exit Stage Left concert video
+Date: Thu, 28 Mar 91 14:51:45 CST
+From: David Sandberg &lt;plains!quad.sialis.com!dts@uunet.UU.NET&gt;
+
+Up till now I've satisfied myself with parts of the Rush: Exit
+Stage Left video concert which I taped off the air many years ago
+when it was shown on Night Flight.  Today I decided that I'd like
+to get a real, complete copy of this video... only to have my
+local video outlet tell me that the ESL video has been
+discontinued.  B-(
+
+Is this so, and in any case does anyone have suggestions of how
+I might go about obtaining a copy of this classic old video?
+
+--
+ \*=-     David Sandberg, dts@quad.sialis.com   ,=,       ,=,        -=*\
+  \*=-    "By-Tor and the Snow Dog square for   | |uadric `=,ystems   -=*\
+   \*=-      battle... let the fray begin!"     `=\       `='          -=*\
+
+----------------------------------------------------------
+
+Date: Thu, 28 Mar 91 19:27 EST
+From: V120P993@ubvmsc.cc.buffalo.edu
+Subject: Re: 03/27/91 - The National Midnight Star #201
+
+in response to the mysterious "elephant" who crushed alex's double neck, it
+is all just a joke. i remember hearing in an interview that somewhere on tour,
+a monitor or speaker or something of the like fell on alex's beloved guitar,
+rendering it forever useless. glad i could shed light on this unfortunate
+topic; thanks as always to rush-mgr for all efforts rendered.
+
+                                       KEVIN HULME
+P.S. 100 BEANS FOR THE BANNER, HARRIS- NO LIE. SUCCUMB TO MY DEMANDS.
+
+----------------------------------------------------------
+
+Date:         Fri, 29 Mar 91 09:07:27 EST
+From: Steve Kilpatrick &lt;ST402658@brownvm.brown.edu&gt;
+Subject:      By-Tor Banter
+
+I've got another Rush-Led Zeppelin influence/similarity. Yesterday I was
+listening to the live ATWAS version of By-Tor and the Snow Dog and was struck
+by the middle 'weird guitar solo' section. This is very reminiscent of the
+violin-bowed guitar soloing technique that Page used, most noteably during
+Dazed and Confused live. Is Alex using a bow in this song (I've never seen it
+done live)? If not, what is he using to get all those bizarre sounds? The song
+in general sounds sort of Zeppelinesque, except of course that Alex is not
+nearly as sloppy as Page live. (I like Page a lot, but alcohol can do that to
+you!)
+
+As always, I'm only saying that Rush was obviously influenced by LZ, which is
+not to say that they were LZ clones. Replies/reactions are welcome.
+
+                                           Steve
+
+ORQ : "And the words of the profits are written on the studio wall..."
+         - Spirit of Radio, paraphrasing Simon and Garfunkel.
+
+----------------------------------------------------------
+
+Date:         Fri, 29 Mar 91 11:19:07 EST
+From: Adam Konowe &lt;AKONOWE%AUVM.BITNET@CUNYVM.CUNY.EDU&gt;
+Subject:      Re: 03/27/91 - The National Midnight Star #201
+
+Hi,
+
+Please take me off your list.
+
+Thanks.
+
+--Adam Konowe
+
+----------------------------------------------------------
+
+Date: Fri, 29 Mar 91 15:04:02 EST
+From: adam@paix.sw.stratus.com (Mark Adam)
+Subject: didacts and narpets II (the horror continues)
+
+g'day all!
+
+boy, i'll tell ya. posting is like eating potato chips. once is not enough.
+
+i've always been interested in figuring out didacts and narpets, so i
+went to friend of mine who has 'sound edit' on the mac and we attacked
+the problem.
+
+he had heard the song in the past but hadn't thought about it. so i let
+him try to figure it out without any preconceived notions about the
+lyrics. what he came up with was pretty interesting. i don't agree
+with a couple of them; but, here they are for your amusement:
+
+deep voice		geddy
+
+stay			go
+learn			know
+death			to live
+earn			give
+right			right
+	who's right
+
+kind of answers the question about pondering the song.
+mark ----------------------------
+
+		"Logic is a wreath of pretty flowers that smell bad."
+
+----------------------------------------------------------
+
+Date: Fri, 29 Mar 91 14:29:44 PST
+From: 6600mld%ucsbuxa@hub.ucsb.edu (Old Tom Bombadil)
+Subject: Living for ones' self
+
+&gt;From: stedmant@LONEX.RADC.AF.MIL (Terrance A. Stedman)
+&gt;
+&gt;        Although I consider myself to be one of the biggest Rush fans and
+&gt;even still a bigger Neil Peart fan, I still find that some of the lines
+&gt;in their songs are not to my liking.  Case in point from "Anthem" off FBN:
+&gt;
+&gt;   Live for yourself -- there's no one else
+&gt;   More worth living for
+&gt;   Begging hands and bleeding hearts will
+&gt;   Only cry out for more
+&gt;
+&gt;To me, those lines are both disturbing and depressing.  Flames are pretty
+&gt;much discouraged, but any comments on the above lines would be appreciated.
+
+Heh.  These are my most favourite Rush lyrics ever, bar none.  The first
+two stanzas of the four are extremely cheery to me.  Must be the rational
+selfishness in me.
+
+Matthew Deter    |  6600mld@ucsbuxa.ucsb.edu  |  Taxes are not levied for
+UC Santa Barbara |  6600mld@ucsbuxa.bitnet    |  the benefit of the taxed.
+
+----------------------------------------------------------
+
+Date: Sun, 31 Mar 91 14:16:29 +1000
+From: Stuart Raymond Mills &lt;stum@cs.su.oz.au&gt;
+Subject: PRESTO POLL LAST CHANCE!!!
+
+I will be compiling the results of the Presto poll after this issue so
+everybody get your answers in!! So far, interesting results....
+RUSH should use these polls as a guide for releasing singles from albums!!
+
+PS: What is the backstage club and how does it work???
+
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+***********	   stum@minnie.cs.su.OZ.AU            ***********
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+***********	  UNIVERSITY     OF      SYDNEY       ***********
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+***********   "Todays Tom Sawyer, mean mean guy....." ***********
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+
+----------------------------------------------------------
+
+Subject: **RUSH FAVORITES POLL RESULTS** &...
+Date: Sun, 31 Mar 91 10:56:07 -0800
+From: kmarino@Bonnie.ICS.UCI.EDU
+
+The results are in:
+
+The following are the results of the poll I was taking.  The poll was
+favorite song from each album, favorite song performed live in concert,
+and favorite album. (I have included my vote in column two so that you may
+see how I voted as compared to the outcome.  No acusations of cheeting ;-))
+
+Album:		Song:				My Vote:
+---------------------------------------------------------------------
+RUSH		Working Man			In The Mood
+FBN		Beneath, Between & Behind	Fly By Night
+COS		Bastille Day			Lakeside Park
+2112		2112 (side 1)			2112
+ATWAS		By-Tor & the Snow Dog		Bastille Day
+AFTK		Xanadu				Cinderella Man/Xanadu
+Hemispheres	La Villa Strangiato		The Trees
+PeW		Jacobs Ladder/Natural Science	The Spirit of Radio
+MoP		Limelight			Limelight :-)
+ESL		Xanadu				Xanadu
+Signals		Subdivisions			Subdivisions
+P/G		Distant Early Warning		Distant Early Warning
+PoW		The Big Money			Manhatten Project
+HYF		Open Secrets			Time Stand Still
+ASOH		Subdivisions			Subdivisions
+Presto		Chain Lightning/Presto		Show Don't Tell
+
+The Favorite Album:		A FAREWELL TO KINGS
+Favorite song performed Live:	FREEWILL
+
+Thanks for all your votes.  I thought this was great.
+
+*******************************************************************************
+* kmarino@bonnie.ics.uci.edu        * OBRQ: "Because he was human             *
+* marino%hycad5@hac2arpa.hac.com    *        Because he had goodness          *
+* Life begins at graduation...      *        Because he was moral             *
+* Or atleast, that's what they      *        They called him insane..."       *
+* told me...                        *                                         *
+*******************************************************************************
+
+----------------------------------------------------------
+
+Subject: RUSH Profiled
+Date: Sun, 31 Mar 91 11:11:29 -0800
+From: kmarino@Bonnie.ICS.UCI.EDU
+
+I thought all of you fellow Rushians might find this amusing:
+
+Last night (tired from a very boring Passover dinner -- My grandmother
+usually makes these thing take two-three hours) I went to a CD store that
+is in LA (I live about 45 miles from the store and I don't get there that
+often) and I was looking through the "used" CDs.  To my joyous &lt;insert
+very big grin&gt; suprise I saw the RUSH Profiled CD there.  "What fool would
+sell this precious CD for 5 bucks?" I thought.  It was only $8.88 for the CD.
+I snapped out the wallet right there and then, it didn't even hurt.
+
+Previous to this night I had seen the CD for sale at $45.00 at a local store
+and I didn't have enough money to buy it.  I scrimped and saved for a couple of
+weeks (going by the store each day to make sure that it was still there) and
+about the middle of the second week it was gone (WHAT???? I was PISSED. That
+&lt;insert explitive here&gt;er knew I wanted it... oh well.
+
+Now only five weeks after that, I have the CD listened to it twice and only
+shelled out 9 bucks. "If you are the fool that sold it back, THANKS"
+
+Rush-mgr-- is there a transcript at the FTP sight.  If not, I could be talked
+into transcribing it sometime in the next couple of weeks.  Lemme know!
+
+[ Nope, I don't have it (as far as I know).  If you wish to transcribe it,
+  feel free.  Send it to the rush-request address when you're done, and I'll
+  post it as a special edition.                                   :rush-mgr ]
+
+Happily, Keith
+
+*******************************************************************************
+* kmarino@bonnie.ics.uci.edu        * OBRQ: "I'm not one to beleive in magic  *
+* marino%hycad5@hac2arpa.hac.com    *     But I sometimes have second-sight"  *
+* Life begins at graduation...      *                - RUSH "Presto"          *
+* Or atleast, that's what they      *                                         *
+* told me...                        *                                         *
+*******************************************************************************
+
+----------------------------------------------------------
+
+Date: Mon, 1 Apr 91 14:16 EST
+From: GEORGE PAPADOPOULOS &lt;GU090GIP%ITHACA.BITNET@CORNELLC.cit.cornell.edu&gt;
+Subject: Hemispheres
+
+Hello all,
+   About a week or so ago someone brought up the question of why NEIL chose to
+compare Apollo and Dionysius as representatives of the mind and heart
+respectively...Some good answers out there...However, I think were you'll
+find the exact answer to that question is in the writings of Friedrich
+Nietzche. For those of you that haven't heard of him, he was a 19th century
+social philosopher. In one of his writings (which he in fact discusses the
+role of music and the persona, dealing specifically with Wagner), is a
+chapter appropriately called "Apollonianism and Dionysianism", were he
+discusses man's wont to have both in his persona, and discusses the idea
+of balance. He refers to someone that has achieved this balance "Superman"
+(i think he was the first to coin this term). At any rate, I don't think
+he mentions Cygnus, but I'm pretty sure the ideas in Cygnus X-1 Book II
+are formulated out of his work. (He especially discusses the role of the
+ancients in Attica, or Ancient Athens as most people know it, and the
+presence of both these facets in that society.) If you want to know the
+exact title of the book, get back to me. I'm pretty sure you can find
+an anthology of Nietzche's works. (Sadly, he goes down with a bad name
+because the Nazi's chose to quote him more than anyone else.)
+
+    BTW on the subject of ALBUM COVERS. In _The Analog Kid_ there is a
+reference to 'the music of the spheres'. Has anyone made a connection
+between 'the music of the spheres' and the Hold Your Fire album cover?
+I dunno, personally, the reference seems familiar, but I can't quite
+remember. Does anyone have any idea about this?
+    Thats all for now...
+                                           George I. Papadopoulos
+                                               GU090GIP@ITHACA
+
+ORQ: 'So much style without substance, so much stuff without style'
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 202
+********************************************
+
+

@@ -1,0 +1,573 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 05/04/92 - The National Midnight Star #482
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+          The National Midnight Star, Number 482
+
+                    Monday, 4 May 1992
+Today's Topics:
+                      Administrivia
+              Will Rush change the setlist?
+                           LVS
+                   Inane Alt.music.rush
+                         Rockline
+                  Another Canadian trio
+                       Chart Stuff
+               More interesting Rush stuph!
+   Big Money/Cemera Eye/Xanadu live/2112 live/The Trees
+                          (none)
+       PLEASE PROVIDE INFO ON DAYTON AND PITTSBURGH
+                  Spinal Tap in Toronto?
+                        Alpine Tix
+                 Rush Parody Song Request
+                    Alex's background
+                     Rush Hour Video
+                    Exit...Stage Left
+         Chicago Tour info and RE: outdoor shows
+----------------------------------------------------------
+
+Subject: Administrivia
+Date: Mon, 04 May 92 14:14:57 -0400
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+We had a near disaster today with disk space; one of the list members
+uploaded over 11M of gif files, and ran the file system right out of
+space.  IF ANYONE WANTS TO UPLOAD SOMETHING TO THE ANONYMOUS FTP SITE,
+*PLEASE* SEND MAIL TO THE ADMINISTRATIVE ADDRESS FIRST!!  This way I'll
+know what to expect, when to expect it, and can plan on what to do with
+it once it gets here.  Syrinx is used by others besides me, and I can't
+let things like this interfere with normal usage of the machine.  I hope
+this is a one-time thing; I'd hate to have to turn off uploading to
+Syrinx...
+
+As a result of the above, there are new copies of gifs out in the images
+directory, see the CONTENTS file for specifics.
+
+As a side effect of the disk space situation, I'll be removing what I
+consider to be unnecessery files from the Syrinx ftp site.  This includes
+any sound/music files.  The directories:
+
+    rush/MacSounds,
+    rush/c64-sounds, and
+    rush/sounds
+
+will be removed shortly.  If you want something from them, jump now, or
+don't jump later.
+
+In addition to removing files, I have compressed the first 100 issues of
+the NMS in the "rush/digest" directory.  You'll need the Unix command
+'uncompress' to unsquish them - the source for this is available in the
+file "rush/compress.tar" (in the main rush directory via anonymous ftp).
+This is a Unix tape archive file, but should be editable by any text
+editor if you don't have Unix.
+
+Also, for those of you losing your accounts soon, please send me mail to
+be unsubscribed from the NMS.  This makes my life much easier, thanks.
+
+Lastly, as always, admin. mail posted here will go out with the list;
+make sure you're sending to the correct address to save embarassment!
+
+Editor,
+The National Midnight Star (RUSH fans mailing list)
+rush-request@syrinx.umd.edu    or    rush-mgr@syrinx.umd.edu
+
+----------------------------------------------------------
+
+Date: Fri, 1 May 1992 17:23:33 -0500
+From: Michael Silverman &lt;cubsfan@camelot.bradley.edu&gt;
+Subject: Will Rush change the setlist?
+
+Does anybody know (or care to make some guesses) as
+to whether Rush is going to change their setlist for the tird leg
+of the Roll the Bones tour? I, for one, would like to see the set
+list changed a little...maybe add a few more songs off of Roll the
+Bones, maybe a few older songs, too. I would dump the shortened Subdivisions
+and Superconducter, and play all of Xanadu as well. What do
+you all think?
+
+PS: Does anyone have the Rush live video from Toronto in 1988? If
+so, please e-mail me. Thanks.
+
+cubsfan@camelot.bradley.edu
+
+"One likes to believe in the freedom of baseball" - Geddy Lee
+
+----------------------------------------------------------
+
+Date: Fri, 1 May 92 18:50:16 -0400
+From: mcmahan@cs.unca.edu (Scott McMahan -- Genesis mailing list owner)
+Subject: LVS
+
+| I really didn't expect LVS
+|   to win at all
+
+Out of all the tracks on Chronicles, this one really stood out. I
+liked it! I think it's better than YYZ.
+
+The synth-powered Subdivisions stood out, too.
+
+Scott
+
+----------------------------------------------------------
+
+Date: Fri, 1 May 1992 18:17 CST
+From: "Buenos nachos, mein froinds!" &lt;TBEAUDOIN@VAX1.UMKC.EDU&gt;
+Subject: Inane Alt.music.rush
+
+	I agree with the person yesterday who openly derided the
+Rush newsgroup.  The latest meanderings include about 20 different people
+so far posting huge lists of all the different music groups they listen to,
+simply to prove their musical diversity.
+	{sigh}
+
+	FOREVER ONWARD WITH THE NATIONAL MIDNIGHT STAR!!!!!!!!!!!
+
+"eeeh!" - Geddy at beginning of Mystic Rhythms on ASOH
+
+Thomas Beaudoin
+Kansas City
+
+----------------------------------------------------------
+
+Date: Fri, 1 May 92 21:14:15 EDT
+From: jalhart@skidmore.EDU (Lerxst)
+Subject: Rockline
+
+Geddy and Alex have been announced to be on Rockline on Monday May 18th.
+
+bye
+
+Ken F.
+
+----------------------------------------------------------
+
+From: wtshisha@david.wheaton.edu (Wungramngam T. Shishak)
+Subject: Another Canadian trio
+Date: Fri, 1 May 92 15:04:49 CDT
+
+There's another incredible band out there who were my fave until RUSH.  TRIUMPH
+(now defunct) was also a three man outfit who were influenced by RUSH early on.
+Like the Boyz, they were extremely underrated by the popular music
+establishment. I would strongly recommend this hard rock/metal band. Their
+sound is progressive, though perhaps in a more "traditional rock" sense. A
+couple of good albums: Thunder 7, Sport of Kings, Surveillance, & Allied
+Forces.
+-W. Shishak
+P.S. Anyone know of an upcoming Chicago or central Virginia Rush show?
+
+----------------------------------------------------------
+
+From: T J Moore-Read &lt;se2tm@leicester-poly.ac.uk&gt;
+Subject: Chart Stuff
+Date: Fri, 1 May 92 11:30:24 BST
+
+Hi,
+
+  Just thought i'd send in some uk chart trivia:
+
+   Rush have had two top 40 hits in the Uk
+   They were  Closer To the heart & Spirit of Radio
+
+   TSOR actually made it into the top 20 somewhere (i think it was 13)
+
+  The last 4 rush albums (HYF,ASOH,P & RTB) have all made it into the top 20
+  albums  RTB reached number 10.
+
+Cheers
+
+TJM
+--
+-------------------------------------------------------------------------------
+| Terry Moore-Read     |                                                      |
+| 4 Tollemache Avenue  |        JANET    :         se2tm@uk.ac.leicp          |
+| Leicester  LE4 OEA   |        INTERNET :         se2tm@leicp.ac.uk          |
+| ENGLAND              |        BITNET   :  se2tm%uk.ac.leicp@ukacrl          |
+|                      | "Time is a spiral, Space is a curve..."  - N Peart   |
+-------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Sat, 2 May 92 01:56:45 EDT
+From: dpm@terranet.cts.com (Dave Mitchell)
+Subject: More interesting Rush stuph!
+
+Heh..
+
+  Rumour monger says: "Rush are going to the States!..."  Rumour monger
+explains:  I was talking to father yesterday, and he told me that Alex, Geddy
+and Neil have all applied for their Green Cards (uh oh!).  Reason being --
+Rush (The Band and Personal) have been Audited by Revenue Canada for the last
+12 years and they are getting quite sick of it!!  (It's cruel and inhumane
+treatment to be audited !!)  Anyway -- Rush has been labeled as a 'TEST' case
+for Revenue Canada, in otherwords -- If you are a happy little auditor joining
+Revenue Canada for your first job you are assigned Rush as your first
+assignment if you are lucky.  And Rush has been lucky for 12 years now.
+
+   This really BITES!..  Canada's most successful band having to go to the
+U.S. because of our fucked up government policies...  They are and always be
+Canadian !!!
+
+  Mull this one over!!
+
+:)
+
+-dpm
++----------------------------------------------------------------------------+
+  David P. Mitchell - "I think it's dark, and it looks like rain." - R.Smith
+ INET: dpm@generic.uucp  -  dpm@terranet.cts.com  -  UUCP: utzoo!terranet!dpm
+         'This .signature could be worth a million someday!' NOT!
++----------------------------------------------------------------------------+
+
+----------------------------------------------------------
+
+Date: Sun, 3 May 92 10:33:15 EDT
+From: kkhalich@vtssi.vt.edu (Keivan Khalichi)
+Subject: Big Money/Cemera Eye/Xanadu live/2112 live/The Trees
+
+Hello.
+
+  Being only on NMS # 476, I might be repeating information as I'm writing
+this item.  I haven't had the time to read all 6 NMSes that came quickly one
+right after the other.  I don't know how fast they came, but one day I
+checked my mail after 4 or 5 days, and I found lots of unread messages of
+enormous sizes.  Any ways.
+
+In regards to the Trees:
+
+  I always thought, why not take it for the face value.  It's like any time
+chaos appears in a society.  Peace must be ENFORCED.  Here, the hatchets,
+axes and saws, are used to produce equality amongst the trees and used as a
+tool to enforce and keep peace between the trees.  Look at L.A.  There is a
+strong need for hatchets, axes and saws there.  More like, guns, tanks, and
+troops.  (FLAME AWAY)
+
+In regards to The Big Money and The Camera Eye:
+
+  I was skimming through my American Literature book the other day (I'm not
+an English major) and found two items of interest.  A writer by the name
+John Dos Passos had written a novel by the name _The Big Money_ and part of
+this novel is titled "The Camera Eye."  I have yet to read this novel.  In
+this book, there are only parts of the novel presented.
+
+In regards to Xanadu on ESL:
+
+  After getting my ESL CD back from a friend of mine which had it for a month,
+I decided to listen to Xanadu live.  Well, I really enjoyed the listening
+pleasure of this song.  The song was comming to an end, so I decided to
+focus on the powerful ending.  That's when I heard a whisper at the last
+short pause before they finished the song.  It was Geddy, and the whisper was
+not GET A LIFE.  And I didn't play it backwards yet.  Does anyone know what
+this is.  Or is it that I have a "very highly active imagination." (Roger
+Waters quoted from _Pink Floyd in Pompei_)
+
+In regards to 2112 live:
+
+  Does anyone know if Rush ever did 2112 live with all the seven parts.  Before
+you say ATWAS, I must say that it had only 5 parts.  III. The Discovery and
+V. Oracle: The Dream were omitted in the live version.  If someone has the
+boot of the complete live song, please leave me e-mail.
+
+Well, that's all for now.  I'll probably come back in a month or so, after I
+have finished these incomming issues.  It takes the longest time to read this
+stuff on the computer monitor. &lt;g&gt;
+
+Every day we're standing
+In a time capsule
+Racing down a river from the past
+Every day we're standing
+In a wind tunnel
+Facing down the future comming fast
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+----------------------------------------------------------
+
+From: the!
+
+----------------------------------------------------------
+
+Date: Sun, 3 May 1992 12:23 EST
+From: V120P993@ubvms.cc.buffalo.edu
+Subject: PLEASE PROVIDE INFO ON DAYTON AND PITTSBURGH
+
+Hello; I am a Buffalonian who just purchased tickets for the Dayton show, and
+I would appreciate if anyone could tell me: What/where is the Nutter Center?
+Is it indoors or out? How many people does it seat? What is the seating
+arrangement? (I do not have my tix yet, so I do not know where I am) Lastly,
+is there a man named Nutter, after whom this venue was named (I cannot help
+but laugh at that name).
+
+Also, I will be buying tickets for Star Lake in Pittsburgh- when a sale date is
+announced, ANYONE AND EVERYONE, please post info. I cannot locate Star Lake on
+my AAA map; can someone tell me roughly where it is? I assume this is an 
+outdoorshow; what is the venue like/ how many does it seat?
+
+Any responses to my current dilemmas would be appeciated.
+
+Nutter for president.
+
+                      Kevin Hulme, Buffalonian.
+
+----------------------------------------------------------
+
+Date: Sun, 3 May 92 14:59:04 -0400
+From: Mike Hackett &lt;hackett@gaul.csd.uwo.ca&gt;
+Subject: Spinal Tap in Toronto?
+
+   Sorry about the lack of Rush content (unless, of course, they decided to
+join in at this show!) but there has seemed to be at least some interest in
+Tap shown on this list.  Anyway, on Fax (a MuchMusic daily music news-type
+show) Thursday night, they had clips from an interview they did with Tap
+(I can't believe they mis-labelled Nigel as "Nigel Tuffs"!).  At the end
+of the interview, they said they were going to be doing 3 shows on Canada
+Day - St. John's, Toronto, and Vancouver.  Now, this sounds totally insane,
+though possible (some other Canadian artist did this a while ago - Bryan
+Adams?  Colin James?  I really don't remember).
+    My point is, I figure they have to at least play Toronto (though Tull
+didn't, argh!), so as soon as anyone hears any news about this, I would
+greatly appreciate hearing from you - email, if the list doesn't want to
+hear about it.  Wouldn't it be incredible, though, to have a big Canada
+Day concert with Tap, Rush, and maybe Jeff Healey and some other Canadian
+acts!  As far as I know Rush is not yet booked for July 1st, and the last
+date I have seen is June 26th in Detroit - not far from home.  BTW, have
+the tickets for that Detroit shown already gone on sale (and then likely
+sold out quickly).  If not, when?  Thanks in advance to all.
+
+/==========================================================================\
+| Mike Hackett                  | "I don't believe you, you had the whole  |
+| &lt;hackett@gaul.csd.uwo.ca&gt;     |  damn thing all wrong; He's not the kind |
+| Honors Computer Science III   |  you have to wind up on Sundays."        |
+| University of Western Ontario | -Ian Anderson, "Wind Up" - _Aqualung_    |
+\==========================================================================/
+
+----------------------------------------------------------
+
+From: "Travis Williams" &lt;F1TRAVIS%ILSTU.bitnet@vmd.cso.uiuc.edu&gt;
+Subject: Alpine Tix
+Date: 03 MAY 1992 14:53 -00
+
+    The show has been confirmed for the 27th at Alpine and tickets go
+on sale this Saturday at Ticketmaster, etc.  I hear there is a ticket
+club at Alpine which gives members to that club the first chance at
+tickets, so really great seats are probably going to be tough to come
+by...but we can always hope, can't we?   I'll be there, so if anyone is
+planning on attending, mail me, and we'll talk.  Later.
+
+                         Trav.
+
+----------------------------------------------------------
+
+Date: Sun, 3 May 1992 18:29 CDT
+From: LINDAMAN4833@iscsvax.uni.edu
+Subject: Rush Parody Song Request
+
+As the school year sinks slowly into the west, I got to thinking about Rush
+songs I would like to parody, but I couldn't come up with any.  Then, I
+remembered the nice folks at the NMS, so I decided to email something
+describing my situation and asking for the help of all you Rush fans out there.
+
+Please, send me songs you would like to see parodied.  My email address is as
+follows:
+        IN%"lindaman4833@iscsvax.uni.edu"
+
+Please hurry as I will be graduating in 6 days and I will need some time to
+write up lyrics.  As I am a relative newcomer to Rush, the only requirement I
+have is that the songs are relatively well-known.  Thanks a bunch.  I really
+appreciate it, and I will make it worth your while as I will name anyone who
+sends me a song parody idea if I use it.
+
+BTW, I recently picked up a used copy of "Presto" for $3 and I have completed a
+song parody of "Superconductor" called "Viva Las Vegas."  It will be posted on
+alt.music.rush within the next few days, so be on the lookout for it!
+
+Alex Lifeson's evil twin,
+
+Tom Lindaman
+
+"I'm not one to believe in magic,
+        But I sometimes have a second sight."
+                        ---"Presto" by Rush
+
+----------------------------------------------------------
+
+Date: Sun, 3 May 92 20:56:25 -0400
+From: ba080@cleveland.Freenet.Edu (Jim B. Stevenson)
+Subject: Alex's background
+
+Hey Gang
+
+	I've been seeing some posts asking about Alex's background.
+Here's the correct info, taken from _Visions_.
+
+Alex is the son of Yugoslavian immigrants.  He was born in the mountain
+town of Fernie, British Columbia.  His family soon moved to Toronto.
+
+While we're on the subject, Geddy is from a family of Polish Jews who
+survived the war and moved to Canada.  His name "Geddy" comes from his
+mother calling him Gary in a heavy Yiddish accent, which sounds like
+`Geddy', and the name has stuck ever since.
+
+C-ya'll L8R!
+
+--
+____/|   ba080@cleveland.Freenet.Edu  ||~\\  ||    ||  //~\\  ||   ||
+\'o.O'     Jim `SnowDog' Stevenson    ||_//  ||    ||  \\     ||___||
+=(___)=   HAIL DIRK,LERXT,& PRATT!!   ||~\\  ||    ||    \\   ||~~~||
+   U -ACK!  "The Show Must Go On!"    ||  \\  \\__//  \\_//   ||   ||
+
+----------------------------------------------------------
+
+Date: Mon, 4 May 1992 09:23 EST
+From: Richard Andrew Zehel Sofranko &lt;ORPHEUS@vms.cis.pitt.edu&gt;
+Subject: Rush Hour Video
+
+Hey everybody!  I am writing in response to someones question
+regarding the boot video "Rush Hour".
+
+I purchased this video at Eide's music in Pittsburgh about
+6 months ago.  It is definitely a bootleg recording of some
+sort.  My copy is on an unlabeled Memorex tape.  Someone wrote
+"Rush" on it with a black marker.  You can only see this if
+you hold it up to the light at an angle to get a good relection
+off of the surface.  As our fellow subscriber said, it comes in
+a plastic case with a smaller version of the HYF album cover for
+a jacket front.
+
+The recording contains about 20-25 minutes worth of an interview
+with Geddy Lee.  The interview is held outdoors on a sunny day with
+Geddy sporting a pair of sunglasses.  Alex's interview covers about
+10 minutes of tape and apparently occured before a sound check.
+I can't recall all the videos contained on the tape, but a few stand
+out in my memory.  There is a clip of the CloserTTH video as
+well as a clip of FarwellTK (!?!, didn't think there was one).  The
+BodyE video is on it also.  If anyone wants to know exactly which
+videos are on this tape drop me a line.
+
+Take it easy.
+
+Rich
+
+----------------------------------------------------------
+
+Date: Mon, 4 May 92 11:09:18 EDT
+From: kkhalich@vtssi.vt.edu (Keivan Khalichi)
+Subject: Exit...Stage Left
+
+Wow,
+
+  I just recorded Exit...Stage Left and while recording, I listened to it on
+my stereo, through my friend's stereo VCR.  I must say, that was the best
+medly I have heard of Rush, officially recorded live (I don't have any boots).
+Especially By-Tor and the Snow Dog, such a powerful song.  Most interesting
+fiction fantasy.
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+  I have obtained the sign of Eth and have stored it in the Caves of Ice,
+  which resides near the ruins of the Temples of Syrinx, in the mountains of
+  the east, above the Valley, where Willow Dale once was; hidden along with
+  the two ancient mythelogical books of Cygnus X-1.
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+&gt;From the Land of the Overworld, Keivan Khalichi.
+
+----------------------------------------------------------
+
+Date: Mon, 4 May 92 11:38:15 -0500
+From: This S___s &lt;michael@morgana.pubserv.com&gt;
+Subject: Chicago Tour info and RE: outdoor shows
+
+Matt Snyder wrote:
+&gt;
+&gt;Anybody have info on Indianapolis IN shows this summer or late spring?
+&gt;Also, since when does Rush work in the summer?  I thought that was
+&gt;the last thing they would ever think of doing.  It will be EXTREMELY
+&gt;weird to see the boyz in May or June or (god forbid) OUTSIDE!!!!
+
+Yes, they are going to be at Deer Creek on June 24, but tix went on sale
+several weeks ago, probably only lawn seats still available.
+
+As for the outdoor show thing, where were you for the Presto tour.
+
+I saw them at Alpine Valley summer of 1990 I believe and it was awesome.
+It rained about an hour before the show, and because of the rain, the
+air was very misty all night, so the lasers had plenty of stuff to shine on.
+
+Speaking of Chicago area shows. I called ticketbastard, and tickets go
+on sale for both Alpine Valley and the World Amphitheatre on Sat. May 9.
+They didn't have a date for the Alpine Valley show on their computer yet,
+but someone else said it was confirmed for June 27, which is probably
+right because the date for the World Amphitheatre show is June 28.
+
+The prices for the World are 32.50 plus a 4.00 service charge per ticket, 
+pretty
+outrageous. 8 ticket limit per order.
+
+--Mike Korman
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1992.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+********************************************
+End of The National Midnight Star Number 482
+********************************************
+
+

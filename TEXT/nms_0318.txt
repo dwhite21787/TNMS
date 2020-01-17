@@ -1,0 +1,502 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 08/20/91 - The National Midnight Star #318
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 318
+
+                 Tuesday, 20 August 1991
+Today's Topics:
+                    more cuts from RTB
+                 Dreamline! (what else?)
+                          (none)
+         How can you play dreamline on regular PC
+                     THUMBODY HEP ME!
+           They're Playing Dreamline in Cowtown
+                        Thanks!!!
+      Re: 08/19/91 - The National Midnight Star #317
+                      RTB S.A. info
+                        Rush tabs
+                Another question for Geddy
+      Re: 08/15/91 - The National Midnight Star #315
+     Re:  06/10/91 - The National Midnight Star #258
+       Where's my thing?  Did you look in Seattle?
+                  rasterfiles on syrinx
+----------------------------------------------------------
+
+Date: Mon, 19 Aug 91 18:15:56 -0400
+From: "John W Connelly" &lt;connelly@unix.cis.pitt.edu&gt;
+Subject: more cuts from RTB
+
+Hey, I heard the title track on the radio yesterday!  You know, the one with
+the rap section?  It went something like this:
+
+"Yo, sucka M.C's, my name is Geddy LEE
+ And you won't be seein' ME on no M.T.V.
+ We are the RUSH and now we're in the rap RACE
+ And all I've got to SAY is, 'Get outta my SPACE!'"
+                              ^   ^   ^   ^   ^
+	(little WDVE morning-show in-joke, there)
+
+Sorry, I just couldn't resist...
+
+On a serious note, I *did* hear another cut from RTB, "The Big Wheel".  That
+makes a total of *five* cuts I've heard on WDVE.  (And I'm *not* trying to rub
+it in; this is just FYI if you can get WDVE, 102.5, Pittsburgh on your tuner).
+
+--JC
+
+/===========================================================================\
+| John W. Connelly  | "If you choose not to  |  connelly@unix.cis.pitt.edu  |
+|  511 LRDC Bldg.   |   decide, you still    |+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=|
+|  U.of Pittsburgh  |    have made a choice" |    CONNELLY@Pittvms.BITNET   |
+\===========================================================================/
+
+----------------------------------------------------------
+
+Date: Mon, 19 Aug 91 20:35:54 EDT
+From: Elizabeth Fike &lt;betsey@cunixf.cc.columbia.edu&gt;
+Subject: Dreamline! (what else?)
+
+Well, I finally heard it here in the Big Apple, on WNEW.  Good
+thing, 'cause I couldn't get dreamline.sb to play on my computer
+for the life of me.  I downloaded it properly and all, but none
+of the player programs recognized the format.  Am I missing
+something?  (yes, I have a soundblaster and was trying to use
+fmorgan and playcmf to play it).
+
+Anxiously awaiting 11pm on 8/29....(the world premiere of RTB on
+WNEW)
+
+/betsey
+
+*******************************************************************************
+Betsey Fike &lt;betsey@cunixf.cc.columbia.edu&gt;
+CC '93/SEAS '94, Computer Science/Electrical Engineering
+Columbia University Marching Band, the Cleverest Band In The World (tm)
+************************************G(TB)^2************************************
+
+----------------------------------------------------------
+
+Date: Mon, 19 Aug 91 21:19 EDT
+From: Ken Renard &lt;KDRENARD@vms.cis.pitt.edu&gt;
+
+	You know you're a Rush fan when... you go back to school in Pittsburgh
+1.5 weeks early just so you can hear Rush on the radio (thanx WDVE).  But
+you're a real Rush fan when, heading through the PA mountains, you pull over
+to the side of the road to hear Dreamline on DC101, because the station keeps
+fading out.
+	To all you Philly people (Hi Donna! hee, hee :-) ), I heard on WMMR
+about a laser show with the usual Pink Floyd, etc., but they mentioned Rush
+on the bill, too.  Does anyone know the story on that?
+	On the subject of audio files:  I'm in the same boat with some of
+you with the 2.2M file and only a 2400 baud modem.  If Mr. Rush-mgr could
+zip, compress, tar, or shar the file, the file will probably shrink to a
+size that will piss you off even more when it won't fit on a 1.44.  There
+are file chopping utilities around, but this is a binary audio file
+and is very picky about things like that.  -OR- if you start downloading on
+a 2400 baud modem now, it will probably be finished by Sept. 3! :-)
+
+[ Actually, we've already tried to compress it - the file *grew* by 5%!
+                                                                :rush-mgr ]
+
+Ken Renard
+kdrenard@vms.cis.pitt.edu
+kdrenard@brl.mil
+
+----------------------------------------------------------
+
+From: amy@arla.austin.mcd.mot.com (Amy Moseley)
+Subject: How can you play dreamline on regular PC
+Date: Mon, 19 Aug 91 20:40:39 CDT
+
+OK.  I have the disk drive to handle the dreamline.voc file.  Exactly
+what format is .voc for?  Anyway I also downloaded a shareware thing
+called voc2snd which was supposed to convert the .voc file to .snd
+file, which you can play through a program called remac over the
+regular PC speaker.  I don't have the soundblaster audio card.
+
+So could someone upload a genuine copy of dreamline.snd?  In exchange
+I will mail *if this works* a copy of remac which reads Mac sound
+files and plays them over PC (not great sound quality, but hey
+the phone bandwidth is worse).
+
+--
+Amy J. Moseley
+Motorola Computer Group
+(512) 891-2426					:)
+amy@austin.mcd.mot.com or
+uunet!cs.utexas.edu!oakhill!arla!amy
+
+----------------------------------------------------------
+
+From: mjordan@ccwf.cc.utexas.edu (Marc Jordan)
+Subject: THUMBODY HEP ME!
+Date: Mon, 19 Aug 91 22:56:22 CDT
+
+NOTHING, NOTHING, NOTHING!  That's all I hear of RTB in fabulous-Rush-hour-
+every-Thursday-night-Austin.  Somebody save me! Please! Send me a copy of what
+you have! Please!  Call me at 512-338-0560 so I can give you my address and
+you can send me a tape COD. Please!
+
+Okay, I guess I better come up with something to give a symblance of dignity
+to this pathetic cry for help.  Ummmm...... Ummmmmm..... Ummmmmm.......
+
+I saw Rush 8 times....no, already posted that.....
+I heard Hemispheres debut on KLOL....no, already posted that....
+I saw their tour bus behind the stadium....no, REALLY pathetic....
+I took my mom to see them once....no, unbelievably pathetic....
+A friend of mine puked at the Texas Jam....no, too nastalgic....
+I puked on a friend of mine at the Texas Jam...man was that a show!...
+
+Okay, Okay.  So I don't have anything new.
+
+Later,
+Marc
+
+----------------------------------------------------------
+
+Date: Tue, 20 Aug 91 00:47 EDT
+Subject: They're Playing Dreamline in Cowtown
+From: jrs@cblpe.att.com!
+
+I'm a little hesitant to do this considering all the favorable reviews
+Dreamline has received, but here goes.
+
+I just heard Dreamline on WLVQ-FM-96 in Columbus Ohio.  If they're playing
+it here, they should be playing it everywhere.  I taped it and listened to it
+a couple of times.   After all the hype on NMS, I'm disappointed.
+
+I'm not a musician and have no musical background, but here's my opinion.
+I think Dreamline has a harsh, bright sound and is weak in the bottem-end.
+The guitar solo is pretty good, and the bass is good in SPOTS but it is not
+noticable throughout much of the song.  There is so much high-frequency sound
+that there doesn't seem to be that much going on at the other end of the
+spectrum.  (Maybe this is due to cassette to cart-tape dubbing that someone
+mentioned.  There was some hiss that went away when they played Red Barchetta.)
+In summary, to many HIGHs and not enough LOWs.  It doesn't sound like back to
+basics old RUSH to me.  I'll have to see if it sounds better on CD.
+
+I like the Farewell-to-Kings/Hemispheres/Permanent-Waves/Moving-Pictures period
+of RUSH.  I liked Presto better than the 3 previous albums, and I was hoping
+for more of the bass dominant Rush sound.
+
+The radio station played Dreamline and Red Barchetta back-to-back.  I though
+Red Barchetta sounded SOOOOOOO much better.  Red Barchetta has a warm, 
+soothing, melodic yet powerful kind of sound.  Dreamline has this piercing 
+dah-dah-dah sound, it leaves me cold.
+
+Can anyone honestly tell me that they think Dreamline sounds better than
+Red Barchetta?  Am I the only one who isn't wild about Dreamline?
+
+I'm still going pick up the disk, come 9/3 (maybe even try 9/2 evening).
+Let me go listen to Dreamline 10 more times, maybe it will help.
+
+			I Hope the Boyz Never See This
+                                 Jeff Sherota
+				 com!att!cblpe!jrs
+
+P.S.  Rush-mgr, Keep up the good work!!!
+
+----------------------------------------------------------
+
+Subject: Thanks!!!
+From: wizard%cccbbs@uceng.uc.edu
+Date: Mon, 19 Aug 91 23:13:54 EDT
+
+Thanks to whoever made the .VOC file of "Dreamline" for us Soundblaster
+people... the sound quality isn't perfect (but then again,who wants to d/l a
+20 meg file?), but at least I got to hear the song!!!!  They've had the
+album for a few days here in Cincinnati at WEBN but haven't played it yet
+(although they were quite surprised when I called them and played it into
+the phone!)
+
+Later...
+
+ The Crystal Wizard (wizard@ccbbs.uucp and c-wizard@darkside.com)
+
+# The Guild of Legends BBS # 513/821-6543 # TNMS Back Issues Available #
+
+----------------------------------------------------------
+
+Subject: Re: 08/19/91 - The National Midnight Star #317
+From: dave.bbs@shark.cs.fau.edu
+Date: Tue, 20 Aug 91 08:51:59 EDT
+
+RUSH hits Atlanta! (Atlanta shows who's boss!)
+
+yesterday (8/20/91) Rush unveiled its new hit to Atlanta.
+it was THE NUMBER ONE SONG OF THE DAY!!!!!!
+
+Dreamline seems reminicent [sic] of older times, and it certainly
+had some motion to it.  my car even sped up to match the tempo!
+
+let's see if it can take the number one spot 2 days straight!
+(an accomplishment on the guns-n-roses network)  ;-{)
+
+dangerous dave (i haven't had so much fun since i discovered my navel!)
+
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+If Rock 'n' Roll is responsible for teenage sex, does that mean that
+Country-Western is responsible for incest? - (heard on radio)
+
+dave.bbs@shark.cs.fau.edu    (current CYBERNET address)
+dave@cybernet.cs.fau.edu     (future CYBERNET address)
+weissd@tuna.cs.fau.edu       (UNIX account, Gary Moore mailing list)
+weissd@shark.cs.fau.edu      (something to call my own)
+
+[ Dave, if you're getting the NMS, drop me a line at the administrative
+  address.  I get bounces every day from your "dave.bbs" address.
+                                                               :rush-mgr ]
+
+----------------------------------------------------------
+
+Date: 20 Aug 91 10:20:00 CDT
+From: "SAEIS1::RGRAVES" &lt;rgraves%saeis1.decnet@jupter.AMD.COM&gt;
+Subject: RTB S.A. info
+
+SUBJECT: RTB S.A. info
+
+    I had a talk with the morning DJ at 104 KZEP which will give you a pretty
+good view of the RUSH scene on the radio here in San Antonio. It went like this,
+
+   "-Morning, K-ZEP"
+
+   "Yes, do you have any info on the new RUSH single"
+
+   "Well it should be out by the end of the week"
+
+   "Do you know the title yet"
+
+   "No, we haven't received it"
+
+   "Did Atlantic records send out any kind of press release"
+
+   "No, not that I know of. They're not with Mercury anymore?"
+
+ (boy, talk about living a sheltered life, how long has it been, 2 years?)
+
+    Finally, the evening DJ at 104 KZEP gave me some honest answers that I
+would like to share with the other readers.
+
+    First, the new single will debut on Thursday (official release?) but
+he didn't have it so he's not sure of the title.  Hope the FedExp is on time.
+
+    Second, he mentioned that they will be carrying the world premire radio
+show, via satallite, on Aug. 29 at 10:00pm (which was previously noted in
+this newsletter).
+
+    He seemed really pumped up (sorry Hanz and Franz) about the release and
+assured me that it would play Thursday.
+
+[ We wanna Rush &lt;clap&gt; you up!  :-)                              :rush-mgr ]
+
+    Also talked to the evening DJ at C101 in Corpus Christi (sometimes I can
+here them up here, blows our radio stations away) and he said that the new
+single would be 'Roll the Bones' and that they would be receiving it tomorrow
+and would play it and soon as it comes in.  (Got my radio set).
+
+    The DJ from 102 KPEZ, in Austin, said that they haven't received the new
+single and really had no idea on the title.  They also will be carrying the
+satallite broadcast on the 29th.
+
+    Well, that's it for this posting.  Get back to you soon with more details.
+
+P.S.  If anybody would like to plan a RUSH party here in the Austin-S.A. area
+      in the future (RTB tour 91-92), feel free to E-mail me.  I have access
+      to a sound system.  Looking for a place to play.  THX
+
+ //////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+| Robert Graves                         rgraves%saeis1.decnet@jupter.amd.com |
+| "SIGHT AND SOUND MASTER"                                                   |
+|                                                                            |
+| "We read about the exceptions, in the papers everyday" RUSH, Second Nature |
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\//////////////////////////////////////
+
+----------------------------------------------------------
+
+From: bold%astroatc.UUCP@cs.wisc.edu (Jeff Beck)
+Subject: Rush tabs
+Date: Tue, 20 Aug 91 11:16:10 CDT
+
+Hi everyone,
+
+So, does anyone know for sure when RTB will be out?  I haven't heard
+anything about it around Madison.  Second, to Frank Schaapherder,
+I can't get mail through.  Please send me another mail message.  Your
+last one won't allow me to use the reply command.  Neither will any of
+the previous messages.  Also, please send me a list of tabs that are done,
+so I don't duplicate anything.  Thanks much!
+
+--
+ ******************************************************************************
+ * Jason Bold - Madison,WI= [(rutgers||ames)!uwvax||att!nicmad]!astroatc!bold *
+ * OBRQ:  "Hey, ten bucks is ten bucks" - GL                                  *
+ ******************************************************************************
+
+----------------------------------------------------------
+
+Date: Tue, 20 Aug 91 12:51:51 EDT
+From: jaeger@buphy.bu.edu (Gregg Jaeger)
+Subject: Another question for Geddy
+
+Keep up the good work Todd Palmer!!
+
+Now a question for Geddy!
+
+ Around the time of _Signals_ Alex told one interviewer that Rush
+ were listening to alot of Ultravox. Ultravox is unique in rock
+ for the strong role of Billy Currie's violin in their music. `Losing
+ It' is the only Rush song to feature a violin (solo, anyway).
+ The lyrics of ``The Weapon'' have an Ultravox flavor as well.
+ Did Currie's synthesizer playing have any influence on You?
+ Has the work of Ultravox had a lasting effect on Rush? Around the
+ time of _Signals_ Ultravox's _Vienna_ was said to be one of Neil's
+ favorite albums...
+
+Thanks to you if you could pass this on Frank,
+
+Gregg
+
+p.s. Personally, I prefer U-vox's _Rage in Eden_  to _Vienna_,
+though _RIE_,_Vienna_,and _Quartet_ are all prime. Lesser recommendations
+for U-vox's work since then (c. 1983).
+
+-----------------------------------------------------------------------------
+Gregg Jaeger    (jaeger@buphy.bu.edu)             ``Hold Your Fire''
+Dept(s). of Physics (and Philosophy)                  ______/|/|
+Boston University, Boston MA 02215                      (_) \|\|   Trystero?
+------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: 	Tue, 20 Aug 1991 02:43:13 -0500
+From: tmadson@pnet51.orb.mn.org (Todd Madson)
+Subject: Re: 08/15/91 - The National Midnight Star #315
+
+As an aside:  Not only have I not heard any of the new Rush in Minneapolis,
+but the radio stations here are so locked into the "Classics You Grew Up With
+and Will Hear Until Your Death" or "Music That was Sampled From Someone Elses
+Song" or "Lets' Dance, Even Though Disco has Been Dead for Ten Years" that it
+would be impossible to even request it.
+
+ I figure a good discipline exercise would be to learn all of the guitar parts
+off of all of the Rush albums.
+
+UUCP: {amdahl!bungia, crash}!orbit!pnet51!tmadson
+ARPA: crash!orbit!pnet51!tmadson@nosc.mil
+INET: tmadson@pnet51.orb.mn.org
+
+----------------------------------------------------------
+
+Date: Tue, 20 Aug 91 13:58:42 -0400
+From: fowler2@husc.harvard.edu (James Fowler)
+Subject: Re:  06/10/91 - The National Midnight Star #258
+
+please cancel my subscripion
+
+hanks--it was fun!
+
+--James
+
+----------------------------------------------------------
+
+Subject: Where's my thing?  Did you look in Seattle?
+Date: Tue Aug 20 11:19:47 PDT 1991
+From: rpan@ingate.microsoft.COM
+
+I've found his thing!  On 96.5 here in Seattle (thanks Rob!)!
+It's pretty cool.  It sounds like a jazzed up version of Hand Over Fist
+(sans the vocals, of course).
+
+And I heard Dreamline (thanks again Rob!).  Cool song.  Sounds like a
+cross between Presto and Power Windows, to me, but that may just be the
+recording I heard (tremendous loss of treble and bass - oh well).
+
+ORQ:  Our causes can't see their effects
+
+----------------------------------------------------------
+
+Date: Tue, 20 Aug 91 14:56 EDT
+From: The God Of Balance &lt;V409EPK3@ubvmsc.cc.buffalo.edu&gt;
+Subject: rasterfiles on syrinx
+
+Thanks to all of you who upload Rush Rasterfiles and GIFs to
+Syrinx!
+
+I have a question....would somebody be willing to concatenate the Sun
+Rasterfiles alex-, geddy-, and neil-presto.rast.Z into a single file?
+I don't know, it may be a dumb question, but I *would* like to see all
+3 of them at once!  8)
+
+Respond to me via e-mail, please.
+
+[ You could always use the file "agn.ptp.gif", which is all three of them
+  from the Presto tour program.  There's also the "boyz1" thru "boyz3"
+  raster/gif files.  The program "xloadimage" is available as a compressed
+  tar format file in the same directory; this will show raster and gif
+  images.  Peruse the CONTENTS file in the same directory.       :rush-mgr ]
+
+Waiting to roll the bones...
+
+Cygnus
+God Of Balance
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 318
+********************************************
+
+

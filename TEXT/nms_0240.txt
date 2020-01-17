@@ -1,0 +1,326 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 05/15/91 - The National Midnight Star #240
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 240
+
+                  Wednesday, 15 May 1991
+Today's Topics:
+                      Strings in HYF
+      Re: 05/14/91 - The National Midnight Star #239
+             Geddy/TV, Satanism, UK band info
+                       Simple Minds
+                        new album
+                          server
+           Rush Videoes on Betamax -- a source
+                      RE: Questions
+----------------------------------------------------------
+
+Date: Tue, 14 May 91 19:13:27 EDT
+From: faulkner@acsu.buffalo.edu (shane p faulkner)
+Subject: Strings in HYF
+
+Off the top of my head, _Second_Nature_ definitely has some strings.. as do
+parts of _High_Water_
+
+/////////////////////////////////////////////////////////////////////////
+/ Shane P. Faulkner         |   A to B - Different degrees...           /
+/ University At Buffalo     |                          - Rush           /
+/ V127L2QZ@UBVMS.BITNET     |                                           /
+/ faulkner@acsu.buffalo.edu |   Rush - Marillion - Kim Mitchell         /
+/////////////////////////////////////////////////////////////////////////
+
+----------------------------------------------------------
+
+Subject: Re: 05/14/91 - The National Midnight Star #239
+Date: Tue, 14 May 91 17:13:55 -0700
+From: Mitch Hendrickson &lt;mitchh%hops.gvg.tek.com@RELAY.CS.NET&gt;
+
+I think it was Jim (? : deane@galileo.IFA.Hawaii.Edu (Rebel Without A
+Clue)) who said:
+
+Jim&gt; 	jdenkins@somewhere wondered what "If you PLAY IT, SAY IT!" means.
+[...]
+Jim&gt; That slogan is a reminder to send in copies of your station
+Jim&gt; playlists and playlogs to music services (ASCAP, etc) or record
+Jim&gt; companies.
+
+Umm, I always thought it was an exhortation to be sure to announce the
+band/album info so's all those people out there who said "wow, that
+was neat" can go out and buy it...
+
+Whatever.
+
+-Mitch
+
+----------------------------------------------------------
+
+From: Chris Marshall &lt;cs2ct@hatfield.ac.uk&gt;
+Date: Wed, 15 May 91 14:02:47 +0200
+Subject: Geddy/TV, Satanism, UK band info
+
+Hi all,
+
+1)	An amazing thing happed here in the UK on Monday morning.
+	I actually saw Geddy Lee on the telly! WOW! I think he said
+	about 20 words in total, but it was something.  He
+	said something like "Books are the most portable artform there is".
+	If I've munged this quote slightly, the asbestos suit is on hand...
+
+	Of course, it was actually a Canadian program (New Music - doing
+	a program about literature and Rock), but quite an unusual sighting.
+	Has anyone seen this New Music program in the US/Canada? I'd be
+	interested to know how long it takes it to filter over the
+	atlantic. Too long probably. And when is it usually screened?
+	Over here it is on at 1am which is a bit of a bummer... Mondays
+	being Mondays and all that :-)
+
+	I know this message is a bit unstructured and confused (I'm a C
+	programmer :-)) but with a bit of luck it'll spark a few threads &
+	opinions about TV & Rock & Rush.
+
+2)	Satanism in rock. I think that everything that can be said about
+	it has been. There was a TV documentary about it over here
+	recently (concerning the Judas Priest record) which showed the whole
+	thing up as being laughable. There was one record played backwards
+	which made reference to peppermints... Could obesity be linked to
+	rock music with backward sweetie messages in it? I think not...
+
+3)	On a different subject completely, I'd like to plug some gigs to the
+	UK people on the list. I know - I should really get the member list
+	filter through it and mail them but last time I tried to ftp the
+	thing, it floated off into the either, never to be seen again.
+	{I'll try ingr next...}
+
+[ In general, I'd rather people take this approach.  Chris asked me about
+  this first, and I ok'd it.  If you want a copy of the names list, I will
+  send that via normal administrative mail.  I'll decline for requests of
+  back issues, GIF files, etc. though.                          :rush-mgr ]
+
+	The Band is called Lavender Rose, we play nice acousticcy (?) numbers
+	er... what else can I say?
+
+	Here we go:
+		19th May, The Pineapple, Catherine St., St. Albans, Herts.
+					FREE!!!
+
+		21st & 22nd May, The Canal Cafe Theatre, Maida Vale.
+				3 / 3.50 pounds.
+				Reservations: 071-289-6054
+
+		27th May, The Mean Fiddler Acoustic Room, Harlesdon High St.
+				Contact me for tickets.
+
+		28th May, The Bedford Angel, Tickets 3 pounds on door.
+
+	Right, thanks for your indulgence {speelt write?}, I've got to go
+	and hack a supermarket simulator so it works... not a chance...
+
+******************************************************************************
+*      This is a Vax 8650 Somethingorother running Berserkley 4.3 Unix       *
+******************************************************************************
+* Chris Marshall,         * INTERNET (on a good day):                        *
+* 2nd Year BSc CS Degree, *   cs2ct@unix1.hatfield.ac.uk                     *
+* Hatfield Polytechnic,   *   cs2ct@vms3.hatfield.ac.uk (blech)              *
+* Hatfield,               *   cs2ct@sol.hatfield.ac.uk                       *
+* Herts. UK.              * UUCP:                                            *
+* Phone    +44 727 810402 *   ...!ukc!hatfield!cs2ct                         *
+******************************************************************************
+*                  "Bosses keep talking so tough,                            *
+*                   and if that wasn't evil enough,                          *
+*                   we get the drunken and the passionate pride,             *
+*                   of the citizens along for the ride."                     *
+******************************************************************************
+
+----------------------------------------------------------
+
+From: Randall Stark (PhD 90/RA) &lt;rstark@aipna.edinburgh.ac.uk&gt;
+Date: Wed, 15 May 91 17:40:15 GMT
+Subject: Simple Minds
+
+I have now twice heard people express disbelief that any members of Rush
+like/were influenced by Simple Minds (as they have stated a few times, esp.
+Geddy).  These people tend to associate Simple Minds with their
+post-1984 pop style.  They had a few albums made before that, not
+released in the States until they hit the big time, that are very
+innovative and interesting, and that had a clear influence on
+Geddy's synth playing.
+
+The album that Geddy seems to be most impressed by is "New Gold Dream",
+relased I'm-not-sure-when but I remember listening to it in 1982 and thinking
+"This sounds like what Rush would sound like if they were a synthesizer-pop
+band."  Its influence can be most clearly heard on _Power Windows_,
+on songs like "Middletown Dreams" etc.  Also "Scars" on _Presto_ sounds
+a lot like a Simple Minds tune...
+
+Anyway, the album is well worth listening to.  If you don't like
+the synth aspect, this is not the album for you; no power chords
+here, not much a guitar presence at all, and oriented towards
+dance rhythms.  This is definately a synth-pop record, but with a
+good use of rhythm and atmospheric melodies.
+
+"Sparkle in the Rain" is a much harder, more rockin' album, but not
+as interesting IMHO.
+
+Anyone else know this album?  Like it/hate it?
+
+-Randall
+
+----------------------------------------------------------
+
+Date:         Wed, 15 May 91  14:11:35 EDT
+From: John Nicholson &lt;U7667JN%DOEER.BITNET@CUNYVM.CUNY.EDU&gt;
+Subject:      new album
+
+FROM: John Nicholson
+
+I just got off the phone with Anthem Records. They said, "The album will be
+released late this fall." She could not (or would not) give me a month and
+she said that there is no title as yet.
+
+Frustrating news. Did anyone else do better with Anthem or try Atlantic?
+
+ORQ: For you the blind who once could see,
+     The bell tolls for thee.
+
+_____________________________________________________________________________
+                      |
+John Nicholson        |  I don' wanna' grow up. I'm a Toys 'R Us kid...
+u7667jn@doeer.bitnet  |
+                      |
+******************************************************************************
+
+----------------------------------------------------------
+
+Subject: server
+Date: Wed, 15 May 91 14:05:38 CDT
+From: keith@dragon.b23b.ingr.com (Keith Ford)
+
+I am currently seeking someone to assume control of the email archive
+file server I am running at Intergraph.  I have it automated to the
+point where all you have to do is reply to special messages that users
+may send and modify the index when new files (not TNMS's) come in.
+
+The system runs on a Unix workstation under System V with Sendmail.
+
+It uses a Filter from Elm and SENDMAIL to place the incoming digest
+in the proper directory.  A hacked version of Elm is used to process
+requests and send out the files.  It works nicely and I have not had
+to touch it for some months now except to add some new functionality.
+
+The server itself requires about 2.5 megabytes of space.
+The archives currently requires 8.7 megabytes of space.
+An average TNMS is 25.6 kilobytes.
+
+If you are interested, please send me email ASAP.  fordke@ingr.com
+Time is not an issue here, just disk space.  (right Rush-Mgr ?)
+
+[ Yep, it's my biggest restriction now.  I have it available to me, but
+  spread around on several platforms.  Hopefully the new 4M of RAM is a
+  forshadowing of the disk to come.  At that point, I may be able to offer
+  things for ftp in an uncompacted format...  We'll see.        :rush-mgr ]
+
+--
+ __
+/  \ Micro Magic BBS  1:373/12  (205)830-2362  fordke@umagic.fidonet.org
+\__/ home of OCAT/OBUL/OASWAP/Arkalog and the Rush archives
+[__] "He knows changes aren't permanent, but change is" -Rush
+
+----------------------------------------------------------
+
+Date: Wed, 15 May 91 16:16:19 EDT
+From: Gary L Dare &lt;gld@cunixb.cc.columbia.edu&gt;
+Subject: Rush Videoes on Betamax -- a source
+
+The Beta Only Store in New York has a couple of Rush cassettes
+as part of their continuing clearout.  "Exit, Stage Left" and
+"Through The Camera Eye" are available, FYI.  The price is ...
+$1.99 a music tape!
+
+That's right, $1.99 -- but they don't do mail order, I'm afraid.
+
+gld
+
+----------------------------------------------------------
+
+Date: Wed, 15 May 91 16:20:25 EDT
+From: paisley@cme.nist.gov (Scott Paisley)
+Subject: RE: Questions
+
+Stuart Raymond writes:
+
+&gt; However, I don't think they have WRITTEN a song about love or such
+&gt; like!!  Any ideas,  because I think if they had, the lyrics would be
+&gt; great....
+
+How about "Entre Nous" from permanent waves?  That's the closest thing
+I can think of as a "love song" Espesially in the first verse, "Even
+joined in bonds of love" would qualify this as a love song.  I can't
+think of anything else off the top of my head, but I'm sure there are
+more.  I guess it all depends on how you interpret the songs too.  Any
+other suggestions?
+
+---
+"Inspiration and vocal coaching by Daisy the Dog"
+
+Scott Paisley        paisley@cme.nist.gov      ..!uunet!cme-durer!paisley
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 240
+********************************************
+
+

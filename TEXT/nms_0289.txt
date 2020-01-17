@@ -1,0 +1,1167 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 07/18/91 - The National Midnight Star #289
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 289
+
+                  Wednesday, 17 July 1991
+Today's Topics:
+                      Administrivia
+      Songs with "Paracetamol" in the title ... NOT!
+                 Rush in an EcoPak??!!!?!
+                     Presto in BMG...
+                     Geddy && VoiVod
+             New Album Update?; plus YES info
+                The wail of the Ged-shee!
+                        dune......
+             Time Signatures and MD Magazine
+ &gt;..."she's got leeeegs(bootlegs, that is), and she knows how to sue them"
+     Re:  07/15/91 - The National Midnight Star #287
+                         Bootlegs
+                       trilogies...
+         Re: The meaning of "PART IV" in trilogy
+                        Rush & REM
+          News on Rush/Kim/Max Party in Toronto
+                         mission!
+                 The Peart interview.....
+               More on Internet Relay Chat
+                Tired of bootleg convos :)
+                  a MUSICIAN speaks out!
+                          (none)
+                   Neil writing a book?
+     Some thoughts (skip me if you're an Objectivist)
+                        Rush & REM
+----------------------------------------------------------
+
+Subject: Administrivia
+Date: Tue, 16 Jul 91 08:36:07 -0400
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+There were two NMS #287 mailed out yesterday due to a timing error.
+
+I was editing the file for sending at 6:30, when the cron run to mail
+the digest fires off.  Since there was the raw edition of the NMS on
+disk (I was editing up in memory), the software grabbed the image that
+was on the disk.  I assumed that it wouldn't if I had it for editing,
+but was wrong.  The copy sent at 18:30 is superceded by the copy sent
+at 18:45 (missed it by that much).  I've arranged it so that there is
+only the later copy in the ftp archive.  The issue which appeared to be
+number 288 was really the correct version of #287.
+
+This edition is really Wednesday's issue - the safeguards I built in
+to prevent the above happening worked too well; I left a flag set wrong
+during testing, so this wasn't sent at the apropriate time.  Oh, well.
+
+Things have been a bit hectic here lately, but I think they're actually
+leveling off now...
+
+rush-mgr
+
+----------------------------------------------------------
+
+Subject: Songs with "Paracetamol" in the title ... NOT!
+Date: Mon, 15 Jul 91 14:20:52 -0700
+From: dougo@soda.berkeley.edu
+
+I've been hearing BAD II's new song "Rush" on the radio, so I thought I'd
+come up with a list of songs with "Rush" in the title.  Can anyone add any
+more?
+
+BAD II -- "Rush" *
+Paula Abdul -- "Rush Rush" **
+Mr. Big -- "Addicted to that Rush"
+Joe Satriani -- "One Big Rush"
+
+Should these count?
+
+Joe Satriani -- "Crush of Love"
+OMD -- "Crush"
+The Smiths -- "Rusholme Ruffians"
+REM -- "Orange Crush"
+Sting -- "Russians"
+The Church -- "Russian Autumn Heart"
+
+* Big Audio Dynamite II is ex-Clash-vocalist Mick Jones's new band.  It
+sounds a little more like the Clash than did BAD I, and less like hip-hop.
+
+** What the hell is Ted "Theodore" Logan doing in a Paula Abdul video?
+
+-- Doug "He's got to make his own mistakes" O.
+
+----------------------------------------------------------
+
+Subject: Rush in an EcoPak??!!!?!
+Date: Mon, 15 Jul 91 18:09:19 EDT
+From: mjkobb@media-lab.media.mit.edu
+
+Greetings,
+
+  It didn't hit me until just recently, but since Rush moved to Atlantic, it
+seems likely that their future CDs (hopefully not Roll the Bones) will be
+released in the EcoPak packaging farce.  Warner/Elektra/Atlantic president
+Henry Droz announced that all his label's records will soon be released in the
+EcoPak (similar to the DigiPak that Sting's Soul Cages came out in).  Of
+course, the EcoPak is made by Ivy Hill packaging, which is owned by WEA.
+
+  BTW, the supposed purpose of the EcoPak is to cut down on waste caused by
+the longbox.  However, instead of using the system used everywhere else in the
+world -- CD's in jewel boxes, shrinkwrapped -- WEA proposes the EcoPak, which
+uses 80% of the paper of the longbox.  Granted, you don't throw all that paper
+away immediately, but what if it gets [wet, torn, smudged]?  You then have to
+replace it with a jewel box, and you can't transfer the artwork!
+
+  I'm not at home now, but when I get in, I'll mail WEA's address to the
+digest.  If you don't want your Rush CD's to be in crummy packaging, WRITE!!
+
+--Mike
+
+----------------------------------------------------------
+
+Date: Mon, 15 Jul 91 19:16:04 edt
+From: "Dylan Kaufman" &lt;morgan@chaos.cs.brandeis.edu&gt;
+Subject: Presto in BMG...
+
+yes, it is in fact...  I bought it for a friend from them a few months
+ago...
+
+-&lt;&gt;Dylan&lt;&gt;-                     MA EMT-M, CA EMT-1A, BEMCo 107
+Dylan Kaufman 			Major in Computer Science
+morgan@chaos.cs.brandeis.edu	Brandeis University, Waltham, MA
+------&lt;&lt; Support your local Emergency Medical Services &gt;&gt;-------
+One can never have too much RAM or too much disk space.
+			-- Ancient American Proverb, c. 1980
+
+----------------------------------------------------------
+
+Date: Mon, 15 Jul 91 18:21:25 -0700
+From: Doug Orleans &lt;dougo@soda.berkeley.edu&gt;
+Subject: Geddy && VoiVod
+
+Seen on alt.rock-n-roll.metal:
+
+[Re: Voivod's new album due in October]
+ &gt; Has Geddy Lee played anything on it or just been producing?
+
+Is Geddy really producing Voivod?  I knew they were Canadian, but I
+hadn't heard this.  For those who haven't heard Voivod, they're a
+French-Canadian band that plays a strange brand of cyber-punk-thrash
+music.  They covered Pink Floyd's "Astronomy Domine" on their last
+album, _NothingFace_.
+
+Can you imagine Rush doing a song in Voivod style?  Wow, what a
+concept...  Actually, come to think of it, it would probably sound a
+lot like "Natural Science".
+
+Always glad to spread an unconfirmed rumor...
+DougO
+
+OBRQ:  "Tide after tide will flow and recede
+	Leaving life to go on as it was...."
+
+----------------------------------------------------------
+
+Date:     Mon, 15 Jul 91 21:45 EST
+From: &lt;NIDSTER%JHUVMS.BITNET@CUNYVM.CUNY.EDU&gt;
+Subject:  New Album Update?; plus YES info
+
+        I just came back from summer vacation and I've been off the list
+since finals in May.  I'm wondering whether anyone posted any update on the
+arrival of the new album while I was gone.  Last I heard, it was due out in
+late August.  If someone can bring me up to date on this without my having
+to go through all the back issues, I'd really appreciate it.
+
+        Also, Sean Flanegan (wilkinso@darkside.com) wondered why Toramto
+(sorry, Tormato) and Yesshows was only available as imports.  Well, about
+three to four weeks ago, Tormato was released as a domestic CD for around
+$10. At least this was the case in NJ-NY area.  I don't know about
+Yesshows, though.
+
+Nidhip Mehta, Johns Hopkins Univ.
+
+ORQ: "A simple kind of mirror to reflect upon our own,
+      All the busy little creatures chasing out their destinies;
+      Living in their pools, they soon forget about the sea....."
+
+----------------------------------------------------------
+
+Date: Mon, 15 Jul 91 22:17:43 EDT
+From: Macon N. Pegram &lt;csc8mnp@cabell.vcu.edu&gt;
+Subject: The wail of the Ged-shee!
+
+Yes, I too was flipping channels Sat (?) night and caught Tom Sawyer on the
+Global Jam show (which, since they make it painfully clear that what you are
+watching is currently for sale, makes this program to me seem like a great
+marketing ploy to me - once again the words of the profits are written on the
+concert halls!) and not having the ASOH video (poor college student ect...)
+was the first time I had asctually seen that clip. I enjoyed the odd noise
+at the end of the song ... caused by Lerxt's string breaking, adding an
+interesting harmonic variation to the song. But best of all was the 'Thank You!'
+Geddy says at the very end of the tune. Some time ago, a friend of mine proposed
+the theory that the real change in Rush's post-Signals sound was due to the fact
+that Geddy's voice has grown deeper (or less shrill) with each successive album,
+so no more to we hear the hair-raising hysteronics of Hemispheres (howzat for
+alliteration, eh?) - and that Geddy can't shriek like he used to...Cygnus X-1
+as a classic example of this. WELL, that 'Thank-You' proves him wrong - it was
+in a range that brings back joyful memories of All the World's...
+
+the grinch
+
+----------------------------------------------------------
+
+Subject: dune......
+From: wilkinso@darkside.com (Sean Flanegan)
+Date: Mon, 15 Jul 91 21:32:49 PDT
+
+          I may have sounded a bit uninformed on  my comments about Dune...
+I think it should have been phrased  " ...a little more artistic integrity,
+ Like Something neil Wrote Himself. "      I just don't see dune as
+something Neil would use as material.
+
+   Ps     thanks for the mail concerning the yes albums.   I think I will go
+to TOwER and get Tormato right now.
+
+sean-----------
+
+                                            " Those who know whats best for
+                                               us,
+                                              Must Rise and Save Us From
+                                                      Ourselves!"
+                                                        - --- -- - -Pratt
+                                                             (narpet)
+
+----------------------------------------------------------
+
+From: stedmant@LONEX.RADC.AF.MIL (Terrance A. Stedman)
+Date: Tue, 16 Jul 91 01:50:56 EDT
+Subject: Time Signatures and MD Magazine
+
+Ok-
+	Since the time-signature thread has come up again, I guess it's
+my duty as a Rush fan to post a portion of a Style & Analysis column featuring
+Neil in the Oct. '85 issue of Modern Drummer magazine.  Although it's not
+possible to reproduce the transcribed drum parts, I'll do the "Best I Can."
+
+--
+
+Style & Analysis
+Neil Peart
+
+ Mention the name Neil Peart, and most fans picture someone furiously playing
+away behind a large drumkit.  While Neil has a flashy image, a closer look
+will reveal a gifted and creative musician.  He has the ability to play
+effortlessly through time changes and still keep the beat rocking.
+ One of Rush's most popular records is _Moving Pictures_, from 1981.  Example
+1 is the opening section of "YYZ" from that LP.  The rhythm is based on
+the Morse Code for the letters Y, Y, and Z.  Within this two-bar pattern,
+Neil shifts the feel between the bass and snare drums.  This is Neil at
+his best.
+
+Ex. 1
+
+Tempo: 1/4 note = 200
+Time Signature: 5/4
+
+BTW, the opening bars are played on a Crotale.
+
+Ex. 2
+
+&gt;From the same LP, Example 2 looks at "Tom Sawyer."  Starting after the first
+chorus, Neil lays down a heavy beat in 4/4.  In bar 5, he drops the last
+8th note, shifting the beat to 7/8.  This is a subtle but effective change.
+
+Tempo: 1/4 note = 86
+Time Signature: 4/4 & 7/8
+
+Ex. 3
+
+Moving on to the _Signals_ LP, Example 3 is from "Losing It."  Taken from
+the break after the first verse and into the second, these three phrases
+show Neil "building up" the rhythm.  Starting with rimshot and hi-hat, he
+adds bass drum, and then snare drum and open hi-hat.
+
+Tempo: 1/4 note = 122
+Time Signature: 5/4
+
+Ex. 4
+
+Example 4, "Chemistry," is also from the _Signals_ album.  This shows Neil
+catching the accents with his crash cymbals.  Even with the crashes and
+fills, he keeps the beat right on target.
+
+Tempo: 1/4 note = 125
+Time Signature: 4/4
+
+Ex. 5
+
+The last two examples are from the _Grace Under Pressure_ LP.  Example 5
+is the beat from "The Body Electric."  The two-bar phrase is first stated
+on the toms and snare.  He then shifts it to the ride pattern.  The offbeat
+accents help make this simple beat very effective.
+
+Tempo: 1/4 note = 135
+Time Signature: 4/4
+
+Ex. 6
+
+Example 6 is from "Distant Early Warning."  This again shows how Neil builds
+up a rhythm.  Verses one and two use rimshots and bass drum.  Verses three
+and four add the snare drum accents.
+
+Tempo: 1/4 note = 144
+Time Signature: 4/4
+
+--
+
+ The following is taken from the Dec. 89 issue of MD which features several
+transcribed phrases of Neil's work.
+
+--
+
+Peart On Record
+
+ If you go back and analyze Neil's playing from his first recorded performance
+with Rush, _Fly By Night_, and listen to each subsequent album, you'll notice
+a very interesting progression.  In general, the band's earlier material
+was more simple, allowing Neil to stretch out in regard to his use of fills
+and especially the length of the fills.  As the band progressed into more
+involved time signatures and arrangements, Neil seemed to concentrate on
+those areas.  And in more recent times, Neil has become more concerned with
+locking in the feel of the songs, coming up with interesting patterns, and
+selecting the different sounds he is generating, either acoustically or
+through sampling.  But no matter what period of Rush's career, Neil has
+continued to come up with some inspired drumming.
+ The following examples are taken from several Rush albums.  When looking
+at the different beats that Neil has come up with, it's easy to understand
+why he has had such an impact on drummers.  In most cases, the patterns
+shown are the basic beats Neil embellished.
+ These first three examples are from the aggressive 7/8 introduction of
+"Anthem," from _Fly By Night_ (recorded 1975).  These are some of the patterns
+Neil played after the opening eight-bar drum fill section.
+
+Tempo: 1/8 note = 288
+Time Signature: 7/8
+
+This next rather syncopated pattern is from "Lakeside Park," off of the
+_Caress Of Steel_ album (1975).
+
+Tempo: 1/4 note = 104
+Time Signature: 4/4
+
+The following beat is from the chorus of "The Temples Of Syrinx," from _2112_
+(1976).
+
+Tempo: 1/4 note = 138
+Time Signature: 4/4
+
+This example is from "Cygnus X-1," off of _A Farewell To Kings_ (1977).
+This driving 11/8 pattern appears near the end of the tune.
+
+Tempo: 1/8 note = 320
+Time Signature: 11/8
+
+The next two beats appear in the verse section of "Circumstances," from
+the _Hemispheres_ album (1978).
+
+Tempo: 1/4 note = 132
+Time Signature: 4/4
+
+The next pattern is from the instrumental section of "Freewill," from
+_Permanent Waves (1979).
+
+Tempo: Dotted 1/4 note = 104
+Time Signature: 6/8
+
+The next two examples are from "Vital Signs," off of _Moving Pictures_ (1980).
+The first example is from the first verse, and the second is from the second
+verse.
+
+Tempo: 1/4 note = 72
+Time Signature: 4/4
+
+Neil played this two-bar pattern in the verses of "The Weapon," from
+_Signals_ (1982).
+
+Tempo: 1/4 note = 112
+Time Signature: 4/4
+
+The next example is from the _Grace Under Pressure_ album (1984).  This
+is the 5/4 verse pattern to "Kid Gloves."
+
+Tempo: 1/4 note = 170
+Time Signature: 5/4
+
+This example is taken from the later verses of "The Big Money," from _Power
+Windows_ (1985).  Even though it appears to be in 3/4, due to the 8th-note
+feel of the song it is written in 6/8.
+
+Tempo: 1/4 note = 160
+Time Signature: 6/8
+
+The last example is from the _Hold Your Fire_ collection (1987).  This pattern
+is played during the verses of "Turn The Page."  (The hi-hat is occasionally
+played partially open).
+
+Tempo: 1/4 note = 160
+Time Signature: 6/4
+
+--
+
+Sure this post is of limited use without the transcriptions, but at least
+it sheds a bit of light on the time signatures employed on various songs.
+And of course, the time signatures often vary within a single tune.  The
+time signatures specified above are for certain phrases within a particular
+song.  Other phrases may or may not vary.
+
+    Terry Stedman    Internet: stedmant@lonex.radc.af.mil
+    ------------------------------------------------------------------------
+    I ) I I &lt;~ I_I   "It is my will which chooses, and the choice of my will
+    I \ I_I _&gt; I I   is the only edict I must respect." - Rand from _Anthem_
+    ------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Subject: ..."she's got leeeegs(bootlegs, that is), and she knows how to sue
+          them"
+From: easy@darkside.com (Phil D. Croix)
+Date: Tue, 16 Jul 91 02:03:57 PDT
+
+        I think that an ABL(available bootlegs list) is an excellent Idea!
+Let's get the ball rollin' and trade some live RUSH!! Does anyone know WHY
+it is so hard to find a CoS bootleg? I'm sure they are out there somewhere.
+Did they ever play Lamneth live? That would be orgasmic if I could ever get
+ahold of a live version of that!! I would be more than happy to contribute
+to the list of boots. I have a couple, including one homegrown one of the
+Presto concert(meaning, I done taped it meself). I always seem to bring it
+up whenever I post, huh? That's becouse I'm so damn proud of it!!!
+        On to other things: I think that with any upcoming albums, and if
+they decide to try another "epic side-long song", they would definately come
+up with their own original story line. Why rehash some old story(Robin
+Hood?), or do something that has already been told in books and a
+movie(Dune)? Yeah! He should write a story about jack the ripper!(saucy
+jack!)Or maybe Aliens! Or Nancy Drew and the Hardy boys. Or better yet, the
+life and times of Saddam Hussein! Yeah, scuds 'n all! (sarcasm mode is now
+off)---Whatever Neil Writes, I'm sure it will be brilliant. Rush has not let
+me down yet, and I don't see them letting up at all in the future.
+That's enough for me.....Sean, you butthead!! How ya doin'!!! Come on in to
+the Boulanger and I'll flow you some free bread and pastries!
+
+I just bought the new Marillion album and Duuuuuuude! It is sweet! I had to
+buy it from the import section*(20 bucks!!) but it was worth it. The song No
+ON CAN is just sweet. The whole album is sweet. I also heard the Fish album.
+It is very good also. Tis good stuff, maynerd!   BYE!
+
+P.S. Did any of you out there remember to listen to Bastille Day on sunday?
+It was Bastille day on sunday, dammit! Special significance for an awesome
+songster!
+
+Here I go with a nice Quote: "For you-the blind who once could see-The bell
+tolls for thee..." That song(losing it) Just brings me near tears when I
+listen to it......
+
+----Matt(Phil D. Croixter)
+SEAN! Drummage! I just bought me a new splash at Showcase. Now I can do some
+awesome Peart fills!
+
+----------------------------------------------------------
+
+Date: Tue, 16 Jul 91 09:01:02 EDT
+From: Wes Morgan &lt;morgan@engr.uky.edu&gt;
+Subject: Re:  07/15/91 - The National Midnight Star #287
+
+&gt;From: wilkinso@darkside.com (Sean Flanegan)
+&gt;
+&gt;   Time sig.  can also be in 8/8   or 8 eighth notes to a measure. This
+&gt;would be twice as fast as 4/4
+
+Actually, since there are 2 eighth notes per quarter note, 8/8 isn't
+automatically faster than 4/4.  I think that you're thinking of 2/2,
+also known as "cut time".
+
+Given the recent surge in "technical" music questions, I think it's
+time for an introduction to music notation.  Here we go......
+
+Let's start by just tapping your foot.  Count as you tap; 1,2,3,4,1,2,3,4,
+et cetera.  You are tapping quarter notes in 4/4 time; four beats per
+measure, and the quarter note gets the beat.
+                                                |
+A quarter note looks something like this:       @
+
+Keep tapping 1,2,3,4 with your foot, but only count aloud on beats 1 and 3.
+You are counting half notes.  A half note takes the same amount of time as
+two quarter notes.
+                                                |
+A half note looks something like this:          O
+Notice that the quarter note was "filled
+in" at the bottom; the half note is not.
+
+Keep tapping 1,2,3,4 with your foot, but only count aloud on beat 1.
+You are counting whole notes.  A whole note takes the same amount of
+time as four quarter notes.
+
+A whole note looks something like this:         O
+
+Now, keep tapping 1,2,3,4 with your foot, but divide each beat in half;
+you are now counting aloud like this "1 and 2 and 3 and 4 and 1 and 2....".
+You are counting eighth notes; each quarter note can be subdivided into
+two eighth notes.
+                                                |~
+An eighth note looks something like this:       @
+                                                    ____
+If you have more than one eighth note, they can     |  |
+be joined by a vertical bar, like this:             @  @
+
+Now, we're going to get a bit tricky.  Keep tapping quarter notes with
+your foot, but vocally divide each quarter note into 4 parts, like this:
+"1 e and a 2 e and a 3 e and a 4 e and a 1 e and a 2 e and a.......".
+Notice that the "1 and 2 and 3 and...." of the eighth notes is still
+there; we're just splitting them one more time.  You're counting sixteenth
+notes; each eighth note can be subdivided into two sixteenth notes.  Since
+each quarter note can be subdivided into two eighth notes, we can say that
+there are 4 sixteenth notes to a quarter note.
+
+                                            __
+                                            |-
+Sixteenth notes look something like this:   @
+
+                                                       _______
+If you have more than one sixteenth note, they can     |-|-|-|
+be joined by a DOUBLE vertical bar, like this:         @ @ @ @
+
+Since this is just an introduction, I'm not going to go into 32nd or
+64th notes; just remember that it's a binary system all the way down.
+
+Here's what the entire "subdivision tree" looks like:
+
+---------CLIP AND SAVE!  8)--------------------
+
+			O                                    whole note
+
+                      /   \                                  divide into
+
+	     |			  |
+	     O  		  O                          half notes
+
+         /        \           /        \                     divide into
+
+        |         |          |          |
+        @         @          @          @                    quarter notes
+
+      /  \       /  \       /  \       /  \                  divide into
+
+     |~  |~     |~  |~     |~   |~    |~   |~
+     @   @      @   @      @    @     @    @                 eighth notes
+
+   / \  / \   / \  / \   / \  / \    / \  / \                divide into
+  __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+  |~ |~ |~ |~ |~ |~ |~ |~ |~ |~ |~ |~ |~ |~ |~ |~
+  @  @  @  @  @  @  @  @  @  @  @  @  @  @  @  @             sixteenth notes
+
+-----------------CLIP AND SAVE!  8)----------------------
+
+Now that we know how the notes relate to each other, we can start
+describing some common patterns heard in music.  For instance, let's
+do the "William Tell Overture", aka "The Lone Ranger theme".  Most of
+us probably hum the tune as "da da dum da da dum da da dum dum dum, da
+da dum da da dum da da dum dum dum", et cetera.  Let's turn that into
+notation.
+
+The hardest part of all of this is finding the initial downbeat.  This
+example, "William Tell Overture", doesn't start on beat one; it has
+some "pickup", or leadin, notes.  Here's the first two bars in musical
+notation ( the straight lines separate measures):
+
+   ___   ______  ______ ____  ______   ______ ______  ____
+   |-| | |  |-|  |  |-| |  |  |  |-| | |  |-| |  |-|  |  |  | |
+4  @ @ | @  @ @  @  @ @ @  @  @  @ @ | @  @ @ @  @ @  @  @  @ |
+4      |                             |                        |
+   & a | 1  & a  2  & a 3  &  4  & a | 1  & a 2  & a  3  &  4 |
+
+That's wasn't painful, now, was it?
+
+Now, let's talk about time signatures.
+
+First, let's give numeric values to each type of note:
+	Whole note = 1
+	Half note = 2
+	Quarter note = 4
+	Eighth note = 8
+	Sixteenth note = 16
+	32nd note = 32
+	et cetera, it's binary......
+
+Now, let's look at a common time signature, oh, 4/4, for example:
+
+    4  &lt;-- The top number is the number of beats per measure
+    4  &lt;-- The bottom number is the type of note that gets the beat
+
+So 4/4 translates to "4 quarter note beats per measure".
+Using this method, 7/8 would be "7 eighth note beats per measure".
+For a strange one, 15/16 would be "15 sixteenth notes per measure".
+
+So a typical measure of, say, 7/8 time could look like this:
+
+   ____  ____  _______                _______  ____  ____
+   |  |  |  |  |  |  |    or maybe    |  |  |  |  |  |  |
+   @  @  @  @  @  @  @                @  @  @  @  @  @  @
+
+Why did I "group" the notes differently in the two examples?  Because
+the grouping of notes implies an accent.  The first 7/8 example has
+accents on beats 1, 3, and 5; the second has accents on 1, 4, and 6.
+Try tapping them out; they are *distinctly* different feels.
+
+Percussioninsts will often play in more than one time signature
+at the same time; this is especially common is jazz.  For instance,
+I might play the hi-hat and snare in a 4/4 pattern while compressing
+a 6/4 pattern on the bass drum into each measure.  This time signature
+would be notated as 4/4 6/4; confusing, isn't it?  This was called
+"compound time" when I learned it; the contemporary term may be
+different.
+
+If you have any more questions, feel free to send email; if I can't
+answer them, I'll try to find a reference that does.
+
+Rush-mgr:  I'd be willing to write a "Theory Corner" column for TMNS,
+           if you think that there's a demand.
+
+Best,
+Wes
+
+ ----
+ Wes Morgan, not speaking for  \  !{any major site}!ukma!ukecc!morgan
+   the University of Kentucky's  \      morgan%engr.uky.edu@UKCC
+     Engineering Computing Center  \       morgan@engr.uky.edu
+       Lint is merely the compiler's means of controlling the programmer's ego.
+
+----------------------------------------------------------
+
+Date: Tue, 16 Jul 91 08:36 CST
+From: BSUTESCH@wsuiar.wsu.ukans.edu
+Subject: Bootlegs
+
+I am NOT interested in trading bootlegs but I would appreciate some info.  
+I would like to buy some CD bootlegs.  Do stores carry them?  What kind of 
+quality are we talking about with these boots?  Thanks in advance.
+                                                  -bRi-
+
+----------------------------------------------------------
+
+Date: Tue, 16 Jul 91 10:48:15 EDT
+From: adam@paix.sw.stratus.com (Mark Adam)
+Subject: trilogies...
+
+i don't know? part 4 of a trilogy sounds perfectly reasonable to me.
+douglas adams (no relation, he's plural :-) said that "so long and
+thanks for all the fish" was the 4th book in the "hitchhikers"
+trilogy.
+
+the gangster of boats sounds like it should be one of the cards in a
+taro&lt;sp?&gt; deck... the ten of cups... the knave of lerxtwood... the
+ganster of boats!
+
+mark ----------------------------
+
+		"Logic is a wreath of pretty flowers that smell bad."
+		"I am NOT a merry man!"
+
+----------------------------------------------------------
+
+Date: Tue, 16 Jul 91 11:29:37 -0400
+From: MICHAEL HACKETT &lt;hackett@gaul.csd.uwo.ca&gt;
+Subject: Re: The meaning of "PART IV" in trilogy
+
+&gt; You guys are missing the point!!!  This is obviously Mr. Lifeson , always
+&gt; the comedian, making a little joke.  Of course there are only 3 parts in
+&gt; a trilogy, but this will be part 4, a joke....  get it.... ????
+&gt;
+&gt; And they say Rush has no humour.
+
+    Tell that to Douglas Adams!  As someone already pointed out, his
+hilarious "trilogy" of novels "The Hitchhiker's Guide to the Galaxy"
+currently consists of 4 books, with a 5th on the way (and there was much
+rejoicing!!   Yaaaaaayyyyyyy!).
+
+   P.S.  I hope there are a few bootleggers up here in Ontario (or at least
+in Canada).  I'd love to get my hands on some, but my local store never
+seems to have anything anymore.  They used to have lots of Zeppelin and
+Floyd boots, but I don't think I ever saw a Rush boot.  Oh well, that
+flicker of hope has been rejuvenated.
+
+Mike Hackett
+hackett@gaul.csd.uwo.ca
+
+----------------------------------------------------------
+
+From: daveh@fisher.psycha.upenn.edu (David Hamilton)
+Subject: Rush & REM
+Date: Tue, 16 Jul 91 11:55:49 EDT
+
+Recently I've been thinking about how many people that I personally know
+that both are fanatics about Rush and REM.  I was wondering bhow many
+people on this digest are into Rush and REM and, since we like to
+analyze things to death here (aint it great?) WHY?  Why would someone be
+as much into REM as they are Rush?  I mean, the two groups are about as
+diversified as you can get while still staying in the mainstream of
+Rock.  Any comments?
+--
+________________________________________________________________________________
+David L. Hamilton              |  "How can anybody be enlightened?
+daveh@fisher.psycha.upenn.edu  |   When truth is, after all, so poorly lit."
+Compuserve: 70244.322          |                  -Neil Peart
+________________________________________________________________________________
+
+----------------------------------------------------------
+
+Date: Tue, 16 Jul 91 14:02:10 -0400
+From: "Douglas G Schwabe" &lt;cschwabe@unix.cis.pitt.edu&gt;
+Subject: News on Rush/Kim/Max Party in Toronto
+
+Saturday, August 17 has been slated for the Toronto Rush/Kim party.  There
+will be a jam session :-).   So far I have a guitarist and a guitarist/Taurus
+Pedals player.  All we need now is a drummer and possibly a keyboardist.
+If you happen to be one of these please send mail. Also, we need a place to
+have the jam session.  If there is someone who has a place in or around Toronto
+or who know someone who has a place big enough for a jam, please send mail at
+the following addresses:
+
+                        cschwabe@unix.cis.pitt.edu
+                        DGSST4@vms.cis.pitt.edu
+                        DGSST4@PITTVMS.BITNET
+                        CSCHWABE@PITTVMS.BITNET
+
+As stated previously the Laser Rush show held at the Buhl Science Center in Pgh
+runs Friday and Saturday nights at 10:30.  Tix are 5.50 each.  I called Buhl
+recently for group rates and if you have a group of 25 or more tix are 4 dollars
+each.  Suggestion for the August 3 Rush Party:  if we can get 25 people for
+the party lets go down to Buhl and catch Laser Rush.   Chuck, Ian, Hersh, 
+whaddaya think about this?
+
+Douglas Schwabe
+
+Remember folks, "You can have anything you want, at Alice's Restaurant"
+
+----------------------------------------------------------
+
+Date: Tue, 16 Jul 91 17:57:52 EDT
+From: jaeger@buphy.bu.edu (Gregg Jaeger)
+Subject: mission!
+
+Hi Everyone,
+
+In the last posting Patrick Widener wrote (aside: Pat, that
+ICBM_net address joke was really _black_! -- therefore, I liked
+it!!) his musings on the words
+
+"If their lives were exotic and strange
+ they would likely have gladly exchanged them
+ for something a little more plain
+ maybe something a little more sane"
+
+these were:
+
+&gt;And it struck me as odd - for certain, in history there have
+&gt;been plenty of notable individuals who didn't ask for their
+&gt;notoriety, didn't want it, and took every opportunity to escape
+&gt;from it.  However, there have also been plenty of people who
+&gt;seem to have "known" their place in history, enjoyed their
+&gt;eventful lives, and repeatedly maintained that they wouldn't
+&gt;have it any other way.
+
+I think that this misses the point; this section is referring
+not to those people who went on to fulfill their missions in
+life, but rather to those who weren't able to fulfill their
+ambitions (because of either a luck of ability, or `greatness').
+
+The four lines preceeding the above are:
+
+``It's cold comfort
+  To the one's without it
+  To know how they struggled --
+  How they suffered about it''
+
+The quoted lines thus refer to ``the ones without it'' --
+``without it'' being `without a mission' (note also
+that `a vision' is related to the ``it'' of `Losing It',
+it seems to me, in that that ``it'' is ability, or `talent,'
+or `greatness'). This seems to me to be Neil's way of offering
+solace (``cold comfort'') to people who may be failing to
+fulfill their dreams. This section of `Mission' I think has a
+close connection to one of the themes of `Middletown Dreams'
+(see the Guitar Player `songwriting interview' with Neil to
+appear soon in the NMS). Namely, that one needn't be one of
+the greats of history to live pleasantly (as in `And life's
+not so unpleasant/ In their little neighborhood').
+
+Now, for a musical musing! I'm no guitarist but I've read
+interviews with Alex where he says he was (is) influenced
+by Allan Holdsworth's playing. I think I see this in MP
+(in particular `YYZ') and also in PoW. Guitarists (Holdsworth
+fans?) what do you think about this and/or where do you see
+the Holdsworth influence?
+
+Gregg
+
+-----------------------------------
+Gregg Jaeger    (jaeger@buphy.bu.edu)  ``Truth is after all a moving target''
+Dept(s). of Physics (and Philosophy)
+Boston University, Boston MA 02215     -&gt;&gt;READ DOS PASSOS!(his books, i.e.)&lt;&lt;-
+------------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Subject: The Peart interview.....
+From: wilkinso@darkside.com (Sean Flanegan)
+Date: Tue, 16 Jul 91 15:03:32 PDT
+
+       On the subject that there are different factions of rush fans.
+
+      New  vs.  Old,........  Long  vs.  Short,     these are my
+opinions.....
+
+      Many people who are the older rush fans listened to the band dont find
+their new stuff their new music as interesting.......
+
+      Example:      While I was at the Mountain veiw, CA   Presto show I met
+a really cool guy  he was probaly in his late 20's and said the following
+           " Rush are like Demi-gods,  Hemispheres is just so incredible"
+
+     My friends and I then began talking about the Presto.  The guy then
+said
+
+         "Superconducter?,   Presto?    I don'T even listen to that new
+stuff!"
+
+       He seemed very proud of this which made me feel like he didn't get a
+chance to experience their new material.  If he did,  He probably would be a
+little more positive about it.  On the other hand I have met people that
+said   "    WoW!!!!!!    Superconducter is my favorite Rush song!!!!!"
+
+    That is fine but this person also sounds a little uninformed.
+
+     I think that the main thing that I am trying to point out is that these
+people didnt change with the music.  They couldnt grow when the band did.
+It is very important that you do this or you will probably find yourself
+dissapointed with certain Rush material.
+
+  A  friend of mine recently bought Presto andlikes it alot.  I suggested
+that for her next rush purchase, she buy HYF, then PW, P/G,  and so on.  It
+would then be easier to adjust to the changes.  Not a Big difference between
+presto and HYF or HYf and PW or PW and P/g,     ........   but there is a
+difference between presto and P/G....
+
+    well...   those are my thoughts
+
+sean
+
+----------------------------------------------------------
+
+Date: Tue, 16 Jul 91 19:43:48 edt
+From: "Dylan Kaufman" &lt;morgan@chaos.cs.brandeis.edu&gt;
+Subject: More on Internet Relay Chat
+
+Due to a number of requests for more information, I am posting this
+here rather than being super repetetive and re-typing it over and over
+again...
+
+Internet Relay Chat is a server/client protocol which allows lots of
+people from all over the world to chat with eachother in real-time
+(there are lags due to the distances involved sometimes...)
+
+To connect to it, you must have a client to run... the clients come in
+3 flavors.  Two are written in C, one in Elisp...  the C clients are
+IRC and IRCII and may have program names of irc, irc2, or ircii.  The
+elisp client is irc.el or irc.elc.
+
+If none of those ways are currently available on your machine, you
+will have to ftp to bucsd.bu.edu and look in the /irc or /pub/irc
+directory (not sure which).  There you will find .tar.Z files
+containing the irc and ircii clients as well as the irc server daemon
+(which is irc2.6.1 or something like that.. possibly ircd...)  In
+addition there will be a file called ircbeta263c or something which is
+the .el client.
+
+After ftp'ing those, untar/uncompress them and compile... read the
+docs and modify the config.h files as necessary.  You will then be
+able to connect into the irc network and talk to people (the docs
+should explain how to do that...)
+
+Enjoy, and good luck
+
+-&lt;&gt;Dylan&lt;&gt;-                     MA EMT-M, CA EMT-1A, BEMCo 107
+Dylan Kaufman 			Major in Computer Science
+morgan@chaos.cs.brandeis.edu	Brandeis University, Waltham, MA
+------&lt;&lt; Support your local Emergency Medical Services &gt;&gt;-------
+And on the seventh day, even He rested.  We don't.  -Emerg. Med. Svcs.
+
+----------------------------------------------------------
+
+Subject: Tired of bootleg convos :)
+Date: Tue, 16 Jul 91 20:05:21 EDT
+From: David.Spencer@samba.acs.unc.edu!wilkinso@darkside.com
+
+I am posting this merely to change the subject from bootlegs
+and arguemnts about Rand/Rush/whoever philosophy.
+
+Which albums do you play most often?
+Rush...and non-Rush.
+(but of course, mostly Rush, since it IS a rush list :) )
+Here's me -- Exit Stage Left
+             A Farewell to Kings
+             Hold Your Fire
+             Grace Under Pressure
+             Master of Puppets (metallica)
+             Reign in Blood (Slayer)
+             Operation: Mindcrime (Queeensryche)
+              Black Sabbath and Master of REality (Black Sabbath)
+I'm very curious about what albums get played the most, and
+what else tyou listen to. And it's far more interesteing than
+pawn shops and lyric-abshing (IMHO :) )
+
+ORQ: Some of them burned on our ceilings...
+O(other)Q: Learn the sacred words, 'Praise Hell Satan!' -Slayer
+           (from memory, no flames on accuracy plez :) )
+
+----------------------------------------------------------
+
+Subject: a MUSICIAN speaks out!
+From: dave.bbs@shark.cs.fau.edu
+Date: Tue, 16 Jul 91 21:52:38 EDT
+
+in order to settle all the talk about 13/8 time, i thought i'd tell
+you all how they REALLY write music.  i have all of their music, in
+book form, and i play all of it from memory.  i have been a pianist
+for 20 years now, and i think i can answer this with some authority.
+RUSH doesn't write in 13/8 -- they write in alternating 6/8 | 7/8
+measures.  the reason they don't write in 13/8 is that it is a con-
+vention among musicians that you write music so that others can read
+it.  (that is the point)  ;-)
+when counting it, you normally count it in "quarter notes," meaning
+you count it 1-2-3, 1-2-3-& where the "&" is pronounced "and."  it
+is easier to count this way, just like 7/4 is counted 1-2-3-4 1-2-3
+or 1-2-3 1-2-3-4.
+Rush has been using alternating time-signatures since early in their
+career.  it is one of their "trademarks."   not to say that others
+don't do it, but they are known for it.  the Steve Morse Band (for-
+merly the Dixie Dregs) also uses this style of writing to add the
+"progressive" touch to their music.  Jacob's Ladder (which was
+written about the astronomical event, not the movie or religious
+event)  ;-)   uses alternating 5/4 | 6/4 measures in the beginning.
+one of the things that alternating time-signatures does is it helps
+to add a feel of motion to the music even if the tempo isn't all
+that fast to begin with.  the anticipation of that "extra" beat
+makes the music exciting.
+
+dangerous dave (keyboardist, musician, and rush fan)
+
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+If Rock 'n' Roll is responsible for teenage sex, does that mean that
+Country-Western is responsible for incest? - (heard on radio)
+
+dave.bbs@shark.cs.fau.edu    (current CYBERNET address)
+dave@cybernet.cs.fau.edu     (future CYBERNET address)
+weissd@tuna.cs.fau.edu       (UNIX account, Gary Moore mailing list)
+weissd@shark.cs.fau.edu      (something to call my own)
+---------------------------cut here---------------------------------------
+
+----------------------------------------------------------
+
+Date: Wed, 17 Jul 91 00:26:56 edt
+From: Donna Skarbo &lt;skarbo@hp800.lasalle.edu&gt;
+
+Hello to one and all!
+	It is interesting how RUSH-related things appear in our lives.  A
+friend of mine mentioned that they saw one of those yellow "caution" signs
+that people hang in their car windows.  This one said something like "Quiet
+I'm listening to RUSH."  All I want to know is where can I get one!  :-)
+	Is there anyone else out there who is not from the Pittsburgh area
+who is interested in attending the possible August 3 RUSH party?  I don't
+have a car but am interested in going.  I am willing to split travel costs
+with someone with a car.  Hey, it could be "The Great Pittsburgh Journey."
+Seriously, though, if anyone is interested please e-mail me.  I'm in
+Philadelphia, BTW.
+	Another thing.  I am also interested in obtaining a copy of "Pieces
+of Eight."  If you have it please drop me a line.  For anyone who hasn't
+heard it and can get a copy of it, check it out.  It is really pretty cool.
+Reminds me a lot of "Hyperspace" in "Natural Science."
+	Well, thanks for the bandwidth.  Send any replies to:
+
+	skarbo@hp800.lasalle.edu
+
+	Good day!
+
+		Donna
+
+----------------------------------------------------------
+
+Date: Wed, 17 Jul 91 02:22:27 edt
+From: "Dylan Kaufman" &lt;morgan@chaos.cs.brandeis.edu&gt;
+Subject: Neil writing a book?
+
+Someone just asked me when Neil's book is coming out.. it's the first
+I've heard of it though... anyone know anything about it?
+
+-&lt;&gt;Dylan&lt;&gt;-                     MA EMT-M, CA EMT-1A, BEMCo 107
+Dylan Kaufman 			Major in Computer Science
+morgan@chaos.cs.brandeis.edu	Brandeis University, Waltham, MA
+------&lt;&lt; Support your local Emergency Medical Services &gt;&gt;-------
+"Don't ask me, I'm just improvising" -RUSH
+
+----------------------------------------------------------
+
+Date: Wed, 17 Jul 91 14:40:18 -0400
+From: abramsc@knoc.dnet.dupont.com
+Subject: Some thoughts (skip me if you're an Objectivist)
+
+I noticed in the _RS_ review of _Presto_ that the reviewer
+accused Rush of ripping off the Police in the song "Red Tide"--he
+said it borrowed the melody from "Message in a Bottle".  Now, I
+am a *big* Police fan too, and I've probably listened to those
+particular song hundreds, thousands, of times each, and I have
+never drawn a similarity between them--until I listened to them
+close together.  They are very similar, especially in the
+beginning, but many songs are "very similar" to one another
+without "borrowing melodies" from one another.  Musically, I
+think the two songs sound very different--"Red Tide" is very
+energetic and powerful while "Message in a Bottle" has that jumpy
+"white reggae" sound to it (obviously I employ the same ambiguous
+description of music that the reviewers do...).  I'm no reviewer,
+so does that make me more or less qualified to analyze music?
+Anyway, I agree that the opening tunes in both songs are similar,
+but they are not the same.  I can't explain it in detail--just
+listen to them yourself.  I mean I wouldn't be surprised if Alex
+had been playing a little bit of "Message" when he became
+inspired to the tune of "Red Tide", but let's be honest, it's not
+the same music.  Incidently, Alex has in many interviews
+mentioned Police guitarist Andy Summers as being among his
+favorite modern guitar players, along with U2's Edge and Yes'
+(sort of) Steve Howe.  Hmm, that pretty well takes care of my
+four favorite guitarists too.
+	So basically what I've done is said I disagree with the
+reviewer.  Most people do anyway.  But if it had never occurred
+to you that "Red Tide" and "Message" sound alike before that
+over-paid reviewer said something, and you enjoyed and still
+enjoy both songs, you're not the only one.  And if anyone with
+more than a year of piano lessons under their musical belt, much
+unlike myself, who can specifically explain the differences may
+consider explaining them to people like that reviewer.
+
+	Should I jump into this raging philosophical discussion
+as well?  I guess all I can say is that even though I do not
+claim to be an Objectivist and I don't always agree with what it
+appears Neil believes, I love Rush.  I have my own copy of _The
+Fountainhead_ but I have yet to finish it.  BTW, Ayn Rand really
+does a lot for Objectivists when she includes a tacky business
+reply card in the middle of her books offering Objectivist
+merchandise and information.  (maybe a cheap shot, but remember,
+I'm no Objectivist, so don't take me too seriously :^)  Oh, and I
+actually drove by a pawn shop this morning which had a sign out
+front with three balls on it, but it did't remind me of the _HYF_
+album cover at all (The shops in downtown of booming metropolis
+Kinston, NC, if you don't believe me -=:-).  And since we now all
+know what those three balls symbolize in _The Fountainhead_ and
+supposedly on the cover, what does the red dot on ABC stores
+symbolize?  W. C. Fields' nose? "Drinking by the lighthouse..."
+
+Anyway.
+--cam
+abramsc@knoc.dnet.dupont.com
+cfabrams@eos.ncsu.edu
+
+"`The only true knowledge consists in knowing that you know
+nothing'..."  "That's us, dude!"
+
+----------------------------------------------------------
+
+From: amy@arla.austin.mcd.mot.com (Amy Moseley)
+Subject: Rush & REM
+Date: Wed, 17 Jul 91 13:57:27 CDT
+
+I'm a subscriber to the Rush AND REM groups, and there's a big
+debate going:  some people like both, and think there's a correlation,
+while others flame Rush.  Isn't it disappointing to flame on a news
+list when that's the reason to leave usenet?
+
+&gt;From the REM mailing list:
+
+-our listmistress (vjohm@cirrus.com) input:
+&gt;While I'm here I'll mention that I was quite distressed to see the Rush
+&gt;thread.  One oif (sic) the reasons I started the list was so that I could
+&gt;(selfish!  selfish!) read about R.E.M. without having to plow through
+&gt;Rush articles in alt.rock-n-roll and rec.music.misc.  Oh well.  For the
+&gt;record, I have no interest in Rush whatsoever.
+
+Sigh.  Why do we Rush fans have such bad reputations?  If I weren't
+such a nice person I'd start forging fanatical letters about just
+about every group so that people would see that every band has
+its die-hards and whackos.
+
+All you true Rush fanatics, quit posting to alt.rock-n-roll unless
+it's REALLY important.  Apparently there are people not reading
+the group just because of us!  Why we've been singled out I don't
+know but I'd sure like to put a stop to it.
+
+--
+Amy J. Moseley
+Motorola Computer Group
+(512) 891-2426					:)
+amy@austin.mcd.mot.com or
+uunet!cs.utexas.edu!oakhill!arla!amy
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 289
+********************************************
+
+

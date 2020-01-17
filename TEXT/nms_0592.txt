@@ -1,0 +1,584 @@
+From temples@syrinx.umd.edu Thu Jan  7 19:18:46 1993
+Return-Path: &lt;temples@syrinx.umd.edu&gt;
+Received: from syrinx.umd.edu by dsys.ncsl.nist.gov (4.1/NIST-dsys)
+	id AA08415; Thu, 7 Jan 93 19:18:45 EST
+Received: by syrinx.umd.edu (5.57/Ultrix2.4-C)
+        id AA06025; Thu, 7 Jan 93 18:30:08 -0500
+Date: Thu, 7 Jan 93 18:30:08 -0500
+Message-Id: &lt;9301072330.AA06025@syrinx.umd.edu&gt;
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list@syrinx.umd.edu
+Subject: 01/07/93 - The National Midnight Star #592
+Status: R
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+          The National Midnight Star, Number 592
+
+                 Thursday, 7 January 1993
+Today's Topics:
+                      Administrivia
+                         boot CDs
+                  YYZ by Geddy and Neil?
+                 Credits for music/lyrics
+            Over the Europe and Ian Livingston
+                       T-Shirts....
+                      Rush w/o Neil
+                 Bass lines/Alex Lifeson
+        those wonderful teeshirt, and bootlegs...
+                      General stuff
+                    The Rhythm Method
+                    Re: Rush as a Unit
+                         YYZ & DT
+                       Rush on Tap
+                  Another rec'd T-shirt
+                      Shirts & Boots
+                          ALEX
+----------------------------------------------------------
+
+Date: Thu, 7 Jan 1993
+From: rush-mgr &lt;The Rush Fans Digest Manager&gt;
+Subject: Administrivia
+
+I cleaned up some of the ftp incoming directories -- there's several
+postscript files of lyric sheets designed to fit in a CD case: Rush, FBN, COS,
+2112, and Chronicles. They're in rush/lyrics/PostScript; check out README 
+for more info on the files. Also, there's an addition to the special directory
+(see meg's post below), and a "Rivendell" guitar tab in the tab directory.
+
+- rush-mgr
+
+----------------------------------------------------------
+
+Date: Wed, 6 Jan 1993 15:30:28 -0500
+From: Scott David Daly &lt;skipdaly@wam.umd.edu&gt;
+Subject: boot CDs
+
+Hello all!
+
+	Hope everyone had GREAT holidays!
+
+	There's been a LOT of discussion lately about boot CDs...so I
+thought I'd just pop in my 2 cents worth about the ones I have or
+have seen:
+
+	"Over The Europe"--Rotterdam 5/3/92--
+	This is the BEST RTB boot I've heard yet!  Possibly a
+soundboard (we're all still arguing).  It is a complete show and
+includes Cygnus at the end!  Great booklet, cool pictures, neat
+looking discs with dice design!  It usually goes for around $45 or
+$50...but it's a great sounding COMPLETE show...so if you're gonna
+spring for one, this is the one to get!
+
+	"Bravado"--Long Island,NY 3/15/92--
+	Not bad audience recording...double CD, full show.  Decent
+sound, but if you're gonna spend $50 anyway, go with "Over The
+Europe"!
+
+	"The Fly"--New York,NY 12/7/91--
+	Nothing to write home about...incomplete, OK audience
+recording.  Single disc.  70min.  Force Ten-The Pass.  Buy a
+different one unless you were at this show or something.  Nice
+looking blue, designed disc though...
+
+	"Run From The Fans"--"USA '92" (possibly New Orleans 2/23/92)
+	Single disc.  Includes stuff like Xanadu--&gt;Superconductor,
+Tom Sawyer, Ghost Of A Chance, but no Dreamline, Bravado, or encore
+stuff.  GREAT sound, but this disc plays about 5% SLOW!
+
+	"Pensacola" and "Mardi Gras"--Pensacola and New Orleans 2/92
+	I don't have either of these on disc, but I have both shows
+on tape.  The sound on tape is pretty awesome (especially
+Pensacola...it was a DAT I believe).  The beef I have with these
+boots is this: they are both two-disc sets, but neither is a complete
+show!  They both cut out the encore!  Again: If you're gonna pay $50
+for a boot, get "Over The Europe"...it's COMPLETE and probably has
+better sound anyway!
+
+	"Atmospheric"--(I THINK this is Rotterdam also)
+	I don't have this one, so I can't comment too much...Dave
+A...care to fill us in?  I'm pretty sure this is the same show as
+"Over The Europe"...
+
+	"A New Reality"--Montreal '81---Exit...video!
+	Can't comment on the sound, cause I don't ever want to make
+the mistake of buying a cd that is just the video soundtrack!
+
+	"La Villa Strangiato"--St. Louis, 1980--
+	The same as the old vinly boot "Xanadu".  This is the
+complete version, from radio broadcast.  The sound is INCREDIBLE.
+Single disc.  Around 80 min I think.  Contains Natural Science.  A
+MUST HAVE!!  $25.00
+
+	I know there are zillons of other boot cds out there, but
+this is taking longer than I thought...and these are the main ones I
+can think of that people have been asking about.
+
+	We really ought to have an ACCURATE "BOOT REVIEW and
+DESCRIPTION" list containing set lists and all kept on FTP...don't
+you think?  I know Nate was trying to do this a while back...did it
+ever get finished?...I'd be willing to work on it with people if
+anybody's interested...this is just a very ROUGH list I put down
+here.  We ought to put down an ACCURATE and COMPLETE description of
+each boot.  ACCURACY is VERY hard to come by in these things...that
+Hot Wacks book really is BAD, for example...just FILLED with
+mistakes!  These things should be put together by people who KNOW THE
+MATERIAL!
+
+  [ See meg's post below.				     : rush-mgr ]
+
+	Sorry to take up so much space.  Take Care...
+
+							Skip
+
+----------------------------------------------------------
+
+Date: 06 Jan 1993 18:54:18 -0500 (EST)
+From: "Joshua A. Vaughn" &lt;JAVAUGHN%DEPAUW.bitnet@UICVM.UIC.EDU&gt;
+Subject: YYZ by Geddy and Neil?
+
+The Ghost last issue was asking if the credits for YYZ were a misprint.
+This is all speculation, but I would assume that they are not.  Here's my
+reasoning: the song YYZ is based on that morse code riff for YYZ at the
+beginning of the song.  I would think that would be something Neil would think
+of doing.  Also, right before the place where they put the drum solo on ESL,
+Ged and Neil trade off little one measure fills, and they give Alex a solo at
+the end.  Compare this tune with Where's My Thing and La Villa, which are a
+little bit more melody-oriented while YYZ is a little more rythym-oriented.
+Just speculation, of course.
+
+Anyway,
+Josh
+
+----------------------------------------------------------
+
+Date: Wed, 6 Jan 1993 18:22:17 -0600
+From: Brian E. Saunders &lt;saunders@luther.che.wisc.edu&gt;
+Subject: Credits for music/lyrics
+
+I saw a post saying "why did Peart get credit for the music in YYZ" and it
+got me thinking.  I searched the FAQ for this, but couldn't find it.
+
+Anyway, it seems to me that Peart must write the drum parts for all the
+Rush songs (except the album "Rush", of course).  Geddy and Alex could
+come up with basic rhythm ideas and such, but it almost seems impossible
+to me that they come up with Neil's intricate drum parts.  Therefore,
+wouldn't be more accurate to credit the whole band for the music?  Or are
+drums not part of "music"? :^)
+
+Also, Neil mentioned that the other two often provide input on the lyrics,
+such they theoretically could receive credit for the lyrics.
+
+This has been another "Who really cares, and why was this even submitted?"
+post brought to you by:
+
+Brian E. Saunders			saunders@luther.che.wisc.edu
+
+----------------------------------------------------------
+
+Date: Wed, 6 Jan 1993 19:45:11 -0500 (EST)
+From: Chad H Hutchinson &lt;06819@brahms.udel.edu&gt;
+Subject: Over the Europe and Ian Livingston
+
+Hi kids,
+
+   For the first time today, I saw a copy of OtE.....FOR $64!!!  What a
+damn rip off!!!  If it's gone the next time I go into that store, I'm
+going to laugh at the poor sap who shelled out THAT MUCH cash.  Ouch.
+If there's anyone out there who has OtE and is willing to make a copy of
+it for me, let me know and I'll send you the tape(s) of the proper
+length(s).  I wouldn't buy OtE only because I already bought Mardi Gras
+and can't rationalize spending another $50+ on the same tour.  Thanks.
+
+   Ian Livingston, what is your E-mail address?  I would like to talk
+about Dream Theater.  Mail me at (06819@brahms.udel.edu).
+
+"...nevermore to grace the night."
+			-Cygnus X-1
+
+Ghost
+
+----------------------------------------------------------
+
+Date: Wed, 6 Jan 93 17:34:56 -0800
+From: mikes@ucscb.UCSC.EDU (Rocinante)
+Subject: T-Shirts....
+
+Hey All.....
+
+rush-mgr said   ' GeE, MiKe, LetS Not ForgIt who Else Help eh? :) '
+
+	Oh yeah... Good Work Jim!!!!
+    ** Gives rush-mgr a Pat on the head **
+
+	ciao
+ -=- Mike
+
+----------------------------------------------------------
+
+Date: Wed, 06 Jan 93 21:10:25 CST
+From: UC512052@MIZZOU1.missouri.edu
+Subject: Rush w/o Neil
+
+Good comments from Will (me@whizbang...) about Geddy and Alex without
+Neil.  I have to say that they exemplify the definition of synergy:
+the sum being greater than it's parts.  Interdependence also comes to
+mind.
+
+Regards,
+
+David K. Drum uc512052@mizzou1.missouri.edu
+
+----------------------------------------------------------
+
+From: Benkamin Bowles Nevile &lt;umnevile@ccu.UManitoba.CA&gt;
+Subject: Bass lines/Alex Lifeson
+Date: Wed, 6 Jan 93 21:39:45 CST
+
+Scott Josephson:
+
+&gt; 1.) The analog kid (those amazin' triplets)
+&gt; 2.) FreeWill (during solo)
+&gt; 3.) La Villa Strangiato (bass riff,VI - The Ghost of the Aragon)
+&gt; 4.) YYZ (some of the bass riffs)
+&gt; 5.) The Big Money (some of the riffs)
+&gt; 6.) Marathon
+&gt; 7.) Show Don't Tell (during solo)
+&gt; 8.) Where's My Thing? (some of the riffs)
+
+Now THAT'S really strange.  I'm only a bass player of four years, but I like
+to think of myself as being fairly good right now.. good enough to play almost
+all of what Geddy does.  The first thing that I &gt;EVER&lt; learned how to play on
+bass was the solo part of Freewill.  I picked it up by ear, off of the radio.
+I think that it's a very easy line to play.. some of the stuff he does under
+Alex's guitar is hard to pick out by ear, but once I got it I found it.. well,
+not too tough.  Strange how different people find different things hard.
+
+That solo in La Villa is a bitch, agreed.  I think Marathon is easy once you
+get the quick right hand movement down.  I can't say I remember the bass line
+in The Analog Kid.. I think I'll head down to my basement for a bit!
+
+What about Turn The Page?  I've never tried to play it, but it's always sounded
+difficult to me.  YYZ is the hardest I've ever attempted to learn.
+
+Alex Slotkin:
+
+&gt; While Rush contains two highly talented musicians,
+&gt; Neil and Geddy, the group sound and compositional approach is what makes Rush
+&gt; truly great.  I know people will jump all over me for saying this, but Lifeson
+&gt; is not nearly as good an overall musician as the rhythm section is.  This, I
+&gt; think accounts for the fact that the most interesting facets of Rush's
+&gt; music lies in the rhythmic elements.  Take, for example, YYZ.  The entire
+&gt; basis of this piece is the odd time meter., and interesting bass-drum
+&gt; approach.
+
+Ah!  But you chose a song that Geddy and Neil wrote, and Alex did not.  Still,
+I agree with you somewhat.
+
+I've always found it strange the way that Rush began as such a guitar oriented
+group, where Alex was, without a doubt, the main attraction, and that now Geddy
+and Neil have totally outpaced him.  Strange.  Still, put Alex in context;  he
+was shredding a LONG time ago, and he may seem tattered when compared to the
+likes of Joe Satriani, but guitar has come a long way..  Alex was a guitar god
+in his own right in the 70s.  Think about it!  Eddie V.H. didn't pop up
+mainstream until the mid 80's.
+
+Derek Lichter:
+
+Whenever I try to play Rush at parties, I get lynched!  I must not be going to
+the right parties.
+
+&gt; +============== my navel is an interdimensional portal ================+
+
+Hey, so is mine!
+
+----------------------------------------------------------
+
+Date: 06 Jan 1993 23:53:51 -0500 (EST)
+From: jdell@titan.ucc.umass.edu (Joe Dell)
+Subject: those wonderful teeshirt, and bootlegs...
+
+     Well, as usual, when I got home from work, I had to read the
+newest issue of the N.M.S.  Granted I've skipped 1 or 2 because of lack of
+time, but what I would like to know is where can I purchase a N.M.S.
+teeshirt?  They sound great Could someone please make the information
+public?  Thanks.  On to another topic, which I love...
+
+  [ See meg's post below.					: rush-mgr ]
+
+Rush bootl.  I am in need of some more.  I have an addiction of buying
+all the ones I listen to.  What I have is the following:
+Mardi-Gras   (great)
+Over the Europe  (Great)
+Run from the fans (great collection, but lacking a little)
+Pensicola (very good)
+Bravado (Weak)
+Currently in vogue &lt;from 1984&gt; (great)
+Red Barachetta &lt;from 1981&gt; (great)
+La Villa Strangiato &lt;from 1980&gt; (very good)
+Metal Memories &lt;1979&gt; good but only 45 min.
+I want to find one from some tour not covered.  If anyone has any
+suggestions, please post.
+
+Favorite Bands:
+1. Rush
+2. Pink Floyd
+3. Social Distortion
+4. Jane's Addiction
+5. Ramones
+
+-=Joe
+
+--Boundary (ID yu66Im2RB7//3lmLYPOSqA)--
+
+----------------------------------------------------------
+
+Subject: General stuff
+Date: Thu, 07 Jan 93 16:13:00
+From: SMills@ncagccsu.telecom.com.au
+
+Weel guys, first post in a while. Work is getting boring. Just a few
+responses.
+
+I didn't order a T-shirt because the cost of shipping to Oz is high but I saw
+the responses and I think I may change my mind!
+To Meg: remember I ordered some stuff from the States before from you? Stuart
+Mills? Well maybe I'll do it again. What I am REALLY after (and other people
+can help here) is some of these bootlegs running around. You guys in the great
+US of A get a *LOT* of stuff about the band. I have to go to import shops just
+to buy the LEGAL albums! I'm also after any drum scores put down by Rush (I
+already have TECHNIQUES up to GuP) but I was wondering if there were any more.
+
+NO I CAN't PLAY THE Rhythm Method! Its BLOODY HARD! (Although I am learning
+Tom Sawyer slowly at the moment...can't get the double kick and 12' 13' tom
+sextets yet though....! :) )
+
+Anyway, I would consider ordering a heap of stuff again if I could get some
+value from the postage. Say $150-$200 American dollars worth + postage. This
+would include a T-Shirt.
+Can anyone help suggest what I might want (mostly non-standard stuff) and I
+might get my ass in gear and order a T-Shirt.
+
+Thanks folks.
+
+Yours from OZ, tanned and drinking Fosters on Bondi Beach!
+
+Stum
+
+----------------------------------------------------------
+
+Date: Thu, 7 Jan 93 00:59:58 EST
+From: Greg.Andrade@um.cc.umich.edu
+Subject: The Rhythm Method
+
+Someone asked if any drummers are able to play the Rhythm Method.  I believe
+I would be able to play the ASOH version, but not the new one, because I
+don't have thousands of dollars worth of electronic drums and samplers.
+I say would be able to play the ASOH version because a chart of the solo
+would be helpful.  Does anyone know how I can get a transcription of the
+Rhythm Method?  I have both Rush drum transcription books, but neither of
+them feature it.
+
+----------------------------------------------------------
+
+Date: Thu, 7 Jan 93 08:02:13 CST
+From: main@Trade_Zone.msfc.nasa.gov (john main)
+Subject: Re: Rush as a Unit
+
+Hello,
+
+In response to an article in the latest NMS (received 1/7) :
+
+&gt; Subject: Re: Rush as a unit
+&gt; Date: Mon, 4 Jan 93 19:13:34 PST
+&gt; From: Will Hartung - Master Rallyeist &lt;villy@uunet.uu.net&gt;
+&gt;
+&gt; I know that Geddy and Alex work on the music in one room, while Neil
+&gt; writes in another...and then they magically shuffle the two together
+&gt; to get, well, Rush. But one side has to mold the other, and somehow I
+&gt; don't see the music changing the lyrics as much as the other way
+&gt; around.
+&gt;
+&gt; Will
+&gt; (me@zipbang.socal.com)
+&gt; "One for all and none for one..." Syrinx Priests...
+
+I read in a recent NMS, or heard on _The Story of Kings_, or somewhere, that
+the way they write songs is:  Geddy & Alex go off and write music and Neil
+goes off and writes lyrics.  At the end of the day, they come together and
+Geddy & Alex work from Neil's lyrics, and Neil works from Geddy & Alex's music.
+So, it works both ways.
+
+And BTW, I'm am NOT trying to downplay Neil's role, just telling you what I
+have read.
+
+			I Hate Bama
+			main@Trade_Zone.msfc.nasa.gov
+
+----------------------------------------------------------
+
+Date: Thu, 7 Jan 1993 11:18:00 +0000
+From: "Oliver (O.R.) Sampson" &lt;olsam@bnr.ca&gt;
+Subject: YYZ & DT
+
+Hello,
+I also noticed that the authorship of YYZ on my copy of MP is by
+Lifeson & Peart.  My music transcription shows that it was
+written by all three...What gives?
+
+And, I would like to offer my address for anyone wanting to
+discuss Dream Theater.
+
+Later all,
+************************************************************************
+Oliver R. Sampson              "I used to be indecisive, but now I'm
+Member Scientific Staff         not sure." -- Benny Hill
+BNR, Inc.
+Internet:  olsam@bnr.ca
+"All opinions expressed here are the opinions solely of the author,
+and they are in no way a reflection of opinions or policies of BNR, Inc.
+or Northern Telecom." -- The boss says I have to put this in here.
+************************************************************************
+
+----------------------------------------------------------
+
+Date: Thu, 7 Jan 93 12:43:59 PST
+From: changed@robotics.berkeley.edu (Chang... Ed Chang.)
+Subject: Rush on Tap
+
+Did anyone catch the "Spinal Tap Reunion" Special on last weekend?
+In one of their songs, "The Majesty of Rock" (?), they sing,
+
+	"The more things stay the same, the less they change."
+
+And near the end of the song, there's a guitar riff that sounds
+suspiciously like the one in the Rush song.
+
+Circumstantial evidence?  I think not...
+
+Ed
+
+----------------------------------------------------------
+
+Date: Thu, 7 Jan 93 15:55:31 -0500
+From: blosskf@ttown.apci.com (Karl F. Bloss)
+Subject: Another rec'd T-shirt
+
+Just a quick note to thank all involved with the T-shirt production.  I like
+it....it's understated, yet to the point.  If you didn't get one, order one!
+-Karl
+(blosskf@ttown.apci.com)
+
+----------------------------------------------------------
+
+Date: Thu, 7 Jan 93 15:58:34 -0500
+From: meg (******* Meg *******)
+Subject: Shirts & Boots
+
+On the shirts, we mailed off 8 more on Tuesday, so some of you should
+be getting them today! We're going to pick up the other 50 shirts
+tonight and will mail off another shipment Fri or Sat. Glad to see
+everyone likes them!
+
+Since there have been quite a few discussions on Rush CD boots, I've
+made up a list of them (but I need MAJOR help on it from those
+of you who have some!) -- it contains the song listing, length of cds,
+general comments, sound quality and the source. It's at syrinx on anonymous
+ftp in the rush/special directory, called CD-boots.list.Z   For those of
+you without ftp ability, mail ME and NOT the rush-mgr and I will mail
+a copy to you. Someone was keeping a list like this, but has since left the
+mailing list. Let me know what you think about the list!
+
+-Meg
+meg@syrinx.umd.edu    &lt;-- mail here for NMS shirt info
+
+----------------------------------------------------------
+
+Date:         07 Jan 93 16:32:54 EST
+From: "Will Geeslin" &lt;WILL.GEESLIN@UKWANG.UKY.EDU&gt;
+Subject:      ALEX
+
+Alex Lifeson is a very good guitar player.  I am a professional player that
+Rolling Stone magazine described as having "lots of technical flash..." and
+"high velocity fretwork...".(Oct '91 issue, Brainsalad review, College band
+section).  I know I'm tooting my own horn but I just want to let you know that
+I have some grasp of the subject.  Alex Lifeson has written some of the most
+moving rock guitar solos ever and yes "La Villa Strangiato" is a testament to
+his playing and compositional skills.  However, he is not in the same caliber
+technically as for example Steve Vai.  He also isn't on the same technical
+level as Geddy and Neil are on their respective instruments.  This does not in
+the least take away from his place as a truly great guitar player which encom-
+passes two elements:  Technical prowess and Compositional ability.  Having
+only the former does not make you a great guitarist (look at Yngwie Malmsteen)
+but having the latter does (look at the Edge).
+Alex Lifeson has the best of both worlds:  technical(try playing the Spirit of
+Radio, which I still use as a warm up exercise) and compositional ability
+(insert your favorite Rush song here).
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1992.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+********************************************
+End of The National Midnight Star Number 592
+********************************************
+
+
+

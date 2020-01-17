@@ -1,0 +1,752 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 02/26/91 - The National Midnight Star #179
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 179
+
+                Tuesday, 26 February 1991
+Today's Topics:
+                     Administrivia
+                  Sinead and "The Pass"
+               RE:  By-Tor and the Snow Dog
+        Wal vs. Steinberger vs. Rickenbacher (sp?)
+               Difficulty finding ASOH ...
+                    Grammy nomination
+                        stuff&more
+                Re: the Signals blueprint
+                 Signals puzzle and names
+      Re: 02/21/91 - The National Midnight Star #176
+      Re: 02/25/91 - The National Midnight Star #178
+              Re: Rush in Rolling Stone Poll
+              Video bootleg of Presto tour?
+              various ramblings of sorts...
+                          (none)
+                    Asbestos Required!
+              Hemispheres, By-Tor, Names...
+                          (none)
+                       2112 ending
+                  By-Tor & The Snow Dog
+----------------------------------------------------------
+
+From: Editor, The National Midnight Star &lt;rush-mgr@syrinx.umd.edu&gt;
+Subject: Administrivia
+
+Hi all,
+
+    I just wanted to briefly jump in here with my semi-annual
+(meaning whenever I get around to it) mention of mail and networks.
+I've been noticing a lot of bounced mail lately (several each day)
+for various reasons.  Many of them are just notices (delayed), others
+are incorrect errors for valid addresses (host unknown).  I'll get 
+five different reasons every day on why mail bounced from a particular
+site.
+
+    When I get these messages, I don't know if the original recipient
+will be getting a copy of that digest or not.  Because networks are 
+a bit flakey and machines have a tendency to crash or just get confused,
+mail is regularly delayed.  In general, if mail is delayed, my mailer will
+keep trying for several days to deliver it at 2 hour intervals.  This 
+only happens if it knows the original mail bounced.  Other times, mail is
+held at an intervening node until it can be forwarded, or (much more
+rarely) it is redirected incorrectly or lost.  For example, Bitnet is a
+store-and-forward network, so I'll only know there was a problem if the
+receiving machine indicates so.  Mail can be held for days if multiple
+sites are having troubles.
+
+    What I'm (long-windedly) getting around to saying is that if you
+suspect any problem with delivery of the NMS to your site, feel free to
+drop a line to the administrative address.  When I missed two days of
+work a while ago (and didn't produce the NMS) I got mail from about 10
+people asking what was up.  This is fine, and I'd rather spend an extra
+20 minutes sending a standard answer to to people than not know that
+people aren't receiving copies when they should.  Just one rule of thumb
+when wondering if you've slipped in that black hole or not; please wait
+until the next day you expect to receive a digest before asking.  Some-
+times they are delayed, or I'll state in this section that I missed a
+day (I try to every time there's an interruption).  It may take me a 
+day or so to reply (longer on weekends), but have faith, I will get back
+to you if your mail indicates a need to.  If you send mail and get no
+response when you expect one, send again - I may have never gotten that
+first one...
+
+Well, enough of that drek.  :-)  On with the show!
+
+rush-mgr
+
+----------------------------------------------------------
+
+From: Chris Schiller &lt;chris@cdc.hp.com&gt;
+Subject: Sinead and "The Pass"
+Date: Mon, 25 Feb 91 10:34:37 PST
+
+In a recent NMS someone writes about Sinead:
+
+&gt; Date: 21 February 1991, 14:07:09 EST
+&gt; From: ALDSTF10 at OUACCVMB
+&gt; To:   RUSH@SYRINX.UMD.EDU at EDU
+&gt;
+As for Sinead, even her detractors have to admit:
+1) She has an incredible voice;
+2) She has gotten onto the radio one of the more unusual hits of late;
+3) She took a strange and unconventional album to #1 on the charts.
+
+I will use these statements about her as something in her defense that
+at least one Rush/Sinead fan feels.
+
+&gt;&gt;1) She has an incredible voice;
+Pointing out her obvious talent.  Does Geddy have an incredible voice?
+
+&gt;&gt;2) She has gotten onto the radio one of the more unusual hits of late;
+It seems to me the music listening public has gotten a taste as of late
+for "unusual hits".  I might point out that the "music establishment" will
+do whatever it has to do to make a buck.  If this means that "unusual" or
+"controversial" or just "bald" will sell, then they will do it.  Forget all
+of the risk BS, they have their marketing departments and computer
+simulations, they know what is going on.
+
+&gt;&gt;3) She took a strange and unconventional album to #1 on the charts.
+See the above statements for #2.
+
+I'm sure I am coming across as bashing Sinead.  I am more bashing the
+mega music conglomerate, of which Sinead (and Rush) is an obvious part.
+I do not particularly enjoy her music, but because of her "controversy"
+I am very skeptical and suspicious of her motives.  She seems to be
+positioning herself as a "public figure" instead of as an artist.  Maybe
+it has all been ruined by the likes of Madonna.  Of course I would
+prefer the much more artistic positioning of Rush.  Put an album out, let
+people know about it in a reasonable way, and go on with life.  Rush seems
+to promote only their art, Sinead seems to promote herself.
+
+THE PASS:
+While I have flamed others in the past about wanting a particular
+discussion stopped because "it has gone on too long", I will now ask one
+question:  What are you scared of?
+
+I for one am still learning from the discussions of Christ in "The Pass".
+I may be the only one, but there is at least one.
+
+Chris Schiller
+chris@cdc.hp.com
+
+----------------------------------------------------------
+
+Date: Mon, 25 Feb 91 14:29:29 EST
+From: S. A. Rasche &lt;scrs_ltd@uhura.cc.rochester.edu&gt;
+Subject: RE:  By-Tor and the Snow Dog
+
+	It's sounds logical to me that in order to fully understand a song,
+you should try and understand the title.  In the case of 'By-Tor and the
+Snow Dog' - the story behind the title is rather simple and a bit humorous.
+(A simple RUSH title.... hmmm)  Anyway, the story goes like this - as told
+in _Visions_:
+
+	RUSH's road manager, Howard, came up with the title at a party.  There
+were two dogs at the party, one was a german shepherd and the other was a tiny
+white nervous dog.  Howard used to call the shepherd 'By-Tor' becuase anyone
+that walked into the house was bitten.  The other dog was a snow-dog (white...).
+So from that night on Howard called the pair of dogs "By-Tor and the Snow Dog."
+	An odd way to find the title to such a complex tune eh?
+
+							Shorts
+
+--Tip your bartenders - Tip your friends--
+			Kevn Kinney
+
+----------------------------------------------------------
+
+Subject: Wal vs. Steinberger vs. Rickenbacher (sp?)
+Date: Mon, 25 Feb 91 13:35:24 -0600
+From: neely@antares.mcs.anl.gov
+
+Hey all,
+	Just out of curiousity, am I the only one that
+wishes that Geddy would pull out his old Rickenbacker
+Bass once in a while?  I think the Wal sounds great for
+most of the newer Rush stuff - but when it comes to
+the boyz just getting down and doing power-trio
+rock-n-roll, I think the Rick fills out the bottom
+end much better.  The sound he gets on Moving Pictures,
+in particular during the guitar solo in _The_Camera_Eye,
+makes me weep.
+	Anybody else share this sentiment?  If so -
+would you like to see him use the Rick in the studio?
+or just on tour playing the old stuff?
+
+[ Yes, I want to hear "Cygnus X-I" at concert volume once more before
+  I die...  :-)                                                  :rush-mgr ]
+
+	While we're at it - what about the Steinberger
+he used during P/G album and tour?  Anybody count that
+as their favorite?
+
+	Just curious.
+
+Rob Neely
+Argonne Nat'l Lab
+Argonne, IL
+
+"Let the truth of love be lighted,
+	Let the love of truth shine clear."
+
+----------------------------------------------------------
+
+Subject: Difficulty finding ASOH ...
+From: MGOODWIN@maine.maine.edu (J. MICHAEL GOODWIN)
+Date:    Mon, 25 Feb 91 15:36:07 EST
+
+Anyone have trouble finding this LP (or CD for that matter).  I heard
+"Distant Early Warning" and although I've only heard the one song, it seems
+that the sound quality surpassed their previous live albums.  Anyway,
+I went to five stores, and none of them carried it.
+
+[ Do you mean "don't carry it" or "didn't have it"?  I can't see them
+  not carrying it; I can see them not having it in stock.  It's $.02 time.
+  You could keep searching & eventually you'll find it, or you can have
+  your favorite store special-order it for you.  The latter method may
+  take several days/weeks, and might cost an extra couple of $$.  I'd say
+  just keep looking; I've seen it within the past month.        :rush-mgr ]
+
+ORQ- "The more that things change, The more they stay the same"
+
+Mike Goodwin
+mgoodwin@maine.bitnet
+
+----------------------------------------------------------
+
+From: rstark@aipna.edinburgh.ac.uk
+Date: Sun, 24 Feb 91 16:13:37 GMT
+Subject: Grammy nomination
+
+well, about 700 people will probably say this, but...
+
+Rush was nominated for a Grammy, best Rock instrumental, for YYZ.
+
+They lost (I don't know what won).
+
+---------------------------------------------------------------------------
+Randall Stark TEL: (+44)-31-650-2725       | Dept of Artifical Intelligence
+JANET: rstark@uk.ac.ed.aipna               | 80, South Bridge
+ARPA: rstark%uk.ac.ed.aipna@nsfnet-relay   | University of Edinburgh
+UUCP: ...!uunet!mcsun!ukc!aipna!rstark     | Edinburgh, EH1 1HN, UK
+---------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Mon, 25 Feb 91 14:26:00 MST
+From: fpeabody@isis.cs.du.edu (Fred Peabody)
+Subject: stuff&more
+
+   I'm a guitarist and brought up the question of what mode Freewill was
+in. I received a great number of responses, and now would like to ask
+for info on the modes used in *any* of Alex's _solos_. I'm trying to
+get an ear for what different modes can sound like in a rock context and
+apply them to my own songs...
+   As for the Chain Lightning 'Hey's, I always thought they were keyboards
+pushing soft chords: 'Wa Wa Wa'.  It happens in the break between verses.
+
+[FP]
+
+----------------------------------------------------------
+
+Date: 	Mon, 25 Feb 1991 13:31:36 PST
+From: CRenshaw.OSBU_North@xerox.com
+Subject: Re: the Signals blueprint
+
+Ed Federmeyer noticed the Lerxtwood Mall, Olde Dirk Road and B.J. Pratt
+& Assoc. on the blueprint, and wondered about the yellow line and red
+pushpins.  As this is one of my favorite subjects :-) about Rush, I
+thought I'd stick in my 2 cents worth (however many pushpins two cents
+gets ya these days...).
+
+You'll notice that the blueprint is labeled as the "K-9 Survey."  Now
+think of what's on the Signals cover (here's a hint for those of you
+without a nearby copy of Signals: a dalmatian sniffing at a red fire
+hydrant).  99% of you have probably gotten the connection already, but
+I'll spell it out.  Each red pushpin is a fire hydrant, and the yellow
+line is the route the canines follow.
+
+Cheryl
+
+(who's not afraid to admit to an addiction to puns!)
+
+[ Yeah, Cheryl, go!  :-)                                    :rush-mgr ]
+
+----------------------------------------------------------
+
+Date: Mon, 25 Feb 91 17:47:23 -0500 (EST)
+From: "William F. O'Dell" &lt;wo04+@andrew.cmu.edu&gt;
+Subject: Signals puzzle and names
+
+Hi. To whoever asked for it, I have a copy of the Signals program. I
+could make a copy of the puzzle along with the answer key and send it. I
+really don't think the Signals program is half as good as the Presto one
+as far as photos and writen stuff.
+
+Neil is Pratt
+Ged is Dirk
+
+Anyone heard anything about the pre album tour-please oh please-bring
+back BY-TOR!-and the snow dog too
+
+Furman
+wo04@andrew.cmu.edu
+
+----------------------------------------------------------
+
+Date:         Mon, 25 Feb 91 18:18:30 EST
+From: michael &lt;H97SI@CUNYVM.CUNY.EDU&gt;
+Subject:      Re: 02/21/91 - The National Midnight Star #176
+
+hi,
+   has anyone noticed aimee mann's voice at the end of tai shan?
+you have to listen very carefully-i think she made to this track
+also
+
+   another thought, i read 'the fountainhead'.  i must say that
+i had to force my way through it and in my honest opinion i thought
+the book sucked.  miss rand's concepts are so *(^%#^&* twisted
+i can also honestly say that it was the first and i hope the last
+book i ever considered burning.  sorry neil.
+                                        ...UNTIL LATER...
+                                                    mike
+p.s. for the person who is reading the book now...try to count how many
+times she uses the word 'save' in place of except..............
+
+----------------------------------------------------------
+
+Date:         Mon, 25 Feb 91 18:38:25 EST
+From: michael &lt;H97SI@CUNYVM.CUNY.EDU&gt;
+Subject:      Re: 02/25/91 - The National Midnight Star #178
+
+hi again,
+
+      sorry to bring this up again, but can ANYONE out there in la la land
+please tell me who Alan Weinrib is, and what his story is...for anyone
+who has never seen the name, it is on the Video /CD (5 1/2'' version)
+of 'The Big Money'(also it is a gold disc)
+
+                                          ...UNTIL LATER...
+                                                    mike
+
+----------------------------------------------------------
+
+Date: Mon, 25 Feb 91 19:05:00 -0500
+From: mofo@bucsf.bu.edu (jason greene)
+Subject: Re: Rush in Rolling Stone Poll
+
+In TNMS 178 Jason Rosenberg mentions:
+
+&gt; in the Rolling Stone issue that has Sinead O'Conner on the cover is also
+&gt; the readers poll... guess who gathered honers for favorite bass player
+&gt; and favorite drummer...Poor, unrecognized Alex, eh?!?
+
+Unfortunately the Boyz did not really "gather honers" (he spelled it, not
+me) so to speak.
+
+For those not reading Rolling Stone (and an apology to those that do), here
+is the unauthorized reproduction of the readers' and critics' picks for
+best dummer and bassist for 1990, listed in the order of amount of votes
+(only one choice was given for the critics' choices in most cases):
+
+		READERS			 	CRITICS
+
+Bassist: 	Paul McCartney			Kim Deal (Pixies);  (tie)
+		Geddy Lee			Bootsy Collins
+		Nikki Sixx (Motley Crue)
+		Flea (R.H. Chili Peppers)
+		Adam Clayton (U2)
+
+Drummer:	Phil Collins			Will Calhoun (Living Color)
+		Tommy Lee (Motley Crue)
+		Neil Peart
+		Larry Mullen Jr. (U2)
+		Jason Bonham (son-of-you-know-who)
+
+As you can see, them readers' picks are... well, interesting. I don't know
+whether to be pleased and satisfied with my rush-pride that Geddy and Neil
+were listed. I mean, it's great to be on the list, but can Paul McCartney
+actually play a good bass? I can't say if he can play well or not. I went
+to his concert and have been listening to his music for 20+ years and
+have never really heard anything more than a simple rhythm from the ex-
+mop-top's bass.
+
+More embarassing is the inclusion of Nikki Sixx and Adam Clayton. I am
+personally a big fan of the Chili Peppers and Flea (Michael Balzary) and
+was not pleased to see "Nikki Sixx" *above* his name.
+
+I think that all this readers' choice thing really does is show how many
+people who listen to what groups/performers actually send in the ballot
+that RS prints in their magazine in mid-winter (IE, there are a *lot*
+of rush fans reading and writing out there... too bad I never seem to run
+into any of em on the street or in bars, tho').
+
+As for the critics? Well, keep in mind, these are the same critics that
+gave Madonna's Like A Prayer album four stars out of four.
+___________________________________/V\ofo______________________________________
+            "Hey! Wooly's gone apeshit, man!" -Dawn Of The Dead
+          mofo@bucsf.bu.edu     1039 Comm Ave #24, Boston, MA 02215
+                 Jason Kekoa (Lee Peart Leifson) Greene
+                  All we've got to do is just survive.
+____________________________The Psychic Gorilla________________________________
+
+----------------------------------------------------------
+
+Date: Mon, 25 Feb 91 17:05:04 -0800
+From: ddelany@polyslo.CalPoly.EDU (Dan Delany)
+Subject: Video bootleg of Presto tour?
+
+I'd be interested in finding that.  I tried to mail to the person who posted
+the original article, but it bounced.  Could you post any information you do
+have about the video?  Email me - maybe it could go in the faql.
+
+(Additionally, is there any way I could get a copy?)
+
+___ddelany@polyslo.calpoly.edu_____Dan_Delany__________________________________
+"He's got a force field and a flexible plan... he's got a date with fate in
+ a black sedan... he plays fast forward just as long as he can, but he won't
+ need a bed- he's a digital man..."
+
+----------------------------------------------------------
+
+Date: Mon, 25 Feb 91 19:38:38 cst
+From: Jay Cook &lt;cook@donald.cs.umn.edu&gt;
+Subject: various ramblings of sorts...
+
+ Greetings all my friends across the nation and around the world,
+I would like to take this time to comment on some stuff in prev. TNMS's:
+
+David Andrew Rossing talked about Rabbits:
+
+   David, that trivia question is rather easy..*pats self on back*
+but you're right in thinking it's not.  The title was "Attack of
+The Killer Rabbits".  Rather cute I thought...considering the whole
+film scene was done a la ASOH cover figures.
+
+Daryl Santos talked about "Rush heads":
+
+   Daryl, I can kinda see where you're coming from when you say
+that being called "Rush Heads" isn't exactly the most demeaning name
+for us as a group.  But keep in mind, that's just his name for it.
+(his, being the Patster's...).  Frankly, I think we should just stick
+with "Rush-fans" myself...oh well, just a though...
+
+Peter John Chestna talked about the New album date:
+
+Friend, if it's any consolation...your post brought a huge smile
+to my face!!!  Now if this album will be just as good as Presto...
+then this list will grow as well...:)
+
+And..to the "Patster"...about some sort of rambling he did which
+I can't seem to remember at the moment:
+
+Dude...about the licence plates...BC's happens to be "2112 YYZ"!
+I hope to get mine to say "SNOW DOG"!!!  But, this is mainly to
+just say that I'm not ignoring you here.
+
+Well, that's about it from the Tech scene today...Laters!
+
+***************************************************************
+*   Jay Cook              *  ORQ- "If you choose not to decide*
+* cook@donald.cs.umn.edu  *   you still have made a choice"   *
+* Virginia Tech LASc      *                                   *
+***************************************************************
+
+----------------------------------------------------------
+
+Date: Mon, 25 Feb 91 21:48:38 PST
+From: Eric Rescorla &lt;rescorla@rtnmr.chem.yale.edu&gt;
+
+medrcw!bob@uunet.uu.net writes:
+
+&gt;&gt;IMHO, Peart is decrying religion, which has always told its
+&gt;&gt;followers that they are doomed to failure/damnation/etc.  (No
+&gt;&gt;question as to my religious stance, eh?) I really don't think Peart
+&gt;&gt;was using "Christ" as an emphatic; he's never done it before.  I
+&gt;&gt;think he was trying to get the message across that belief in Christ
+&gt;&gt;(fill in the blank for your religion of choice) dooms one to an
+&gt;&gt;ignoble fate, or, rather, the _belief_ that one has an ignoble fate.
+
+&gt;Ahem.
+
+&gt;Belief in Christ does not doom one to an ignoble fate, and
+&gt;Christianity does not damn its own communicants.  Rather,
+&gt;Christianity holds the promise of personal salvation, eternal life
+&gt;in the Presence of God, and peace.
+
+This depends a lot on your perspective. Neil's religious beliefs seem
+kinda unclear at this point, but if one considers the possibility that
+he is an atheist--or at least non-Christian--then the Christian belief
+in self-sacrifice, humility, and personal guilt may seem fundamentally
+absurd. For an atheist, as Nietzsche points out, Christianity holds only
+the prospect of "slave morality" and submission to the moral judgement of
+others. I am not advocating this position, but it is important to
+recognize how things look from the outside looking in.
+
+&gt;It is obvious that "Prime Mover" is not conversant with the tenets
+&gt;of Christianity; may I politely suggest that Ayn Rand is perhaps not
+&gt;the best source of information about that particular faith, since
+&gt;she was an atheist.  I might also suggest that until "Prime Mover"
+&gt;rises from his/her ignorance, that he/she might follow the old
+&gt;adage:  "It is better to remain silent and be thought a fool than to
+&gt;speak and remove all doubt."
+
+Whether or not Prime Mover is "conversant with the tenets of Christianity"
+I myself am...Before you ask, I have read the Bible cover to cover. I have
+read the Old Testament once and the New Testament at least twice, more for
+many books. The truth is that many variants of Christianity have
+emphasized self-sacrifice, with particular respect to the sacrifice of
+Jesus as an exemplar. Thus, the Catholic church reveres those who were
+martyred for the Church. Whether this is an accurate portraying of
+Christianity as a whole is certainly open to debate, however, it is
+impossible to deny the emphasis on personal sacrifice in many flavors
+of Christianity. Witness the apostle Paul, and Origen's self-castration.
+    In summary, surely Ayn Rand portrays a biased view of Christianity,
+as do the Christians themselves. However, it accurately represents the
+critique that has been leveled against Christianity for years, of which
+Nietzsche is merely the most common proponent. Hence, for Prime Mover
+to say what he did far from reveals a profound ignorance of Christianity.
+It would be regrettable if this discussion turned from a discussion of
+Peart's intentions to one of religious opinion.  Perhaps we can keep it
+on a less personal level.
+
+-Eric Rescorla
+&lt;rescorla@rtnmr.chem.yale.edu&gt;
+
+----------------------------------------------------------
+
+Date:    Tue, 26 Feb 91 00:13 EST
+From: "Michael Sensor" &lt;CJB117@PSUVM.PSU.EDU&gt;
+Subject: Asbestos Required!
+
+I seem to have drawn a bit of fire from one medrcw!bob@uunet.uu.net regarding
+my analysis of "The Pass" in TNMS 176.  To clear up any misconceptions on
+this digest, allow me to (briefly) respond.
+
+Mr. "bob" accuses me of ignorance and uses a rather overused quote to
+drive that point home.  Please note that in my post I merely conveyed an
+opinion; this opinion did not necessarily reflect my personal viewpoint.
+
+Mr. "bob" also accuses me of not being familiar with the tenets of
+Christianity and gives us a rather subjective overview of that religion.
+To set the record straight for "bob" and the anyone else who gives a whit,
+I do not believe in God or in any religion of any type; however, I am
+(perhaps all too-) familiar with Christianity.  I did not say that Christianity
+or belief in it dooms one to an ignobel fate; I merely said that perhaps Peart
+was trying to say this.
+
+This is the last I will say about this subject.  I do not want this to
+erupt into a flame-fest of atheists vs. religious zealots, so I will ignore
+any further negative comments that may appear here.  If someone wants to
+debate the subject over e-mail, I am more than willing to do this over
+private "bandwidth", but I won't tie up TNMS with this stuff.
+
+Sigh.  As Ayn Rand wrote, "Judge, and prepare to be judged."
+
+Michael Sensor (the mysterious "Prime Mover"; yes, I am a "he")
+CJB117@psuvm.psu.edu
+Pennsylvania State University
+
+OPRQ: "You can choose a ready guide in some celestial voice"
+
+----------------------------------------------------------
+
+Date: Mon, 25 Feb 91 23:31:41 -0700
+From: kellerl@mozart.cs.colostate.edu (Pete Wilson)
+Subject: Hemispheres, By-Tor, Names...
+
+Hello all,
+	I was listening to my copy of Hemispheres and it has not a hiss
+in it. In fact it sounds perfect. I turned up the volume to a
+significant volume as well as using the headphones and the only hiss I
+could hear was the slight hiss of the speakers, but the CD itself was
+just fine.
+	As for By-Tor and the Snowdog, it is a song that was inspired
+about two dogs. One of them was a German Shepard and the other was a
+tiny white dog. The Shepard would bite everyone so it was named By-Tor
+and the other dog jumped all over the place and acted nuts and since he
+was a snowdog the two of them became known as By-Tor and the Snowdog.
+Sort of a simplistic story but...
+	Pratt, Dirk and Lerxst are Neil, Geddy and Alex, respectively.
+Everyone who works with and around Rush gets a nickname such as "B-Man"
+for the guy who wrote the biography "Visions". I guess that is the names
+that they were given and they have stuck. Who knows why they dedicated
+the album to themselves, just being goofy I guess.
+
+-Pete.
+
+----------------------------------------------------------
+
+Date: Mon, 25 Feb 91 23:39:13 PST
+From: Theodore Jay Pederson &lt;case%cs@hub.ucsb.edu&gt;
+
+I have a couple of comments regarding the recent discussion about
+Signals.  First,  viewing the "New World Man" as the United States
+yields a very interesting reading of the lyrics IMO.  Any comments on
+this idea?  Also,  a while back someone asked for any ideas regarding
+The Weapon.  I was very interested,  but no one has responded.  Anyone
+have any ideas on this song?  Or how about Digital Man?  I've always
+found these songs fascinating,  but my attempts at interpretation have
+always been a little unsatisfying.
+
+	Regarding Eric Kay's grouping of TNMS readers,  I also have a
+couple comments that hopefully won't anger anyone.  Like Brad
+Armstrong,  I also feel the groupings are pretty accurate,  and I also
+would be in the C category.  A number of postings have come from
+subscribers who are obviously of the A persuasion.  On one hand,  if
+Rush completely satisfies you musically,  then I think that is great.
+If you're only going to be into one band,  you have made a great
+choice!  On the other hand,  there's so much great music out there,
+and IMO people who limit themselves in this way are really missing
+out.  It bothers me when I hear a song like "Jigsaw" by Mike Stern,
+and I realize that if a song like this was on the next Rush album,
+Rush fans would be raving about it,  but since such music doesn't get
+as much exposure,  good stuff can go unnoticed.  For anyone interested
+in some experimentation,  here are a few fusion albums that I would
+highly recommend.  The songs are often intricate,  fast and furious,
+and thus shouldn't offend the sensibilities of Rush nuts,  even those
+of the heavy metal persuasion.  Mike Stern - Jigsaw.  John Scofield -
+Still Warm.  Allan Holdsworth - Metal Fatigue.  Bill Bruford - One of
+a Kind.
+
+	Also,  I have to say that I am a little bothered when reading
+postings that refute any critisisms of Rush with statements like "Too
+bad,  your opinion is invalid since Rush did it,  and it is therefore
+good,  etc., etc.."  Such comments reflect poorly on the author,  and
+attempt to stifle intelligent discussion about Rush.  I know this will
+be considered as blasphemous by the most far-gone fanatics,  but Rush
+is just a rock trio consisting of human beings that can make mistakes,
+occasional bad songs,  etc..  I love Rush also,  I just think
+open-mindedness is key to TNMS being enjoyable to read and post to.
+Finally,  I'd like to say that I hope I haven't offended anyone,  and
+I don't consider myself or "group C",  whatever the hell that means,
+to be superior to anyone else.  I also want to stress that while I
+thought the grouping of Rush fans was interesting,  I am not trying to
+encourage the division of TNMS readers into neat little groups,  who
+can then have little wars between them.  Enough said.
+
+Ted Pederson
+
+----------------------------------------------------------
+
+Date: Mon, 25 Feb 91 23:55:29 PST
+From: djabson@UCSD.EDU (The God of Balance)
+Subject: 2112 ending
+
+	Last issue Ed Federmeyer asked who the voice at the end of "2112"
+belonged to.  I myself had always thought it was the "lost brotherhood of man"
+but now that you mention it, I suppose it could very well be the priests.
+The song seems to be somewhat more climactic if you use the first interpretation
+but either one would make sense.  I had always pictured this huge battle taking
+place (during the "Grand FInale") and the "lost brotherhood of man" reclaiming
+"the home where they belong".  Funny how you develop your own interpretation
+of a song (or story, or poem, etc.) and no other possibilities even come to
+mind, at least sometimes that happens.
+
+	Dave
+
+"Spinning, whirling, still descending
+ Like a spiral sea unending."
+
+----------------------------------------------------------
+
+Subject: By-Tor & The Snow Dog
+Date: Tue, 26 Feb 91 11:11:41 EST
+From: David Arnold &lt;davida@umd5.UMD.EDU&gt;
+
+In the NMS # 178, Gregg Brown &lt;axeman%maple.decnet@pine.circa.ufl.edu&gt;
+wrote:
+
+&gt;  My roommate and I are mega-fans of RUSH's early classic titled "By-Tor and
+&gt;the Snow Dog."  We were wondering if anyone knew anything about how the song
+&gt;came about.
+
+Ahh, Gregg, you are probably looking too deep.  I don't think either By-Tor
+or The Snow Dog have any root in a specific legend.  I remember from some
+interview that the name 'By-Tor' came from a dog who was a byter ('byte-er',
+'by-tor').  Also, the place(?) "Tobes of Hades" is taken from a friend's
+father, who always used to say "Colder than the Tobes of Hell".  It just
+happened to stick in a young Neil's head.
+
+Also, Ed Federmeyer &lt;ed@iitmax.iit.edu&gt; wrote:
+
+&gt;                                                            At the
+&gt;    end, when they go "...We have assumed control...", is that the
+&gt;    "lost brotherhood of man" (mentionied in the "Oracle") coming
+&gt;    back to reclaim the planets?
+
+Well, I've interpreted it to be the Elder Race returning, as foreshadowed
+in "Oracle: The Dream":
+
+   "The elder race still learn and grow
+    Their power grows with purpose strong
+    To claim the home where they belong
+    Home to tear the temples down
+    Home to change..."
+
+Yes, it is a shame that the "protagonist" dies.  Maybe Neil was angling
+for the irony viewpoint; snatching defeat from the jaws of victory, as
+it were.
+
+David Arnold       Keywords:  Rush, Jethro Tull, Crack the Sky, Squeeze, BOC,
+                               Neville Brothers, Peter Gabriel, Pink Floyd,
+Inet: davida@umd5.umd.edu       Talking Heads, King Crimson, Rolling Stones,
+UUCP: uunet!umd5.umd.edu!davida  Police, ELP, Grass Roots, Hollies, Guess Who
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 179
+********************************************
+
+

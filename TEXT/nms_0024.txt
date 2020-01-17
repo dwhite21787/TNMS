@@ -1,0 +1,1203 @@
+Errors-To: rush@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush-list-all
+Subject: RUSH Fans Digest of 08/06/90 (#24)
+
+
+               RUSH Fans Digest, Number 24
+
+                  Monday, 6 August 1990
+Today's Topics:
+                Note from the Management
+                       Rush & Metal
+                 YES albums, FEAR trilogy
+                     some info on Yes
+                        Live music
+               Rush things to do in Toronto
+       Re: Countdown, Tai Shan, and Caress of Steel
+               Beneath, Between, and Behind
+         Re:  RUSH Fans Digest of 08/03/90 (#23)
+                    thanks...and more
+                  Who wrote those songs?
+               YYZ, Toronto, Countdown, etc
+                 YYZ and flying, The Pass
+                      Rand and Rush
+              ... to be found within a song.
+stand a little closer, and I'll smack you with my soapbox!
+               Returned mail: User unknown
+                        Metallica
+                          (none)
+                   Random thoughts....
+           Album Cover Art and Liner Note Fun!
+          Various and sundry bits and pieces II
+                Usenet ( Was Re: 1001001 )
+                           Saga
+----------------------------------------------------------
+Date: Mon, 6 Aug 90 
+From: RUSH Fans Digest Manager &lt;rush-mgr@syrinx.umd.edu&gt;
+Subject: Note from the Management
+
+Ok, I thought the duplicates problem had been taken care of by last
+week's software upgrade, since we went the following three days with-
+out any problem.  Then, last Friday (8/3), Digest #23 was duplicated.
+Since I got mail from about 30 of you, I declined to reply individually
+to each of you, and decided to post here.  (Thanks for the prompt res-
+ponses on the subject!)
+
+Digest #23 was a fairly large mailing (31K), and this is probably the
+reason the dup occured.  At the risk of beating a dead horse (for you
+longer-time members), I'll go over apparently why this happens.  When
+a mail item sits in the outgoing queue for a long period of time (what
+is long?), the system sees it as having died, and restarts it, hence the
+second copy.  When we re-loaded the system, the mailer became more 
+efficient, and we had no more problems for a few days.  Then we sent out
+the big one, and the problem reoccured.  What this tells me is that while
+the situation is better, it may still occur.  This is especially true with
+a large Digest (like todays).
+
+The next step is to load an entirely different mailer & see what happens.
+Until further notice, please cease mailing me about duplicates.  I'm 
+aware of the problem, and will try to fix it.
+
+That's all for now; on with the good stuff!
+
+Manager,
+RUSH Fans Mailing List
+
+----------------------------------------------------------
+
+Date: Fri, 3 Aug 90 11:54:27 EDT
+From: pxp@r2d2.EEAP.CWRU.Edu (Peter Paul)
+Subject: Rush & Metal
+
+I agree with the person who wants to hear a Rush metal song (or album!?!).
+The interview in which Geddy says he likes Metallica is in a Guitar for
+the Practicing Musician magazine of last summer. It was a really good
+interview - some of you might want to check it out. Do any of you know
+if he likes other heavy metal groups? Iron Maiden perhaps? And do any of
+you know the musical perferences of Neil or Alex??
+
+----------------------------------------------------------
+
+Date: Fri,  3 Aug 90 12:13:53 -0400 (EDT)
+From: Christopher Gene BeHanna &lt;cb2s+@andrew.cmu.edu&gt;
+Subject: YES albums, FEAR trilogy
+
+     A YES discography, off the top of my head (may have left out a few
+things):
+
+     Yes (1969) - I've only listened to this one once.  Some of the stuff
+                  seems kind of wishy-washy, but I grow into Yes albums the
+                  more I listen to them.
+
+     The Yes Album (1970) - A definite must-have.  Includes "Yours Is No
+                  Disgrace" and "Starship Trooper."
+
+     Fragile (1971) - Another definite must-have.  Includes "Roundabout,"
+                  "Mood for a Day," "Long Distance Runaround," and "Heart of
+          the Sunrise."
+
+     Close to the Edge (1972) - Another definite must-have.  There are only
+          three songs on this album, but the first ("Close to the Edge") is
+          18 minutes, the second ("You and I") is 10, and the third ("Siberian
+          Khatru") is 8.
+
+&gt;From here on, things may not be chronologically ordered:
+
+     Relayer (1974?) - You may or may not like this.  The feature piece, titled
+          "The Gates of Delirium," is a 25 minute symphonic piece, the end of
+          which was excerpted as the track "Soon" on the 9012Live album.
+
+     Tales from Topographic Oceans (197?) - a double album.  Contains four
+          very long concept pieces, all of which I like very much.  You may
+          have to special-order this one.
+
+     Yessongs - a compilation album.  Skip it.
+
+     Yesshows - double-live album, including some fantastic work by Rick
+           Wakeman that is unavailable on any other Yes album.
+
+     XTC - never heard it.
+     Dance Traxx - again, never heard it.
+
+     Tormato - never heard it.
+
+     Drama - an anomaly.  This one did not have Jon Anderson singing vocals on
+            it, as he was not a member of the band at this time.  Instead, I
+            think Geoff Downes (later a member of Asia) sang.
+
+     Classic Yes - another compilation.  Unless you want to spend the bucks
+            on songs you've heard on other albums for the sake of the live
+            versions of "All Good People" and "Roundabout," skip it.
+     90125 - Well, you all know this one.
+
+     Big Generator - pretty surreal at spots, nonsensical at others, but the
+            music is great.
+
+     Anderson, Bruford, Wakeman, and Howe - more nonsense in spots, stellar
+            stuff in others.  I haven't yet grown into this one.
+
+     You may also find the three Jon and Vangelis albums (_Private Collection_,
+_The Friends of Mr. Cairo_, and one I can't remember right now) interesting, as
+well as Jon's Christmas album (_3 Ships_).
+
+     Now, the FEAR songs, as I remember them:
+
+     Part 3:  Witch Hunt (from _Moving Pictures_)
+
+     Part 2:  The Weapon (from _Signals_)
+
+     Part 1:  I cannot remember (sorry).
+
+Chris BeHanna
+
+"I get home at five o'clock, and I take myself out a nice, cold beer."
+
+----------------------------------------------------------
+
+Date: Fri, 3 Aug 90 11:57 CDT
+From: "Help, I'm A Bug" &lt;CWALTERS@ducvax.auburn.edu&gt;
+Subject: some info on Yes
+
+All right! A question I can answer! :) I like Rush well enough, but Yes is
+my MAIN group ever!
+
+90125 has a different sound than any of the rest of the albums by them. It
+has a more "pop" feel to it (aka "Owner Of A Lonely Heart"). Its closest
+competitor is "Big Generator" which is even more commercial. neither album
+has the "classic" Yes sound to it.
+
+Lyrically, Yes' best stuff can be found on "Close To The Edge" and "Tales
+&gt;From Topographic Oceans." (WARNING: "Tales" is *not* an album for the
+uninitiated. Four 20-minute songs. Great album, tho.) Yes lyrics are
+traditionally hard to figure out in any case ("Hold me, my love/ Hold me
+today/ Call me 'round./ Travel, we say/ Wander we choose/ Love tune.")
+The difference between the lyrics Jon Anderson writes and the lyrics
+Neil Peart writes is: in a Rush song, you can take the lyrics at face-
+value, and then try and delve deeper into the symbolism. In a Yes song,
+it's normally ALL symbolism (or allegory, or simply surreal).
+
+Musically, the best stuff can be found on "The Yes Album" and on "Relayer."
+The songs on "TYA" flow very well, and you notice something new almost
+every time you listen to it. "Relayer" has some of the most amazing
+technical stuff I've heard on a rock album. (The bass line at the beginning
+of "Sound Chaser" for example). Someone mentioned "Fragile" which is a
+great album, but half of it is solo songs - one from each band member. The
+best of these, IMHO, is Steve Howe's classical guitar solo "Mood For A
+Day".
+
+(By the way, 90125 has the WEAKEST bass playing I've ever heard out of Chris
+Squire. Did he have his hands taped together or what?)
+
+Whoever decided to not compare Bill Bruford to Neil Peart was wise :) The
+two don't have anything in common with their playing styles (Bill is more
+into jazz and jazz fusion than rock these days, although he's 1/5th of the
+way through a 5-album contract with ABWH)
+
+Well, i hope I helped answer a question or two. Anyone know why there
+isn't a Yes mailing list? (or is there? hmm...)
+
+Christian
+cwalters@ducvax.auburn.edu
+
+----------------------------------------------------------
+
+Subject: Live music
+Date: Fri, 03 Aug 90 12:53:19 EDT
+From: David Arnold &lt;davida@umd5.UMD.EDU&gt;
+
+In Digest # 23, Greg Barish wrote:
+
+&gt;My request is this: if any of you have the time, email me a list
+&gt;of the RUSH albums I should listen to (IN ORDER), so that I get
+&gt;an appropriate introduction to these guys.  THANK YOU.
+
+Hooboy, will *you* get floods of mail, all different!  One of 'em
+will be from me...             :-)
+
+In a previous issue, 'Digital Man' asked about a live version of
+"Circumstances".  I think this is an excellent song, and would love
+to hear a live version.  Alas, after 11 years of concerts, and hearing
+numerous boots, I have yet to hear a live version.  *sigh*  If anyone
+knows where I might get ahold of a live version of this, I'd really
+appreciate it greatly!  (Who knows, I was successful in finding
+"Cygnus X-1" thanks to this list!)
+
+On the subject of bootlegs, I'm curious to know what bootleg *albums*
+exist.  I know of a few:
+
+       Name                      Date       Number of disks
+       ----                      ----       ---------------
+    "Stellar Dynamics"           1974           2
+    "Pinktop"                    1979           1
+    "Xanadu"                     1980           2
+    "Sailing Into Destiny"       1983/1981      2
+    "Looking Through a Window"   1985/6(?)      ?
+
+These can be found (sometimes) by going to record conventions, or
+frequenting alternate-type music shops.  This is probably an incomplete
+list; can anybody add to or correct it?
+
+OBRQ: "One likes to believe in the freedom of baseball"
+
+David Arnold       Keywords:  Rush, Neville Brothers, Squeeze, Crack the Sky,
+                               Peter Gabriel, ELP, Jethro Tull, Pink Floyd,
+Inet: davida@umd5.umd.edu       Talking Heads, Arc Of Ones (RIP), Stones, BOC,
+UUCP: uunet!umd5.umd.edu!davida  King Crimson, Police, Grass Roots, Hollies
+
+----------------------------------------------------------
+
+Date: Fri, 3 Aug 90 10:20:47 PDT
+From: Ron Chrisley &lt;chrisley@parc.xerox.com&gt;
+Subject: Rush things to do in Toronto
+
+Scott:  Why not visit the corner of Danforth and Pape?
+
+I doubt that there is a corner of Didacts and Narpets.  Any real Rush fan
+knows that they don't intersect.  ;^}
+
+Ron Chrisley	chrisley@csli.stanford.edu
+Xerox PARC SSL					New College
+Palo Alto, CA 94304				Oxford OX1 3BN, UK
+(415) 494-4728					(865) 793-484
+
+----------------------------------------------------------
+
+Date: Fri, 3 Aug 90 13:23 EDT
+From: James &lt;JWWALDEN%MIAVX1.BITNET@pucc.PRINCETON.EDU&gt;
+Subject: Re: Countdown, Tai Shan, and Caress of Steel
+
+"Countdown" is a great song, but I unfortunately have not seen the video.  It
+is one of my favorites from Signals (well, it's difficult to pick a favorite
+song since it's my favorite album and I'd probably say that about all the
+songs).  Signals was the first RUSH album I listened to and one of only two
+that I liked on the first listen (Hold Your Fire, my second favorite and the
+last RUSH album I acquired, was the other).
+
+"Tai Shan" is a beautiful song which is quite a surprise on your first listen
+to Hold Your Fire.  The lyrics are wonderful and the music conveys their
+meaning very well.
+
+And my third favorite RUSH album, Caress of Steel - it was nice to see my three
+favorites all in the same message :).  The tape order is screwed up in that
+"I think I'm going bald" and "Didacts and Narpets" are exchanged.  Also, there
+seem to be more lyrics than just "Listen!" to "Didacts and Narpets," but I
+can't understand them and haven't seen them reproduced anywhere - are they
+something like Alex's words to "La Villa Strangiato?"
+
+Personally, I don't really have a favorite era for RUSH.  The main thing I
+miss in modern RUSH are the epic songs.
+
+----------------------------------------------------------
+
+Date: Fri, 3 Aug 90 11:50:26 PDT
+From: spike@d31mf0.Stanford.EDU (John T. Fourkas)
+Subject: Beneath, Between, and Behind
+
+	Everyone seems to agree that B, B, & B obviously is talking
+about the US.  I have a friend who has always maintained that Between
+the Wheels is a sequel to B, B, & B.  I'm interested to hear what other
+persons have to say about this.
+
+____________________________________________________________
+John Fourkas			spike@d31mf0.stanford.edu
+Stanford University
+
+----------------------------------------------------------
+
+Date: Fri, 3 Aug 90 15:22:28 EDT
+From: gordon@Stars.Reston.Unisys.COM
+Subject: Re:  RUSH Fans Digest of 08/03/90 (#23)
+
+Hello out there,
+
+-&gt; As far as our favorite band being made up of computer geeks (hey,
+-&gt; aren't a lot of us in that category? ;'), I doubt it.  (Particularly
+-&gt; considering Neil's reaction to Usenet and this list.)';    [...]
+
+Okay, I'll take the bait.  Just what *is* Neil's reaction to Usenet
+and this list?
+
+[ He saw the issue where people were discussing a possible symbolism
+  to the time on his watch on _Presto_; it seems to be set to 9:12,
+  or 21:12 on the 24-hr clock.  When he read it, he said "Get a life!"
+  He's not big into rock-idol-worship...                    :rush-mgr ]
+
+Re: "Countdown" -- I can't stand by and let most of you bash one of my
+all-time Rush favorites.  If I had a Top 10 list of best Rush songs,
+"Countdown" would be in it.  Have you ever noticed how your speakers
+bottom out with a short woofer blast just after the shuttle launches
+and the words "the air is shattered by that awful sound" (I'm
+paraphrasing, I don't have the words in front of me).  Is that Geddy
+stomping on a Taurus pedal?  Maybe I just need new speakers?  Caveat:
+I was a die-hard space-buff long before I became a die-hard
+Rush-fanatic. ;^)  (Note to Mike Bear: yes, I like "Tai Shan", too; it
+also hits me emotionally; another favorite!)
+
+-&gt; [...] ending in War Paint. "Boys and girls together,
+-&gt; paint the mirror black." I hate that!
+
+I love it!  I found it very relevant to the song's theme of adolescent
+angst, and the perfect ending to the song.  What do you do with all
+that "war paint"?  "Paint the mirror black."  It's good advice,
+because "the mirror always lies."  I take the meaning as: Don't give
+in to all the peer pressure; accept yourself as you are; what's inside
+you is more important than your exterior appearance.  What a great
+contrast to the theme of "The Pass"!
+
+-&gt; [...] i was wondering if someone might suggest a way
+-&gt; i might obtain them (lyrics) short of buying the lp's.
+
+And speaking of lyrics: Does anybody have Rush lyrics on-line that
+they'd like to share?  I've typed in most of the _Presto_ album's
+lyrics because I like to play around with them and read them while I'm
+at work.  (hee-hee, they think I'm working right now.... Shhhh!)  For
+example, I work on a Sun workstation, and on SunOS, there's a program
+called 'random' in /usr/games that I use in the following alias:
+
+   alias rush 'cat ~/info/text/rush.txt | /usr/games/random 50'
+
+where "~/info/text/rush.txt" is the pathname to the lyrics file and
+"random 50" is a text filter that randomly selects lines with the
+specified probability.  So, from a few _Presto_ songs I get output
+like:
+   I want to look at life--
+   in the canyons of the city
+   moments caught in flight
+   Turn around and walk the razor's edge
+
+If I'm bored I'll type "rush", my all-Rush fortune generator, and get
+a few snippets of lyrics.  Inevitably, I'll then start playing the
+associated tune in my head and it's stuck there, thus making the rest
+of the day a little more pleasant.
+
+Just imagine what it would be like to have *all* of Rush's lyrics
+on-line.  Has anybody done this already?  If so, can you e-mail them
+to me?  I'll volunteer to collect and re-distribute upon request if a
+collection does not already exist.
+
+Thank you!  And thanks, Mr. Rush-Mgr, for this list!
+
+Enough already.  So long, and thanks for all the bandwidth.
+
+ /\      /\      /\      1-0-0-1-0-0-1, S.O.S.  1-0-0-1-0-0-1, in distress.
+/  \  /\/  \  /\/  \  /-------------------------------------------------------
+    \/      \/      \/   Del Gordon    gordon@stars.reston.unisys.com     |&gt;&lt;-
+
+----------------------------------------------------------
+
+Date:    Fri, 3 Aug 90 14:51:05 CDT
+From: storey%batse.span@Fedex.Msfc.Nasa.Gov (SCOTT STOREY X7700)
+Subject: thanks...and more
+
+Hi everyone....
+
+	Many thanks to Brad about information on Toronto City
+Hall. I had no idea where that picture was taken. I'll get there!
+I'm still looking for more things to do while I'm visiting up there, so
+let's hear about it Rush fans!
+
+	A short note to the management... I am still getting two copies
+of the digest. It stopped for a while though.
+
+	To the Yes fan: I also am a big fan. 90125 was a pretty big departure
+from what they had played previously. More of a hard edge to it. Big Generator
+is probably the closest album to that one though. But, don't overlook the old
+stuff. The Yes Album, Fragile, Close to the Edge, Relayer, and Going for the
+One are very good albums in my opinion. However, none of them sound very
+much like 90125.
+
+Later...on a passage to Bangkok
+
+scott
+
+----------------------------------------------------------
+
+Date: Fri, 3 Aug 90 13:00:43 -0700
+From: David Conley &lt;dmc@u.washington.edu&gt;
+Subject: Who wrote those songs?
+
+Geddy and Alex have contributed lyrics to a few songs, but not many.
+Paul Ackerman wrote in the last digest about some of those tunes, but
+perhaps not all that accurately.I believe it was Neil who wrote Something
+For Nothing, Different Strings, and Chemistry....I will have to go look
+this up to be sure. But I do know that it was Geddy, not Alex who wrote
+Tears on 2112. Alex wrote Lessons on the same album, to my knowledge the
+last time he has written the lyrics for a song. BUT.... everyone is over-
+looking one of the truly underestimated Rush songs, Cinderella Man, from
+AFTK, written by Geddy.. A simply great song on a great album. I also
+recall that perhaps Geddy contributed some lyrics on Fly by Night...
+was it Best I Can???
+
+Also, I think I asked this question before but got no responses.
+Anybody else on the list a runner? I think that Marathon on PoW is
+the most inspirational song Neil ever wrote. I know he is a serious
+bike rider and I have wondered what was his motivation was for writing
+Marathon....i.e. did he run a Marathon? That song is always on my mind
+whether I am simply on a training run or racing. Anybody else have that
+one Rush song that really inspires, you know, sends chills up your spine.
+Of course Mission and also Second Nature run a close second and third
+respectively.
+
+D
+
+----------------------------------------------------------
+
+Date: Fri, 3 Aug 90 16:24:13 EDT
+From: "Robyn Landers [MFCF]" &lt;rblander@maytag.waterloo.edu&gt;
+Subject: YYZ, Toronto, Countdown, etc
+
+    I joined this list in the midst of the P/G wars.  I've been a
+Rush fan since Hemispheres, and extend both directions from there.
+I play guitar in a band which does some Rush covers.
+So much for personal background; now some comments on recent posts.
+
+    Regarding YYZ, yes that's the letter code for Pearson International
+Airport in Toronto, just like LAX is for Los Angeles.  The song,
+according to the interviews I heard, is intended to conjure the
+multi-ethnic sights and sounds and excitement and energy they
+experience when in the airport.  And yes the intro is Morse code for
+YYZ.
+
+    Somebody calling him/herself god@ucscb.UCSC.EDU says
+&gt;I don't know if this is old news or not, but has anybody noticed that
+&gt;if you pronounce YYZ phoneticaly, you get "easy?"
+Perhaps that's how you pronounce it, but it is correctly pronounced
+"why-why-zed".  Rush is Canadian.  So, sorry, but no hidden
+messages about "easy" stuff here.
+Now, anyone want to discuss that great southern band, Zed Zed Top? :-)
+
+    Perhaps I missed it, but is there any credible direct evidence
+to support the claim that Neil intentionally wrote 1001001 to be
+an ASCII 'I', or is this coincidence.  As someone pointed out,
+1001001 sure flows nicely in a rhythmic sense.
+
+    Brad Armstrong asks for great Rush fan things to do in Toronto.
+Go visit the area of town around the intersection of Danforth and
+Pape streets.  Recognize this from La Villa Strangiato?
+It's the Greek area.
+
+    Mike Bear says
+&gt;        Someone was talking about Countdown being a bad song on Signals,
+&gt;I must disagree.  If you don't like it, try watching the video.
+I disagree with this as a justification (my personal opinion of the song
+is irrelevant).  We're talking about the *song* here, not some
+multimedia presentation.  This is the problem with the whole MTV/MuchMusic
+phenomenon.  It has generated the mentality that if you've got great
+looking people in great looking videos then that's enough to sell
+albums.  Without the video push, lots of substandard bands wouldn't
+have made it.  Argue Countdown the song on its merits as a song, not
+on its merits as the soundtrack to some video.
+
+    Finally, somebody asked about Max Webster.  MW was a great
+Canadian band that never really broke in the U.S.  They've been defunct
+since about 1981.  The driving force was Kim Mitchell, whom those of
+you in the US may know from "Go For Soda" a few years ago.
+The Websters toured with Rush a fair bit on the early albums.
+Max was a Toronto based band.  Max/Kim have legions of fanatic fans in
+parts of Canada, mainly Ontario, but alas never made it big elsewhere.
+
+Robyn
+rblanders@watmath.waterloo.edu  "I'm just doing my rock'n'roll duty" -Dubois
+
+----------------------------------------------------------
+
+Date: Fri, 3 Aug 90 15:26:18 PDT
+From: ronz@imager3.llnl.gov (Ron Zasadzinski)
+Subject: YYZ and flying, The Pass
+
+YYZ:
+
+Being a pilot, perhaps I can clarify a few things about how YYZ and it's
+representation in morse code relate to aviation. First, all airports have
+a three character identification code, for example San Francisco's is SFO
+and Toronto's is YYZ. When one travels by airline, the luggage tags often
+have the three character identifier of the destination airport printed on
+them (as Brad A. noticed on a friend's bag). Paul Ackerman writes:
+"Neil got the idea for that from the beacon signal that is sent out by all
+airports to incoming airplanes. I believe the signal is a message to the
+pilot assuring him/her as to what airport they are approaching."
+Almost. The signal Paul is referring to is sent out by radio navigation
+aids (like VORs and NDBs). Every VOR has a three letter identifier, and
+it's morse code representation is broadcast when the VOR is operating.
+Whenever a pilot tunes in a
+VOR s/he *listens* to the VOR for a short time to be sure that the
+correct and expected morse code identifier is heard. This verifies that
+a) the correct navigation aid is being received, and b) it
+is operational. When a VOR is physically located at an airport the VOR
+is often if not always given the same three letter identifier as that of
+the airport itself. Note that not all airports have VOR's and the vast
+majority of VOR's are not physically located at airports. As one might
+surmise, Toronto International does have a VOR located on the field and
+its code is YYZ.
+
+THE PASS:
+
+I found Ron C's interpretation of The Pass as having christian references
+(or anti-christian as it were) interesting, and have been following the
+debate as to whether Neil intended that or not. I was looking at the
+lyrics as printed in the CD and noticed something interesting. All of
+the words to the entire album are *not* capatalized except for the
+choruses and proper pronouns and nouns. The last line of the song,
+(which is not a part of the chorus) is "Christ, what have you done?"
+Christ *is* capitalized, and the punctuation *is* a comma, not an
+exclamation point. (Boy I can just *feel* those emotions stirring out
+there!) The song certainly relates to teenage suicide and may even
+have been inspired by a personal experience, but the way the last line
+is printed makes me think that Neil is at least *aware* of the possiblility
+that the line could be intrepreted from a religious standpoint.
+
+One comment about the debate is that it is most fascinating
+to see how strongly people posting to the newsletter project their
+*own beliefs* onto what "Neil Intended". Let's give Neil the
+room to be Neil Peart. No matter how much we may want him to be like
+ourselves, we know that we are all unique individuals with our own
+set of life experiences and ways of seeing the world.
+
+----------------------------------------------------------
+
+From: evanh@sco.COM (Evan A.C. Hunt)
+Date: Fri, 3 Aug 90 14:41:19 PDT
+Subject: Rand and Rush
+
+&gt; From: David T. Sandberg &lt;dts@quad.sialis.mn.org&gt;
+&gt; It's also true that Ayn Rand may not be a big influence on Peart any
+&gt; more - but even if that's true, undoubtedly a few of the things he
+&gt; gained from her works have stuck with him.  Clearly the importance
+&gt; of "I" is something he still believed in when he wrote 'The Body
+&gt; Electric', even disregarding the binary code.  Therefore, I think
+&gt; it's entirely possible that he did mean it in exactly this way.
+
+	A song about the importance of the word "I" is just as likely
+to be based on Descarte, or a zillion other people, as it is on Rand.
+Lots of people feel strongly about the word "I", including me, and I
+mostly don't like Ayn Rand.  The now nearly 20-year-old connection
+between the two of them is no longer a justification for searching
+Rand's work for clues about the vagaries of Peart's.  And in a song
+about free will and self determination, and _not_ about capitalism,
+I doubt if Neil would've gone out of his way to insert a dollar-sign
+reference.  It just seems more plausible to me that it was a coincidence.
+(But I don't think the "I" was.)
+
+&gt; From: "Brad_Armstrong.WBST129"@Xerox.COM
+&gt; &gt; (the song on Hold Your Fire, with
+&gt; &gt; the lyric "We fight the fire while we're feeding the flame," would make
+&gt; &gt; Ayn Rand retch)
+&gt; Sure a particular line may seem this way, but what is the meaning of the
+&gt; song?
+
+	The song (whose title I now recall is "Second Nature") is about
+the need for humanity to start subverting its relatively short-term
+profits in favor of having a pleasant world to live in.  "Progress has
+no patience, but something's got to give...I know perfect's not for
+real, but I thought we might get closer."
+
+	In a strict objectivist sense, there's nothing wrong with this
+song; as long as you aren't calling for government interference in
+capitalistic ventures, there's no problem with asking capitalists to
+volutarily start being nicer people and taking better care of their
+fellow humans.  But Rand, particularly in her later years, was heavily
+into denying that unchecked capitalism had ever caused any problems.
+She would've hated the song for suggesting that "captains of industry"
+were at any fault for the world's problems.
+
+	I wasn't citing it as a particularly anti-Rand song; it's
+just an example of the (to me, obvious) fact that Neil is an independent
+thinker, not a slavish follower of Rand or anyone else.  Which means
+that Rand's works aren't going to offer any more insight into most of
+his lyrics than any of the other books he's read and enjoyed.  The only
+reason Rand gets so much attention on this mailing list is that she's
+the only author Neil's ever specifically mentioned.  I don't think that's
+fair to Neil.
+
+&gt; From what I've seen, Neil is subtle, yet
+&gt; direct and still applies at least some of Ayn's tenents to get his world
+&gt; view.
+
+	Sure.  So do I.  She's not without merit.
+
+&gt; I'll reiterate, have you read the books *and* the essays?
+
+	You got me. :)  No, not all of them, only a few of each.  She
+gets on my nerves.
+
+					eh
+
+----------------------------------------------------------
+
+Date: 3 Aug 90 15:56:30 PDT (Friday)
+Subject: ... to be found within a song.
+From: "Brad_Armstrong.WBST129"@Xerox.COM
+
+antonyc%chamber.caltech.edu@Tybalt.Caltech.Edu asked about the early
+lyrics.  Well..., ok; I work at the company whose name equals photocopy in
+this country.  If I get some requests for this mailed to my net address,
+I'll see what I can do about copying the inner sleeves for Fly By Night,
+Caress of Steel, and 2112 (although this one is red on black so it might be
+quite a trick to photocopy) and mailing them out.   I don't think Rush ever
+came with an inner sleeve, just a note about how to get the best results
+from the album :) .  I'm willing to do this on my own funds, unless of
+course I get 100 requests (100 requests would end up costing me at least
+$30 bucks that I don't have to spend).  Aside from this, I recommend buying
+the lp's, as they are worth owning, even if you have the CD's, for the
+'pretty pictures'.  The early shots of the boys are really cool!
+
+Greg (the novice) asked for recommendations on the order in which to
+experience Rush.  All I can say is buy them all, and play them in order,
+lots.  As to mood setting environments:  I've only found a few songs that
+suit one environment better than all others.  One obvious one is driving
+while listening to Red Barchetta.  Careful though, I caught myself
+following the dotted line down the center of Rt. 17 at 'excessive' speed
+while doing this!  Anyone who caught the couple of tours following the
+release of Moving Pictures will understand that one.  The recent suggestion
+about catching the Countdown video is definitely a must, along with the
+idea about 'making your own'.  One other is Camera Eye, which is such a
+good sound-painting of NYC that it fit perfectly into the headphones of my
+walkman while on the streets of Manhattan.  Kinda makes me wonder if
+Subdivisions would sound good in the Toronto suburbs.  I did spend a week
+in Missisauga (a suburb of Toronto) back in '80 or so (before Subdivisions
+was written), and did all of the things described in the song.  I must say
+it is a perfect description of high school life in that suburb.  But I
+digress..., the only other suggestion I can make is wait 'till you are in a
+very frustrated or depressed mood and crank the first album in private for
+an instant cure, sort of a therapy by sound.
+
+A friend of mine pointed out that things like my comments about Metallica
+in my last post could be misinterpreted, so, to head off any flaming metal
+arguments:  I don't know much about the group but what I commented.  I
+should have included a :) at the end of that paragraph to clarify my
+intent.    Any comments I make are my own, and are designed to enlighten
+and entertain, not to inscense; and if you find anything offensive in them,
+oh well.  Different eyes see different things,...
+
+I agress with Paul Z.'s suggestion about the Yes album to get.  Fragile
+would be my recommendation as well.  The bass guitar on it is phenomenal.
+I have a very accurate stereo, and the bass is so dry that you have to go
+get a drink after listening to Roundabout!  I think the album also
+represents a variety of their earlier styles, though I am not a Yes-aholic
+(I only have about 5 Yes albums and don't play them very often).
+
+Now for my request for info:
+I'm interested in the bootlegs I keep hearing about, but never get to
+actually hear.  Anyone with information on these, please spill.  I've heard
+rumour of the existence of a whole album released in Europe called Through
+Time.  I've heard of many others as well.  If you would prefer, you can
+mail to me at my net address below, but I'm sure the group here can control
+themselves where it comes to copyright infringement, right?
+
+Till next time...
+
+Electronic communication, making your life better;
+Magician.
+
+----
+ Brad Armstrong                            Lion.Wbst129@Xerox.COM
+ Xerox MB Lab, Webster, NY                      W: (716) 422-9688
+     ... everybody got to elevate from the norm. - N. Peart
+ &gt;None of these opinions has anything to do with anyone but me.&lt;
+
+----------------------------------------------------------
+
+Date: Fri, 3 Aug 90 13:52 EDT
+From: AlberCrombie - The one and only &lt;CESNYD01%ulkyvx.bitnet@pucc.PRINCETON.EDU&gt;
+Subject: stand a little closer, and I'll smack you with my soapbox!
+
+   Greetings! I haven't posted in a while, so I thought I might say somethings
+to stay alive.
+   First off, after reading what Neil wrote about his feeling on Satanism,etc.
+in music, I feel that 'The Pass' has no connection with religious stuff
+(actually, I never did).  (my $0.02) I don't think Neil would ever write
+anything about religions unless it was in an article like was just posted.
+
+   Next! There has been a little conversation about the different albums and
+what they mean to individuals and how they stack up to other Rush albums.  I'd
+like to add something to this.  I'm 19, and I listen to EVERYTHING. Literally.
+(I can even stomach Disco for about 30 minutes. ouch!)  So I would say I have a
+very good taste in music.  I was force feed '2112' about 4/5 years ago and fell
+in love with it.  It was unreal!  I mean this was pure rock and roll!  I went
+out and over the next two years, bought all of Rush's stuff.  I love it all,
+but I believe that they have definitely changed.
+   I fell in love with '2112' and 'Power Windows' right off the bat.  They were,
+and still are my top two Rush albums.  If you look at the albums in sequence, a
+noticeable pattern is discovered.  Rush changes after every live album.  In the
+first four albums, they were a hard hitting rock group. (I have to admit in the
+past, I have argued with my self which album was 'rocky-er', 'Rush' or '2112')
+After ATWAS came into being, they started to experiment with synths and such.
+At this point, Terry Brown split the band (actually, because the band asked
+him to, for he was strong with guitars, but not with synth music).  ESL was
+released and another Rush era was about to be born.  The electricity was
+redirected from Alex's guitar and sent to Geddy's keyboards.  The next four
+albums had a large flavoring of progressive rock.  Then we have, ASOH and then,
+'Presto'.  Now, a new Rush must begin (if the sequence is to continue as such).
+I believe that 'Presto' shows a Rush that is trying to mix
+rock/pop/progressive.
+(for your information, at this point I have lost all train of thought, of what
+little I had.  I will now try to figure out what the hell I was talking about
+with out boring everybody to death.)
+    I can not say which group of four I am partial to because I like too much in
+all the different 'eras'.  I will say that I do not care totally for HYF or
+'Presto'.  I do not really care for so much synth.  (my type of synth rock goes
+along with Uriah Heap, old Elton John, and 'Subdivisions').
+    I think that what I want to do is reply to some past mentioned stuff, like
+someone said that Rush should do another instrumental to prove they can still
+rock.  I agree.  I started right when PoW came out (there abouts) and am sad
+that I haven't heard a really rockin' album come out since I have been
+listening to them.  I think that Rush should do an instrumental to show people
+they can still do it.  I *know* they can do it, but think of the people who
+discovered Rush off of HYF or even 'Presto'!  They wont really know of what
+type of power Rush is able to give (even by listening to all the other albums).
+Now, I personally believe that PoW was the last STRONG album Rush put out
+(excluding ASOH), so that is how I make that assumption.  I think I person is
+more influenced by the stuff that comes out while they listen to it, than what
+they pick up in the record stores.
+    I think that that is enough rambling from the soapbox for now.  For those
+of you who figure out what I'm talking about, LET ME KNOW!
+
+                                lost in oblivion,
+                                AlberCrombie.
+
+"All this machinery, making modern music..."
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+|    AlberCrombie    | "life's a bitch, then you marry one." - Anon.    |
+|  &lt;CESNYD01@ULKYVX  | "...A click comes from the hammer that couldn't  |
+|       .BITNET&gt;     | drive a nail. Sense the numbing cold blue, or    |
+|       ELSE         | the red of Hades grill..."  'My Last Words'      |
+| P.O. BOX 666, HELL | -------------- M E G A D E T H  ---------------- |
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------------------------
+
+Date: Sat,  4 Aug 90 12:41:32 -0400 (EDT)
+From: Gregory Ross Thompson &lt;gt0t+@andrew.cmu.edu&gt;
+Subject: Metallica
+
+  Brad Armstrong wrote:
+&gt;Metallica?!, really?!  They are one of those teen-fan, screaming,
+&gt;no-talent, waste of time metal bands, no?  Perhaps I'll have to find
+&gt;someone with a copy of the Master of Puppets album you mentioned.  I hope
+&gt;it isn't catching.
+
+  You have obviously never listened to Metallica...  I used to think
+they were trash thrash type crap.  Welp, I was very wrong.  In my
+opinion, some of their lyrics are better than Neil's.  Hard to
+believe, eh?  Most of their stuff has some serious meaning behind it.
+Songs like "Lepper Messiah" about Televangelists, or "Disposable
+Heroes" about soldiers dying and no one giving a shit, or even
+"Harvester of Sorrow" about child abuse and infanticide.  The only
+music that they play that could be considered trash would have to be
+the stuff that they didn't write.  One of their albums, "Garage Days
+Re-revisited", has 5(?) songs that they didn't write.  Those are the
+only songs that are socially un-acceptable.
+
+  Anyway, listen to Master of Pupetts and/or ...And Justice for All.
+Both incredible albums...
+
+		-Greg T.
+
+----------------------------------------------------------
+
+Date: Sat, 4 Aug 90 14:19 EST
+From: "I'll see you on the Dark Side of the Moon." &lt;ORION%WSU.BITNET@pucc.PRINCETON.EDU&gt;
+
+Greetings RUSHan --
+
+Greg Barish asked the other day what order should he listen to the Boyz'
+albums.  That's simple:
+
+                                 IN ORDER
+
+The best way to get acquainted with Rush is to progress through their 3 stages.
+At least, I think that there are three stages (1: Rush to ATWAS; 2: Hemispheres
+to Signals; 3: Grace Under Pressure to Present)
+
+IMHO, that's the best way!  Have a Marathon!  Go to it!
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Adam Dickson                            |       Nuke us if you like!
+Wright State University                 |          We don't care!
+Dayton, Ohio                            |            Actually, we encourage it!
+-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+----------------------------------------------------------
+
+From: Roger Swanson &lt;rswanson@ux1.cso.uiuc.edu&gt;
+Subject: Random thoughts....
+Date: Sun, 5 Aug 90 18:25:37 CDT
+
+Hello all!
+
+Couple of questions and comments to get out of my system.
+
+With all the recent postings about what John Rutsey is doing now, I was
+wondering if anyone knows if he's ever made a guest appearance with the
+band at a concert during the encore or something where he's played on one
+of the songs from the first album. Probably not, but it was just a thought
+I had when I was reading through the digest.
+
+In response to the favorite album after ESL, I would have to say it would
+probably be Presto. Most of the albums took time to grow on me, just as
+with a lot of other people on the list, but Presto blew me away from the
+first listen (especially the lyrics!). Having first gotten into Rush in the
+late 70's, my favorite albums are still from this period (I could listen to
+Cygnus X-1 today, and the mental images I get are still really vivid of
+the Racinante and the captains adventures. That song with the two parts
+combined is just amazing).
+
+And now for a bit of business....
+
+Just in case any of you may be interested, there is a new Jethro Tull digest
+mailing list which is just starting (the second issue will be coming out the
+same day this does). The basic format and set-up are the same as the Rush
+digest. If you're interested in this band and it's music, and want to have
+somewhere to discuss it, mail
+
+JTull-request@uiuc.edu
+
+and ask to be added to the list. It's just began, but already has over 60
+subscribers, and has some interesting discussions just beginning.
+
+A special note of thanks to our own List Manager for all his help and wisdom
+from his experience in helping to set this thing up. Also, for keeping the Rush
+list going and running smoothly. You don't begin to appreciate the work that he
+puts into running a digest until you try it yourself. Way to go, David!
+
+[ *blush*   Thanks.  Keep it up, I love it.  :-)                  :rush-mgr ]
+----------------------------------------------------------
+
+Subject: Album Cover Art and Liner Note Fun!
+Date: Sun, 5 Aug 90 17:39:55 PDT
+From: todd@ivucsb.sba.ca.us (Todd Day)
+
+This is long, please bear with me...  I think you'll enjoy
+the ride...
+
+First, a bit of background.  I got "into" Rush around 1984
+through a friend who had a couple albums.  My first exposure
+to them was Permanent Waves and Moving Pictures.  I still
+have a tape that has them back to back (although, now I've
+gone completely CD, even in the car).
+
+For me, they were the first (and, even now, the only) band
+who's lyrics were as worthwhile listening to as their music.
+
+I've always responded emotionally to their songs (the whole
+gamut, even tears, when played at the right times (and not
+just tears of sadness, but tears of joy, as well)).  Some
+one had mentioned earlier that Rush's work tended to be
+secular-humanist, but I've gotten more of a "religious"
+feeling while listening to their music than I've ever gotten
+in church.
+
+I might mention here that I have everything since and not
+including Hemispheres, but I do have 2112.  The reason is
+that I can't handle Geddy's screechiness on the earlier
+albums (2112 is about all I can handle).  I may get flamed
+here, but I prefer the smoother sound that has developed
+after 2112.
+
+Anyway, on to album art.  I have often found the album art
+and liner notes to be as full of hidden messages as their
+music.  Unfortunately, I only have the CDs, so some art may
+be missing (please tell me!).
+
+2112 (1976):  Well, this is a bad example to start out with,
+as the CD art is pretty bleak.  All it has the the red star
+in a circle (which many parents think is a sign of the devil!),
+apparently projected onto troubled waters (well, I guess this
+is symbolic, after all!).  Inside, we find that the boyz didn't
+quite escape the disco revolution themselves :-).  I just gotta
+laugh everytime I see this photo.  At least the notes on the
+opposite page give us some insight into what exactly this
+album is all about.  This is the only album I have by them
+that doesn't have the lyrics :-(, which are, of course, half
+the fun.
+
+Permanent Waves (1980):  This cover definitely suffers on the
+CD.  I can't make out what is on the newspaper (can anyone
+help, here?).  Let's move on to the more obvious.  What Permanent
+Waves do we see in the picture?  First, we have the sea storm which
+is flooding the town with waves.  They are permanent because they
+have been captured on film.  Then, we have the woman with the
+perm (permanent hair waves) in her hair.  Also, we have the
+guy "waving" to her (and it will probably be the last thing he
+does, as he seems to get swallowed by the waves).  Finally, we
+have the red line of waves near the top of the album that are,
+I beleive, what a heart beat looks like on an ECG.  Oh, and then
+there are the store front names on the very right which have
+Lee, Peart, and Lifeson on them.  Homework for you... what is
+the signifigance of her dress being up plus what is on the
+newspaper?  Moving to the liner notes...  why do they thank Second
+City TV and is the Henry Spencer that's mentioned the same guy
+who wrote Cnews and resides at utzoo at the University of Toronto?
+We note that they like to play video games and watch reruns.  Note
+mentions of Daisy the Dog as voice coach and Oak Manor (what is
+this place?) that will be mentioned again.  The three pictures in
+the back of the boyz prove they did indeed survive the disco era...
+But, why do they thank NASA here?  Is this the year the shuttle
+launched?
+
+Moving Pictures (1981):  Front cover shows the obvious... pictures
+moving into a museum.  The first one in looks like a composite of
+2112 and Hemispheres, the second one is the famous "dogs playing
+poker", and the third looks like something that would accompany
+the song "Witchhunt".  I have no idea what the signifigance of the
+people on the right are...  the woman looks like she might be crying,
+but for what reason, I don't know.  On the back, we find that a film
+crew is making a moving picture about these pictures moving.  I find
+it interesting that the little girl is staring intently at the person
+who is burning at the stake, but what signifigance this is, I'm not
+sure.  Inside, we see photos of Geddy and Alex in action, but where
+is Neil?  Probably off playing his new instrument called "plywood".
+It's hats off to Saga and 38 Special.  They still play volleyball
+and videogames.  Daisy is back as "Ski-Bane", and they're still hanging
+out at Oak Manor.  The (xx - xx) where xx is some number usually less
+than 30 appear to be volleyball scores.  These appear on PW as well.
+
+Signals (1982):  Cover appears to have something to do with the dog
+picking up chemical signals (perhaps this is Daisy?).  The only other
+thing I can say is that it's got to be one of the most striking covers
+I've seen in terms of color contrast.  Looks like somethink Kodak would
+put in an ad.  Back cover has plans for a subdivision, which is the first
+song.  I was never quite sure what the yello line and red thumbtacks were
+for until just now, as I'm studying the liner notes.  It had always reminded
+me of the shape of the inside of stadium for some reason, and now I know
+why.  The liner notes and the back cover are full of links to baseball.
+One of the roads is called Line Drive.  There is a school named
+Warren Cromartie.  Inside, they thank Warren Cromartie and the
+Montreal Expos.  Their videogame this time is Intellivision Baseball.
+They thank Trevors Tramps (34-15) [this last part must be their
+season record].  I think this last group is the name of a team
+the boyz played on, with Geddy as Pitcher, Alex as First Base, and
+Neil as Third Base.  Other people are mentioned as Catcher, Coach,
+Shortstop, and Second Base.  NASA is thanked (for Countdown).  Oak
+manor gets another mention, but Daisy and volleyball are now out.
+
+Grace Under Pressure (1984):  This cover is so abstract, I've never
+been able to make anything out of it, other than the obvious p/g
+on the right side.  The inside, picture, however, defines grace
+under pressure.  I find it interesting that they're putting the
+egg in tension along the axis that is the most difficult to break.
+An interesting find is that they dedicate the album in memory of
+Robbie Whelan, who is mentioned as a general assistant on the
+three previous albums.  Could this be the person that Neil writes
+about in Afterimage?  Could this have also caused the generally
+gloomy feel of this entire album?  NASA and the Johnson Space Center
+get thanks, as well as Golden Earing.
+
+Power Windows (1985):  This cover is fairly obvious, also.  TVs
+are the biggest "power window" around.  However, it's interesting
+that they use really old sets (the movie Brazil did this also, kinda
+like a future regression in technology).  For some reason, this picture
+seems more powerful because of the old sets... it just wouldn't
+have the impact with a Sony XBR Trinitron sitting there.  Also,
+interesting that this kid seems to be wanting to control outside
+events "remotely".  If you look VERY closely, you can see the back
+cover picture very faintly in the rightmost set.  The back cover
+reveals little, except that you can see the umbrellas they use
+for lighting in the binoculars.  Doesn't this kid remind you of
+the type of kid who'd appreciate a song like "Subdivisions"?
+Inside, we have "big thank you's go around the world" to the
+Manor again.  Interestingly, His Royal Highness King Lerxst is
+mentioned... is this they guy Lerxstwood Mall is named after on
+the back of Signals?  Red Rider is thanked.  More refs to baseball
+in "on the mound" and "at home plate".  Brought to us by the letter
+"M"... these guys are watching too much Sesame Street!
+
+Hold Your Fire (1987):  Nothing revealing about the cover, other
+than the fact there are three red marbles (planets?) and three
+members of the band (I love this cover, is it available as a
+poster?).  Inside are three pix of the band... Neil looks hagard.
+I heard around this time that he had cancer, and this picture
+may have started that rumour.  Then we see a picture which has
+the literal translation of "hold your fire".  Interesting that
+he is juggling three balls, like the front cover.  Look closely
+in the left window of the building behind him... do you see the
+TVs from Power Windows there?  The black cat in the alleyway seems
+to be exactly one step ahead of his shadow!  Is that fire hydrant
+from Signals?  What does the lettering on the Chinese restaurant
+say?  Tai Shan?  Liner Notes - It says recorded at the Manor; so
+I guess that's what the Oak Manor is?  Also, assisted by Lerxst.
+Mac Plus, Lynda Barry, and Pee Wee's Playhouse get mentions.
+
+A Show of Hands (1989):  Nothing really interesting here, except
+the double entendre (sp?) of the title.  Anyone know who Sam
+Charters is?  I do love the three stooges intro to the album,
+though...  Also, the last few notes on Big Money are from that
+Cheech and Chong song where the parent makes the kid turn down
+the music and go to school.
+
+Presto (1989):  Cover is obvious (although, I can't help but
+think of "Between the Wheels" :-).  Inside, we have the
+rock, paper, scissors hand game.  Opening further, we have
+Alex, Neil, and Geddy.  Any parallels between the items in the
+game and the guys in the band?  One thing I might add here, is
+that one thing I've always respected about RUSH is that they
+never bought into that "A rock star must have really long hair
+and look like a rebel."  Okay, Geddy's hair is pretty long, but
+he doesn't look like he bites the heads off of chickens :-).
+Nothing interesting inside, except for the swipe they take at
+Mike Roberts from Atlantic Records for providing them with the
+idea for "Superconductor".  Oh, BTW, you guys 'get' "Anagram",
+don't you?
+
+--
+Todd Day |   todd@ivucsb.sba.ca.us   |  ucsbcsl!ivucsb!todd
+	"I believed what I was told, I thought it was a good
+	 life, I thought I was happy.  Then I found something
+	 that changed it all..."	   --- Anonymous, 2112
+
+----------------------------------------------------------
+
+Date: Sun, 5 Aug 90 22:04:51 hst
+From: Hinano Akaka &lt;bigtuna!hinano@uhccux.uhcc.Hawaii.Edu&gt;
+Subject: Various and sundry bits and pieces II
+
+FEAR TRILOGY:  I think the "Fear" trilogy is one of Neil's best works.
+After getting the GUP album, I noticed that "The Enemy Within" was
+'Part I' of Fear.  Part I?  Then I noticed that MP and Signals had
+Parts II and III.  Uh, Neil...um, aren't you supposed to write part I
+_first_?  Can anyone figure out why Neil wrote it "backwards"?  the
+only explanation I can come up with is that Neil was taking 'fear' apart by
+going from the outside in--examining the result of fear ("Witch Hunt"),
+going through the "second layer" (I'm not sure how to explain this
+part) of fear ("The Weapon"), and finally going to the source ("The
+Enemy Within").  Comments?
+
+LYRICS:  Both Geddy and Alex helped out with "Chemistry" on Signals.
+Speaking of lyrics, it was rather funny on Friday--I had
+"The Trees" going through my mind while I was working.  Without really
+thinking about what I was singing, I came up with:
+	"There is unrest in the forest,
+	there is trouble with the trees,
+	For the maples want more syrup,
+	And the Oaks ignore their pleas."
+I started laughing when I realized what I had just "said" and I
+thought it sounded like something Alex might've written!  Sort of how
+the maples ended up with being famous for syrup.  Maybe it's
+just as well that Neil does the lyrics!  (Perhaps I'll start up a
+collection--what the lyrics _would_ have been if Alex wrote them...)
+
+LISTENING TO COMPLETE ALBUMS:  Well, this isn't exactly advice for
+which albums to listen to when and in what order, but I laughed when
+someone brought up the subject of listening to an entire album (not out
+of spite, mind you).  I can recall, several years ago, when this
+intense "Rush Mood", as I call it, swept over me with a vengeance, and
+I ended up listening to all of their albums (Rush to HYF and including
+live albums) TWICE in one day!!!   Groan.  I would've gone on listening
+to them if it hadn't been so late...
+
+RED BARCHETTA:  I'm glad someone asked for the poem that inspired one
+of my favourite songs.  If Neil thinks tearing around a valley is 'A Nice
+Morning Drive', I'd hate to drive with him...
+
+COUNTDOWN:  For all those who have just been added to this wonderful
+Digest within the past few weeks, there was some discussion awhile back
+about the transmissions at the end of the song.  Bob Joslin, if you
+don't mind, I'd like to reiterate your question.  Bob asked about a
+transmission that was garbled:
+	It comes after, "What a view, what a view..."
+
+	and right before, "Columbia, we have 40 seconds to LOS [loss
+	of signal].  Configure to LOS.  You're lookin' good for an over the
+	hill, we'll see ya in Madrid."
+
+	It sounds something like, "She had it on us."
+It's real difficult to understand.  Can anyone figure this out?
+The reason I ask is because, well, I was trying to find the transcripts
+for that flight but we don't have it.  Sorry, Bob.
+
+TAI SHAN: I like that song!  He wrote it during/after a three-week
+bicycle tour he did of China, right before the PoW tour.  And he
+leaves Larry to do everything!  What a guy!
+
+ROCK GROUPS ARE SATANISTS:  Yes, well I've come to the conclusion that
+Rush _is_ indeed (forsooth!) trying to corrupt the minds of today's
+youth.  I mean, let's face it--they have that symbol with that red
+star and the man, they have songs like "Witch Hunt", "Tom Sawyer",
+which is, of course, a book written by a man whose works should be
+_banned_ (!), and they have that...that 'Fear' trilogy--trying to get
+teenagers to be afraid of all that's good and decent...
+	Frankly, I'd like to thank the person who sent that letter in from
+Neil...I needed a good laugh.  Boy, that sounded good!  Great
+going!
+
+SIGNALS TOUR BOOK:  I just received the Signals Tour Book from the
+Rush Backstage Club and was delighted when I saw the pictures of the
+crew.  However, I haven't the vaguest (well, o.k., slightly vague)
+idea of who is who, except for Larry Allen, of course.  Can anybody
+help me?
+
+allright, I've taken up enough space.  Until next time...
+
+"because if you don't have your 3D glasses, you'll only be seeing this
+thing in 1-half D..."  Count Floyd 'Grace Under Pressure Tour"
+
+Puanani Akaka
+
+----------------------------------------------------------
+
+From: Adrian N Ogden &lt;ano@csres.cs.reading.ac.uk&gt;
+Date: Mon, 6 Aug 90 10:12:46 BST
+Subject: Usenet ( Was Re: 1001001 )
+
+&gt;As far as our favorite band being made up of computer geeks (hey,
+&gt;aren't a lot of us in that category? ;'), I doubt it.  (Particularly
+&gt;considering Neil's reaction to Usenet and this list.)';
+
+What was Neil's reaction to Usenet and this list? I've not heard
+about it (but I only joined this list a week ago).
+
+[ See my note above about this.                               :rush-mgr ]
+
+ // "Always hopeful yet discontent        /  Adrian Ogden            \\
+&lt;&lt;   He knows changes aren't permanent   /   University of Reading    &gt;&gt;
+ \\  But Change is."                    /    ano@uk.ac.rdg.cs.csres  //
+
+----------------------------------------------------------
+
+Date: Mon, 6 Aug 90 15:19:56 -0100
+From: Frank Schaapherder &lt;schaaphe@serc.nl&gt;
+Subject: Saga
+
+Hi,
+
+Though I think this is not the appropiate place to discuss other groups than
+Rush, I'd like to react on previous postings on Saga on this list. It appears
+to me, that you over there in the US have no knowledge of their latest album.
+It's out here (in Europe) on BMG/Ariola for about 8 months (At least, I own
+it that long) and the album is marvellous, after 10 times listening. It's
+called: 'The beginner's guide to throwing shapes'. Go get it!
+
+Someone wrote lately that on 'Digital Man', Geddy sings 'Babylon' instead of
+'Avalon'. I may be wrong, but I have another (more remakable ?) discrepancy
+of lyrics on sheet and on record. On 'A Passage To Bankok', which is concerned
+with drugs imho, I hear "We've been smoking Lebanon' instead of 'Wreathed smoke
+in Lebanon'. Any others hear the same?
+
+Bye
+Frank.
+
+----------------------------------------------------------
+
+To submit material to the Rush mailing list, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions & changes), send
+mail to:
+
+    rush-request@syrinx.umd.edu
+
+The contents of the Rush Fans Digest are solely the opinions and comments
+of the individual authors, and do not necessarily reflect the opinions of
+the management.
+
+List Management
+
+********************************
+End of RUSH Fans Digest
+********************************
+
+

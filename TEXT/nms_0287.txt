@@ -1,0 +1,938 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 07/15/91 - The National Midnight Star #287
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 287
+
+                   Monday, 15 July 1991
+Today's Topics:
+                      Administrivia
+           THe difference between 13/8 and 4/4
+                    Rushing new albums
+                Hey, Sean!  You butthead!
+              Time signatures.... ANSWER!!!
+                    lyrical importance
+                   the energy you trade
+                           heh.
+            you know you're a rush fan when...
+                      BMG catalog...
+            Re: Rush Philosopherisiizinginging
+    'they would likely have gladly exchanged them...'
+           The meaning of "PART IV" in trilogy
+to towns.s.g@p9955.wlu.edu (apologies for posting to the list)
+some old stuff, good stuff, and some pretty good stuff....-RP,'75
+                  over analysing lyrics
+        Dune, time signatures, instrumentals, etc.
+                   Neil Peart Interview
+                       Rush on TV!
+                    New list proposal
+              Addendum to new list proposal
+                      presto in BMG
+                   Internet Relay Chat
+                   Dem' three balls...
+----------------------------------------------------------
+
+From: Editor, The National Midnight Star &lt;rush-mgr@syrinx.umd.edu&gt;
+Subject: Administrivia
+
+Last Friday (7/15), Syrinx went suddenly mental and freaked out.  In
+less technical terms, it kept initiating the sendmail daemon, and really
+bogged down the opsys in it's confusion.  I was trying to get through
+the admin mail and the list mail, but finally gave up and just put out
+the list.  Some of your mail to the administrative site will have a 
+lag time of 1-4 days; sorry folks.
+
+Secondly, due to *severe* constraints on my time at work, I won't be
+able to put the time into the NMS that I'd like to.  I spent an hour
+today just reading admin mail, and that's too much.  I'll do what I
+can, but responses from "rush-request" will probably have increased
+turn-around time, and the NMS may not go out every day.  I'm working
+on getting a decent workstation at home; if I can do that, then I'll
+be able to do some stuff in the evening.
+
+Lastly, I noticed an alarming trend of discussing bootlegs in the 
+recent digests.  Now, talking about them is ok, but the NMS is NOT
+a forum for trading illegal (in some eyes) boots.  Far be it from me
+to turn facist on a topic like this, but I can't let tape lists or
+lengthy solicitations for tapes be posted.  For the most part, I'll
+just remove the posts (and inform you).  I don't need any extra heat
+brought down on the NMS, if you know what I mean.  Please know that I
+don't blame/accuse/deride those of you/us that deal with them; I'd just
+like to keep it more low-profile, and OUT of the NMS.  This isn't me
+alone, other people with large collections have asked the same.  (No,
+even torture won't get me to reveal who!)
+
+Lastly, since I'm on a down note, I WILL NOT TOLERATE people posting
+stupid, mindless flames to the NMS.  This applies to those who are
+"flipping one last finger" as they unsubscribe, or whoever.  I will
+remove them, and I will ignore all "remove/unsubscribe me" messages
+posted to this digest.  The proper addresses are at the end of EVERY
+issue.  If you're not bright enough to figure that out, that's your
+problem.
+
+Sorry folks, hate to be a bummer ...  It's been a loooong Monday.  And
+I have to consider moving the digest to another physical machine.  I'll
+keep the address, but the hardware may go to another staff member.  We'll
+see just how compatable DEC Ultrix and NeXT Unix are, I guess....
+
+*sigh*
+rush-mgr
+
+Hope the new album hurries up!
+
+----------------------------------------------------------
+
+Date: Fri, 12 Jul 91 17:13:22 -0600
+From: habbinga@tramp.Colorado.EDU (erik habbinga)
+Subject: THe difference between 13/8 and 4/4
+
+Okay, here is a quick example between 4/4 and 13/8 time, using Rush music as
+an example.  First, the verbal description.  4/4 time, also known as common
+time, is used about 95% of the time in rock music.  Songs like New World Man
+and Scars are in 4/4 time, and all of the dance music you hear are in 4/4
+as well.  4/4 means that the quarter note (1/4) gets the beat, and there
+are four of them per measure.  13/8 time is less common (by far) than 4/4,
+and will usually not be found in dance music, cause people would probably
+trip over themselves trying to move smoothly in 13! :)  13/8 means that
+the eighth note (1/8) gets the beat, and there are thirteen of them in a
+measure.  Pull out your copy of Jacob's Ladder, and listen to the music after
+the "Light streams down in bright unbroken beams" lyric.  Alex plays a phrase
+with six notes followed by a phrase of seven notes. (This is at 4:53 on the
+PeW CD).  This could be either written as a measure of 6/8 followed  by a
+measure of 7/8, or to save ink, 13/8.  Try not to listen to Neil at the
+beginning, as he will probably throw off your timing, but later he calms down
+and plays with the guitar and bass, and the 13/8 is easy to count.  Also,
+if you have "Empire", by Queensryche, the song "Best I Can" ends in 13/8, or
+alternating measures of 7/8 and 6/8, starting at 4:59 on the CD.  That's all
+I can think of in 13/8 off the top of my head.  If you are interested in
+other odd time signatures, listen to "Losing It", off of Signals, which
+starts out in 5/8, switches to 4/4,and back to 5/8 very smoothly.  Also,
+the solo section, at 2:48 on the CD, is in 11/8, or alternating measures of
+6/8 and 5/8, with Neil playing open hi-hats and ride cymbal on the offbeats.
+I hope this helps!
+
+Erik
+
+----------------------------------------------------------
+
+Date: Fri, 12 Jul 91 21:21 EDT
+From: MCS &lt;MCS@carleton.ca&gt;
+Subject: Rushing new albums
+
+Pardon the pun.. (yuk)..
+
+Anyway, someone mentioned the fact that through some mysterious
+and unexplained phenomenon, older songs and videos of artists seem
+to always start being played just a month or so prior to the release
+of new, err, "product" by the artist.
+
+There is a term to describe this phenomenon, it's called
+"Memo-itis". Record company representatives (read: weasels)
+spend thousands of dollars issuing memos to radio and vid stations
+etc.. announcing the new album and make pseudo-subtle hints towards
+encouraging said media outlet to put the group back in the public eye.
+
+God, you wouldn't believe how much Triumph started to get played around
+here before Rik Emmett's Solo re-grease.
+
+Sometimes there'll even be incentives, I have a good friend who is
+a radio programmer who received an *awesome* simple minds leather
+jacket a few weeks prior to the their new album. It's all part of
+the sick game that is record promotion, sigh...........
+
+HEY!!!!!!!!!!!!!!!!!!!!!!!!!
+
+I'm looking for people who actually *OWN* an original copy of the
+1986 Guitar Player magazine with Geddy Lee on the cover. There's
+a soundsheet by a jazz guitarist named "Kazumi Watanabe" in it (yeah,
+I know, Kazumi WHO!?) and I'd like to get a hold of it (not the maga-
+zine, just the soundsheet). Since there rarely seems to be much cross-
+over between Rush and Kazumi Watanabe fans (ha!), I was wondering if
+some kind Rush fan would be interested in mailing said soundsheet to
+li'l ole me?
+
+I'd *really* appreciate it. Please reply to me at:
+
+&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;
+| Neil Prasad        |  Carleton U.     | Recycle paper, |
+| Mass Communication |  MCS@CARLETON.CA | not music!!    |
+&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;
+
+----------------------------------------------------------
+
+From: mjordan@ccwf.cc.utexas.edu (Marc Jordan)
+Subject: Hey, Sean!  You butthead!
+Date: Sat, 13 Jul 91 0:31:11 CDT
+
+I AM jealous!!  And I DO have a copy of "Pieces of Eight", but you can't have
+it!  Nyah, nyah, nyah, nyah!  (We planned on seeing Yes in Houston in August,
+but they apparently cancelled or something, and we can't go.)
+
+Later, Marc.
+
+----------------------------------------------------------
+
+Subject: Time signatures.... ANSWER!!!
+From: wilkinso@darkside.com (Sean Flanegan)
+Date: Fri, 12 Jul 91 21:21:33 PDT
+
+   I hope that I don't confuse you!!!
+
+       4/4   means four Quarter notes to a measure.
+
+           1/4 + 4 = 4/4
+
+       8/4   Means eight Quarter notes to a measure
+
+           1/4 + 8 = 8/4
+
+    Rush play the time signature of 7/4 very often.
+Which is ........... seven Quarter notes to a measure.
+
+This is most easily seen in the intro. guitar riff to " Superconducter"
+
+As soon a s thea guitar kicks in Count   1...2....3....4...5....6....7 and
+then back to  1...2...3...4...5...6...7...   Make sure that you count on the
+beat so that you don't get confused.
+
+   Time sig.  can also be in 8/8   or 8 eighth notes to a measure. This
+would be twice as fast as 4/4
+
+   Hope I Helped!!!
+
+                                             Close to the Edge....  Round by
+the corner,  seasons will pass you buy,  I get up,  I get down."
+
+                                  Y E S----------
+
+----------------------------------------------------------
+
+Subject: lyrical importance
+From: wilkinso@darkside.com (Sean Flanegan)
+Date: Fri, 12 Jul 91 21:07:45 PDT
+
+   In TNMS 132,  some argued that the idea of analysing Neil's lyrics would
+in some way take away from the music itself....   You are all intitled to
+your own opinion....  but the complex and thoughtful lyrics are things that
+led me to love Rush.  these are my reasons
+
+      1&gt;  Being a drummer myself,  I know how hard it is to give musical
+ideas to other musicians in a band setting.  A drummer doesn't usually write
+a song( give ideas for a melody)  Drums usually keep the beat and that is
+all.  We all know that Neil is ***THE*** drummer,  but it can be frustrating
+when your ideas are not fully expressed. Neil writes the lyrics...  this is
+his contribution.      This impressed me.  Especially the way that his
+lyrics were intelligent.  Who Knows.....  Maybe if John Rutsey still played
+the drums for Rush they would still be saying  "Take yourself a friend"!!!
+
+      2&gt;I don't see what is wrong with the idea of analysing the lyrics.
+Just like it is done with books and poetry,  I think that it is fine to do
+to music.  When the new Album comes out one of the things I will be thinking
+is....................   What is Neil thinking of now?!?!!?
+
+ P.s.  No matter what your opinion,  it cannot be doubted that Rush are
+EXTREMELY talented individuals.
+
+----------------------------------------------------------
+
+Date: Sat, 13 Jul 91 11:40:26 EDT
+From: jaeger@buphy.bu.edu (Gregg Jaeger)
+Subject: the energy you trade
+
+Hi Everyone,
+
+In addition to the blasphemy of disagreeing with Ayn Rand's
+hierarchical conception of philosophy, I have been accused of
+`putting words in Neil's mouth.' I think a reality check is in order:
+I said _I'd bet_ Neil would agree that public education is a good
+thing. I _didn't_ say Neil _said_ or _didn't say_ anything. The
+reason I'd _bet_ that Neil would agree that accessible education
+is important is that he was part of a literacy program
+which involved creating handouts to be distributed to public
+schools (obviously Neil should be excommunicated! : )  ). As to
+the dependency of ethics on metaphysics in Objectivism,
+this is Ayn's own metaphilosophical inclination, and does not in
+any way prevent Objectivist ethical _theses_ themselves from
+being retained when Objectivist _metaphysical_ theses are put
+in question. This fact follows directly from the basic rules
+of logical inference: &lt;p implies q&gt; (i.e. &lt;Objectivist metaphysical
+theses imply Objectivist ethical theses&gt;, each set of theses
+being one conjunction) together with &lt;not-p&gt; (i.e. the denial of
+&lt;Objectivist metaphysical theses&gt;)  does _not_ imply &lt;not-q&gt;
+(i.e. the denial of &lt;Objectivist ethical theses&gt;), sorry.
+(If it did then from the facts &lt;being a man implies being mortal&gt;
+and &lt;Lassie is not a man&gt; one could prove that Lassie is immortal;
+But Lassie is dead! Just like Elvis! ;) ). However, &lt;not-p&gt; _does_
+imply &lt;not-(p and q)&gt;! So if hard-line Objectivists wish to subscribe
+to the doctrine that to accept Rand's ethical position they must also
+accept her metaphysical position, that is their own choice and
+liability. By not accepting this metaphilosophical doctrine I risk
+only the scorn of fundamentalists. There is nothing absurd in
+accepting her ethics without accepting her metaphysics (as I've
+shown above). I hope that this doesn't cause any Objectivist
+fundamentalists to self-destruct! ;)
+
+Really, I gave my private e-mail address in the text of my original
+mailing so that those who wished to discuss Objectivism with someone
+who wasn't in _total_ agreement could do so _privately_. Nicely :) ,
+I have had the opportunity as a result to talk in private with some
+open-minded individuals who enjoy talking to one with whom they
+disagree philosophically! Thus I don't regret expressing my opinion
+in response to the honest question asked by Jon, namely: what is
+your philosophy - are you Objectivist or what? But in the future,
+Objectivists who happen to be self-righteousness (or anyone with
+honest inquiries), please send email to jaeger@buphy.bu.edu!
+Let's not waste anymore bandwidth on this can o' worms.
+
+Gregg
+
+p.s. While I enjoy discussing `the philosophy of Rush' and _love_
+discussing Rush lyrics, I think Wes' call for more musical discussion
+is a good one -- musicians send us your insights!
+
+ORQ: `Let's talk about this sensibly...'
+
+----------------------------------------------------------
+
+Date: Sat, 13 Jul 1991 12:41:35 EDT
+From: Mark "Crimson" Friedman &lt;friedman@cis.ohio-state.edu&gt;
+Subject: heh.
+
+In last ish, DougO queries:
+] Can someone explain to musically illiterate me what the difference
+] between 4/4 time and, say, 13/8 is?
+
+Oh, about three eighth notes...
+
+							Heh,
+							- Crimson
+
++----====&gt;&gt;&gt;))) Mark Friedman is friedman@cis.ohio-state.edu (((&lt;&lt;&lt;====----+
+|  "There is nothing former  |  (Disclaimer : the opposite of Datclaimer)  |
+|     about King Crimson."   |    "I used to have a photgraphic memory     |
+|   - Robert Fripp, 5/11/90  |       but it was never developed..."        |
+&gt; -.---.----..-.---.----..-.---.----..-.---.----..-.---.----..-.---.----.. &lt;
+
+----------------------------------------------------------
+
+Date: Sat, 13 Jul 91 12:54:00 edt
+From: "Dylan Kaufman" &lt;morgan@chaos.cs.brandeis.edu&gt;
+Subject: you know you're a rush fan when...
+
+even though you have all their albums (except archives... anyone seen
+it lately?), you ask someone to email you the information they get on
+BMG RUSH catalog numbers...
+
+-&lt;&gt;Dylan&lt;&gt;-                     MA EMT-M, CA EMT-1A, BEMCo 107
+Dylan Kaufman 			Major in Computer Science
+morgan@chaos.cs.brandeis.edu	Brandeis University, Waltham, MA
+------&lt;&lt; Support your local Emergency Medical Services &gt;&gt;-------
+"Don't ask me, I'm just improvising" -RUSH
+
+----------------------------------------------------------
+
+Date: Sat, 13 Jul 91 13:06:57 edt
+From: "Dylan Kaufman" &lt;morgan@chaos.cs.brandeis.edu&gt;
+Subject: BMG catalog...
+
+The presto number is 164202...
+
+I think that you (HAG2@vms.cis.pitt.edu) were reading from a 1/2 price
+catalog when you made the list, because the normal price for
+Chronicles is more than 15.98...  I bought that one on one of the half
+price sheets and it was 15.98 then....
+
+-&lt;&gt;Dylan&lt;&gt;-                     MA EMT-M, CA EMT-1A, BEMCo 107
+Dylan Kaufman 			Major in Computer Science
+morgan@chaos.cs.brandeis.edu	Brandeis University, Waltham, MA
+------&lt;&lt; Support your local Emergency Medical Services &gt;&gt;-------
+And on the seventh day, even He rested.  We don't.  -Emerg. Med. Svcs.
+
+----------------------------------------------------------
+
+Date: Sat, 13 Jul 91 13:38:36 -0400 (EDT)
+From: "Jon C. Slenk" &lt;js9b+@andrew.cmu.edu&gt;
+Subject: Re: Rush Philosopherisiizinginging
+
+(Since I started this thread...)
+
+I was first hooked on the music, too. Then I read the lyrics. THAT was
+when I REALLY started to like Rush. Can you honestly say that there are
+not other bands that have as much, if not more, instrumental talent than
+Rush? What makes them such a special band for me is that they work on both
+their music and their lyrics - they specifically designed things that way,
+with Neil on the words and Geddy and Alex doing the music. If a group has
+good music but goes against everything I believe philosophically I find it
+much more difficult to enjoy them. Don't you?
+
+Something that I am curious about is why their videos are so bad! I
+know that they don't have control over their videos (someone once
+mentioned that Neil was really hard to make videos with because the
+"director" would say something like, "Okay, now you walk through this mist
+playing the air drums and singing..." and Neil would just walk away.) but
+I don't understand WHY they don't have control. Rush strikes me as a very
+holistic group and I would think they would want control (well, at least a
+veto!) over the albumn art and the videos... If you don't understand what
+I mean, watch Chronicles. The concert footage is just fine but things like
+"Time Stand Still" are simply PAINFUL to watch.
+
+Sincerely,
+-Jon / js9b+@andrew.cmu.edu
+
+----------------------------------------------------------
+
+Date: Sat, 13 Jul 91 14:28:18 EDT
+From: pmw3y@acacia.cs.Virginia.EDU
+Subject: 'they would likely have gladly exchanged them...'
+
+So I'm cruising out in the car today, headed for Taco Bell, and
+listening to my ASOH video soundtrack, Mission in particular...
+
+"If their lives were exotic and strange
+ they would likely have gladly exchanged them
+ for something a little more plain
+ maybe something a little more sane"
+
+And it struck me as odd - for certain, in history there have
+been plenty of notable individuals who didn't ask for their
+notoriety, didn't want it, and took every opportunity to escape
+from it.  However, there have also been plenty of people who
+seem to have "known" their place in history, enjoyed their
+eventful lives, and repeatedly maintained that they wouldn't
+have it any other way.
+
+My thoughts on that passage are twofold:
+
+1)  It certainly works better with the theme of the song, as it
+implies an inner drive or obsession that the individual just can't
+suppress.
+
+2)  It also says something about Neil's vision of a "creator"
+(for lack of a better word) - IMHO, someone who is driven
+to take what they see in their dreams and thoughts and make them
+into reality.
+
+Anyway, I just thought I'd throw that out for y'all to consider.
+Now back to my chicken soft taco.
+
+ORQ:  "Ladies and Gentlemen, the Professor on the drum kit."
+
+----------
+Patrick Widener                  Internet:  pmw3y@virginia.edu
+Department of Computer Science	            patrick@dirac.physics.jmu.edu
+University of Virginia           ICBM_Net:  38.02 N, 78.30 W
+"the death star has cleared the planet."
+
+----------------------------------------------------------
+
+Date: Sat, 13 Jul 91 17:33:11 EDT
+From: faulkner@acsu.buffalo.edu (shane p faulkner)
+Subject: The meaning of "PART IV" in trilogy
+
+You guys are missing the point!!!  This is obviously Mr. Lifeson , always
+the comedian, making a little joke.  Of course there are only 3 parts in
+a trilogy, but this will be part 4, a joke....  get it.... ????
+
+And they say Rush has no humour.
+
+///////////////////////// The Gangster of Boats /////////////////////////
+/////////////////////////////////////////////////////////////////////////
+/ Shane P. Faulkner         |   A to B - Different degrees...           /
+/ University At Buffalo     |                          - Rush           /
+/ V127L2QZ@UBVMS.BITNET     |                                           /
+/ faulkner@acsu.buffalo.edu |   Rush - Marillion - Kim Mitchell         /
+/////////////////////////////////////////////////////////////////////////
+
+----------------------------------------------------------
+
+Date: Sat, 13 Jul 91 18:14:22 edt
+From: "Dylan Kaufman" &lt;morgan@chaos.cs.brandeis.edu&gt;
+Subject: to towns.s.g@p9955.wlu.edu (apologies for posting to the list)
+
+Your mail box seems to be full... please let me know when it isn't...
+
+-&lt;&gt;Dylan&lt;&gt;-                     MA EMT-M, CA EMT-1A, BEMCo 107
+Dylan Kaufman 			Major in Computer Science
+morgan@chaos.cs.brandeis.edu	Brandeis University, Waltham, MA
+------&lt;&lt; Support your local Emergency Medical Services &gt;&gt;-------
+"Imagine a time when it all began, in the dying days of a war" - RUSH
+
+----------------------------------------------------------
+
+Subject: some old stuff, good stuff, and some pretty good stuff....-RP,'75
+From: easy@darkside.com (Phil D. Croix)
+Date: Sat, 13 Jul 91 20:05:21 PDT
+
+Hey Bubba it's a quarter to eight(actually, it really is) I feel I'm in the
+mood to post.
+I thought I was the only one with the static near the end of Tom Sayer on
+the ASOH video(Right before Exit the warrior). Suck. And did anyone notice
+some kind of funky sounds on their copy of the Tom Sawyer on the Chronicles
+video? Whats with That song and video ta)? Also, Three balls representing
+the astronauts who where on the challenger? There were seven who died in
+that accident. Also: not to make this sound like a want ad, but more like a
+act of desperation, BOOTLEGS! I want 'em!!! Any info on how to trade will be
+greatly appreciated. It seems that the St. Louis Boot is very popular,
+Because that's always in the list of the very few(?) boots that are out
+there(that we know of, at least).Even I have that boot, and beleive me, Just
+to hear Natural Science live is reason to live. I also have contributed to
+the catalog of boots by taping a show myself(Oakland, CA). I gave copies to
+all of my friends, so who knows where it may end up from there. I am very
+proud of how it turned out, it is EXCELLENT! And to all of you people who
+think bootlegging is bad, and loses money for the artist: PHHHPPPPTTT!!!!
+Lighten up! I already have every single album and video I could possibly
+buy. I'm not going to buy every boot I can find and never buy an official
+release. In fact, when Presto was released(November 17, '89, I remember that
+day well!), I bought TWO copies! A tape for my car and a cd. My friend
+bought two copies: One for himself, and one to put into a safety deposit box
+, to give to his Grandchildren, so they can hear what REAL music used to be.
+By the way, I think PRESTO Is an AWESOME album. Rush just keeps getting
+better. So there. BYE.
+
+Philled to the Croix-----
+
+"We would have come sooner, but your husband wasn't dead then."
+                  -Lt. Frank Drebin, Police sqaud-
+
+-------**********Yay, Poison******Go Whitesnake******Yeah AC/DC**********
+
+----------------------------------------------------------
+
+Date: Sun, 14 Jul 91 02:22:26 -0500
+From: franksr@zeus.mgmt.purdue.edu (innocent bystander)
+Subject: over analysing lyrics
+
+Someone brought up the thread of over analysing lyrics/listening just for the
+music. I agree. For me, the first time I listen to a song gives me a mindset
+that I almost always fall into whenever I hear it again. I had a literature
+teacher in high school that I went round and round with about over analysing
+poetry. It promted me to write a poem drawing an analogy between prose and
+a fresh coat of paint. The main idea was that a fresh coat of paint had a
+sharp pungent smell, and a glistening quality, and when you touched it, some
+of it was picked up and sticks to your fingers. BUT, when you go back later,
+the smell isn't as sharp, it doesn't glisten quite as much, and not nearly as
+much is picked up by your fingers. I don't know if this applies, but I
+generally get the biggest charge out of a song the first time I hear it. Oh
+well, have a good one.
+
+&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;
+&lt;     Rich Franks                           franksr@midas.mgmt.purdue.edu    &gt;
+&lt;      Krannert School of Management Computing Center, Purdue University     &gt;
+&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt;
+
+----------------------------------------------------------
+
+Date:    Sun, 14 Jul 1991 13:00:54 CDT
+From: SRF6200@SIGMA.TAMU.EDU (Hactar)
+Subject: Dune, time signatures, instrumentals, etc.
+
+Just some musings about the last NMS...
+
+wilkinso@darkside.com (Sean Flanegan) writes:
+&gt;   On earlier posts of TNMS,  people were discussing the possibility of the
+&gt;band doing another concept song.   Names like Robin Hood and Dune were
+&gt;brought up.  I don't know about you, but I really don't think that would be
+&gt;a good idea.  Especially Dune.  If Neil was going to write a song based on
+&gt;anything it should be something with a little more artistic integrity. I
+&gt;mean REALLY!!
+
+Well, Sean, I sorry you seem to think Dune and possibly its author Frank
+Herbert have no artistic integrity.  I would be curious to know _why_ you say
+this, since Dune is a critically acclaimed novel.  I do agree, however,
+that I wouldn't want to see Rush doing another fantasy/sci fi concept
+album, since they have outgrown that style years ago (as they will admit).
+
+From: dougo@soda.berkeley.edu
+&gt;Can someone explain to musically illiterate me what the difference between
+&gt;4/4 time and, say, 13/8 is?  I've heard it mentioned a lot that Rush plays
+&gt;in all sorts of odd time signatures, but I've never actually figured out
+&gt;what this means.
+
+The 4/4 time signature means that there are four beats per time measure
+(each time measure is between the solid vertical lines on the sheet music).
+This is also refered to as "common time" since it is the most common time
+measure (how original!)  Likewise, 3/4 time has three beats per measure,
+etc. etc.  Now, a beat per time measure in common time is one quarter note
+(the solid circle with one vertical line attached).  Therefore, there are
+four quarter notes in a time measure for common time, or eight eighth
+notes, or 16 sixteenth notes, etc.  For 3/4 time, there are 3 quarter notes
+per time measure....whew! I'm out of breath.  Likewise, for 5/4, 6/4, and
+7/4 time (which Rush does upon occasion).  Now, as for 13/8 time, I've
+never actually played in this time signature before (in fact, I've never
+heard of it either), but since I only play saxaphone, maybe I'm missing
+something?
+
+From: DSchmidt.311@postman.gsfc.nasa.gov!
+&gt;Where's My Thing?  Part IV.  The gangsters of boats trilogy.
+&gt;
+&gt;[deleted]
+&gt;
+&gt;    Maybe it's just the fourth instrumental:
+&gt;        I) 2112 Oveture
+&gt;       II) La Villa
+&gt;      III) YYZ
+&gt;       IV) Where's my thing?
+
+Well, what about the 2112 Grand Finale?  Can this be considered an
+instrumental?  (There are no lyrics, just speaking parts at the end).
+
+Steve Fennell (Texas A&M University)
+
+----------------------------------------------------------
+
+Date:    Sun, 14 Jul 1991 13:02:52 CDT
+From: SRF6200@SIGMA.TAMU.EDU (Hactar)
+Subject: Neil Peart Interview
+
+{ I left this in here, because it's not too long.  In general, I'd prefer
+  those with interview, etc. transcripts to send them to the administrative
+  address.  That way they'll get into a special edition, and have more of
+  a chance to get into the 'rush/special' directory at the ftp site.
+                                                                 :rush-mgr ]
+
+Here's an old interview I dredged up from the Houston Post that I thought
+you all might be interested in.  It was written by Bob Claypool based on a
+phone interview with Neil Peart.  The publication date was 1/27/88.
+
+*****
+(reprinted without permission from the Houston Post)
+
+    Remember the old cliche about "The more things change, the more they
+stay the same?"
+    Consider this - a decade ago, I was talking to Geddy Lee, the bassist
+of Rush, about the media status of other bands.
+    At that time, Elvis Costello and various graduates of the New Wave were
+making all the noise in the rock press.  Big labels had signed them up,
+their pictures were on the cover of every rock rag in the world and
+interviews with them ran on forever.
+    As usual, no one cared about the hard rock trio, Rush, right?  Funny
+thing, though, anybody who had access to sales charts would find something
+very peculiar - namely, that the entire _combined_ "new music" brigade
+wasn't moving "product" the way this Canadian threesome was.
+    Rock critics hated Rush, sincerely hated them, and yet... Rush filled
+indoor arenas and they sold records in huge quantities.
+    Now, in 1988, I'm on the phone to another member of the band, drummer
+Neil Peart, and - deja vu - we wind up laughing about the status of the
+band that still gets no media respect.
+    On the strength of their latest album, _Hold Your Fire_, Rush - Lee,
+Peart, and guitarist Alex Lifeson - is once again zooming across America,
+banging heads with maximum volume, big power chords, and their ongoing
+penchant for spinning strange, science-fiction-like rock 'n' roll tales
+(They perform Friday night in The Summit [Houston, TX]).
+    Music magazines are not amused, but, says Peart, that's not even a
+problem anymore.
+    "There have always been these factions in rock 'n' roll that absolutely
+hated us - we're used to that," he said.  "But we've always been happy with
+the way we achieved success.  It _didn't_ come from a lot good press and
+exposure, or because we were critics' darlings.  It was a result of the
+real thing - because we got out there and slogged around the U.S.  We were
+a hardworking touring group and we stayed on the road as much as we could.
+We choose that avenue - we believed that it was the natural order of
+things, and it worked for us."
+    Ironically enough, the big controversy about Rush now comes not from
+outside - from those who simply hate hard-rock groups to begin with - but
+from within the ranks of the faithful.
+    "Yes, we have all sorts of factions within our own fans now," Peart
+said.  "I suppose that's natural after 15 years, but we have a lot of
+people who prefer our material from the late '70s - the long instrumental
+passages, and all - who don't care for the new music all that much.  On the
+other hand, we have a lot of fans for whom the band didn't exist before
+1980 - they're totally into the new songs."
+    The solution?
+    "Well, we try to mix it up some, go back and do some things that will
+appeal to the old fans.  But it's sort of strange to play a song and see
+part of the audience jumping up and down and the other part standing there
+sort of bewildered."
+    A friend of mine, who's a long-time Rush fan, is one of those people
+who's not too crazy about _Hold Your Fire_ or any of the other recent
+albums.  For him, the band has gotten too "craftsy" about their songs.  He
+misses the super-long, overwrought jams and says the new Rush is "too
+synthesized".
+    "Well, we've progressed, we've tried to keep up with the technology
+that's involved in the record-making process today," Peart said.  "You
+simply have to do that.  When we got Peter Collins (as coproducer), he
+expanded our sound in a lot of areas.  We were used to doing it ourselves,
+really, and we had to set aside a lot of our preconceptions, but I think it
+worked out really well.
+    "The new album was recorded and mixed digitally, except for the drums
+and bass, which were analog," Peart continued.  "I feel more comfortable,
+and prefer the sound, doing it that way."
+    We go on to talk about another characteristic of the band, one that's
+seldom, if ever, discussed - their sense of humor.  Now, no one is implying
+that Rush is wildly funny, but, on the other hand, they are not the
+gloomy-gus, dreary, ultra-sober head-bangers they're frequently perceived
+to be.  Even in the days when solos stretched on interminably, and the
+sci-fi scenarios got even more bizarre, there was a certain sense of fun to
+it all.
+    "I can't understand that either - I don't know why some people can't
+see it," Peart said.  "We start nearly every show by coming onto the Three
+Stooges song, and we close it by playing Robert Goulet or some
+country-western song!  It never fails to amaze me that some people just
+don't get the hint.  We're _not_ taking it all that seriously!  We want to
+have fun!  That's a lot of the inspiration for what we do, simple as that.
+    "You know, like any band that's been around this long, we have our
+lunatic fringe of fans," Peart said.  "We have some who are really _out_
+there.  And they will come up to us and talk about these really weird
+interpretations of certain songs, and they'll ask us these huge, cosmic
+questions about why we wrote what we did.  They're usually either very
+disappointed, or they just don't believe us, when we give them an answer.
+They don't want to hear, 'Well, uh, no.  Actually, we did it that way just
+because we were having fun!'
+    "Sorry," he laughed, "but I'm afraid that's the truth of it."
+
+*****
+
+Steve Fennell (srf6200@zeus.tamu.edu)
+
+You know you're a Rush fan when...
+   You spend a hour recopying the above interview from the microfiche
+BY HAND because you don't have any change to make copies.
+
+----------------------------------------------------------
+
+Subject: Rush on TV!
+Date: Sun, 14 Jul 91 15:33:22 EDT
+From: mjkobb@media-lab.media.mit.edu
+
+Greetings,
+
+  I happened to have the TV on Saturday night/Sunday morning when a show
+called "Global Jam" came on (NBC, I think).  They had clips of Tina Turner,
+Richard Marx, Stevie Ray Vaughn(sp?), and.... RUSH!
+
+  They showed two songs from the ASOH video -- Spirit of Radio, and Tom
+Sawyer.  The intro was sort of amusing, actually, since it was read straight
+from the jacket of the video.
+
+  Nice to see the boyz on the air!
+
+Seeya,
+--Mike
+
+----------------------------------------------------------
+
+Date: Sun, 14 Jul 91 15:37:21 edt
+From: "Dylan Kaufman" &lt;morgan@chaos.cs.brandeis.edu&gt;
+Subject: New list proposal
+
+The other day I posted a message about how I would be willing to make
+copies of bootlegs as long as it didn't cost me anything, and that I
+imagined that other people would feel the same way.
+
+Well, I was thinking that it might be nice to have a LIST of all the
+people who own bootlegs, what they have, and where they are.  That
+way, people could look at the list, find what they want and decide
+to whom they should write about getting it.
+
+For instance, if I were in Boston (where Brandeis is, which I'm not at
+the moment), I could look at this list, see that Moving Pictures tour
+boots are owned by person x@ucsd, person y@berkeley, and person
+z@bostonu and send mail to z so that I could actually go get them and
+not have to deal with shipping...
+
+What I am basically saying is this:
+
+If you own any bootlegs and are willing to copy them for people
+provided that they either give you tapes and envelopes with return
+postage or that they will pay you (either in advance or after) for the
+tapes and the postage, then please send me a list of WHAT you have
+(including notes on quality and song lists if you like), and WHERE you
+are (general area is sufficient, you can be specific if you like).
+
+I will compile this into a list, and make it available via ftp from
+syrinx (by the grace of MGR, of course), email (from me), and on the
+list periodically (also by the grace of G.. I mean MGR ;&gt;  )
+
+[ At the risk of being a hard-ass, I can't make this available via
+  ftp on Syrinx.  As it's technically an illegal venture, I can't
+  officially lend the machine to that purpose.  Feel free to manage
+  the tree yourself, though - I *do* encourage free speech.   :rush-mgr ]
+
+Thanks to all who participate...
+
+-&lt;&gt;Dylan&lt;&gt;-                     MA EMT-M, CA EMT-1A, BEMCo 107
+Dylan Kaufman 			Major in Computer Science
+morgan@chaos.cs.brandeis.edu	Brandeis University, Waltham, MA
+------&lt;&lt; Support your local Emergency Medical Services &gt;&gt;-------
+"I've got something to say!  It is better to burn out than
+to fade away!" - Kurgan
+
+----------------------------------------------------------
+
+Date: Sun, 14 Jul 91 19:44:07 edt
+From: "Dylan Kaufman" &lt;morgan@chaos.cs.brandeis.edu&gt;
+Subject: Addendum to new list proposal
+
+A couple more thoughts for people who are interested:
+
+A) please send me the generation of the boot you have... i.e. if it's
+the tape that was at the concert or an lp or cd, then it's first
+generation... if not...
+
+B) please also send me the songs that are on it, what kind of tape
+it's on (if it is), and how long it is.
+
+C) be sure to send me a valid address so that we can get in touch with
+you without writing to here... in other words, don't make me rely on
+your return address, those are not always good...
+
+D) I'm going to call it the Available Bootlegs List (ABL)...
+
+-&lt;&gt;Dylan&lt;&gt;-                     MA EMT-M, CA EMT-1A, BEMCo 107
+Dylan Kaufman 			Major in Computer Science
+morgan@chaos.cs.brandeis.edu	Brandeis University, Waltham, MA
+------&lt;&lt; Support your local Emergency Medical Services &gt;&gt;-------
+And on the seventh day, even He rested.  We don't.  -Emerg. Med. Svcs.
+
+----------------------------------------------------------
+
+Subject: presto in BMG
+From: wilkinso@darkside.com (Sean Flanegan)
+Date: Sun, 14 Jul 91 17:18:18 PDT
+
+  I do not believe that Presto is in the BMG catalog, but I an definately
+sure that it is in the CBS disc club catalog.  Probably due to the change in
+record labels.  I however do not recommend you do any business with the CBS
+club.  They tried to rip me off.  Sending me CDs that I didnt want even
+after I sent thet return slip back in time.
+
+    UNRELATED QUESTION:    Does anyone know why Tormato and Yesshows&lt;&lt;bye
+YES of course&gt;&gt;is only available as an import CD. At least that is the way
+it is here in the San Francisco bay area
+
+      also   about why Rush changed record labels.  It is true about M-P's
+contract being fulfilled.  Neil added in his latest Modern Drummer interview
+that it wasnt a situation of the band asking if they could sell more of
+( THEY being Atlantic Records) Rush's albums.  It was a situation where 
+Atlantic offering to sell more
+
+          You Know you are a Rush Fan when.....
+
+  While you are in the movie theatre watching Robin Hood with youre Brother
+( rush fan ) and two Friends ( not Rush Fans),  When lady marion stamps a
+letter with a wax Red Star.. You and youre brother exchange excited glances.
+
+               P.S.   I have heard from a reliable source and do believe
+myself that the mumbling in the later sections of The Camera Eye is as
+follows................................
+
+    " BEleCh!!..."
+
+    " That's Gross Alex."
+
+                      ^
+                  Alex Lifeson of course
+
+-sean
+
+----------------------------------------------------------
+
+Date: Mon, 15 Jul 91 05:04:45 edt
+From: "Dylan Kaufman" &lt;morgan@chaos.cs.brandeis.edu&gt;
+Subject: Internet Relay Chat
+
+For those of you who have access to irc and are inclined, I thought it
+would be nice to have a channel devoted to RUSH...  I'm calling it the
++RUSH! channel...  I will inhabit it whenever I am around, and if you
+feel like joining me, I'll be happy to see you...
+
+(if you don't know what irc is, mail me or jlang and we'll let you in
+on the big secret ;&gt;  )
+(which isn't that big...)
+
+-&lt;&gt;Dylan&lt;&gt;-                     MA EMT-M, CA EMT-1A, BEMCo 107
+Dylan Kaufman 			Major in Computer Science
+morgan@chaos.cs.brandeis.edu	Brandeis University, Waltham, MA
+------&lt;&lt; Support your local Emergency Medical Services &gt;&gt;-------
+"I've got something to say!  It is better to burn out than
+to fade away!" - Kurgan
+
+----------------------------------------------------------
+
+From: rlr@bbt.com (Ron Rader)
+Subject: Dem' three balls...
+Date: Mon, 15 Jul 91 8:49:38 EDT
+
+Todd Fantz &lt;fantz@athena.cs.uga.edu&gt; hypothesizes:
+
+&gt; (5) As far as the symbolism of the "three gilded balls" in The
+&gt; Fountainhead. It seems obvious to me that the phrase means that man at
+&gt; the present time will basically sell his soul to the highest bidder.
+
+&gt; [...] Dr. John Ridpath ... says that he
+&gt; knows of no other significance to the three balls.
+
+  I don't know whether or not this has any significance to HYF, but a sign
+composed of three metal balls (arranged in a roughly triangular pattern) is
+the traditional emblem of the pawn shop.  Apparently pawn shops are shrouded
+in antiquity, but have abandoned this traditional symbol in recent years, so
+this symbol is somewhat unrecognized today.
+
+  The 'sell (or pawn) your soul to the highest bidder' proposal has some
+merit.
+
+--
+ron rader, jr  rlr@bbt.com OR ...!mcnc!bbt!rlr = Opinions are my own and do
+| |  i gotta six-pack & nothing to do...       = not necessarily reflect those
+ | | i gotta six-pack & i don't need you       = of BroadBand Tech. (SO THERE!)
+  *** Punk ain't no religious cult, punk means thinking for yourself - DKs ***
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 287
+********************************************
+
+

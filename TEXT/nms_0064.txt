@@ -1,0 +1,669 @@
+Return-Path: temples@syrinx.UMD.EDU
+Received: by syrinx.UMD.EDU (5.57/Ultrix2.4-C)
+        id AA16839; Wed, 10 Oct 90 09:36:28 -0400
+Date: Wed, 10 Oct 90 09:36:28 -0400
+Message-Id: &lt;9010101336.AA16839@syrinx.UMD.EDU&gt;
+Errors-To: rush@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush-list-all@syrinx.UMD.EDU
+Subject: RUSH Fans Digest of 10/10/90 (#64)
+
+
+               RUSH Fans Digest, Number 64
+
+                Wednesday, 10 October 1990
+Today's Topics:
+                          Presto
+                       Bass playing
+          RE: RUSH Fans Digest of 10/05/90 (#60)
+                       rush-guitar\
+             A question and Acoustic Guitars
+         Re:  RUSH Fans Digest of 10/09/90 (#63)
+             The real Steven Owen & Rush BBS
+         Rush File Archives: Review from the RSRG
+     Rush File Archives: How to get the Raster Images
+         pointers to Rush Sun backgrounds wanted
+         Rush File Archives: The Poem from Xanadu
+                          (none)
+                     Re: Rush-Guitar
+            "Rush Through Time", guitar, etc.
+                      Rush and MIDI
+                      Guitar music..
+                       2112 trivia
+                       ESL chatter
+                 Requesting missed issues
+                 Name that mailing list!
+----------------------------------------------------------
+
+Date: Tue, 9 Oct 90 10:23:29 -0400
+From: cs021045@cs.brown.edu (Jason Rosenberg)
+Subject: Presto
+
+   All of this talk about the appeal of Rush has brought up a question that I 
+have been wanting an answer to.  The song Presto, what does it mean?  I got 
+the general theme of the song: yes, I would love to be able to make everything
+all right, but I'm not magic.  No one is.  Even though I can look at the past 
+and see what was wrong('my memory has a second sight...') and sometimes even 
+see whats wrong in the present, I can't change it.    Now, my problem comes 
+at the bridge.  ("don't ask me, I'm just improvising...).   What do those
+2 verses mean?  What exactly does Neil mean by "I radiate more heat than 
+light?"  I've been looking at this for a while, and I'm still fuzzy.  Any 
+ideas?
+
+Jason Rosenberg
+
+----------------------------------------------------------
+
+From: chainsaw@jhunix.hcf.jhu.edu (David Laurenc Gordon)
+Subject: Bass playing
+Date: Tue, 9 Oct 90 12:04:02 EDT
+
+  Hi! I'm a bass player and I'm super-heavily into RUSH, and, as Geddy Lee is 
+God, he plays lots of stuff that's too complicated to pick out by ear. So, 
+here are my questions: 
+
+    1) Does anyone else here play the bass guitar?
+    2) Is there some way that I can get my hands on some sheet music through 
+        this digest?
+    3) Anyone have a good Geddy Lee statue that I can sacrifice my first born 
+        to? (For those without a sense of humor, I'm not kidding)
+
+                               -Chainsaw
+
+----------------------------------------------------------
+
+Date: 5 Oct 90 12:41:00 EST
+From: gbear@ucs.indiana.edu
+Subject: RE: RUSH Fans Digest of 10/05/90 (#60)
+
+Recent postings in the Digest have brought up the old argument of why people
+like the things they like.  I agree with the old addage that goes "There is
+no accounting for taste."  I think that trying to rationalize your obsession
+(and mine too) with RUSH is rather silly.  I have grown tired of people
+constantly pointing out that they like RUSH because RUSH is the 'best' band.
+I do not feel that it is necessary to justify likes and dislikes such as music.
+Why does everyone need to use their left brain to explain what their right
+brain is telling them?  Can't you just like RUSH without having to justify
+your feelings with left mindedn mental exerciese aimed at proving your tastes
+are better than other peoples tastes?  I would agree with the popular opinion
+that RUSH lyrics are more insightful and probing than most, but this is not
+a prerequisite for my admiration of their work.  It is good because I like it
+but this should not be confused with liking it because it is good.
+
+Just talking off the top of my head and hoping to generate some good
+conversation. . . .
+
+						Glenn
+
+ORQ: "We are planets to each other,
+      Drifting in our orbits to a brief eclipse."
+
+----------------------------------------------------------
+
+Date: Tue, 9 Oct 90 12:34 EST
+From: Shane Faulkner &lt;V127L2QZ@ubvmsc.cc.buffalo.edu&gt;
+Subject: rush-guitar\
+
+I don't know what you mean Rotem, ANY song that can be played on an electric
+guitar can be played on an acoustic.  True, it won't sound exactly the same
+without chorus, distortion and delay, but all songs can be acoustically
+adapted.
+
+Here's some more chords for you, from 'Presto'... the main acoustic part
+('I am made from the dust of the stars, etc...)
+
+C - Open ... 5th string 3rd fret, 4th string 2nd fret, 3rd stg open, 2 stg 1st
+             fret, 1st stg open  ... note, 6th (fattest stg) not used
+Bbsus2   ... bar all stgs at 1st fret, plus add 4th stg 3rd fret & 3rd stg 3rd
+             fret
+Fmaj     ... bar all stgs at 1st fret add 5th stg 3rd fret, 4th stg 3rd fret
+             and 3rd stg 2nd fret.
+
+Hope you didn't already know this.
+
+By the way, if there are any other guitar playing Rush fans out there, drop me
+a line if you want to trade solos, sound tips, etc.
+-Shane
+
+----------------------------------------------------------
+
+Date: Tue, 9 Oct 90 11:40:17 -0500
+From: Russ Glaeser &lt;cs325cy@ux1.cso.uiuc.edu&gt;
+Subject: A question and Acoustic Guitars
+
+     Hello all!   This may be a question for the FAQL, but since I haven't
+heard it posed yet, I will ask it...
+
+   Why was Presto "Brought to [us] by the letter M" and
+   why was Power Windows "Brought to [us] by the letter D"?
+
+   In response to the question about playing Rush on acoustic guitar, I
+can play Rivendell from Fly by Night, and the Discovery of 2112.  This latter
+wasn't played on acoustic, but it sounds good anyway.
+
+   Hats off to the management for doing a fantastic job.
+
+        Russ Glaeser
+
+----------------------------------------------------------
+
+Date: Tue, 9 Oct 90 13:32:09 -0400
+From: jtkung@caf.MIT.EDU (Joseph Kung)
+Subject: Re:  RUSH Fans Digest of 10/09/90 (#63)
+
+Some Rush stuff that can be played on acoustic include "Closer to the
+Heart," "Presentation," "Fly By Night," "Entre Nous," and "Different
+Strings" just to name a few. I also like to play the intro to
+"La Villa Strangiato" and "A Farewell to Kings." Unfortunately, it's
+hard to convey the proper fingering and phrasing of these songs over
+the net, so if anybody want details, please send me e-mail separately
+and maybe I can work something out. Oh, and I forgot Alex's acoustic
+instrumental, "Broon's Bane" that I like to play. I have the transcription
+somewhere ...
+
+- Joe
+
+----------------------------------------------------------
+
+Date: Tue, 9 Oct 90 10:31:26 -0700
+From: Steven Owen &lt;dunadan@u.washington.edu&gt;
+Subject: The real Steven Owen & Rush BBS
+
+&gt; Date: Fri, 5 Oct 90 07:11:17 PDT
+&gt; From: "An Cat Dubh dtn223-6886  05-Oct-1990 0950" &lt;owen@euclid.enet.dec.com&gt;
+&gt; Subject: Would the real Steven Owen please stand up
+&gt;
+&gt; I just thought I'd point out something for clarification.
+&gt;
+&gt; It appears that there are two Steven Owen's here in this digest!  There's me
+&gt; (the usually read-only and listen to lots of Rush Steven Owen) and then
+&gt; there's another (post alot and generate heated discussion Steven Owen).
+&gt;
+&gt; I've seen Stephen Owen and Steven Owens, but this is just two weird.  There
+&gt; isn't any Steven Owen's in the entire Boston white pages, there are two
+&gt; Stephen Owens'.  No Stephen Owen's either.  A quick calculation tells me
+&gt; there are about a half million entries in that phone book... there are about
+&gt; 400 people here.  Hmmmm.... figure the odds....
+&gt;
+&gt; Anyway, I just wanted to make sure everyone knew what was going on.  BTW, I
+&gt; usually sign my notes 'Steve'
+&gt;
+&gt; (the one who has been here since the beginning of the list  ;-)  )
+
+I *knew* this was going to happen sooner or later! :)
+
+Actually, this isn't Steven Owen, but his brother, Mike Owen.  He's let me
+use his account here so I can keep up with the mailing list.  Actually, I've
+been on the mailing list since Day One as well, but under three different
+accounts: aragorn, livia, and now dunadan, all at blake.u.washington.edu.
+
+[ Ahh, yes, I remember aragorn!                                :rush-mgr ]
+
+&gt; Date:    Mon, 08 Oct 90 13:07 EDT
+&gt; From: LHARRIS@CLEMSON.CLEMSON.EDU
+&gt; Subject: RUSH bbs
+&gt;
+&gt; Someone posted a while back on accessing a RUSH oriented bbs through
+&gt; telnet.  Am I correct? or was this for something else.  I can't tell
+&gt; because when I telnet to this address, the host rejects my open attempt,
+&gt; so I can't even get into it to find out what it was for.  I believe the
+&gt; address I have is "micom.cac.washington.edu".  I would appreciate any
+&gt; other information on this.
+
+That was me.  Unfortunately, while it was formerly possible to access the
+Micom Switch directly from Telnet, that is no longer true.  You now must 
+have an account on blake to get into Micom, and thus to the Vadic modems.
+
+You can still accessing my bulletin board, but you have to call it through
+"regular" means:
+
+The Broken Blade
+(206) 781-9424
+300-2400 baud, 8N1, 24 hours
+
+--Mike Owen
+
+ORQ: "Philosophers and ploughmen, each must know his part"
+
+----------------------------------------------------------
+
+Date: Tue, 9 Oct 90 10:35:22 -0700
+From: Steven Owen &lt;dunadan@u.washington.edu&gt;
+Subject: Rush File Archives: Review from the RSRG
+
+&gt;From the 1983 Rolling Stone Record Guide:
+
+      * Rush (1974)
+      * Fly by Night (1975)
+      * Caress of Steel (1975)
+    * * All the World's a Stage (1976)
+* * * * 2112 (1976)
+  * * * A Farewell to Kings (1977)
+* * * * Hemispheres (1978)
+* * * * Permanent Waves (1980)
+* * * * Moving Pictures (1981)
+* * * * Exit...Stage Left (1981)
+
+Canadian heavy metal trio Rush began as a poor man's Led
+Zeppelin with a bone-crunching live sound that built up a
+modest following on the arena circuit, a period encapulated
+by the early albums and climaxing with the earnest live set
+_All_the_World's_a_Stage_. The band's dogged determination
+to improve finally paid off when their sound and conception
+suddenly gelled on _2112_, a science fiction concept album
+that stands up favorably against similar efforts by British
+counterparts.  At this point drummer Neil Peart, bassist/
+keyboardist Geddy Lee and guitarist Alex Lifeson had proven
+their instrumental chops and proceeded to improve their song-
+writing.  That goal was finally achieved on the breakthough
+_Permanent_Waves_, with its excellent hit single "Spirit of
+the Radio" and the beautiful "Jacob's Ladder."  Thought Lee's
+banshee vocals continued to be a source or irritation for some,
+his tremendous synthesizer programing helped expand the band's
+range.  By the time of the second live set, _Exit...Stage_Left_,
+Rush had become one of the top arena attractions around.
+
+      -Review by: John Swenson, author of books about the Who,
+the Beatles, Kiss, the Eagles, Bill Haley, Stevie Wonder and
+Simon and Garfunkel, former record review editor at _Crawdaddy_,
+_Circus_, and _High_Times_, and writer for _Rolling_Stone_.
+
+[CARESS OF STEEL only ONE star??  What the hell do they know anyway? :)]
+
+----------------------------------------------------------
+
+Date: Tue, 9 Oct 90 10:42:13 -0700
+From: Steven Owen &lt;dunadan@u.washington.edu&gt;
+Subject: Rush File Archives: How to get the Raster Images
+
+To: rush-list@syrinx.UMD.EDU
+Subject: RUSH Fans Digest of 3/28/90
+Date: Mon, 01 Jan 90 12:39:34 EST
+From: Rush Fans Digest &lt;temples@syrinx.UMD.EDU&gt;
+
+Hear Ye, Hear Ye !!
+
+This is to announce that I've finally gotten around to uploading the
+SUN raster files (containing pictures of album covers & pictures of
+the Boyz) !!!
+
+The place they are located is waterloo (sorry, don't know the complete
+Internet (name) address), with numeric Internet address of:
+
+    129.97.129.72
+
+Here's what you do:
+
+1) "ftp 129.97.129.72"
+2) login with userid "anonymous", password &lt;your userid&gt;
+3) once logged in successfully, change to to the /incoming dir
+   ( "cd  /incoming" )
+4) the pictures are in the following files - just use the normal "get"
+   to download them to your machine.
+
+    - rush.rast.info: This is the first file to get; it contains
+                      information on how to deal with the other files.
+    - rush.rast.rush: Album cover from first album, _RUSH_
+    - rush.rast.2112: Album cover from _2112_
+    - rush.rast.aftk: Album cover from _A Farewell To Kings_
+    - rush.rast.fbn: Album cover form _Fly By Night_
+    - rush.rast.hemi: Album cover from _Hemispheres_
+    - rush.rast.boyz1: Picture of the three of 'em (Recent)
+    - rush.rast.boyz2: Picture of Geddy & Alex (Recent)
+    - rush.rast.boyz3: Picture of all three (Recent)
+
+    Once you've downloaded them, follow the directions in the file
+    "rush.rast.info" to display them on your workstation.
+
+If you need to get a copy of the program "xloadimage", there is a
+compressed tar file on the waterloo server, in the same directory
+as the pictures.  To get it to a working state, first download it
+(using binary transfer) to your local machine.  Then uncompress it,
+and un-tar it by using the command: "tar xf xloadimage.tar"  This
+will un-tar all the files into the current directory.  After that,
+it's just a matter of 'make'ing the file to get the executable. The
+README file is very informative - read it! I was able to do it on
+a VAXstation 2000 and a DECstation 3100.
+
+----------------------------------------------------------
+
+Date: Tue, 9 Oct 90 13:44:38 EDT
+From: pmw3y@uvacs.cs.Virginia.EDU
+Subject: pointers to Rush Sun backgrounds wanted
+
+I'm not sure if this was on the FAQL or not.  I seem to remember (back
+in the dark mists of last semester) some mention of some Rush Sun
+backgrounds.  Can anyone point me to them?  Thanks muchly!!
+
+pat widener
+pmw3y@virginia.edu
+
+----------------------------------------------------------
+
+Date: Tue, 9 Oct 90 10:38:13 -0700
+From: Steven Owen &lt;dunadan@u.washington.edu&gt;
+Subject: Rush File Archives: The Poem from Xanadu
+
+                                KUBLA KHAN
+
+                In Xanadu did Kubla Khan
+                A stately pleasure dome decree:
+                Where Alph, the sacred river, ran
+                Through caverns measureless to man
+5                 Down to a sunless sea.
+                So twice five miles of fertile ground
+                With walls and towers were girdled round:
+                And there were gardens bright with sinuous rills,
+                Where blossomed many an incense-bearing tree;
+10              And here were forests ancient as the hills,
+                Enfolding sunny spots of greenery.
+
+                But oh! that deep romantic chasm which slanted
+                Down the green hill athwart a cedarn cover!
+                A savage place! as holy and enchanted
+15              As e'er beneath a waning moon was haunted
+                By woman wailing for her demon lover!
+                And from this chasm, with ceaseless turmoil seething,
+                As if this earth in fast thick pants were breathing,
+                A mighty fountain momently was forced:
+20              Amid whose swift half-intermitted burst
+                Huge fragments vaulted like rebounding hail,
+                Or chaffy grain beneath the thresher's flail:
+                And 'mid these dancing rocks at once and ever
+                It flung up momently the sacred river.
+25              Five miles meandering with a mazy motion
+                Through wood and dale the sacred river ran,
+                Then reached the caverns measureless to man,
+                And sank in tumult to a lifeless ocean:
+                And 'mid this tumult Kubla heard from far
+30              Ancestral voices prophesying war!
+                  The shadow of the dome of pleasure
+                  Floated midway on the waves;
+                  Where was heard the mingled measure
+
+[ Apparently, due to some problem with the mail/software, there were three
+  lines lost here (with an incorrect article break).  Could you please
+  re-send those lines?  Thanks!                                 :rush-mgr ]
+
+                  A damsel with a dulcimer
+                  In a vision I once saw:
+                  It was an Abyssinian maid,
+40                And on her dulcimer she played,
+                  Singing of Mount Abora.
+                  Could I revive within me
+                  Her symphony and song,
+                To such a deep delight 'twould win me,
+45              That with music loud and long,
+                I would build that dome in air,
+                That sunny dome! Those caves of ice!
+                And all who heard should see them there,
+                And all should cry, Beware! Beware!
+50              His flashing eyes, his floating hair!
+                Weave a circle round him thrice,
+                And close your eyes with holy dread,
+                For he on honeydew hath fed,
+                And drunk the milk of Paradise.
+
+                                Samuel Taylor Coleridge [1816]
+
+----------------------------------------------------------
+
+Date: Tue, 9 Oct 90 11:40:02 -0700
+From: bancroft@iris.eecs.ucdavis.edu (Steven Bancroft)
+Subject: Re: Rush-Guitar
+
+&gt; From: rotem@jhunix.hcf.jhu.edu (Rotem A Elgavish)
+&gt;
+&gt;    I realize that most RUSH songs cannot be played on an acoustic guitar -
+&gt; there are a couple that have parts which can be. I am wondering if anyone
+&gt; out there can play any RUSH on an acoustic? For example, I can play the
+&gt; acoustic part of "In the End". If any of you know how to play something
+&gt; even as simple as a few chords - please respond.
+
+I have an acoustic, but I can't really say I play it.  But I like to tinker
+and lately I've been working on Rivendell (off of Fly By Night), and have
+the intro and the first couple of measures worked out.  Sounds really good!
+All it takes is headphones, callouses, and lots of determination!  :-)
+
+Steven Bancroft
+University of California, Davis
+
+Internet   smbancroft@ucdavis.edu
+BITNET     smbancroft@ucdavis.BITNET
+UUCP       ..!ucdavis!smbancroft
+
+----------------------------------------------------------
+
+Subject: "Rush Through Time", guitar, etc.
+Date: Tue, 09 Oct 90 12:44:37 PDT
+From: braun@iris.eecs.ucdavis.edu
+
+Hello!  You can add me to the list of 1st time senders.  I have a few
+comments regarding a few of the last articles.
+
+With regards to "Rush Through Time," I don't know about the cassette
+version, but I have a copy of the album which I picked up in Germany.
+The record is actually a Picture Disc -- instead of black vinyl, both
+sides feature a concert photo of the lads in full swing printed on the
+actual album.  There is no date on the record or cover, but judging by
+the length of Alex's hair (*long*), I'd put it at just past
+2112/Hemispheres/Farewell (Neil's "Kit from Hell" as Steven Owens II
+(or is it Steven Owens I -- I've lost track :) ) is also in the
+picture).  The album itself is a compendium of songs from the first 6
+or so albums -- something like:
+
+Side 1: Fly By Night/Making Memories/Bastille Day/Something For
+Nothing/Cinderella Man/Anthem
+Side 2: Overture/Temples of Syrinx/Twilight Zone/Best I Can/Closer to
+the Heart/In the End
+
+[ This is *my* personal favorite of my albums.  I love the selection of
+  older stuff, and the tape lives in my tape deck in my car!   :rush-mgr ]
+
+The cover of the album has the brand name of Mercury on it, but I'm
+not sure how official it is (it lacks a date, copyright, credits, etc,
+etc. -- it doesn't even list the member's names!)  Printed on the disc
+is something like Pic Disc - A Division of Fitzgerald/Hartley Co.
+Though I've seen it Germany once or twice, I've never seen it over
+here in the States.  Perhaps someone else can shed light on its
+origins... (Alas, my copy has a couple of scratches on side two --
+actually, "gouges" or "trenches" might be more appropriate wording :))
+
+[ I've got both this one, and another one called "Anthology", a Venezuelan
+  import.  I'll try to remember to bring 'em in and post the information
+  on them.  "Anthology" is interesting - the song titles are in Spanish!
+                                                                :rush-mgr ]
+
+With regards to playing Rush acoustic, I just started learning to play
+guitar a year and a half ago, and naturally the main things I wanted
+to learn to play were by Rush.  There are a couple of music books out
+there (check music stores with lots of printed rock music) -- I have a
+two volume set of Rush, covering albums Rush through Power Windows.
+So far I've learned the acoustic pieces from 2112, In the End,
+Panacea, the Intro to The Trees, and bits and pieces from Closer to
+the Heart, Natural Science, Rivendell, Necromancer, etc, etc.  If your
+interested in the books, mail me and I'll get you the Publisher, etc.
+(I'm not at home at the moment so I can't get you the catalog #s).
+By the way, if any of you have ever wanted to learn to play guitar, I
+suggest doing so (I waited 20 years to start) -- it's great to be able
+to play some of the pieces, and it's yet another way Rush and their
+music has enhanced my life.
+
+I was going to add a paragraph about why I like Rush so much, but this
+thing's long enough (not to mention I have classes now), so that can
+wait...
+
+ron braun                   --  "Like Old Sol behind the mountain
+braun@iris.ucdavis.edu      --   I'll be coming up again..."
+
+----------------------------------------------------------
+
+From: sinistar@mrcnext.cso.uiuc.edu (Jeff O'Hare)
+Subject: Rush and MIDI
+Date: Tue, 9 Oct 90 16:25:07 CST
+
+Hi.  I was wondering how Rush performs their songs that require
+sequencing.  Does anyone know if Peart follows a click-track, or
+do they use some kind of MIDI rhythm follower.  For some reason
+I have a feeling that a rhythm follower would have a hard time
+keeping track of what the heck Neil was doing.  I noticed on the
+Show of Hands laserdisc, Neil is wearing headphones during Red
+Sector A.  Is he listening to a click-track?
+
+----------------------------------------------------------
+
+Subject: Guitar music..
+Date: Tue, 09 Oct 90 14:26:55 PDT
+From: djk@sequent.com
+
+&gt;
+&gt;    I realize that most RUSH songs cannot be played on an acoustic guitar -
+&gt; there are a couple that have parts which can be. I am wondering if anyone
+&gt; out there can play any RUSH on an acoustic? For example, I can play the
+&gt; acoustic part of "In the End". If any of you know how to play something
+&gt; even as simple as a few chords - please respond.
+&gt;
+&gt; 				Rotem
+
+There are several versions of "Rush - Complete" which contain all of the
+music for all Rush albumns up to a certain period; for example, I have
+a two volume set which goes through Power Windows; I've seen one volume
+versions up through Signals.  Any way, most of the rhythm music is there,
+including chords for those of us who can't make much sense out of music.
+This isn't tab!  But most of interesting lines are transcribed (e.g. intro
+accoustic to LaVilla, intro to Spirit of the Radio, chords for In the End,
+etc.).  The lead parts aren't there, but the bass lines are.
+I picked mine up a local music shop which had a large selection
+of sheet music.  A friend picked up a copy at Musicland, so you should be
+able to find it easy enough.
+
+In all this is an excellent source of information.
+
+-- darin
+
+----------------------------------------------------------
+
+Date: Tue, 9 Oct 90 19:35 EDT
+From: "Meakin, William James" &lt;WMEAKIN%DREW.BITNET@CUNYVM.CUNY.EDU&gt;
+Subject: 2112 trivia
+
+Good day!
+
+        It's been awhile since I posted, but I just discovered something
+that really blew me away! To make it more exciting for everyone else,
+listen to the first part of 2112. Concentrate on the last guitar solo.
+This is very important. After listening to it, ask yourself what it is
+taken from. I'll post the answer on Friday.
+
+                                Bill Meakin
+
+----------------------------------------------------------
+
+Date: Tue, 9 Oct 90 23:34:14 -0700
+From: hawks@cory.Berkeley.EDU (Harvey H. Hawks Jr.)
+Subject: ESL chatter
+
+I asked this question a while ago (almost a year! scary...) but I don't
+think I got any responses so I'm trying again.  Someone's got to know!
+I'm wondering what Ged says before 'Jacob's Ladder' on Exit....
+
+	"We'd like to do an old song for you right now.  This was
+	 done a long time ago by ...(???)...  This is called
+	 'Jacob's Laddder.'"
+
+I assume this is some sort of joke but I'm still really curious.
+Maybe this could be added to the Questions List as well.
+
+I'd also like to take this opportunity for thanking rush-mgr and all
+the people who sent in nifty things like program notes and interviews.
+Excellent work that should be commended.  (Sorry, I don't live anywhere
+near D.C.)
+				-hhh
+_.___.____.._.___.____.._.___.____.._.___.____.._.___.____.._.___.____..
+"Like, who could come after			Harvey H. Hawks, Jr.
+    the guy, you know?"				hawks@cory.berkeley.edu
+	-Ged, re Neil
+=+===+====++=+===+====++=+===+====++=+===+====++=+===+====++=+===+====++
+
+----------------------------------------------------------
+
+Subject: Requesting missed issues
+Date: Wed, 10 Oct 90 08:48:48 EDT
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+Hi folks,
+
+    Just a quick note with a plea:  when you request missed individual
+issues, PLEASE state either the date or the digest number for what you
+are requesting.  When you say things like "yesterday", remember, mail
+doesn't always (or usually) get to me the same day!
+
+    Thanks from the bottom of my keyboard!
+
+Manager,
+RUSH Fans Digest
+
+----------------------------------------------------------
+
+Subject: Name that mailing list!
+Date: Wed, 10 Oct 90 09:08:22 EDT
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+Ok, it's come to my attention that our mailing list is a bit drab,
+name-wise.  As I've been basically concerned with getting the $%^&*
+thing out, I hadn't really given much though to artistic flair.
+
+So, with that in mind, I present:
+
+                 NAME THE MAILING LIST CONTEST
+
+Since I have absolute power over Syrinx (hahahahahaha!), I can do
+just about anything I want with the mailing list.  We can have the
+address stay the same or change, we can re-name the Digest, we can
+do whatever we feel like!  (Talk about your objectivism in action!)
+
+Think about what you'd like to see in the way of an interesting:
+
+    - Real address (in the "Return-Path" field in the header,
+    - Alias for receiving mail (instead "rush@syrinx),
+    - Name of the Digest (instead of "RUSH Fans Digest")
+
+Post all ideas to the list, not directly to me here, unless you're not
+sure about the appropriateness of an idea, or something like that.
+
+Let's take the Jethro Tull mailing list as an example (hi Roger!).
+It's called "The St. Cleve Chronicle", after a fictitious newspaper
+from a Tull album (_Thick As A Brick_).  Now, we should be able to
+come up with something good, right?
+
+If this doesn't generate some bandwidth, nothing will!  :-)  Get
+those brains in gear and those fingers tapping!
+
+Manager,
+RUSH Fans Digest
+
+----------------------------------------------------------
+
+To submit material to the Rush mailing list, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (additions, deletions & changes), send
+mail to:
+
+    rush-request@syrinx.umd.edu
+
+The contents of the Rush Fans Digest are solely the opinions and comments
+of the individual authors, and do not necessarily reflect the opinions of
+the management.
+
+List Management
+
+********************************
+End of RUSH Fans Digest
+********************************
+
+

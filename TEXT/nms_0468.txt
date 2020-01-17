@@ -1,0 +1,776 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 04/17/92 - The National Midnight Star #468
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@syrinx.umd.edu
+Administrative matters:    rush-request@syrinx.umd.edu
+                                    or
+                           rush-mgr@syrinx.umd.edu
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+          The National Midnight Star, Number 468
+
+                  Friday, 17 April 1992
+                     (Number 1 of 2)
+Today's Topics:
+                     Administrivia
+             Danforth and Pape Intersections
+                           GoAC
+                        Willowdale
+        What songs are better live / in the studio
+                         May 24th
+                     Elephant's Butt
+             RUSH sell out at Deer Creek, IN?
+            just some rambling (as always)...
+                PITTSBURGH CONCERT DATE!!
+                          help!
+               RTB cd singles (yes, plural)
+                     Alex interview?
+                          Awards
+                   Ok, enough is enough
+ Two unrelated topics, North Carolina and alt.music.rush
+                   Rush Commercialized
+         Is Mercury's release of ESL AAD or ADD?
+              Concert Review (NEC 12/04/92)
+                      rush newsgroup
+                     Marillion again
+TNMS questions/messages for forthcoming interview with Neil
+                  My wish came true. . .
+                      Lubbock Venue
+                    Speech about RUSH
+                          (none)
+              Guitar picks a la Alex Lifeson
+                 Wrong Lyric + Barometer
+----------------------------------------------------------
+
+From: Editor, The National Midnight Star &lt;rush-mgr@syirinx.umd.edu&gt;
+Subject: Administrivia
+
+Just a couple of quick notes.  First, once again if you missed it yesterday,
+there is now a newsgroup in Netnews called "alt.music.rush".  Have a ball.
+It will not replace the NMS (unless I get 1300+ unsub. requests), but we're
+thinking about porting the NMS there.  Don't ask me about this now, PLEASE.
+If we decide to do this, I'll make copious posts in Administrivia about it.
+
+Secondly, due to a meeting sucking up half my day (literally), I'm still
+behind on admin mail, but I hope to have gotten through all the unsub.
+and addr. change requests by the time this goes out.
+
+Also, apparently there was a snafu with the mail files, and some posts were
+duplicated yesterday from earlier issues.  Not sure how, but I was doing
+a lot of stuff on the fly, and apparently got an old copy of something.
+Sorry, folks!
+
+Oh, last but not least, Doug White's songlist generator has been uploaded to
+the Syrinx ftp site.  It's now in a file called 'rush/special/songlist.tar'.
+If it's not obvious, it's a tar (tape archive) format file, and you'd need
+'tar' to extract it easily.  I believe it can also be torn apart by hand, as
+it's only a bunch of text files smashed together.  Enjoy!
+
+rush-mgr
+
+----------------------------------------------------------
+
+Date: Tue, 14 Apr 92 12:44:02 CDT
+From: "David Zekert" &lt;C512021@UMCVMB.missouri.edu&gt;
+Subject: Danforth and Pape Intersections
+
+Perhaps this ethnic Greek village in the vicinity of the intersection of
+Danforth and Pape streets IS the 'Villa Strangiato.'
+
+Xeke
+
+----------------------------------------------------------
+
+Date: Tue, 14 Apr 1992 13:47:10 -0400
+From: Thomas Riord Morley &lt;pelican@brahms.udel.edu&gt;
+Subject: GoAC
+
+To whoever said he was upset that Ghost of A Chance was clearly written for
+Top 40- I disagree.  Read what Neil wrote about it in the tourbook...
+
+"Please come to Saratoga!" (Me to Geddy)
+
+Tom
+
+----------------------------------------------------------
+
+Date: Tue, 14 Apr 1992 14:22 EST
+From: EXCALIBUR &lt;KRKST2@vms.cis.pitt.edu&gt;
+Subject: Willowdale
+
+Hey everyone!!!
+
+In the April 13 NMS, THE QUIET MAN was replying to a previous post and said"
+
+&lt;"Willowdale" (from "The Necromancer") is a real suburb area of Toronto.
+He is correct and if I am not mistaken it is where either Alex or Geddy 
+grew-up.I am not sure which one, and I lent VISIONS to a friend and don't 
+have access
+to it to check up on it.  Anyone know for sure???  Thanks.
+
+BTW, I *REALLY* hope that Rus comes back to Pittsburgh for a show at Star Lake
+this summer.  I would love it.  I saw Yes there and they were unbelievable.
+Keeping my fingers crossed.
+
+Kevin Ryan Kirwan
+The University of Pittsburgh
+krkst2@vms.cis.pitt.edu
+
+----------------------------------------------------------
+
+Date: Tue, 14 Apr 92 13:47:46 CDT
+From: Michael Silverman &lt;cubsfan@buhub.bradley.edu&gt;
+Subject: What songs are better live / in the studio
+
+I was just thinking the other day about which Rush songs are better
+live and which ones are better in the studio. There are those which
+say that _every_ song sounds better live, and I'm sure there are
+those who feel the opposite way as well. What do I think....I think
+*most* of Rush's songs have sounded better played live, but many
+don't.....for example I think "Batille Day" and "Something for Nothing"
+are a lot better sounding in their studio versions. On the other
+hand, some songs like "In the End" are *so much* better live.
+
+Here's my list....
+
+Lousy on the album, better live: In the End, By-Tor, Lakeside Park,
+Red Sector A
+
+Better on the album: Something for Nothing, Analog Kid, Closer to
+the Heart, Roll the Bones
+
+On a similar subject, what are your favorite "Geddy-isms" (slight
+changes in lyrics or emphasis on particular words Geddy does when
+performing a song live) ?
+
+Mine would be Geddy's live vocalization of "Subdivisions."
+
+OOpinions?
+
+--
+"One likes to believe in the freedom of baseball" - Geddy Lee
+
+cubsfan@camelot.bradley.edu
+
+----------------------------------------------------------
+
+From: amy@arla.austin.mcd.mot.com (Amy Moseley Rupp)
+Subject: May 24th
+Date: Tue, 14 Apr 92 11:30:21 CDT
+
+Since where Lakeside Park is or isn't has already been discussed, I won't
+discuss it any further.  But, May 24th is NOT Canada's Independence Day.
+July 1 is Canada Day, which is the holiday that celebrates Canada as
+a nation.  May 24 is Queen Victoria's Birthday, which for some reason
+is celebrated instead of, for example, Queen Elizabeth's Birthday.  I
+suppose the tradition to celebrate it originated in Victoria's reign.
+
+Anyhow, the holiday is no longer celebrated on the 24th of May but
+rather on the third Monday in May--kind of like our Memorial Day,
+which moves around too.  Well, in 1993, it's on May 24th, but this
+is the FOURTH Monday in May.  Oh well, it's on a Monday in May.
+
+Canadians like holidays, and they get more of them than most Americans
+do.  Smart people!
+--
+Amy J. Moseley Rupp                         Rejection is one thing
+Motorola Computer Group                     But rejection from a fool is cruel
+amy@austin.mcd.mot.com or                   Morrissey, "I Don't Mind If
+uunet!cs.utexas.edu!oakhill!arla!amy                    You Forget Me"
+
+----------------------------------------------------------
+
+Date: Tue, 14 Apr 1992 14:02 CST
+From: BECKERDP@cab.mrs.umn.edu
+Subject: Elephant's Butt
+
+Greetings...
+
+	I was just wondering if anyone had any thoughts on the significance of
+the picture of the elephant's butt inside the RTB cover, if there is any other
+than simple humor.  I personally try not to have thoughts on anything if at
+all possible.  They just seem to confuse any other thoughts I might have.  That
+is why I'm asking the obviously extremely profound and enlightened membership
+of this list.  So...elephant butt picture.  Any thoughts?
+
+Dan Becker
+University of Minnesota, Morris
+
+ORQ: "They seem oblivious/To a soft spring rain/Like an English rain"
+
+----------------------------------------------------------
+
+From: bkekesi@uceng.UC.EDU (Jealous Knight)
+Subject: RUSH sell out at Deer Creek, IN?
+Date: Tue, 14 Apr 92 15:51:49 EDT
+
+   I have a quick question to all you Hoosiers out there.  I'm thinking
+about going to the Deer Creek show (June 24) and know that tickets have
+already gone on sale.  However, there's a chance I might not be around
+this area come June.  My question is, Will RUSH sell out in an Indiana
+venue?
+                                              - Alex
+
+----------------------------------------------------------
+
+From: J.C. Rush - Jay Cook &lt;cook@donald.cs.umn.edu&gt;
+Subject: just some rambling (as always)...
+Date: Tue, 14 Apr 92 16:53:11 CDT
+
+  Greetings everybody.  Just a reminder about the latest poll I'm running,
+ where you send in what you'd like the next album to be called, or just have
+ an idea you think would sound good.  Send all your responses to:
+
+            cook@donald.cs.umn.edu
+
+ by April 24.  The responses will be compiled into what I hope will be a
+ Special Edition issue of TNMS.  I only have 4 replies so far, 2 of which
+ are ideas of my own...so send in anything you think has merit.  Thanks.
+ *steps off of soapbox*
+
+ Also, I've recently been getting re-acquainted with my copy of ESL, which
+ rises a question I've always wanted to ask, but never remembered to...
+ During La Villa Strangiato, what the hell is Geddy singing that sounds
+ sorta like "Bucky, Bucky he's our man, if he can't do it, he's our man"
+ or something like that???  I's is confused...
+
+ Oh, and one more thing, anyone with info as to when tix go on sale for the
+show at Blockbuster Pavilion in Charlotte, NC, please post as soon as
+possible.  Thanx!
+
+ Well, that's all for now...remember the poll, and I'll be talkin' to you
+ all later..
+
+                                -da Kid (cook@donald.cs.umn.edu)
+
+ORQ - "It's big, red, horny bass...."  --&gt; Geddy Lee
+
+----------------------------------------------------------
+
+Date:    Tue, 14 Apr 92 21:42 EDT
+From: &lt;CXK134@PSUVM.PSU.EDU&gt;
+Subject: PITTSBURGH CONCERT DATE!!
+
+I just found out that Rush will be at the Star Lake Ampitheatre in Pittsburgh
+on June 21.  This was advertised on the radio (WDVE) so it is confirmed.  No
+word as to when tickets will go on sale.  I'll post that info as soon as I find
+out.
+
+Going to see them for the second time this tour.  I'm sure this show will be
+much better than the Civic Arena show this past October.
+
+Chris Kirkham        Penn State University
+
+Why are we here?  Because we're here.  Roll the Bones!
+
+----------------------------------------------------------
+
+Date: Tue, 14 Apr 1992 20:56 CST
+From: This Space For Sale &lt;TBEAUDOIN@VAX1.UMKC.EDU&gt;
+Subject: help!
+
+	i am very sorry to intrude on the list with this request,
+but i am having the damndest time signing up to this list.  i can't get
+any response from the rush-request address.  can someone please sign me
+up to this list, or send me info about how i can successfully do so
+myself?  thanks very much in advance --
+
+Thomas "Geddy" Beaudoin
+Kansas City
+
+	"electricity?  biology?   seems to me it's chemistry..."
+
+----------------------------------------------------------
+
+Date: Tue, 14 Apr 92 21:17:02 EST
+From: YES &lt;RMATHIAS@ucs.indiana.edu&gt;
+Subject: RTB cd singles (yes, plural)
+
+I don't know if I have come upon a real "find" or not, but I just bought
+a Roll the Bones single (4 tracks, #4 is Neil talking over RTB about the
+usual Peart-esque profundities of lyricwriting). I also bought a RTB
+"Limited Edition Holograph Disc" (4 different tracks, except for RTB, with
+#4 being Geddy talking over RTB about humor and life in general.)
+
+Both of these say Atlantic, but they have that import vibe, you know?
+The holograph disc has a true holograph on the top side.
+
+Does anyone have these? Are these at all "collectibles" or even "rare"?
+No one in my town -- Bloomington, Indiana -- has ever seen these...
+
+---- One likes to believe in the freedom of baseball ----
+
+----------------------------------------------------------
+
+Date: Tue, 14 Apr 92 21:21:00 EST
+From: YES &lt;RMATHIAS@ucs.indiana.edu&gt;
+Subject: Alex interview?
+
+Does there exist a third RTB cd-single with Alex talking over the last
+track? He probably talks about donuts, back bacon, and Labatt's Blue.
+
+--- keeping us from ourselves ---
+
+----------------------------------------------------------
+
+From: Christopher Andrew Campbell &lt;cac@rice.edu&gt;
+Subject: Awards
+Date: Tue, 14 Apr 92 21:49:21 CDT
+
+  Whasup Rush fans!
+    I have heard of Alex winning Guitarist of the Year or something like
+  that a while back.  Just wanted to know if it was true and if anyone
+  knows if any other individual awards have been won by the boyz.
+
+Thanks,
+Christopher
+
+----------------------------------------------------------
+
+From: telxon!teleng!dank@uunet.UU.NET (Dan Kelley)
+Subject: Ok, enough is enough
+Date: Tue, 14 Apr 92 23:18:10 EDT
+
+This is a little out of character for me but I have to respond to the Nick
+Mascari post from April 13.  It is a flame so you may want to hit your
+spacebar now.
+
+First of all, if you have a problem with what people are posting about,
+HIT YOUR F&*^ING SPACEBAR!  That what page down is for.  Just take your
+little index finger and tap the big bar at the bottom of the keyboard -
+you can do it (insert sarcasm).  I don't like to read about stuff like that
+either but you don't see me bitching about it.  Just because it is pissing
+you off doesn't mean you can scream at people and tell them to get a life.
+I think you are the one that needs to get a life (instead of balling people
+out on what they should and should not write about).  This is a public mailing
+list in which the subscribers can write ANYTHING they wish.  If you are so
+worried about doing other things like "getting good grades and drinking beer"
+(which is pretty much a contrast in terms - I know, I was in school once too)
+then don't read the post then complain about what you see.  And as far as
+your sarcasm about Cleveland, OH - f--- you...  I live here.
+You asked for rebuttal and got it.
+
+I apologize to the Rush Mgr and the reading public about this.  I seriously
+considered mailing this to Nick direct but why, he balled everyone else out
+in public so I did the same.
+
+Dan...
+
+--
+       Dan Kelley         ()   ===== ===== =   = =    ////  =  =
+  ...!uunet!telxon!dank   ()     =   ===   =    =   //////  == =
+ dank%telxon@uunet.uu.net ()     =   ===== ===== =  //////  = ==   Corp.
+   (216)-867-3700 x3512   ()                        ////           Akron, OH
+
+----------------------------------------------------------
+
+From: "Daniel L. McDonald" &lt;danmcd@cs.arizona.edu&gt;
+Subject: Two unrelated topics, North Carolina and alt.music.rush
+Date: Tue, 14 Apr 92 22:22:49 MST
+
+First of all...
+
+Are any of you TNMS readers going to the Charlotte, NC show this June?!?  If
+so, please mail me, as I would like to possibly attend.
+
+Second of all...
+
+I saw a alt.music.rush newsgroup.  I didn't think that we really wanted a
+newsgroup.  Did one get formed?  Have I missed THAT much TNMS?
+
+-----
+Dan McDonald    |Internet: danmcd@cs.arizona.edu, UUCP: ..!uunet!arizona!danmcd
+U. of Arizona   |BITNET: danmcd%cs.arizona.edu@arizona.BITNET
+Computer Science|     "I was lined up for glory
+1st year Grad.  |      But the tickets sold out in advance." - Rush (N. Peart)
+
+----------------------------------------------------------
+
+From: Carl Edward Brady &lt;cbrady@wam.umd.edu&gt;
+Date: Wed, 15 Apr 92 02:57:07 -0400
+Subject: Rush Commercialized
+
+(sorry about spelling in this post -- it's really late.)
+
+I've read the various talk about bringing Rush to the masses, and I say --
+Bullshit. I agree with Nick Mascari. We do belong to sort of a "secret club."
+I'm not going to push my beliefs and tastes on others. That's sort of like
+high-pressure salesmen and door-to-door evangelists. They really annoy me.
+I've been into rush for at least 12 years and I love 'em. I don't expect others
+to, and I won't participate in a campaign to do so. I wholeheartedly discourage
+such action. When RTB came out, I stopped listening to the radio after a while,
+because every time I turned on DC 101 or 98 Rock, I heard Dreamline, and it was
+(is) much too good a song to get killed like Extreme's `More Than Words.' (Did
+they bang the shit out of that, or what?) And I like Extreme. I just can't
+listen to that song anymore, they played it to death. I don't want that to 
+happen (oops) to good Rush songs.
+
+I see the possibility of this rising into another heated debate, but 
+anything's better than that Damn Bandana thing. GET A LIFE. (Nick- Neil 
+changed his name
+from Muhalla the Flying Mystic to Peart. Not Blackbeard.)
+
+Oh well -- Low and Easy...   Carl :)
+
+----------------------------------------------------------
+
+Subject: Is Mercury's release of ESL AAD or ADD?
+Date: Wed, 15 Apr 92 00:23:28 -0700
+From: gimper@leland.Stanford.EDU
+
+Hello all,
+
+It's been a while since I last posted, so here's a random subject
+for you.  As I was looking through the lastest FAQL, I came across
+Dan's note saying that the Anthem release of the ESL CD is ADD,
+while Mercury's is AAD.
+
+I just recently upgraded my vinyl copy of ESL to CD and noticed
+something strange.  The case says that the CD is AAD, but on the
+CD itself it says it is ADD.  (This is the Mercury release.)  I've
+mailed a few people (including Dan himself) and gotten responses
+saying that their copies don't say either AAD or ADD at all on the
+disc itself.
+
+Can anyone shed any light on this?  It's not a huge deal to me,
+but I am kinda curious...
+
+Replies to  gimper@leland.stanford.edu  or post to the digest if
+you feel it is of general enough interest.
+
+Laters!
+-- Stuart
+
+----------------------------------------------------------
+
+Date:       15 Apr 92 13:16:00 BST
+From: Nick (N.T.) Pitfield &lt;NICKP@BNR.CA&gt;
+Subject:    Concert Review (NEC 12/04/92)  [ SPOILER ]
+
+Hi All,
+
+Just a quick review of Rush's concert at the Birmingham NEC (UK) on 12/04/92.
+This was there first UK tour since HYF - we didn't get the Presto tour.
+
+The support band were Primus. I thought they were crap. 9 out of 10 people I
+spoke to afterwards said they were crap. They were also the wrong sort of band
+to support Rush (I shouldn't really complain, they didn't have any support band
+last time !!!!).
+
+Rush came on around 8.30 and finally left around 10.30 (having done an encore).
+
+Geddy sounded a bit flat and hoarse early on, but improved over time. Neil was
+his usual storming self; and yes, he was wearing a bandana (so what !!!!). Alex
+was playing very well, and was much more involved than in recent tours.
+
+The set list was drawn from a wide range of albums.
+
+&gt;From Presto, Show Don't Tell was a bit disapointing, but Superconductor was
+excellent. I loved the bunnies....the one on the left was tapping his foot in
+time to the music, while the one on the right was head-banging (or should that
+be ear-banging !!!!). The one on the left got a bit deflated just after first
+appearing - perhaps he'd farted ????.
+
+&gt;From RTB, Roll The Bones was excellent (the video background of the talking
+skeleton was great); Bravado was superb, but GOAC was not so good (a shame, it
+is my favourite track on the album). Dreamline was pretty good.
+
+&gt;From Power Windows, I can only remember Big Money being played - this was
+great. I did miss not hearing Marathon though.
+
+&gt;From HYF, Force Ten was a storming show opener, I can't remember anything else
+being played.
+
+The rest of the set was made up of excellent older stuff like Limelight, 
+Anthem,
+Spirit Of Radio, Tom Sawyer, Xanadu etc etc (you all know the set list by now).
+Neil's drum solo didn't hold my attention as much as it used to - perhaps it's
+time he completely re-worked it.
+
+This was a great concert, well worth travelling from Reading to see. I enjoyed
+it more than the HYF tour - perhaps because the boys looked happier and more
+relaxed. Alex was certainly giving it his all !!!!
+
+I'll be at Wembley for the show on Saturday 13/04/92 - see you then....
+
+Cheers.
+
+/=============================================================================\
+| From The Mighty Fingers Of &gt;&gt;&gt;&gt;&gt; Nick Pitfield &lt;&lt;&lt;&lt;&lt; The Bugfynder General ||
+|=============================================================================|
+| INTERNET  : nickp@bnr.ca                                                   ||
+| UUCP      : ..!uunet!bnrgate.bnr.ca!bmdhh12!nickp                          ||
+| VOICE     : ITN - (590) 4476 : BT - +44 628 794476                         ||
+| SNAILMAIL : BNR Europe Ltd, BNR Park, Maidenhead, Berkshire SL6 4AG, UK.   ||
+|=============================================================================|
+| "More than high performance, more than just a spark,                       ||
+|  More than just the bottom line, or a lucky shot in the dark."             ||
+|                                          "Marathon" (Rush - Power Windows) ||
+\=============================================================================/
+
+[ Not only is this .sig long, it's just wide enough to push the last char.
+  of each line onto a new line.  Any chance of trimming it down just a tad?
+                                                                   :rush-mgr ]
+
+----------------------------------------------------------
+
+Date: Wed, 15 Apr 1992 10:52:19 EDT
+From: The Doug-meister &lt;brownd@merrimack.edu&gt;
+Subject: rush newsgroup
+
+Fellow Rushians,
+
+   Well, it seems that there is now a rush newsgroup, despite all the
+controversy.  It is alt.music.rush.  Just thought you should know...
+
+Doug B.
+
+----------------------------------------------------------
+
+Date: Wed, 15 Apr 92 10:50:28 EDT
+From: david@shadow.ait.com (David Kuznick)
+Subject: Marillion again
+
+For those of you not on the Marillion mailing list, Marillion is
+trying to get on the Rush tour this summer.  The Boyz asked for their
+last two albums.  And please no booing this time!
+
+DAVID KUZNICK "Those whom heaven helps we call the sons of heaven. They do not
+DAVID@AIT.COM  learn this by learning.  They do not work it by working.  They
+do not reason it by using reason.  To let understanding stop at what cannot be
+undestood is a high attainment.  Those who cannot do it will be destroyed on
+the lathe of heaven." - Chuang Tse: XXIII
+
+----------------------------------------------------------
+
+Date: Wed, 15 Apr 92 19:17:30 +0200
+From: fl@pierre.tools.de (Frank Lancaster)
+Subject: TNMS questions/messages for forthcoming interview with Neil
+
+Hi!
+
+Here's some update info on the interview with Neil that's going to be on
+April 23rd. The interview I'm going to do with Neil will certainly be posted
+in TNMS, actually it'll be published there first!
+
+I've so far received questions/messages from the following
+people (thanks to all of you):
+
+"David S. Schmidt" &lt;dschmidt@sales.stern.nyu.edu&gt;
+cs00bd@unccvax.uncc.edu (brian daniels)
+bryant@perlis.mcs.gvsu.edu (John Q. Public)
+exumfs@exu.ericsson.se (Mark Steph)
+Scott David Daly &lt;skipdaly@wam.umd.edu&gt;
+eanderso@nike.calpoly.edu (Eric W. Anderson "ERK")
+"STEVE E. GOODSELL" &lt;GOOD2860@FREDONIA.bitnet&gt;
+YYZ LIMELIGHT &lt;S11689BC@UMASSD.bitnet&gt;
+matthew@wavefront.wti.com (Matthew Coohill)
+Scott.G.Joaquim@Dartmouth.EDU
+RSB3516@RITVAX.bitnet
+jalhart@skidmore.EDU (Lerxst)
+T J Moore-Read &lt;se2tm@leicester-poly.ac.uk&gt;
+
+So if anyone else has something to say to Neil or wants a question answered,
+e-mail it to me, and I'll try and get it in the interview or I'll pass
+it on to Neil.
+
+Let's try and make this interview something special, I hope some more
+of you also have interesting questions!
+
+-- Frank Lancaster, fl@tools.de or ...!uunet!unido!tools!fl
+
+----------------------------------------------------------
+
+Date: Wed, 15 Apr 1992 14:44 EST
+From: EXCALIBUR &lt;KRKST2@vms.cis.pitt.edu&gt;
+Subject: My wish came true. . .
+
+Hey everybody...
+
+In my last post, which I typed about this time yesterday, I said that I hoped
+Rush would come back to Pittsburgh.  Well I got back to my room turned on WDVE
+(Pittsburgh's greatest Rock station) and heard Bravado.  Needless to say I was
+pretty happy, but it got better.  After the song the DJ came on and said:
+
+"We'll be bringing Rush back for a WDVE show at Star Lake on Sunday June 21st."
+
+I nearly sh*t myself.  Oh well, they don't have ticket info yet, but I'm sure
+we'll find out soon.  Later.
+
+Kevin Ryan Kirwan
+The University of Pittsburgh Drumline
+"We'll strike like lightning, and leave you shocked."
+
+----------------------------------------------------------
+
+Date: Wed, 15 Apr 92 13:15:44 -0600
+From: barr@atdo.LANL.GOV
+Subject: Lubbock Venue
+
+The Lubbock concert will be held at the Lubbock Municipal Coliseum on
+Texas Tech University campus on June 10. Be there.
+
+----------------------------------------------------------
+
+Date: Wed, 15 Apr 92 13:36:24 MDT
+Subject: Speech about RUSH
+From: sraby@NMSU.Edu!HYF,
+
+  You know you are a RUSH fan when...\
+     your persuasive speech for Communications class is persuading everyone
+to listen to Rush's music.  I know, it is a cop out because it will
+be so easy to talk about RUSH for 9 minutes, but it's an easy class, so
+why not???  The only problem---how can I say everything there is to say
+about Rush in 9 minutes???  I could talk for 2 hours.  I should really
+GET A LIFE!!!!!!\
+
+Scott
+
+----------------------------------------------------------
+
+Date: Wed, 15 Apr 1992 14:51 EST
+From: STOY_CHERYL_A@LILLY.COM
+
+RE:  Looking for 'The Professor', mail w/ no subject/address line
+
+(Honestly, folks, I do listen to the band, someday I'll put my two cents in
+on a Rush-related issue, I swear!)
+
+MATT GALL @ IU, please write me and give me your internet address!
+
+NOTE TO GENERAL NMS PUBLIC:  if you ever decide to e-mail someone whom you
+notice does not have a subject line and/or address list in their message
+header, chances are their mail system will not send or receive the logs
+that contain the internet/bitnet address (at least I know that is the case
+here).  So if you are directing mail to one of these lucky souls, please
+'manually' include your network address in the note...
+
+thought I'd throw that in.  thanks!
+
+cheryl
+stoy@lilly.com
+
+From: STOY CHERYL A                    IVM1      1         AA64857
+Subject: rush@syrinx.umd.edu
+To: INTERNET ADDRESS                   BITN
+
+----------------------------------------------------------
+
+Date: Wed, 15 Apr 92 16:15:34 cdt
+From: "14A2C28C" &lt;DFB3B0BE&gt;
+Subject: Guitar picks a la Alex Lifeson
+
+About 4 months ago when the Boyz played Omaha and Eric was supporting, I was
+intent on acquiring one of Alex's guitar picks. After the show was concluded
+and the lights came on, I rushed to the front row from my seat in the 18th
+and fortuitously came upon two pink Ibanez guitar picks. As we all know, Rush
+is not known for throwing things to the audience, but from what I've heard,
+Lifeson occaisionably drops them inconspicuously to unsuspecting fans in the
+front. Try combing the front row after the show, and maybe you will have the
+same luck as I did.
+
+"hiding beneath the sheets, got to try and fill the void."  _6A2070D6
+
+P.S. Please if anyone knows when the Merriweather Post Tickets go on sale
+please post the date. Gracias.
+
+----------------------------------------------------------
+
+Subject: Wrong Lyric + Barometer
+Date: Wed, 15 Apr 92 19:07:58 EDT
+From: dws@acpub.duke.edu (DANIEL SHIMA)
+
+Dear NMS readers,
+
+	In the ftp file, 07.pw reads:
+
+Different Strings
+--------- -------
+Who's come to slay the dragon,
+Come to watch him fall?
+Making arrows out of pointed words,
+Giant killers at the call?
+Too much fuss and bother,
+Too much complication and confusion.  &lt;==== this one
+Peel away the mystery,
+Here's a clue to some real motivation.
+
+	I do believe line six (the one I marked) should be:
+
+Too much CONTRADICTION and confusion.
+
+	Yes?  By the way, what is the difference between [ 07.pw ] and
+[ 07.pw~ ]?  These files look the same to me.
+
+	Someone told me that if Neil is enjoying a particular concert,
+he will do that "windmill-guitar-thing".   I was at the Chapel Hill, NC
+show and he did it there.  It was a great concert and the crowd was
+decent, but nothing more than average.  My point is, has anyone been to
+a show where he HASN't done it?  Or has this barometer of the band's
+enjoyment become standard?
+
+				           dws@hercules.acpub.duke.edu
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1992.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+********************************************
+End of The National Midnight Star Number 468
+********************************************
+
+

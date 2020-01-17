@@ -1,0 +1,1188 @@
+Return-Path: <temples@yyz.com>
+Received: from mx1.gmx.net (qmailr@mx1.gmx.net [195.63.104.81])
+	by kiwi.icu.unizh.ch (8.9.2/8.9.2) with SMTP id CAA08362
+	for <mtschann@icu.unizh.ch>; Tue, 9 Feb 1999 02:43:43 +0100 (CET)
+Received: (qmail 22006 invoked by alias); 9 Feb 1999 01:42:47 -0000
+Delivered-To: GMX delivery to mtschann@gmx.net
+Received: (qmail 21976 invoked by uid 0); 9 Feb 1999 01:42:45 -0000
+Received: from yyz.com (192.52.226.212)
+  by mx1.gmx.net with SMTP; 9 Feb 1999 01:42:45 -0000
+Received: (from temples@localhost)
+	by yyz.com (8.8.5/8.8.5) id PAA11330
+	for rush-list-5; Mon, 8 Feb 1999 15:44:29 -0800
+Date: Mon, 8 Feb 1999 15:44:29 -0800
+Message-Id: <199902082344.PAA11330@yyz.com>
+Errors-To: rush-request@yyz.com
+Reply-To: rush@yyz.com
+Sender: rush@yyz.com
+Precedence: bulk
+From: rush@yyz.com
+To: rush_mailing_list@yyz.com
+Subject: 02/08/99 - The National Midnight Star #2171
+X-Resent-By: Global Message Exchange <forwarder@gmx.net>
+X-Resent-For: mtschann@gmx.net
+X-Resent-To: mtschann@icu.unizh.ch
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+List posting/followup:     rush@tnms.com
+Administrative matters:    rush-request@tnms.com
+                                       or
+                           rush-mgr@tnms.com
+
+(Administrative postings to the posting address will be ignored!)
+
+----------------------------------------------------------------------
+
+
+         The National Midnight Star, Number 2171
+
+
+                   Monday, 08 Feb 1999
+
+Today's Topics:
+                      Administrivia
+                    Helmet Neil Peart
+                  Re: Collins vs. Peart 
+                       Re: Placebo 
+                   Read... If You Dare!
+            Dumb interview questions solution
+                       Phil / Peart
+          Collins vs. Peart (and other drummers)
+                 Power Windows; Rockline
+                Fly By Night Desktop Theme
+                      best guitarist
+                     Guitarists (NRC)
+                   Re:  Scarred Records
+                 NeilPeart.com is online
+                  Collins V Peart cont.
+                   Favourite Album Side
+                       Moon Records
+                  Juno Award Nominees...
+                 Video Game RUSH sighting
+                  Rushian Baldur's Gate
+     Re: 01/25/99 - The National Midnight Star #2168
+              NeilPeart.com clarification...
+                      Circus Dances
+               great live album suggestions
+                      Re: Cool Ideas
+                       fisheye hal
+                   Republicans for RUSH
+                   JOLLY TEABAG SHIRTS
+              Feesch I-lenzzzzzzzzzzzzzzzzz
+                        Guitarists
+                     Video Yes or No
+                      Homework Help?
+                Phil Collins drum debate.
+                  This review is a hoot!
+                 worlds fastest guitarist
+----------------------------------------------------------
+
+From: rush-mgr@tnms.com (The RUSH Fans Digest Manager)
+Date: Mon Feb  8 12:57:47 PST 1999
+Subject: Administrivia
+
+Sorry for the lack of digests last week, I was in Denver all last week!
+So expect a couple over the next two days to catch up.
+
+In other news, the NEW syrinx machine is up and running! Now we begin the
+long process of moving files over, we now have 10gigs of space to fill!
+I should be reenabling the realvideo files shortly, and putting up some
+brand new audio and video files that I didn't have space for.
+
+I'll even try to get the TNMS page and web digests back up (they took up
+~70mb by themselves).
+
+ - rush-mgr
+
+----------------------------------------------------------
+
+From: =?iso-8859-1?Q?Jukka-Pekka_Ker=E4nen?= <rakath@students.llaky.fi>
+Date: Tue, 26 Jan 1999 11:31:24 +0200 (EET)
+Subject: Helmet Neil Peart
+
+In the last TNMS somebody found out that www.neilpeart.com is a site of a
+band called 'Helmet'.
+I did a little research, and found an interview from www.neilpeart.com
+that explains everything... 
+
+(JS is John Stainer of Helmet and KM is Ken Micallef. This interview was
+in Modern Drummer, October 1994)
+
+KM: And yet your biggest influence is...?
+
+JS: Neil Peart. I don't care what anybody says and I don't care how
+unfashionable it is. People say they hear a lot of
+Bonham in my playing - and I loved Zeppelin - but I think Peart took
+drumming to another level that no one else has
+matched yet. But on the other hand, I hate double-bass; it's corny.
+
+That's All!
+
+Jukka-Pekka Keranen
+rakath@students.llaky.fi
+
+----------------------------------------------------------
+
+From: Slim Jim <jg@ms.com>
+Date: Tue, 26 Jan 1999 10:50:14 +0000
+Subject: Re: Collins vs. Peart 
+
+mmaholch@kusd.kusd.edu wrote:
+
+> Neil Peart is the Michael Jordan of drums.
+
+I think it would be more appropriate to compare Neil Peart to an 
+international sports star like Ronaldo, rather than someone who
+plays a sport which is really only popular in one country.
+
+But actually this illustrates a strange tendency that Rock music 
+fans have to compare particular musicians as if it was a contest - 
+last time I checked, drumming was not an olympic sport.  It's not
+really possible to say that one musician is better than another
+in my opinion.  It's fun to slag off John Petrucci though ;)
+
+Slim
+
+----------------------------------------------------------
+
+From: Slim Jim <jg@ms.com>
+Date: Tue, 26 Jan 1999 11:03:19 +0000
+Subject: Re: Placebo 
+
+Jamie wrote :
+> Ello Peoples,
+> I haven't been keeping up lately, but was wondering if anyone has heard
+> a band called "Placebo". The reason I ask is because the vocalist
+> reminds me a lot of Geddy Lee, whom you all know and love. I was curious
+> to know if anyone else felt the same way.
+
+Yes! In fact their vocalist Brian Moloko is constantly being 
+compared to Geddy Lee in the UK music press.
+
+Slim
+
+----------------------------------------------------------
+
+From: "Chad M Werner" <Chad.Werner@ReliaStar.com>
+Date: Tue, 26 Jan 1999 06:53:50 -0600
+Subject: Read... If You Dare!
+
+Ralph posted:
+
+"I was a little bored so, I was checking out domain names for rush.  I
+typed in http://www.neilpeart.com and it took me to the Helmet home
+page.  What is up with that?   Is Helmet Rush fans?"
+
+Absolutely. The drummer of Helmet has stated in interviews that he is a
+big Neil Peart fan. It's funny, I used to check out the very page you
+specified, Ralph, for tour info (it used to be helmet.com). Helmet was a
+force to be reckoned with, but, alas, they have parted ways. I think
+it's hilarious that a Helmet homepage is called neilpeart.com (maybe
+this says more about the maintainer of the page than the ex-band, but I
+don't know). I've said it before, but I'll say it again: if Rush chooses
+to do another studio album, they would be wise to try out Dave Sardy as
+producer/engineer. He did Helmet's last record, and all of the
+instruments come across crisp, clear & heavy as all hell.
+
+Fastest guitarist thread? Tee hee. Please, this is just an opinion. You
+don't have to agree, but be gentle with me. Isn't the act of trying to
+squeeze as many notes/second as possible into a guitar solo a LITTLE
+juvenile. I'm 26. If anyone tells me, "You gotta check out this
+guitarist. He plays solos so FAST", I run away. As fast as I can. What
+about purely talented guitarists? Does anyone listen to Leo Kottke?
+Billy MacLaughlin? Michael Hedges (sadly, dead)? These are all largely
+acoustic players that are, indeed, fast at times, but sometimes they are
+incredibly slow. They simply ooze emotion & talent (especially Leo IMO).
+I think that when you take into account all of the guitar textures,
+moods, speeds & styles Mr. Lifeson plays with, he fits into the same
+category with Leo, Billy & Michael; only Alex is largely electric. Just
+as impressive.
+
+Rockline put me to sleep. There were some good questions, though. For
+instance, the very first question was something like (paraphrase), "You
+have done so much in your careers, what do you think you have left to
+accomplish in music?" I feel that one was very thoughful, and it
+seeminly took Geddy & Alex by surprise. They talked about musical
+evolution or something, but that caller asked a good question if you ask
+me.
+
+----------------------------------------------------------
+
+From: "Jonathan Patil" <patilj@hotmail.com>
+Date: Tue, 26 Jan 1999 08:29:48 EST
+Subject: Dumb interview questions solution
+
+Here is the final solution to those dumb interview
+questions!
+
+Person calls in.. a pre-recorded message asks for
+the guy to state his question and stay on the line.
+
+Some person (rush fan brought in by the station)
+listens to the answer.. then weeds out the dumb ones
+that would waste time (does peart have cancer, etc).
+
+And answers the common ones.  Letting in the occasional
+relavent question.
+
+This way the boys only get the good questions.
+
+ -
+ |         J o n a t h a n    J a y w a n t    P a t i l
+ | 1330 Richmond Road #619 . Ottawa, Ontario, Canada . K2B-8J6
+ `----------------------------------------------------------.
+      Personal:  patilj@hotmail.com        . (613) 726-2968 |
+          Work:  patilj@americasm01.nt.com . (613) 765-5956 |
+  .---------------------------------------------------------'
+  | http://www.geocities.com/SouthBeach/Strand/7555/ (home)
+  | http://www.geocities.com/SunsetStrip/Stage/4709/ (rush)
+  `---------------------------------------------------------
+
+----------------------------------------------------------
+
+From: Dave Huart <dhuart@sinclair.edu>
+Date: Tue, 26 Jan 1999 11:38:01 -0500
+Subject: Phil / Peart
+
+Hello Rushdom.
+
+   Wow.  What a firestorm we have here. I'm not sure if drawing a
+comparison between Peart and Collins is fair to either man. There styles
+are so divergent, it seems pointless to me.
+
+   I  too have seen both guys play live, obviously Neil many more times
+than Phil. Both are impressive behind the kit, but I won't compare the
+two in a "who's better" scenario, it's as pointless as it is subjective.
+
+  Suffice to say,  I am impressed with both guys. When I saw Phil
+Collins ( 2X -1  with Genisis and 1 without) live, he was great on both
+times. He is rock solid as a performer,  I had a great time at the shows
+and was thouroughly impressed with his playing, singing, and
+showmanship, and when the show was over it was far to soon. He is a,
+like Neil Peart, a consumate professional, and worthy of my respect.
+
+   Neil seems to be the busier drummer - most of the time, and I would
+go see Neil before Phil if I could not manage to see both. However I
+highly recommend checking out Phil Collins should he be in your town.
+
+   Further I must say that bashing any musician on a list devoted to a
+band whose members obvioisly respect other musicians greatly, is simply
+rediculous. I find it hard to imagine any drummer bashing another, let
+alone a drummer as succesful and talented as PC. Neil even invited Phil
+to play on the first BFB tribute, but Phil's commitments kept him away,
+or so I read in Modern Drummer.
+
+   Dave
+
+ "Suffice to say it is one of the words the Knights Who Say Ni can no
+longer here!!"
+
+----------------------------------------------------------
+
+From: Ryan N Waggoner <galahad77@juno.com>
+Date: Tue, 26 Jan 1999 01:28:32 -0500
+Subject: Collins vs. Peart (and other drummers)
+
+<<Neil Peart is the Michael Jordan of drums.>>
+
+Oh, come on.....Neil is *FAR* from being an over-rated has-been.  *grin*
+
+I definitely have to agree with the sentiment that Neil kicks Phil's
+butt, though.  I just wanna toss some more names into the list of
+drummers being mentioned:
+
+Yuri Ruley, from MxPx.  Let's just call this guy the Neil of the punk
+realm.  He's actually that good.  He's got speed, talent, and can just
+flow effortlessly from the fastest, hardest punk you've ever heard in
+your life, to the most laid-back, yet creative, swing you ever thought a
+non-big band drummer could do.
+
+Paul Roraback, formerly of Grammatrain.  (Grammatrain fans...need I say
+more about this guy?  BTW, his new band's name is Gideon's Press, and
+according to Paul himself, they're going to be *WAY* more progressive
+than Grammatrain was.  :) )
+
+Phil Ehart, of Kansas.  He hasn't done anything to terribly interesting
+lately, apart from stealing Neil's "Fly By Night" fill, but you still
+gotta respect his 70s stuff.
+
+Aaron Smith, formerly of both 77's, and Rich Mullins' Ragamuffin Band.  A
+good, solid rudimental drummer.  Never gets too funky with the beat
+usually (unfortunately), but his solos are always awesome.
+
+I also gotta throw in another mention of Stewart Copeland.  And let's not
+forget some of the revolutionary stuff that Ginger Baker played in the
+days of Cream and Blind Faith.
+
+And let's not forget the father of all drum gods -- Buddy Rich.
+
+That's my list, though.
+
+Ryan/Stimpy
+
+Oh, and, by the way, I'm pretty sure the "Fish Islands" thing was a joke.
+ But what about Geddy singing "Call me a Commie" in Analog Kid?  *grin*
+
+----------------------------------------------------------
+
+From: "Joseph Ornelas" <nexthttp@geocities.com>
+Date: Tue, 26 Jan 1999 09:54:19 -0800
+Subject: Power Windows; Rockline
+
+I checked the FAQ, and didn't see anything about this, so here goes.  On the
+Power Windows cover, doesn't it look like our freakish friend is holding the
+television remote control backwards?  Usually the large empty spot is the place
+for your hand to rest and the batteries to go, not the top. Maybe someone with
+the LP can see better, I've just got the CD.  If he is, I wonder what it
+means....
+
+People have been complaining about the inherent stupidity of some of the
+questions asked to Rush on Rockline.  How about this: next time we know of a
+live Q&A type event, all of us on the NMS decide on one or two of the best
+questions we'd like to ask.  Then, if we all have the same question, there's
+more chance of just one of us getting through to ask it.  Just a thought.  BTW,
+did anyone here ask a question on last week's Rockline?
+
+Joseph Ornelas
+nexthttp@geocities.com
+http://surf.to/nexthttp
+
+"Revenge is a dish best served
+with a choice of soup or salad."
+      -Elias Bacteen, Spaceside
+
+----------------------------------------------------------
+
+From: Hanstones@aol.com
+Date: Tue, 26 Jan 1999 13:29:23 EST
+Subject: Fly By Night Desktop Theme
+
+I now have a Fly By Night desktop theme for download at Power Windows (it
+rocks!). It includes a new animated "owl" cursor which I also offer as a solo-
+download. I also rescanned the Fly By Night cover image for better quality.
+
+Thanks to R.G. Terez at the Rush Desktop Themepark, I have added the live shot
+of the "Hammersmith Odeon" from the Hemispheres Tourbook, taken on either
+February 19th or 20th, 1978. The bonus disk of Different Stages was recorded
+on the 20th, and the CD art features a similar scene with the band members
+added.
+
+http://www.2112.net/powerwindows
+Downloadable Rush Album Art Wallpaper, Windows Cursors & Desktop Themes
+"I watch their images flicker, bringing light to a lifeless screen" - Neil
+Peart, 1987
+
+----------------------------------------------------------
+
+From: Rushindy@aol.com
+Date: Tue, 26 Jan 1999 15:04:28 EST
+Subject: best guitarist
+
+With all this discussion about the best guitarist alive, I'm surprised no
+one's said anything about Steve Morse.  He definitely deserves to be up there.
+I just got back from seeing him in Dayton, Ohio, and he is just amazing.  He
+could even show John Petrucci and especially Alex a thing or two about playing
+the guitar.
+
+----------------------------------------------------------
+
+From: "Chris Dodd" <bikeman@vol.com>
+Date: Tue, 26 Jan 1999 23:28:09 -0500
+Subject: Guitarists (NRC)
+
+I'd have to agree with David Ayers:
+
+>>My personal favorite is Jamie West-Oram of the Fixx, =
+however.  Check out "Deeper and Deeper,"  "The Fool,"  and much of the =
+album Calm Animals.  He also did a nice guest shot with Stevie Nicks on =
+"Long, Long Way to Go" from The Other Side of the Mirror.>>
+
+>...It's nice to see someone else who really *listens* to the instrumentation
+of pop music. Jamie West-Oram is an amazing guitar player.
+
+Another personal fave of mine is Ian Chricton of SAGA. He's a great player
+in his own right.
+
+Just adding my .02 to the pot. How much does that make now?
+
+Chris
+THE Bikeman
+
+----------------------------------------------------------
+
+From: Todd Garbarini <tgarbari@ix.netcom.com>
+Date: Wed, 27 Jan 1999 14:04:39 -0500
+Subject: Re:  Scarred Records
+
+Hello, all.  Can someone please post the new URL for Scarred Records?
+
+Thanks in advance,
+Todd
+
+----------------------------------------------------------
+
+From: "Ralph Huffnagle" <rhuffnagle@hotmail.com>
+Date: Thu, 21 Jan 1999 15:56:35 EST
+Subject: NeilPeart.com is online
+
+I was a little bored so, I was checking out domain names for rush.  I 
+typed in http://www.neilpeart.com and it took me to the Helmet home 
+page.  What is up with that?   Is Helmet Rush fans?
+_________________________________________________________________
+I looked at the website and found this in one of the interviews.
+"John Stanier's (Helmet Drummer) staccato drumming is a Helmet mainstay. His
+style is the result of his combined love of punk, hip hop, and Neil Peart."
+I haven't heard any of his drumming.  Has anyone else?  Does he honor Neil's
+name or not?
+This same site has a different name also http://www.helmet.org.  Same IP
+different domain name, Virtual domain.  So there could also be a site named
+http://www.geddylee.com or http://www.alexlifeson.com and they could
+probably be part of that virtual domain.
+
+ -------------------------------
+J. Chris Littlejohn
+LAN Engineer
+Guidant Corporation
+ -------------------------------
+
+----------------------------------------------------------
+
+From: Zahid Hassan <zahid.hassan@bradford.gov.uk>
+Date: Thu, 28 Jan 1999 12:53:10 +0000
+Subject: Collins V Peart cont.
+
+Well let me continue on this controversial debate.  Some people (namely
+Frank - issue 2166) have mentioned that Collins has sold out with songs such
+as Sussudio.  OK fair comment - but it doesn't detract from the fact that he
+is regarded as a top-class percussionist who tries his hand at all
+percussive challenges (and I don't mean holding the bleedin' sticks
+differently!).  I mean Collins is diverse yet can adjust with the type of
+music he plays.  He's drummed with Clapton, Page et al, BB King and various
+concerts featuring a multitude of musicians - namely The Prince's Trust
+concert's & Nelson Mandella concert (in England).  Collins can simplify his
+set up and playing - you only have to listen to Genesis live to hear how
+good he is.  Could Neil do this and Relax ?
+(if the argument is that Neil has to concentrate due to nature of Rush's
+music)
+Somehow I think not!
+
+Zed
+
+----------------------------------------------------------
+
+From: johncaulfeild@pmsc.com
+Date: Thu, 28 Jan 99 10:16:01 -0500
+Subject: Favourite Album Side
+
+     I just had an idea for discussion, since I get the feeling most TNMS 
+     subscribers enjoy threads on favourite this & that....
+     
+     This thread may only appeal to those Rush fans who knew Rush firstly 
+     by lp albums.  In today's age of CD's, we hear a Rush album from track 
+     1 through to track 7, 8, 9 or whatever.  No breaks to turn the CD 
+     over!  However, if you started listening to Rush on vinyl, you may 
+     have defined Rush albums by "side A" and "side B", beacause you'd know 
+     that "2112" was side A of the album of the same name, and that "Tom 
+     Sawyer" -> "Limelight" was side A of MP.
+     
+     -> What is your favourite Rush album side?
+     
+     I've always been partial to side B of MP.  IMO, "Camera Eye", "Witch 
+     Hunt", and "Vital Signs" are just incredible examples of Rush at their 
+     creative and artistic best.  I'd enjoy hearing what other Rush 
+     (vinyl-era) fans think.
+     
+     Cheers,
+     John
+
+----------------------------------------------------------
+
+From: johncaulfeild@pmsc.com
+Date: Thu, 28 Jan 99 09:57:39 -0500
+Subject: Moon Records
+
+     I would appreciate any information fellow Rush fanatics could provide 
+     with respect to the first Rush lp on the Moon Record label.  ie. how 
+     rare it is, any idea of current market value (although that is always 
+     subjective!), etc.
+     
+     I understand that there was a single (or 2?) also released on the Moon 
+     label ("Not Fade Away" b/w an unreleased Lee/Rutsey track)?  What can 
+     anyone tell me about this/these singles?  Are they hard to find, what 
+     would I expect to pay, etc?
+     
+     Cheers and adTHANKSvance,
+     John
+     
+----------------------------------------------------------
+
+From: Fred Pinto <FPinto@mzad.com>
+Date: Thu, 28 Jan 99 09:56:42 -0800
+Subject: Juno Award Nominees...
+
+Taken from the Juno Awards Website FYI:
+
+Best Album Design (Sponsored by Ever-Reddy Packaging LTD.) 
+
+Andrew McLachlan / Rob Baker / Brock Ostram (Creative Director) , Andrew 
+McLachlan (Graphic Artist) , Bernard  Clark / David Ajax (Photographer) 
+Phantom Power, The Tragically Hip (Universal)
+ 
+David Ashcroft (Creative Director/Graphic Artist) , Ivan Otis / Margaret 
+Mandruccolo (Photographer) Three Seeds, New Meanies (Virgin/EMI) 
+
+Steve Goode (Creative Director/Graphic Artist) , David Anthony 
+(Photographer) 
+Since When, 54.40 (Columbia) 
+
+Hugh Syme / Geddy Lee (Creative Director) , Hugh Syme (Graphic Artist) , 
+Andrew MacNaughtan (Photographer) Different Stages, Rush 
+(Anthem/Universal) 
+            
+John Rummen (Creative Director/Graphic Artist/Illustrator) , Jay 
+Blakesburg (Photographer)  Stunt, Barnaked Ladies (Reprise/Warner) 
+
+Sorry if this has already been posted.
+ -Fred
+
+----------------------------------------------------------
+
+From: COP42194@aol.com
+Date: Thu, 28 Jan 1999 14:52:45 EST
+Subject: Video Game RUSH sighting
+
+http://www.classicgaming.com/rotw/llamatron.shtml
+
+Go here.  Don't know how long the game (Llamatron:  2112) will be available at
+that address.
+
+ John
+
+----------------------------------------------------------
+
+From: "eddy Maxwell" <eddymax@stcl.tamu.edu>
+Date: Thu, 28 Jan 1999 14:05:32 -0600
+Subject: Rushian Baldur's Gate
+
+Hey Everyone!
+
+How's things?  I hope well.
+
+My spare time, what little of it there is, has been taken up
+by a great computer game, Baldur's Gate.  It's an AD&D
+adventure game.  You can create whatever kind of character
+you want and then run around solving mysteries and killing
+things.  It's pretty damn incredible.
+
+Anyway, to the point of this post.  One thing that you can
+do in Baldur's Gate is create your own .wav files so you can
+be the voice of your character at certain points in the
+game.  For example, when it gets dark, my character says "It
+was a dark and stormy night".  Well, being the good li'l
+Rushians that we are, my hub and I had to include a couple
+of Rush quotes.  Here they are:
+
+Night:  "The night is black without a moon"
+City:  "The focus is sharp in the city" and "Drawn like
+moths, we drift into the city"
+Forest:  "There is unrest in the forest" and "There is
+trouble with the trees"
+
+My fondness for MST3K led me to have "Hi-Keeba!" as my
+battlecry.  We have a couple of Simpsons quotes and just
+some phrases we like of our own.  It makes the game more
+interesting.
+
+Anyone else playing BG?
+
+Valkyrie
+
+ -
+"Go for the eyes, Boo!  Go for the eyes!  Rusk!!"--Minsc
+
+----------------------------------------------------------
+
+From: Jesse N Zamudio <jessez@U.Arizona.EDU>
+Date: Thu, 28 Jan 1999 16:08:00 -0700 (MST)
+Subject: Re: 01/25/99 - The National Midnight Star #2168
+
+last question on th speed round of ESPNs UFL game show?
+Who is the lead singer of the band Rush?
+On
+
+----------------------------------------------------------
+
+From: William Hall <wchall@email.unc.edu>
+Date: Thu, 28 Jan 1999 21:05:28 -0500
+Subject: NeilPeart.com clarification...
+
+It was written...
+
+>>I was a little bored so, I was checking out domain names for rush.  I 
+typed in http://www.neilpeart.com and it took me to the Helmet home 
+page.  What is up with that?   Is Helmet Rush fans?
+>>
+
+Well, I looked it up.  The DNS names neilpeart.com and helmet.org refer
+to the same IP address, they're interchangeable.  On the credits page
+for helmet.org, the webmaster makes this comment:
+
+	I would like to thank the following:
+	<snipped the first three>
+	Neil Peart of Rush for sparking and fueling my interest in drumming.
+
+So, apparently this is the webmasters little way of saying thanks.  But
+why register the domain for neilpeart.com unless you're going to use
+it?  I think he plans to make another site for that domain name, but
+just hasn't gotten around to it.
+	
+ - 
+William Cary Hall
+ICQ# 6956498
+Homepage @ http://152.19.224.74
+Check my Rush/DT tradelists
+
+----------------------------------------------------------
+
+From: DigitlMn@aol.com
+Date: Thu, 28 Jan 1999 22:42:19 EST
+Subject: Circus Dances
+
+Greg Sanderson wrote:
+
+>Christopher W Lindsay <rushfan.2112@juno.com> wrote:
+>>"Fate is just the weight of circus dances"
+>Please, please tell me this guy *knows* that it's 'circumstances' and 
+>not 'circus dances'.  The Fish Islands saga was bad enough...
+
+I guess you were "Tricked by circumstances, lose our shorts..."
+
+On ASOH:
+>Especially since according to the misprint on the video     
+>tracklisting it includes YYZ as well. 
+
+Not on mine!
+
+One question I have:  Ain't Xanadu great??
+
+Rick
+
+----------------------------------------------------------
+
+From: PMKMAN@aol.com
+Date: Fri, 29 Jan 1999 11:17:27 EST
+Subject: great live album suggestions
+
+A few that come to mind:
+Little Feat- Waiting for Columbus
+Jethro Tull-  Bursting Out
+Simon & Garfunkel-  Concert In Central Park
+
+also:
+Odetta- black female (non-rock) vocalist- also has Harry Belafonte
+I can't remember the name of the album, but recall it fondly from my youth.
+
+"With the heart & mind united in a single, perfect sphere."
+
+----------------------------------------------------------
+
+From: "Littlejohn, John (C) (HOU)" <jlittle@guidant.com>
+Date: Fri, 29 Jan 1999 12:03:49 -0800
+Subject: Re: Cool Ideas
+
+>From: Alvaro Graves <agraves@cec.uchile.cl>
+>Date: Sun, 24 Jan 1999 13:40:04 -0400
+>Subject: Cool Ideas
+
+>Yesterday I was thinking about tattoo my arm. What important thing are in my
+>life worth to be tattooed... my family, my religion, and (guess what... of
+>course) Rush. So, I was thinking aboutwhat kind of Rush Tatoo would be cool.
+>I have some ideas
+
+>The Rush cover
+> The owl of FBN
+>the stone man of T4E
+
+>Suggestion? Ideas? Opinions? Anything please email me or post it
+>Thanx
+
+I just had the Starman tattoo'ed on my back.  I had to edit the picture and
+put it on a white background instead of the foreground.  I also had the
+Jimmy Page sign ZOSO tattoo'ed on my arm.  Anybody else have any
+Rush-related Tat's?
+ -------------------------------
+J. Chris Littlejohn
+Desktop/LAN Engineer
+Guidant Corporation
+ -------------------------------
+
+----------------------------------------------------------
+
+From: "Michael Z. Williamson" <daggers@indy.net>
+Date: Thu, 28 Jan 1999 15:13:16 -0800
+Subject: fisheye hal
+
+>Ronald Smith said:
+>Subject: Fisheye lens defined
+> Anyway, the fisheye was born with Stanley Kubrick's classic "2001: A 
+>Space Odyssey," almost a quarter century ago.
+
+more than 30 years ago, actually.  1968.  Anyone else feel old?
+ - 
+mike
+http://cloak-dagger.com  Edged weaponry, from the stone age to the space
+age.
+
+----------------------------------------------------------
+
+From: "Flynn, Jason R" <Jason.R.Flynn@UNISYS.com>
+Date: Fri, 29 Jan 1999 14:28:27 -0600
+Subject: Republicans for RUSH
+
+	>From: CSmock1962@aol.com
+	>
+	>I would also like to get the last word (HA HA)  by proving 
+	>conclusively that RUSH is indeed a conservative band!
+	>Would a liberal abandon a senior citizen to violate motor laws 
+	>by eluding NATO detection devices to take an outlawed, turbo 
+	>charged, 50 year old (65 by now) fossil fuel burning sports 
+	>car on an International joy ride across pristine mountain and 
+	>riversides? Then after eluding the one world, new order cops 
+	>relax at a fire that is burning chopped down trees? I think 
+	>not.
+CSmock, this is genius!  Just perfect.  Does it occur to anyone that
+Rush/Neil ought not be categorized politically because they cover the
+spectrum from The Trees (anti-union--republican) to Nobody's Hero
+(pro-gay--democrat)?  From 2112 (pro-individual--republican) to Subdivisions
+(anti-white-flight--democrat)?  From Anthem (me, me, me!--republican) to
+Alien Shore (us, us, us--democrat)?  Please pardon my sweeping
+generalizations; I'm just trying to illustrate the point that there's a Rush
+lyric for most every political issue, and that paints a much more complex
+picture than left vs. right.
+
+What surprises me even more is the gall that some people have in assuming
+that the band *must* share a particular view because they're
+smart/sensible/caring/understanding.  Rational romantic people are capable
+of arriving at different and even opposing stances.
+
+democrat republican conservative or liberal
+vegan vegetarian don't kill or eat an animal
+pro-choice anti-gun supporting right wing left wing lunatics
+can't you see Rush is a band not interested in politics?
+You bet your ass.
+
+Jason
+
+----------------------------------------------------------
+
+From: "Michael Z. Williamson" <daggers@indy.net>
+Date: Thu, 28 Jan 1999 15:21:52 -0800
+Subject: JOLLY TEABAG SHIRTS
+
+We are accepting orders now.  It took a while to get a decent EMT image
+for the sleeves.  Price will be $15ish, plus shipping ($3 for up to
+three shirts).  2xl sizes and larger and overseas will be more.  Call us
+with a credit card number, and we'll let you know when they are ready
+(before I go to Kuwait, I hope), and the total.
+
+317-784-7443
+ - 
+mike
+http://cloak-dagger.com  Edged weaponry, from the stone age to the space
+age.
+
+----------------------------------------------------------
+
+From: eg1o@gdeb.com
+Date: Fri, 29 Jan 1999 16:32:29 -0500
+Subject: Feesch I-lenzzzzzzzzzzzzzzzzz
+
+Yo Max:
+
+I hope your query as to the location of the Fish Islands has been answered
+to your satisfaction.  I believe the consensus is that they are located
+roughly between the ignorance of the naive and the arrogance of the
+experts.  As for myself, I am enjoying the refreshing sounds of the crystal
+blue waves crashing against its rocky shores.... I'll even send a
+picture... using what kind of lens??... take a guess... that's right!!!!  A
+Fisheye Lens!!!!  
+
+Hey, isn't that a lyric or something from a Spinal Tap song?!?
+
+Quite the stir you've created, senior!
+
+Oh yeah, RUSH content: Dude, like, ya know... DS is totally KICK-ASS!!
+Gnarley, Peace Out, blah, blah, blah, etc.
+
+P.S. - I hope this thread never ends!  I love geography...
+
+----------------------------------------------------------
+
+From: mmaholch@kusd.kusd.edu
+Date: Sun, 24 Jan 1999 13:25:07 -0500
+Subject: Guitarists
+
+Rush Mgr. please forgive me.  This post is very long in order to get a
+point across:  There is a lot of absolutely no Rush content that is in
+TNMS lately.  The following are snippets from issue #2169 alone.
+
+ ---------------------------------------------------------------------------
+
+In response to Thomas' post regarding DT's keyboard
+player:  I'm happy they made this decision because, quite
+frankly, I didn't like that keyboardist.  His singing parts on
+Infinity made certain songs unlistenable.  Good luck to them
+with their new memeber.
+ -----------------------------------------------------------------------------
+
+"From: maxrich@mindspring.comDate: Thu, 21 Jan 1999 14:10:43 -0600
+I read about "The Great Kat" in the last posting, and went to the site
+=listed <greatkat.com>.  Does anyone know what's up with this.  I can't
+tell if this is some sort of joke or not.  She is supposedly (according
+to some comments she had listed) better and faster than anyone including
+
+Vai, Malmsteen, and Satriani.  She looks like some sort of devil
+worshipper slut to me, but I'll give it a listen if it's any good.
+Comments? Info?
+"You can be the captain, and I will draw the charts. Sailing into =
+destiny, closer to the heart"  Max Richard"
+
+I'm an infrequent poster but thought I might chime in on this issue.  I
+work for my college radio station both as a DJ and music reviewer so get 
+my hands on lots of CDs (like Different Stages early, and all the promos 
+etc..) anyway The Great Kat (as I recall) is this woman who basically
+plays really strange classical music.  She is not a technical Guitar
+Player or anything like that.  In my opinion her music is terrible..
+but hey  who am I to judge for others
+ -----------------------------------------------------------------------
+
+Hey Rush soulmates-
+
+There's been a lot of talk lately about guitarists, and I noticed an
+interesting post about Steve Vai and Eddie Van Halen last time.  Here are
+some thoughts, what does everyone think?
+
+First, I'm informed; I've been playing guitar for 16 years and have been in
+three bands.  I'm not a 15-year old kid with an Electra Les Paul copy in the
+closet and a Gorilla amp by the bed.  :)
+
+I used to spend a lot of time comparing and contrasting guitarists, because,
+like most Rush fans I suspect, I'm a digger and analytical about stuff.  I
+grew up on Townsend, Hendrix, Skynard's guys and all the 80s metal guys.  I
+fell in love with Eddie for life when I heard "Dreams" in 1986 and saw VH at
+the Worcester Centrum.  I then ran out and bought all of Van Halen's albums
+from 1978-84 and absorbed them.  When I went to college I was exposed to
+
+Sabbath, Cream, Maiden, AC/DC, ELP, Fripp, Steve Vai, Satriani, et. al.  I
+patiently listened to Yngwie when all my buddies were raving over him but
+just was not moved.  Impressed, oh yes; but not moved.  "Crazy Train",
+now THAT moved me.
+
+There are millions of phenomenal guitarists out there who I have not listened
+to and could never judge anyway.  How can I compare the playing of two
+people?  It would be like saying the Soft Watches are better than the Last
+Supper, or comparing Grieg's Concerto in A minor to Beethoven's Ninth.
+
+All artistry is unique, even if you are copying somebody.  I can play the
+solo to "Limelight" note for note.  Every time I play it, I play it like
+
+ME, not Alex.  But I didn't write it!  So we have to put creativity into the
+formula.  And when Alex wrote it, he had others helping him.  Page, Hendrix,
+Clapton, Beck, and everyone else he loved growing up.
+
+So...all guitarists are extensions of the other players they have learned
+from.  And some guitarists have exceptional creativity.  Those with that 
+creativity inspire others.  Imitation is the sincerest form of flattery.
+
+When you combine great creativity with great intellectual working knowledge
+of music theory and technique, you have virtuosos.  Joe Satriani, Robert 
+Fripp, Al DiMeola and Les Paul come to mind.
+
+But does this make these guys 'the best ever?'  That's like saying Jim Brown
+was better than Walter Payton or Barry Sanders, or Neil Peart is better than
+Buddy Rich or Keith Moon.  All artistry is unique, even when copied from 
+somebody else.  Sure, Peart could play the Overture from "Tommy" note for
+note.  But it was Moon's own personal creativity and orchestral style that
+made it beautiful, just as it's Peart's own creativity and intensity that
+makes the three sharp tom blasts in "A Farewell to Kings" special, right 
+before the second verse ("the hypocrites are slandering...")
+
+So, what I'm saying is this: while comparing and judging guitarist is fun and
+interesting, it's basically pointless.  I love "Stopping by woods on a snowy
+evening" for what it IS, not because it reminds me of "Do not go gentle into
+that good night."  I love "A Tale of Two Cities" for what it IS, not because
+it reminds me of "The Red Badge of Courage".  When I listen to guitarists
+play, the beauty of each artist becomes a separate entity to me.  I don't
+WANT the solo from "Johnny B. Goode" to remind me of "Crazy Train." Each is
+beautiful when left alone.  Even more beautiful is how artists give to each
+other.  The very fact that Randy was a rock guitarist means that a little
+spark of "Johnny B. Goode" was with him when he wrote that magnificent solo,
+which blends rock, metal and classical styles in a lovely frenzy.  Just as
+Muddy Waters, Robert Johnson and BB King were with Berry when he wrote
+"Johnny B. Goode."
+
+If you want to rate guitarists, I suppose you could rate them for how much
+influence they had on their genre.  On this basis and this basis alone, I
+would put Hendrix at the top of the rock list.  But is Hendrix better than
+Steve Vai or Eric Johnson?  Come on.
+
+Each solo is a painting.  Some are just haberdash, filled with a thousand
+notes that don't really say much; most are forgettable and redundant (like
+mine!) :)  But there are solos out there that have inspired and lifted others
+to copy them- the sincerest form of flattery.  When a solo reaches a huge
+audience, you have a Mona Lisa, a "Henry V", a 55-10 blowout of the Broncos.
+ A master work.  My choice for that solo: "Jessica", by the Allman Brothers.
+ Three men playing as one, and smooth as a silk prom dress on the floor of a
+'67 Mustang.  :)
+
+By the way, here are my top ten favorite solos of all time: you'll find that
+some of these guys are in the "Where are they now file".  But I like these
+solos for how they make ME feel, not because they're the fastest or the
+smoothest or because they did 'point A = point C divided by point B" on some
+musical theory chart in a Berkeley classroom.  Music is not calculus.
+
+In no particular order:
+
+Eddie Van Halen- "Jump"
+George Lynch- "Burning Like a Flame" (first solo)
+Andy Taylor- "Some Like it Hot"
+Allman Bros.- "Jessica"
+Alex Lifeson- "A Farewell to Kings"
+Neil Schon- "Who's Cryin' Now"
+Chris Hayes (from Huey Lewis & the News)- "Walking on a Thin Line"
+Robert Fripp (on the Roche Sisters' 1st album)- "Hammond Song"
+Randy Rhoads- "Crazy Train"
+Tom Scholz- "More Than a Feeling"
+
+and on and on..."Sultans of Swing," "Comfortably Numb", "Celebration Day",
+"Machine Gun".........................(this was like choosing the ten best
+diamonds from a DeBeers catalog...)
+ ---------------------------------------------------------------------------
+
+Ok.  How long did it take you to scroll through all of that?  Imagine
+that every single time you read TNMS.  Oh, that's right, you don't have
+to imagine that, because it happens entirely too much, in every single
+issue.
+I'm asking each and every one of you.  Who's the fastest guitarist?  Who
+gives a damn?  Who's your favorite Dream Theater keyboardist?  Who gives
+a damn?  What's your favorite flavor of jam? I think you all get my
+point.
+Let's all think about what we have typed before we hit the send button.
+Does this have anything to do with Rush, their music, their bandmembers,
+stagecrew, production crew?  If the answer to all of these questions is
+no, then hit the delete key, not the send key.
+
+Thanks for reading, if you did.  I hope this works.
+
+Rush Mgr. - thanks for allowing me to spew.
+
+StillBill
+
+----------------------------------------------------------
+
+From: Edgar <Edgar@tomatoweb.com>
+Date: Fri, 29 Jan 1999 13:59:28 -0800
+Subject: Video Yes or No
+
+Does anyone - including our beloved Rush Manager - have a DEFINITIVE
+answer as to whether there will or will not be a Video (VHS or DVD)
+released?? And does anyone know if they even videotaped or filmed any
+shows from TFE?
+
+Just "jonesing" for some more new Rush stuff...
+ Edgar
+
+----------------------------------------------------------
+
+From: James Ball <rush2112@TSO.Cin.IX.Net>
+Date: Fri, 29 Jan 1999 17:02:18 -0500 (EST)
+Subject: Homework Help?
+
+I am doing a presentation on "Equality" for a Lit. Class, with emphasis on
+lyrical content. I am using "The Trees"...of course but can't think of any
+other songs to use? Could anyone help me....mabey some of you guys out there
+have done a similar project. I could really use some help?
+
+P.S DS is great....................as if we had any doubt!!
+
+rush2112 - yes that is my username, kind cool huh!
+
+rush2112@tso.cin.ix.net
+
+----------------------------------------------------------
+
+From: mattvoss@webtv.net (matt voss)
+Date: Fri, 29 Jan 1999 17:48:04 -0500 (EST)
+Subject: Phil Collins drum debate.
+
+Like many of you, I used to think that Neil was untouchable.  As I got
+older and wiser, I started listening to Frank Zappa.  Folks, Frank Zappa
+only hired the best musicians in the world.  If you think Phil Collins
+is/was great, do yourself a favor and pick up Zappa's 1988 live show
+"Make a Jazz Noise Here."  Chad Wackerman makes the rhythm method look
+like chopsticks!!  
+
+----------------------------------------------------------
+
+From: "McCauley, Sean (Consultant)" <sean.mccauley@attws.com>
+Date: Fri, 29 Jan 1999 17:54:44 -0500
+Subject: This review is a hoot!
+
+> While searching for CD's on CDNow, I ran across this VH1 review of
+> "Different Stages" by Glenn Haight:
+> 
+> 	Canadian rock band RUSH has had an amazing 25-year career with a
+> loyal audience from the beginning. It seems that Different Stages is
+> strictly for
+> them. The 3-disc live package sounds wonderful, but the question is, who
+> asked them to make it?
+> 
+>         The album, taken from 1997's Test For Echo, is RUSH's fourth live
+> album,  but is it necessary? Granted, they're amazing live -- possibly too
+> amazing. The  songs sometimes come off as sterile, near-perfect live
+> versions of their studio counterparts, with little improv or spontaneity.
+> And many of the songs contained here have already shown up on past live
+> albums, and haven't
+> changed much since then.
+> 
+>         The third disc -- a supposed lost concert -- taped at the
+> Hammersmith Odeon in 1978 during the group's A Farewell To Kings tour,
+> will certainly be sought after by hardcore RUSH fans, but seven out of the
+> eleven tracks were also performed on their 1976 live album All The World's
+> A Stage.
+> 
+>         Don't get me wrong, a 25-year career definitely deserves a
+> milestone, but
+>  with the recent Chronicles, Retrospective I and II and now Different
+> Stages, it seems like RUSH may be milking it a little bit.
+> 
+>         Glenn Haight
+> 
+> So I e-mailed the following message to Mr. Haight:
+> 
+> Dear Glenn,	
+> 	
+> 	I was just visiting CDNow.com for fun and I stumbled across your
+> review of "Different Stages" by Rush. Needless to say, as an avid Rush
+> fanatic, I am very disappointed with a few inferences you made. Now I
+> don't expect you to know anything because most reviewers don't, but two of
+> your statements are completely irresponsible and are a result of your lack
+> of knowledge about Rush. The third disk is not a "supposed"  lost concert,
+> it is a lost concert. Geddy actually found the tapes in a box in his
+> basement and didn't just say that in an effort to make it seem extra
+> special. Most bands would do that, but Rush is not most bands. They
+> respect their fans intelligence and have no need to stoop to that level to
+> sell an album, they do just fine without it. The other remark is in
+> reference to Rush "milking it".  How irresponsible of you to make a remark
+> like that. Can you name another band that has released albums and toured
+> those albums with the same consistency as Rush? (roughly a completely new
+> album, all new songs, every 2 years or less for 25 years).True that 1990
+> saw the release of "Chronicles" and 1997 marked the release of
+> "Retrospective I and II"  and "Different Stages" looks like just another
+> "Best of..." . But with just a little bit of research you would have found
+> this to be a parallax (you dig?). Mercury/PolyGram, Rush's former record
+> company, released the "Chronicles/Retrospective" CDs to "milk" Rush
+> themselves so you have got this part completely backwards. As for
+> "Different Stages", this album was going to be made after two more studio
+> albums (which would total 6 studio albums since their last live release).
+> This would have pushed it's release back to at least 2002 or so which
+> would be 13 years after their last live album "A Show of Hands". But two
+> significant events forced "Different Stages" to be created now and neither
+> one was an effort to "milk" their fans' loyalty. Those two events were the
+> deaths of Neil Peart's immediate family. An August 1997 car accident
+> claimed the life of Neil's only child and was followed by the July 1998
+> loss of his wife to cancer. Needless to say, the two more studio albums
+> then live album plan went out the window at this point and forced Rush to
+> stay the course of their 4 studio then 1 live album history.  Hopefully
+> you can do the math here and conclude that your remarks were
+> irresponsible. Not that I expect any better from a reviewer. Oh, by the
+> way, their fans asked them to make the album. As ridiculous as it may
+> seem, there is a band that exists for it's fans and not for their
+> eMpTyV/VH1-driven flavor-of-the-month, here today-gone tomorrow, 15
+> minutes of fame. And that band is Rush. If you want to charge "milking
+> it", write some stories about The Rolling Stones, The Who, Fleetwood Mac,
+> The Eagles and/or Pink Floyd. None of these bands have made a decent song
+> in 20 years but still find the need to "milk" fan loyalty with ridiculous
+> reunion tours and then release live albums for these sham tours. End of
+> rant. Thanks for listening.
+> 
+> Sean McCauley
+> inuksean@earthlink.net
+> 
+
+----------------------------------------------------------
+
+From: Ed Brogden <brogdene@erols.com>
+Date: Fri, 29 Jan 1999 18:35:34 -0500
+Subject: worlds fastest guitarist
+
+The worlds fastest guitarist is my Uncle Alphonse. All of you must be
+uneducated deaf-mutes not to see that (and I don't mean just a FORMAL
+education, this includes even you at-home schoolers and HS dropouts - I
+now I are a colege alumnis, remember that). This is also displayed by
+your inability to realize that is is a damn kazoo that's being played.
+
+And since no one else seems to know, the Fish Islands are a very
+exclusive female only string of resorts, near the Virgin Islands, and
+very close to the Isle of View.
+
+And it is a little known fact, but I happen to KNOW that Neil is a very
+strict Southern Baptist. We should start a new string on this.
+
+Isle of View All!
+
+ed brogden, some dumb uneducated red-neck conservative
+brogdene@erols.com
+
+PS and the blind man says "Good Morning, ladies"
+PPS forget loosening up NP's drum kit, how bout loosening up this group?
+Please?
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@tnms.com
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@tnms.com    or
+    rush-mgr@tnms.com
+
+There is a mail server available for back issues of the digest. For more 
+info, send email with the subject line of HELP to:
+
+    rush-srv@yyz.com
+
+These requests are processed immediately, and you should have back a response
+within a few minutes. Any problems please direct to the rush-mgr.  
+
+For those of you on the World Wide Web, the Rush home page is:
+   
+    http://syrinx.yyz.com
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright (C) 1999 by The Rush Fans Mailing List
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+*********************************************
+End of The National Midnight Star Number 2171
+*********************************************
+

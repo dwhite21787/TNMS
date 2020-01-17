@@ -1,0 +1,793 @@
+Errors-To: rush-request@syrinx.umd.edu
+Reply-To: rush@syrinx.umd.edu
+Sender: rush-request@syrinx.umd.edu
+Precedence: bulk
+From: rush@syrinx.umd.edu
+To: rush_mailing_list
+Subject: 09/19/91 - The National Midnight Star #343
+
+**   ____     __           ___ ____   ___        ___       **
+**    /  /_/ /_     /\  / /__/  /  / /  / /\  / /__/ /     **
+**   /  / / /__    /  \/ /  /  /  / /__/ /  \/ /  / /___   **
+**                                                         **
+**                    __            ___       ____         **
+**        /\  /\   / /  \  /\  / / /  _  /__/  /           **
+**       /  \/  \ / /___/ /  \/ / /___/ /  /  /            **
+**                                                         **
+**                  ____ ____  ___  ___                    **
+**                 /__    /   /__/ /__/                    **
+**                ____/  /   /  / /  \                     **
+
+
+          The National Midnight Star, Number 343
+
+               Thursday, 19 September 1991
+Today's Topics:
+                      Administrivia
+                         Various
+                  Comment and MacSounds!
+     The RTB Tour/Gangster O' Boats/Frank the Tab Guy
+             Geddy, Alex, and Drum Machines.
+          I Hate My Life -- another RTB spoof...
+          The Trees / Broone's Bane TAB/Chords?
+               rtb#1?  not w/ gnr around...
+                     Xanadu spelling
+                        RUSH on TV
+                    TNMS 9/18/91 Humor
+                     too many posts?
+              A weapon to be held against us
+                     Article in #342
+                  Rush at number 1!!! ?
+               Roll the Bones won't hit #1
+                       Jack Secret
+                  Pittsburgh tour month
+               Info on Hamilton Oct 25 show
+                  Great interview Erik!
+                 CD Launch transcription
+                         Doggies
+----------------------------------------------------------
+
+Subject: Administrivia
+Date: Thu, 19 Sep 91 16:37:57 -0400
+From: RUSH Fans Digest Manager &lt;rush-mgr&gt;
+
+There is now a new MacSounds file out in the anonymous ftp area on syrinx.
+The files should be ok now, but I take no credit/blame for them.  Check out
+the README file in that directory for more specifics.  See also post #2 below
+from Milton Moskowitz for details.
+
+  ** SERVICE INTERRUPTION -- IMPORTANT -- READ **
+
+There will be an interruption in service with the NMS.  I'd mentioned this
+before in passing, but it's staring us all in the face now.  There may or
+may not be a NMS tomorrow, Friday 9/20.  I will not be at work that day,
+but my log on from home.  Next week, Mon 9/23 through Fri 9/27 I will be
+away on vacation.  There will be NO mailings for this week.  I'd appreciate
+it if people didn't swamp the addresses on syrinx with mail, but I won't
+hold my breath.  :-)
+
+The machine should be up the whole time; my office is accessible by others
+if there is a problem.  One Syrinx user in particular (hi, Ed!) will be sure
+to alert people if it goes down, so there shouldn't be any major interruptions
+in availability.
+
+For those of you in the eastern US, if you happen to see a Honda Accord with
+"Syrinx" license plates in VA or NC (Outer Banks), stop and say "hi" to your
+list-manager.  :-)
+
+rush-mgr
+
+----------------------------------------------------------
+
+Date: Wed, 18 Sep 91 14:23:48 PDT
+From: shaw@toadflax.eecs.ucdavis.edu (Robert Shaw)
+Subject: Various
+
+Now that the traffic has died down, I'll send in my batch 'o stuff
+
+Yes, I am partial to COS as well. There's alot of great guitar on that
+album.
+
+The "ghost" of a chance has got to be an intentional irony: I don't
+believe in destiny, or XYZ, or ABC, or angels, but I believe there's
+a ghost... I'm sure I don't need to tell this crowd, Neil's full of
+words twists and double-meanings. Like the phrase "you bet your life"
+When you get on that train, or load your gun, you're playing the odds
+that it won't derail, or it won't go off accidentally - the odds are
+certainly in your favor, but still, you're *betting* your life, for real.
+Or "fence the enemy within" with foils and rapiers? or with chain-link?
+Ahhh...  To non-Rush fans it's just silly, but I really dig the way
+Neil does that. I'm going to stop this line now, since you all no I can
+just go on and on...
+
+I don't know what objectivism is, but I do think Neil is highly skeptical
+of divine powers at work in this universe. It's causes and effects, albeit
+extremely ( uncomputably, in fact ) complex causes and effects. I live my
+life under the same assumption - to each his or her own faith. Although I
+don't think  I'd get along with Neil personally very well, his lyrics were
+my main attraction to Rush - I really dug "Freewill".
+
+Is Show Don't Tell the opener now? (missed Presto tour) I wasn't expecting
+a change until the next album (3rd album, 1st song from each set of four:
+Bastille Day, Spirit 'o, The Big Money)
+
+I think they will play Face Up. I like Face Up. Use headphones, and
+anticipate that guitar fill after "... and it's goooood to be alone."
+I wish they extended the fill to a solo, it fits beautifully (IMHO).
+Sometimes Alex's solos are just there in the bars where the solo goes -
+they don't always "fit" with the precision that Page's do.
+
+I've found that anticipation helps to get into Rush songs - you have to
+listen and learn. "The obvious thing" doesn't always come next.
+
+The rapper is Leonard Nimoy :-)
+
+Finally, human compassion is a *good thing*. Let's refrain from the "Get a
+life" comments just because someone's deeply into Rush (especially when
+the same posting contains arguing about fonts on the artwork - get a life).
+So there are die-hard Rush fanatics who go on and on all over USENET
+about how Rush is the greatest band ever and they can do no wrong....
+Live with it - thought police are *bad things*. If someone comes up to
+you and says "you're a Rush fan - you mindless zealot!". Just explain to
+that individual that s/he is committing an unjustified generaliztion from
+*some* Rush fans to *all* Rush fans.
+
+Oh Yeah, where's that U.C. Davis drummer I met here a while ago?
+
+Rob
+
+----------------------------------------------------------
+
+Date: Wed, 18 Sep 91 19:09:16 -0400
+From: mem10@po.CWRU.edu
+Subject: Comment and MacSounds!
+
+&gt;From: "Douglas G Schwabe" &lt;cschwabe@unix.cis.pitt.edu&gt;
+
+&gt;P.S.  Where's My Elephant in my cassette case?
+        Is that what they mean my Where's my Thing?  They probably didn't
+have room for the elephant on the casette case -- elephants ARE big
+creatures, you know?
+
+        And now to the other topic: the MacSounds.  Stupid me FTP'd them in
+Binary, and they didn't wanna go as binary for some strange reason.  I
+don't know why!  So I've Binhexed them, and I've put them back into the
+incoming directory.  Last time: Rush-mgr moved them to /Rush/MacSounds, so
+I hope he'll do the same again.  This time I actually tried to download
+one, and it works fine.  What you need is a program to UnBinhex the files.
+Any of the Stuffit's will do it for you.  Then I saved all the files as
+Self-Unstuffing Stuffit Deluxe Archives, so they'll extract themselves.
+Enjoy!  If anyone has questions/problems with them: send mail to me -- I'm
+quite sure that Rush-mgr has better things to do with his time then answer
+questions for the samples that I threw in the FTP site.  I'm more than
+happy to give better details on how to use these files.  Enjoy!
+ORQ: "The boy pulls down his baseball cap and covers up his eyes"
+---
+Milton E. Moskowitz         mem10@po.CWRU.edu       IRC Operator Warlock
+ "Even Paranoids have Enemies." -John E. Hale     Accept no Substitutions-
+"Cash or Charge?" -Me     "Whooh!"   Set Phasers...  Insist on 220 Volts
+ Michelson 220 Volts -- Case Western Reserve University    'nuff Said
+
+----------------------------------------------------------
+
+Date: Wed, 18 Sep 91 18:32:00 EST
+From: "So get out there and rock, and roll the bones. Get busy!" 
+          &lt;mailrus!iuvax!bsu-ucs!00javaughn@uunet.UU.NET&gt;
+Subject: The RTB Tour/Gangster O' Boats/Frank the Tab Guy
+
+Hello Folks.
+First of all, the moment anyone hears any tour dates ... PLEASE post them!
+Second, has anyone heard anything official about the Gangster Of Boats Trilogy?
+I'm hoping that they are going to do three more instrumentals to complete this
+work.  Are Rush going to do Rockline again any time in the near future?
+Thirdly, to Frank the Tab guy... Please send me your address.  If you still
+don't have a Freewill tab file, I can do one for you when I have time.  I might
+be able to do a halfway decent Working Man and/or Finding My Way also.
+
+Now ... some opinions.  First of all, there is no way in hell RTB is going to
+be #1 on BillBoard anytime in the near future.  Did we forget about the new
+Guns and Roses albums?  I'd say those will be #1 at least for the next year
+or so.  Rush will be lucky to hang on to #3.  But we can always dream....
+
+Later.
+Josh Vaughn
+
+----------------------------------------------------------
+
+From: yackob@ic5.ee.UManitoba.CA (kerry yackoboski)
+Date: Wed, 18 Sep 1991 18:44:34 CDT
+Subject: Geddy, Alex, and Drum Machines.
+
+	Yesterday someone said they didn't know drum machines could
+play the difficult patterns Peart plays.  According to excerpts from
+"The Drummer's Diary", an article culled from Neil Peart's writings,
+"The Weapon"'s drum parts were written by Lee and Lifeson and Mr. O. Scar's
+drum machine.  Peart complains about having to bend his arms in
+unnatural ways in order to play the part, and mentioned he felt it
+was no compromise to go with a straight four on the kick drum, given
+the complexity of the drum pattern.
+	This article was in a newspaper called "The Sunshine News"
+(yes, really!) that was distributed free in my high school when
+Signals came out.  What?!?  You don't have a copy of "The Drummer's
+Diary"?!?  And you call yourself fans?!?! :-) :-)  Or is this available
+via ftp?
+
+--
+Mysterious Moon Man of Manitoba &lt;yackob@eeserv.ee.umanitoba.ca&gt;
+The Canadian Scanning Tunneling Microscopy Lab
+
+----------------------------------------------------------
+
+Date: Wed, 18 Sep 91 17:25:43 -0700
+From: maupin@cs.washington.edu (Magus Psi)
+Subject: I Hate My Life -- another RTB spoof...
+
+	In the spirit of our recent attempts at parodying RTB, here's
+my contribution to the blasphemy.  This spoof of "You Bet Your Life"
+is aimed at a lot of the male/female stereotypes we commonly associate
+with marriage in America as sarcastically depicted on TV shows like
+"Married With Children" and "All In The Family."  My rendition
+basically consists of a husband and wife trading insults.  Although
+none of the following lyrics are meant to offend anyone, if you find
+the need to vent anger at something I've said, PLEASE flame me via
+e-mail and NOT through the NMS.  Enough qualification...laugh
+heartily!
+
+          I HATE MY LIFE or YOU BET YOUR WIFE (whichever you prefer)
+		       Music by Lee and Lifeson
+			 Lyrics by Ken Maupin
+
+HUSBAND'S VERSE:
+Just another in-law, long outlasting their stay
+Just another Bon bill she expects me to pay
+Just another dinner means more heartburn and pain
+Just another day -- at the end of her ball and chain
+
+HUSBAND'S CHORUS:
+THE BROAD AIN'T LEAVIN' -- She always complains
+THE BROAD AIN'T LEAVIN' -- She drives me insane
+I HATE MY LIFE
+
+WIFE'S VERSE:
+Just another whiner, pours his beer down his throat
+Just another fat ass in a fishing boat
+Just another boozer, always jobless and broke
+Just another day -- in a castle with a Coor's Light moat
+
+WIFE'S CHORUS:
+THE CLOD'S A HEATHEN -- Just look at this stain
+THE CLOD'S A HEATHEN -- All men are the same
+I HATE MY LIFE
+
+HUSBAND'S SPOKEN VERSE:
+greedy jealous money-hungry shopping mall tourist
+talk show and soap opera watching self-taught psychotherapist
+irrational demanding whining freedom-choking feminist
+wrinkled grey-haired sagging vericosed arthritic gruesomeness
+
+WIFE'S SPOKEN VERSE:
+armchair natural gas-producing jaundiced beer-evangelist
+chauvinistic smelly hairy foul-mouthed macho egotist
+impotent pot-bellied balding middle-aged misogynist
+in-debt-up-to-his-eyeballs undereducated credit-risk
+
+FAMILY VERSE:
+Just another family, the Cleavers they aren't
+Just another household completely lacking heart
+Just another marriage on the rocks from the start
+Just another couple -- wed until "death do us part"
+
+FAMILY CHORUS:
+ONLY GOD KNOWS THE REASON -- The story's the same
+ONLY GOD KNOWS THE REASON -- Why love is so lame
+I HATE MY LIFE
+
+Copyright 1991 Mind's Ear Music Publishing
+No Rights To Reserve
+Spoofed Without Permission
+
+\-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-/
+|            Kenneth Maupin +===+   o    +===+ maupin@lynx.cs.washington.edu  |
+|  University Of Washington |   |  /|\   |   | "Sometimes our big splashes    |
+|          computer science |~~~|  Co--= |~~~|  are just ripples in the pool" |
+|             undergraduate |___|  / \   |___|     -- Pratt, Emotion Detector |
+/-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-\
+
+----------------------------------------------------------
+
+Date: Wed, 18 Sep 91 17:27:07 PDT
+From: ivo@cs.unr.edu (Ian (Ivo) Veach)
+Subject: The Trees / Broone's Bane TAB/Chords?
+
+Hi y'all!  I'm new to the list here, so excuse if this has been asked and
+answered, but...
+
+I've been searching for either TABS or chords to Broone's Bane AND/or The
+Trees.  Does anyone here (1) have them, (2) know where to get them, (3) not
+care to much, (4) know where they are but don't feel like telling, or
+(5) not know what or where they are, but feel like telling?
+
+Thanks for anything...Salutations!
+
+Ivo
+ivo@mammoth.unr.edu
+
+----------------------------------------------------------
+
+Date:    Wed, 18 Sep 1991 20:33:18 EDT
+From: STU_JWSHELBY@VAX2.ACS.JMU.EDU (Where the Hell is HECK?!?!?)
+Subject: rtb#1?  not w/ gnr around...
+
+&gt;It's a possiblity.  They have already reached their highest chart position
+&gt;ever (#3 for Moving Pictures in '81) so I wouldn't be surprised if RTB
+&gt;would surpass that and hit #1.  It would be quite an acheivement, indeed.
+&gt;Now if Metallica would drop out of there this week... :)
+
+Geffen has been predicting g'n'r to hold both the #1 and the #2 spots
+for Use Your Illusion 1 & 2 (altho not necessarily in that order).
+
+i think RTB may have to suffer to that :(
+oh well...
+acroyear
+
+----------------------------------------------------------
+
+From: lharris@hubcap.clemson.edu (Larry Harris)
+Subject: Xanadu spelling
+Date: Wed, 18 Sep 91 20:52:09 EDT
+
+My tape copy of ESL also has Xanadu spelled as Zanadu.  I have been curious
+about this myself!  Anyone out there have the answer?
+
+About RTB, I really like the album.  I don't see what people are complaining
+about, I think its much better then Presto!  At first I was a little
+dissapointed, but after listening to it about twenty times, I really like it!
+Does anyone have a tour list dates yet?  Will they swing by Greenville, SC
+again?  Maybe I can see if Clemson U will get them to play here... yeah right!
+
+-Larry Harris-                |  '86 mustang lx 5.0 notchback
+lharris@hubcap.clemson.edu    |  Meyer's Tow'd Dune Buggy
+lharris@clemson.bitnet        |  OS-9 a leaner meaner UNIX
+Clemson Computer Engineering  |  RUSH, YES, R.E.M, The Who
+
+----------------------------------------------------------
+
+Date: Wed, 18 Sep 91 20:29:14 -0500
+From: toronto@ccwf.cc.utexas.edu (James Moseley)
+Subject: RUSH on TV
+
+Just thought you might like to know that during the CBS pre-game football show
+on Sunday 8th, they played the intro to "Bravado" while airing video of backup
+quarterback Steve Young of the San Francisco 49'ers!  This might be old news 
+to some, but I haven't got around to reading the news letter lately.  Anywae 
+change of pace!  Sorry about the word wrap.
+
+James Moseley
+(toronto@ccwf.cc.utexas.edu)
+
+----------------------------------------------------------
+
+Date:    Wed, 18 Sep 91 21:30 EDT
+From: "Doug Morack (412)457-1292" &lt;DCM115@PSUVM.PSU.EDU&gt;
+Subject: TNMS 9/18/91 Humor
+
+  Some rare, unintentional, humor in TNMS 9/18/91 follows:
+
+&gt;Folks, PLEASE send your administrative mail to the administrative address.
+&gt;I think I'm actually "blue in the face" from saying this.  1/2 :-)
+&gt;
+&gt;On with the show,
+&gt;rush-mgr
+&gt;
+&gt;----------------------------------------------------------
+&gt;
+&gt;Date: Tue, 17 Sep 91 17:29:22 EDT
+&gt;From: katopis@eniac.seas.upenn.edu (Chris J Katopis)
+&gt;Subject: Re:  09/16/91 - The National Midnight Star #339
+&gt;
+&gt;please unsubscribe me at this time
+&gt;
+&gt;----------------------------------------------------------
+
+    Need I say more?   =)
+
+-Doug
+
+*******************************************************************************
+* ____            ___          *  Lonely things like nights, I find           *
+* |   \  |    |  /   \  |    | *  End finer with a friend.                    *
+* |___/  |    |  \___   |____| *        "Anagram (For Mongo)" - Rush _Presto_ *
+* |  \   |    |      \  |    | *  Gonna kick some gluteus max.                *
+* |   \   \__/   \___/  |    | *     "Roll the Bones" - Rush _Roll the Bones_ *
+*******************************************************************************
+* BITNET   - DCM115@PSUVM         *  Let's go Pens!!!!                        *
+* INTERNET - DCM115@PSUVM.PSU.EDU *  1990-91 Stanley Cup Champions!!!!        *
+*******************************************************************************
+
+----------------------------------------------------------
+
+Date: Wed, 18 Sep 91 15:40:45 HST
+From: hinano@ahi.pbrc.Hawaii.Edu (Hinano Akaka)
+Subject: too many posts?
+
+Yo.
+
+Ian D. Bjorhovde noticed my million and one posts yesterday... god,
+how embarrasing.  I was hoping no one else noticed it... I didn't mean
+to write so much...honest!!  I kept forgetting what I was going to
+write and then I'd have to write another one... even *I* was
+surprised -- "My post (skip), my post again (skip), read read read, my
+post (skip), read read, my post (skip); WHAT IS THIS??!!!"  I really
+apologize (!)...
+
+anyway, there is some content after all to this.  Does anyone have the
+number to the Anthem office? (maybe I should call collect? (pause) Ha
+ha ha ha ha ha ha ha!!!)
+
+Nah. Joke.  Ho-hooo!
+
+puanani
+
+----------------------------------------------------------
+
+Subject: A weapon to be held against us
+Date: Wed, 18 Sep 91 18:52:31 -0700
+From: dougo@soda.berkeley.edu
+
+ &gt; He's not afraid of your judgement
+ &gt; He knows of horrors worse than your Hell
+ &gt; He's a little bit afraid of dying --
+ &gt; But he's a lot more afraid of your lying
+ &gt;
+ &gt; And the things that he fears are a weapon to be held against him...
+ &gt;
+ &gt; Who, esteemed net.rush.experts, is he?  I've thought of several
+ &gt; possibilities, including all kinds of political, economic or
+ &gt; military leaders - but they all (to me) seem to founder on the "But
+ &gt; he's a lot -" line.  Why should somebody like that be afraid of
+ &gt; somebody else lying (in a public opinion poll, or what?)
+
+Hm, I always thought it meant something like "he thinks there's a much
+greater chance of your lying than him dying".  I.e., he's afraid of both,
+but the former is less likely to happen, so he's less afraid of it.
+Dunno if "he" is a specific real person; I thought it just referred to
+leaders in general.
+
+That's one of my favorite songs, by the way; it's the last Rush song I can
+remember that had a long instrumental part in the middle.  I wish they would
+do this every once in a while; an instrumental song is great, but I like
+songs like "The Weapon" and "Jacob's Ladder" that have the instrumental
+weaved in with the rest of the song.
+
+One last remark about the new album: after finally getting a chance to
+listen to it closely a couple of times, I noticed how strikingly upbeat the
+album sounds as a whole.  It seems like all their albums since _Moving
+Pictures_ had predominantly depressing songs, or at least melancholy (for
+example, "Losing It" or "Afterimage"); but this one really doesn't have
+any.  I mean "Heresy" is a depressing way to look at a good event, but the
+music is still mostly upbeat.  I definitely like this "upbeatness", as long
+as they don't start doing "Shiny Happy People" or anything as disgusting as
+that.
+
+-- DougO
+
+----------------------------------------------------------
+
+Date: Wed, 18 Sep 91 21:04:06 -0500
+From: Brian E. Saunders &lt;saunders@luther.che.wisc.edu&gt;
+Subject: Article in #342
+
+&gt;            The National Midnight Star, Number 342
+&gt;
+&gt;                 Wednesday, 18 September 1991
+&gt;           Music Express Article with Neil and Alex
+&gt;
+&gt;                        Something Up Their Sleeves
+&gt;                             by Keith Sharp
+&gt;                      Copied Without Permission From
+&gt;                Music Express Vol.14, Issue 144, Feb. 1990
+
+Interesting article, but one statement in here kind of iritated me:
+
+&gt;     Peart claims Rush has avoided such pitfalls by recognizing their own
+&gt;  limitations.  They don't play summer football stadium concerts because they
+&gt;  know they're not a big enough headline act to pull 50,000 fans -- and,
+&gt;  besides, it's not conductive to their music.  They also don't play countries
+&gt;  that don't warrant their interest.
+
+That was not so for the Presto tour.  In the Wisconsin/Illinois/Indiana area,
+the only concerts that I knew of were at outdoor ampitheatres - I had cheap
+tickets to see them at Alpine Valley but there were T-Storms that day and I
+didn't have the motivation to hear an outdoor concert while getting covered
+with mud at the same time.
+
+I hope Rush hits this area in the winter so I can see them indoors.  I think
+playing at these outdoor shit theaters is selling out, and I hope they don't
+do that again this time around.
+
+Brian Saunders
+
+----------------------------------------------------------
+
+Date:         Wed, 18 Sep 91 23:28:31 EDT
+From: "Dan Newcombe(Graphics Research Group)" 
+           &lt;GRDN%MARIST.BITNET@YALEVM.YCC.Yale.Edu&gt;
+Subject:      Rush at number 1!!! ?
+
+Not to be a party pooper..but...
+ While Rush may be #3 on the charts now... Remember...
+The new Gun's and Roses album just came out and that is probably
+gonna shoot up rather high. And Ozzy's new album just came out too...
+
+   Good luck to the trio..
+  -Dan
+
+----------------------------------------------------------
+
+Date: Thu, 19 Sep 91 01:36:14 EDT
+From: William_A._MacDonald@MTS.RPI.EDU
+Subject: Roll the Bones won't hit #1
+
+Hello, all you Rush fans.  I know everyone is excited that Roll the Bones
+has debuted at #3 on the latest Billboard charts, but I predict that it
+will never see #1.  You see, there's this band called Guns 'n' Roses which
+released 2 albums a few days ago, both of which sold over 500,000 copies in
+2 hours.....2 hours!!!!  The album went gold in 2....well, you get the point.
+It would be interesting to see if there were any singles off the new album
+that cracked the Top 40; not that I care if any do, but perhaps Rush is
+starting to be accepted and respected without really changing their
+progressive style of music.  Of course, if Rush did hit total mainstream, it
+would be a hell of a lot harder than it already is to get tickets, and that
+would just suck......
+
+To the person who hears a dog barking in _Dreamline_...I hear em too!  I count
+three barks total, one after the other.  So you are not alone.....
+
+Well, that's all folks!
+
+   William MacDonald
+Go COWBOYS!!!!
+
+----------------------------------------------------------
+
+From: amy@arla.austin.mcd.mot.com (Amy Moseley)
+Subject: Jack Secret
+Date: Thu, 19 Sep 91 10:51:19 CDT
+
+or Jack-not-so-Secret...
+
+Another reader writes:
+
+Who Jack Secret is, I don't know...
+ But I did notice this today...
+
+   On the Blue Oyster Cult album "Imaginos" (1989) there is a
+   Jack Secret listed under the additional musicians as a vocalist.
+
+This doesn't surprise me a bit, because Jack/Tony worked for Blue
+Oyster Cult before joining the Rush road crew.  I don't have anyone
+to compare him to except that he has very long dark hair, a semi-
+dark complexion, wears sunglasses a lot, had on black leather the
+day I met him and had a penchant for women.  In fact Slider noticed
+that my dress was wrinkled and said he had some wrinkle-free stuff
+back at the hotel...yeah get serious.  I guess because of my sex
+I could've met the boys, but that's what makes Rush different,
+is they don't have "groupies."  They are all married.  So what's
+the point?
+--
+Amy J. Moseley
+Motorola Computer Group
+(512) 329-7117					:)
+amy@austin.mcd.mot.com or
+uunet!cs.utexas.edu!oakhill!arla!amy
+
+----------------------------------------------------------
+
+Date: Thu, 19 Sep 91 14:03:03 -0400
+From: "John W Connelly" &lt;connelly@unix.cis.pitt.edu&gt;
+Subject: Pittsburgh tour month
+
+To the guy who asked about Rush's Pgh tour date (and for others of you
+interested...):
+
+WDVE has yet to announce a firm date, but they keep saying Rush will be
+here during the month of Rocktober.  So, given that Rush starts their
+tour on October 25, my guess is they'll be here on or shortly before
+Halloween.
+
+Sounds to me like a good excuse for Pittsburgh Rush Party #2, eh?
+
+Chuck, Doug, Ian, Ken, whaddya think?
+
+--JC
+
+/===========================================================================\
+| John W. Connelly  | "If you choose not to  |  connelly@unix.cis.pitt.edu  |
+|  511 LRDC Bldg.   |   decide, you still    |+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=|
+|  U.of Pittsburgh  |    have made a choice" |    CONNELLY@Pittvms.BITNET   |
+\===========================================================================/
+
+----------------------------------------------------------
+
+Date: Thu, 19 Sep 91 14:28:06 EDT
+From: faulkner@acsu.buffalo.edu (shane p faulkner)
+Subject: Info on Hamilton Oct 25 show
+
+First off, thanks to those who have replied to my Aimee Mann/Geddy Lee moan
+question....  I will post the results when I'm sure people have had a chance to
+reply.
+
+I just heard on a St. Catherines Ontario radio station that ANDY CURRAN will
+open the Hamilton show.  I sure this will mean he will open most of the Candian
+shows, since he is a Canadian act, although who knows about the American shows.
+
+By the way, Mr. Big opened Presto in the States, and Voivod opened when I  saw
+them in Toronto, but who opened the rest of the Canadian shows??
+
+If you've never heard of Andy Curran, he has been enjoying moderate to good
+success in and around Ontario for the past couple years.  His two biggest solo
+tunes so far seem to be 'License to Love' and 'Let Go'.  He has been touring
+incessantly for at least the last 1.5 years.  His sound is basic hard rock,
+no keyboards.  He was formerly the lead singer with Coney Hatch, who were
+fairly big around these parts quite a few years ago.  Their biggest hit was
+'Monkey Bars'.
+
+///////////////////////// The Gangster of Boats /////////////////////////
+/////////////////////////////////////////////////////////////////////////
+/ Shane P. Faulkner         |  Boys and Girls together                  /
+/ University At Buffalo     |  Mistake conceit for pride                /
+/ V127L2QZ@UBVMS.BITNET     |  Ambition for illusion                    /
+/ faulkner@acsu.buffalo.edu |  Dreams for self-delusion   - Neil Peart  /
+/////////////////////////////////////////////////////////////////////////
+
+----------------------------------------------------------
+
+Date: Thu, 19 Sep 91 15:37:54 EDT
+From: jaeger@buphy.bu.edu (Gregg Jaeger)
+Subject: Great interview Erik!
+
+Greetings,
+
+Thanks for the transcription of the great interview, Erik!
+There are some interesting topics for discussion it seems to raise.
+The interview had great information.
+
+But the writer seemed a bit unexceptional -- as in:
+&gt;   There is the token ecological in _Red Tide_ but for the most part, the
+&gt;subject matter deals with humanistic matters like  cynicism (_Show Don't
+&gt;Tell_) and sensory perception (_Available Light_), an ode to Peart's
+&gt;travelling adventures.
+
+I hate it whenever the band does a song and the writer calls it a
+`token' song. Like, oh yeah, Rush always has at least _one_ ecological
+song on each album, they have to have one _no matter what_, so they
+wrote ``Red Tide.'' Give me a break.
+
+I, for one, never saw ``Show Don't Tell'' as a song about cynicism.
+I've always seen it as a song about the most dependable way of getting
+to the truth -- i.e. demanding evidence. It seems to me a cynic wouldn't
+ask for evidence, he or she would _assume_ that they were being lied to.
+
+And there is a puzzler:
+&gt;"So with _Presto_, the only way we could keep the running order the way
+&gt;we wanted was to put more material on side one than on side two.
+&gt;This means the sound level on the first side is lower that on the second."
+
+Could one of our resident engineers please explain this one?
+
+I have trouble seeing how the amount of material on the sides
+of a recording could affect their relative sound level. It
+almost sounds like, gee, each side can only have so much _sound_
+and we've got to distribute amongst _all these songs_! WHA?!
+
+And some great news:
+&gt;   "We could tolerate it when we were younger and we had to play 300 gigs a
+&gt;year to survive," recounts Lifeson.  "But now that we've all got families,
+&gt;it becomes so much harder.  It's not so bad for Neil; he's started to work
+&gt;on his travelogues and he goes for a 60-mile cycle to relieve the boredom."
+    ^^^^^^^^^^^^^^^
+
+Sounds great for fans of Neil's writing! Perhaps these are the
+mysterious book(s) Neil has distributed (so far) only amongst those
+close to the band?
+
+&gt;Peart enthuses.  "We stayed in the huts with the village chiefs
+&gt;and got to know the people in a way you never could if you were just touring
+&gt;with a band.  They thought it was quite a novelty to see a white man playing
+&gt;the drums!"
+
+Cool!
+
+&gt;"Corporate sponsorship is a vulgar, abhorrent concept," [Neil] says, "which
+&gt;drives up a show's production costs by hundreds of thousands without
+&gt;reflecting the band's true demand."
+
+People say the band is selling out -- ha!
+
+And some bad news:
+&gt;   "For us to play places like Eastern Europe, Japan and Australia would be
+&gt;totally self-gratifying," notes Peart.  "We know the fans aren't there, so
+&gt;why bother?  And besides, I'd rather see those places on my bike.  It's a
+&gt;lot more intimate and a lot more fun."
+
+What about our Aussie and Japanese list members!!
+
+I guess you'll just invite Neil over to your house, eh?
+
+Wow. If anyone else has an interview like this that isn't at syrinx
+could they please transcribe it?
+
+Gregg
+
+p.s. I promise to submit another transcription of my own soon...
+
+----------------------------------------------------------
+
+From: stedmant@LONEX.RL.AF.MIL (Terrance A. Stedman)
+Date: Thu, 19 Sep 91 15:50:52 EDT
+Subject: CD Launch transcription
+
+        If anyone is in the process of transcribing the Q107 RTB CD launch,
+please let me know.  Otherwise I'll begin working on it...
+
+    Terry Stedman    Internet: stedmant@lonex.rl.af.mil
+    ------------------------------------------------------------------------
+    I ) I I &lt;~ I_I   "It is my will which chooses, and the choice of my will
+    I \ I_I _&gt; I I   is the only edict I must respect." - Rand from _Anthem_
+    ------------------------------------------------------------------------
+
+----------------------------------------------------------
+
+Date: Thu, 19 Sep 91 13:03:16 PDT
+From: djabson@sdcc13.UCSD.EDU (The God of Balance)
+Subject: Doggies
+
+	To whoever said they heard dogs barking during Dreamline, I hear
+them as well. It comes at about 1:11 in the song (on my CD player at least).
+For you people with the cassette, it's just after the line "Promise of a good
+job/Far away from her hometown" or something like that.
+
+	Dave
+
+----------------------------------------------------------
+
+To submit material to The National Midnight Star, send mail to:
+
+    rush@syrinx.umd.edu
+
+For administrative matters (subscription, unsubscription, changes, and 
+questions), send mail to:
+
+    rush-request@syrinx.umd.edu    or
+    rush-mgr@syrinx.umd.edu
+
+There is now anonymous ftp access available on Syrinx.  The network
+address to ftp to is:
+
+    syrinx.umd.edu       or       128.8.2.114
+
+When you've connected, userid is "anonymous", password is &lt;your userid&gt;.
+Once you've successfully logged on, change directory (cd) to 'rush'.
+
+There is also a mail server available (for those unable or unwilling to
+ftp).  For more info, send email with the subject line of HELP to:
+
+    server@ingr.com
+
+These requests are processed nightly.  Use a subject line of MESSAGE to
+send a note to the server keeper or to deposit a file into the archive.
+
+The contents of The National Midnight Star are solely the opinions and 
+comments of the individual authors, and do not necessarily reflect the 
+opinions of the authors' management, or the mailing list management.
+
+Copyright The Rush Fans Mailing List, 1991.
+
+Editor, The National Midnight Star
+(Rush Fans Mailing List)
+
+********************************************
+End of The National Midnight Star Number 343
+********************************************
+
+
