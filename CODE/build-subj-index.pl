@@ -32,6 +32,8 @@ for my $k (keys %raw) {
 
 print STDERR "$0 : normalized ", (scalar keys(%raw)), " subjects down to ", (scalar keys(%norm)), "\n";
 
+print "<HTML><HEAD><TITLE>National Midnight Star subjects, alpha</TITLE></HEAD>\n <BODY> <H1 ALIGN=CENTER>NMS Archive Subjects<P>Alphabetical Order</H1>\n <P><A HREF=\"index.htm\">All Indices</A></P>\n <P><HR>\n";
+
 for my $k (sort {lc($a) cmp lc($b)} keys %norm) {
 	my @r = split(/\t/,$norm{$k});
 	if (
@@ -41,11 +43,13 @@ for my $k (sort {lc($a) cmp lc($b)} keys %norm) {
 	    for my $ref (@r) {
 		my $i = int($ref/1000);
 		my $issue=sprintf("%04d",$i);
-		print "<A HREF=\"tmp/nms_$issue.html#$ref\">\#$i</A> ";
+		print "<A HREF=\"html/nms_$issue.html#$ref\">\#$i</A> ";
 	    }
 	    print "\n";
 	}
 }
+
+print " </BODY></HTML>\n";
 
 exit;
 

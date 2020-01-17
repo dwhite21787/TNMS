@@ -8,10 +8,12 @@ my $l=0;
 while (<>) {
 	chomp;
 	my @n = split(/"/,$_);
-	$name = $n[1];
-	my @s = split(/:/,$_,3);
-	$s[2] =~ s/<\/A>$//g; # strip closing tag
-	$raw{$s[2]} .= "$name\t";
+	if ($#n > 0) {
+	    $name = $n[1];
+	    my @s = split(/:/,$_,3);
+	    $s[2] =~ s/<\/A>$//g; # strip closing tag
+	    $raw{$s[2]} .= "$name\t";
+        }
 	$l = $.;
 }
 
@@ -34,12 +36,14 @@ for my $k ( keys %raw) {
 	     for my $ref (@r) {
 		my $i = int($ref/1000);
 		my $issue=sprintf("%04d",$i);
-		$auths{$email} .= "<A HREF=\"tmp/nms_$issue.html#$ref\">\#$i</A> ";
+		$auths{$email} .= "<A HREF=\"html/nms_$issue.html#$ref\">\#$i</A> ";
 	     }
 }
+print "<HTML><HEAD><TITLE>National Midnight Star authors, alpha</TITLE></HEAD>\n <BODY> <H1 ALIGN=CENTER>NMS Archive Authors<P>Alphabetical Order</H1>\n <P><A HREF=\"index.htm\">All Indices</A></P>\n <P><HR>\n";
 for my $a (sort {lc($a) cmp lc($b)} keys %auths) {
-	print "<BR> \"$a\" - in issues $auths{$a} \n";
+	print "<P> \"$a\" - in issues $auths{$a} \n";
 }
+print " </BODY></HTML>\n";
 
 exit;
 
